@@ -1,0 +1,8336 @@
+The document is a quarterly report (Form 10-Q) filed by Uber Technologies, Inc. with the SEC for the period ended March 31, 2022. It includes essential information such as the company's incorporation details, trading symbol (UBER), and confirmation of compliance with filing requirements. The report indicates that Uber is a large accelerated filer and confirms that it is not a shell company. As of May 2, 2022, there were 1,963,660,253 shares of common stock outstanding.
+The document is a quarterly report from Uber Technologies, Inc. filed with the SEC. It includes the following sections:
+
+1. **Special Note Regarding Forward-Looking Statements** - Page 2
+2. **PART I - FINANCIAL INFORMATION** - Page 4
+- Item 1: Financial Statements (unaudited)
+- Condensed Consolidated Balance Sheets as of December 31, 2021, and March 31, 2022 - Page 4
+- Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2021, and 2022 - Page 5
+- Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three Months Ended March 31, 2021, and 2022 - Page 6
+- Condensed Consolidated Statements of Redeemable Non-Controlling Interests and Equity for the Three Months Ended March 31, 2021, and 2022 - Page 7
+- Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2021, and 2022 - Page 9
+- Notes to Condensed Consolidated Financial Statements - Page 11
+- Item 2: Management's Discussion and Analysis of Financial Condition and Results of Operations - Page 32
+- Item 3: Quantitative and Qualitative Disclosures About Market Risk - Page 48
+- Item 4: Controls and Procedures - Page 48
+
+3. **PART II - OTHER INFORMATION** - Page 49
+- Item 1: Legal Proceedings - Page 49
+- Item 1A: Risk Factors - Page 50
+- Item 2: Unregistered Sales of Equity Securities and Use of Proceeds - Page 86
+- Item 6: Exhibits - Page 86
+- Signatures - Page 88
+
+This report provides a comprehensive overview of Uber's financial performance and other relevant information for the specified quarter.
+The document contains a section titled "Special Note Regarding Forward-Looking Statements," which outlines various forward-looking statements made by Uber Technologies, Inc. These statements pertain to the company's future operations, financial performance, business strategy, and other relevant factors. Key points include:
+
+- The potential impacts of COVID-19 and other pandemics on the business.
+- The company's ability to defend against litigation and government proceedings.
+- Competition in the market and management of growth.
+- Expectations regarding financial performance, including revenue and profitability.
+- Anticipated investments in new products and capital expenditures.
+- The ability to recruit and retain skilled personnel.
+- Plans for international expansion and compliance with regulations.
+
+The document emphasizes that actual results may differ from these forward-looking statements and advises caution in relying on them as predictions of future events.
+The text discusses the nature of forward-looking statements made by Uber Technologies, Inc. in their Quarterly Report on Form 10-Q. It highlights that these statements are subject to various risks, uncertainties, and assumptions, which could lead to actual results differing materially from those projected. The company emphasizes that statements reflecting beliefs and opinions are based on information available at the time of the report and may not be exhaustive. Furthermore, the report clarifies that forward-looking statements are only valid as of their date and that Uber does not commit to updating them unless legally required. Investors are advised to be cautious and not to place undue reliance on these statements.
+**Uber Technologies, Inc. Condensed Consolidated Balance Sheets Summary:**
+
+**As of December 31, 2021:**
+- Total Assets: $38,774 million
+- Total Liabilities: $23,425 million
+- Total Equity: $15,145 million
+
+**As of March 31, 2022:**
+- Total Assets: $32,812 million
+- Total Liabilities: $22,994 million
+- Total Equity: $9,613 million
+
+**Key Changes:**
+- Total Assets decreased by $5,962 million.
+- Total Liabilities decreased by $431 million.
+- Total Equity decreased by $5,532 million.
+
+**Current Assets (Comparison):**
+- Cash and Cash Equivalents: Decreased from $4,295 million to $4,184 million.
+- Accounts Receivable: Increased from $2,439 million to $2,476 million.
+- Total Current Assets: Decreased from $8,819 million to $8,665 million.
+
+**Long-term Debt:**
+- Remained relatively stable, with a slight decrease from $9,276 million to $9,273 million.
+
+This summary provides a snapshot of Uber's financial position at the end of the specified periods.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Operations (Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021**
+- Revenue: $2,903 million
+- Total Costs and Expenses: $4,427 million
+- Loss from Operations: $(1,524) million
+- Interest Expense: $(115) million
+- Other Income (Expense), Net: $1,710 million
+- Income (Loss) Before Income Taxes: $71 million
+- Provision for Income Taxes: $185 million
+- Income (Loss) from Equity Method Investments: $(8) million
+- Net Loss: $(122) million
+- Net Loss Attributable to Uber Technologies, Inc.: $(108) million
+- Net Loss Per Share (Basic): $(0.06)
+- Weighted-Average Shares (Basic): 1,858,525
+
+- **2022**
+- Revenue: $6,854 million
+- Total Costs and Expenses: $7,336 million
+- Loss from Operations: $(482) million
+- Interest Expense: $(129) million
+- Other Income (Expense), Net: $(5,557) million
+- Income (Loss) Before Income Taxes: $(6,168) million
+- Provision for Income Taxes: $(232) million
+- Income (Loss) from Equity Method Investments: $18 million
+- Net Loss: $(5,918) million
+- Net Loss Attributable to Uber Technologies, Inc.: $(5,930) million
+- Net Loss Per Share (Basic): $(3.03)
+- Weighted-Average Shares (Basic): 1,953,989
+
+This summary provides a snapshot of Uber's financial performance for the specified quarters, highlighting revenue, expenses, losses, and per-share metrics.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Comprehensive Income (Loss)**
+
+**(In millions) (Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021:**
+- Net loss including non-controlling interests: $(122)
+- Other comprehensive income, net of tax:
+- Change in foreign currency translation adjustment: $33
+- Change in unrealized gain on investments in available-for-sale securities: $1,156
+- Other comprehensive income, net of tax: $1,189
+- Comprehensive income (loss) including non-controlling interests: $1,067
+- Less: comprehensive income (loss) attributable to non-controlling interests: $(14)
+- Comprehensive income (loss) attributable to Uber Technologies, Inc.: $1,081
+
+- **2022:**
+- Net loss including non-controlling interests: $(5,918)
+- Other comprehensive income, net of tax:
+- Change in foreign currency translation adjustment: $19
+- Change in unrealized gain on investments in available-for-sale securities: $0
+- Other comprehensive income, net of tax: $19
+- Comprehensive income (loss) including non-controlling interests: $(5,899)
+- Less: comprehensive income (loss) attributable to non-controlling interests: $12
+- Comprehensive income (loss) attributable to Uber Technologies, Inc.: $(5,911)
+
+**Note:** The accompanying notes are an integral part of these condensed consolidated financial statements.
+The provided text is a portion of the condensed consolidated statements of redeemable non-controlling interests and equity for Uber Technologies, Inc. as of March 31, 2021. It includes financial data such as balances, stock transactions, and adjustments related to equity and non-controlling interests.
+
+Key figures from the statement include:
+
+- Balance as of December 31, 2020:
+- Redeemable Non-Controlling Interests: $787 million
+- Common Stock: 1,849,794 shares
+- Additional Paid-In Capital: $35,931 million
+- Accumulated Other Comprehensive Income (Loss): $(535) million
+- Accumulated Deficit: $(23,130) million
+- Redeemable Non-Controlling Interests: $701 million
+- Total Equity: $12,967 million
+
+- Balance as of March 31, 2021:
+- Redeemable Non-Controlling Interests: $473 million
+- Common Stock: 1,867,369 shares
+- Additional Paid-In Capital: $36,182 million
+- Accumulated Other Comprehensive Income: $654 million
+- Accumulated Deficit: $(23,238) million
+- Total Equity: $13,598 million
+
+The statement also details various transactions affecting equity, such as stock options exercised, stock-based compensation, and adjustments for unrealized gains and losses.
+The document contains the condensed consolidated statements of redeemable non-controlling interests and equity for Uber Technologies, Inc. as of March 31, 2022. Here are the key details:
+
+- **Balance as of December 31, 2021**:
+- Redeemable Non-Controlling Interests: $204 million
+- Common Stock: 1,949,316 shares
+- Additional Paid-In Capital: $38,608 million
+- Other Comprehensive Income (Loss): $(524) million
+- Accumulated Deficit: $(23,626) million
+- Non-Controlling Interests: $687 million
+- Total Equity: $15,145 million
+
+- **Changes during the quarter**:
+- Exercise of stock options: 1,093 shares, $6 million increase in Additional Paid-In Capital
+- Stock-based compensation: $369 million increase in Additional Paid-In Capital
+- Issuance of common stock for RSUs: 9,569 shares, no impact on equity
+- Shares withheld for net share settlement: $(11) million decrease in Additional Paid-In Capital
+- Issuance of common stock for contingent consideration: 132 shares, $5 million increase in Additional Paid-In Capital
+- Foreign currency translation adjustment: $19 million increase in Other Comprehensive Income
+- Net loss: $(5,920) million (including $1 million from redeemable non-controlling interests)
+
+- **Balance as of March 31, 2022**:
+- Redeemable Non-Controlling Interests: $205 million
+- Common Stock: 1,959,794 shares
+- Additional Paid-In Capital: $38,977 million
+- Other Comprehensive Income (Loss): $(505) million
+- Accumulated Deficit: $(29,556) million
+- Non-Controlling Interests: $697 million
+- Total Equity: $9,613 million
+
+This summary provides an overview of the changes in equity and the financial position of Uber Technologies, Inc. for the specified quarter.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Cash Flows (In millions, Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021**:
+- Net loss including non-controlling interests: $(122)
+- Net cash provided by (used in) operating activities: $(611)
+- Net cash used in investing activities: $(250)
+- Net cash used in financing activities: $(226)
+- Effect of exchange rate changes: $(46)
+
+- **2022**:
+- Net loss including non-controlling interests: $(5,918)
+- Net cash provided by (used in) operating activities: $15
+- Net cash used in investing activities: $(135)
+- Net cash used in financing activities: $(113)
+- Effect of exchange rate changes: $20
+
+This summary provides a snapshot of Uber's cash flows from operating, investing, and financing activities for the specified quarters.
+The provided text includes financial information related to Uber Technologies, Inc.'s cash and cash equivalents, as well as supplemental disclosures regarding cash flow. Here are the key points:
+
+1. **Net Decrease in Cash and Cash Equivalents**:
+- Current period: $(1,133)
+- Previous period: $(213)
+
+2. **Cash and Cash Equivalents, and Restricted Cash**:
+- Beginning of period: $7,391 (current) and $7,805 (previous)
+- Reclassification from assets held for sale: $349 (current) and $0 (previous)
+- End of period: $6,607 (current) and $7,592 (previous)
+
+3. **Reconciliation to Condensed Consolidated Balance Sheets**:
+- Cash and cash equivalents: $4,836 (current) and $4,184 (previous)
+- Restricted cash and cash equivalents (current): $247 (current) and $543 (previous)
+- Restricted cash and cash equivalents (non-current): $1,524 (current) and $2,865 (previous)
+- Total: $6,607 (current) and $7,592 (previous)
+
+4. **Supplemental Disclosures of Cash Flow Information**:
+- Cash paid for interest (net of amount capitalized): $84 (current) and $135 (previous)
+- Cash paid for income taxes (net of refunds): $22 (current) and $41 (previous)
+- Non-cash investing and financing activities:
+- Finance lease obligations: $21 (current) and $46 (previous)
+- Right-of-use assets obtained in exchange for lease obligations: $45 (current) and $132 (previous)
+- Ownership interest received in exchange for divestiture: $1,018 (current) and $0 (previous)
+- Conversion of convertible notes to common stock: $158 (current) and $0 (previous)
+
+This summary captures the essential financial data regarding cash flow and equivalents for the specified periods.
+**Note 1 – Description of Business and Summary of Significant Accounting Policies**
+
+**Description of Business**
+Uber Technologies, Inc. (“Uber”) was incorporated in Delaware in July 2010 and is headquartered in San Francisco, California. Uber operates a technology platform that connects consumers (Riders) with independent ride service providers (Mobility Drivers) for ridesharing, and connects Riders and other consumers (Eaters) with restaurants and stores (Merchants) through delivery service providers (Couriers). Uber also connects consumers with public transportation networks and facilitates connections in the freight industry. The technology is utilized globally, primarily in the U.S., Canada, Latin America, Europe, the Middle East, Africa, and Asia (excluding China and Southeast Asia).
+
+**Basis of Presentation**
+The unaudited condensed consolidated financial statements are prepared in accordance with GAAP and SEC regulations for interim financial reporting. The balance sheet as of December 31, 2021, is derived from audited financial statements. Certain disclosures may be condensed or omitted, and results for interim periods may not indicate full-year results. Management believes the financial statements include all necessary adjustments for a fair presentation.
+
+**Basis of Consolidation**
+The financial statements include accounts of Uber Technologies, Inc. and entities consolidated under variable interest and voting models, with all intercompany balances and transactions eliminated.
+
+**Use of Estimates**
+Preparing the financial statements requires management to make estimates and assumptions affecting reported amounts. These estimates, based on historical experience and reasonable assumptions, include fair values of investments, useful lives of assets, impairment assessments, stock-based compensation, and tax reserves. The COVID-19 pandemic has introduced uncertainties that may affect these estimates in future periods.
+**1. What impact has COVID-19 had on Uber's business?**
+
+COVID-19 has adversely impacted Uber's business by reducing global demand for Mobility offerings while accelerating the growth of Delivery offerings. The pandemic has created uncertainty regarding its cumulative and ultimate impact on Uber's future operations, financial position, liquidity, and cash flows.
+
+**2. What accounting standard did Uber adopt in January 2022?**
+
+Uber adopted ASU 2021-10, “Government Assistance (Topic 832): Disclosures by Business Entities about Government Assistance,” on January 1, 2022. This standard requires disclosures about transactions with a government accounted for by applying a grant or contribution accounting model by analogy.
+
+**3. What is the effective date for the recently issued ASU 2021-08?**
+
+The ASU 2021-08, “Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers,” is effective for public companies for fiscal years and interim periods beginning after December 15, 2022.
+
+**4. How did Uber's total revenue change from Q1 2021 to Q1 2022?**
+
+Uber's total revenue increased from $2,903 million in Q1 2021 to $6,854 million in Q1 2022.
+
+**5. What were the revenue figures for Mobility and Delivery in Q1 2022?**
+
+In Q1 2022, Mobility revenue was $2,518 million, and Delivery revenue was $2,512 million.
+The document provides a detailed overview of Uber Technologies, Inc.'s financial performance for the first quarter of 2022, including revenue recognition policies for mobility, delivery, and freight services. Here are the key points:
+
+1. **Mobility Services Revenue**:
+- Uber recognizes revenue from end-users on a gross basis in markets where it is responsible for providing mobility services. Revenue is recognized when a trip is completed.
+- Payments to drivers are recorded as cost of revenue, excluding depreciation and amortization.
+
+2. **Delivery Revenue**:
+- Revenue is derived from merchants and couriers using the delivery platform. In certain markets, delivery fees charged to end-users are included in revenue.
+- For the three months ended March 31, 2021, and 2022, revenue from end-users was $88 million and $241 million, respectively. Cost of revenue for these transactions was $339 million and $740 million for the same periods.
+
+3. **Freight Revenue**:
+- This includes revenue from freight transportation services and transportation management following the acquisition of Tupelo Parent, Inc. (Transplace).
+
+4. **All Other Revenue**:
+- Prior to 2022, this primarily included collaboration revenue from the Advanced Technologies Group and revenue from New Mobility offerings.
+
+5. **Contract Balances**:
+- As of March 31, 2022, Uber had $155 million in contract liabilities. Revenue recognized from these contracts was not material for the three months ended March 31, 2021, and 2022.
+- Remaining performance obligations for contracts with an expected length greater than one year are expected to be recognized as $25 million within 12 months and $121 million beyond 12 months, totaling $146 million.
+
+6. **Investments**:
+- As of March 31, 2022, Uber's investments included non-marketable equity securities valued at $306 million and marketable equity securities with significant decreases in value for companies like Didi, Grab, and Aurora compared to December 31, 2021.
+- Total investments decreased from $11,806 million as of December 31, 2021, to $6,247 million as of March 31, 2022.
+
+This summary encapsulates the financial performance and key metrics from the quarterly report.
+The document provides a detailed overview of Uber Technologies, Inc.'s financial assets and liabilities measured at fair value on a recurring basis as of December 31, 2021, and March 31, 2022. It categorizes these assets and liabilities into three levels based on the fair value hierarchy:
+
+1. **Financial Assets**:
+- **Non-marketable equity securities**:
+- As of December 31, 2021: $32 million (Level 3)
+- As of March 31, 2022: $21 million (Level 3)
+- **Marketable equity securities**:
+- As of December 31, 2021: $11,359 million (Level 1)
+- As of March 31, 2022: $5,811 million (Level 1)
+- **Note receivable from a related party**:
+- As of December 31, 2021: $132 million (Level 3)
+- As of March 31, 2022: $130 million (Level 3)
+
+**Total Financial Assets**:
+- As of December 31, 2021: $11,523 million
+- As of March 31, 2022: $5,962 million
+
+2. **Financial Liabilities**:
+- **MLU B.V. Call Option**:
+- As of December 31, 2021: $193 million (Level 3)
+- As of March 31, 2022: $12 million (Level 3)
+
+**Total Financial Liabilities**:
+- As of December 31, 2021: $193 million
+- As of March 31, 2022: $12 million
+
+The document also discusses the valuation techniques used for Level 3 inputs, which include unobservable inputs and estimation techniques due to the lack of quoted market prices. It highlights the sensitivity of fair value estimates to changes in these inputs, particularly in relation to the investee's financing activities.
+
+Additionally, a reconciliation of Level 3 financial assets and liabilities as of March 31, 2022, shows changes in fair value, with non-marketable equity securities decreasing by $11 million, note receivables decreasing by $2 million, and the MLU B.V. Call Option decreasing by $181 million.
+The document provides detailed information about Uber Technologies, Inc.'s non-financial assets and equity method investments as of March 31, 2022. Here are the key points:
+
+1. **Non-Financial Assets**:
+- Goodwill, intangible assets, and property and equipment are adjusted to fair value when an impairment charge is recognized, primarily using Level 3 inputs.
+
+2. **Non-Marketable Equity Securities**:
+- These are investments in privately held companies without readily determinable fair values.
+- The carrying value is adjusted based on observable transactions or for impairment, recorded in other income (expense), net.
+- No material unrealized or realized gains or losses were recorded for these securities during the three months ended March 31, 2021, and 2022.
+- The total carrying value of non-marketable equity securities as of March 31, 2022, was $285 million, up from $283 million as of December 31, 2021.
+
+3. **Equity Method Investments**:
+- The carrying value of equity method investments decreased from $800 million as of December 31, 2021, to $624 million as of March 31, 2022.
+- The significant change was due to an impairment charge of $182 million for the investment in MLU B.V., attributed to economic projections related to the Russian economy amid geopolitical tensions.
+- The carrying value of MLU B.V. was $574 million as of March 31, 2022, down from $751 million as of December 31, 2021.
+
+4. **MLU B.V. Basis Difference**:
+- The carrying value includes a basis difference, adjusted for share in income or losses and amortization.
+- Currency translation adjustments due to the depreciation of the Ruble against the U.S. Dollar will be reflected in future financial statements.
+
+This summary encapsulates the financial adjustments and valuations related to Uber's non-financial and equity method investments as of the specified date.
+The table below summarizes the composition of the basis difference as of March 31, 2022 (in millions):
+
+- Equity method goodwill: $320
+- Intangible assets, net of accumulated amortization: $48
+- Deferred tax liabilities: $(13)
+- Cumulative currency translation adjustments: $(70)
+
+**Total Basis Difference:** $285 million
+
+**Amortization Details:**
+- The basis difference related to intangible assets is amortized over an estimated useful life of approximately 3.1 years using the straight-line method.
+- Equity method goodwill is not amortized.
+
+**MLU B.V. Call Option:**
+- On August 30, 2021, Uber granted Yandex an option to acquire its remaining equity interest in MLU B.V. for approximately $1.8 billion.
+- As of December 31, 2021, the fair value of the MLU B.V. Call Option was $193 million.
+- As of March 31, 2022, the fair value decreased to $12 million, reflecting a $181 million gain for the fair value change during the quarter.
+
+**Goodwill Changes:**
+The following table presents the changes in the carrying value of goodwill by reportable segment for the three months ended March 31, 2022 (in millions):
+
+| Segment   | Mobility | Delivery | Freight | Total Goodwill |
+|-----------|----------|----------|---------|-----------------|
+| Balance as of December 31, 2021 | $2,581   | $4,401   | $1,438  | $8,420          |
+| Acquisitions | $64      | —        | —       | $64             |
+| Measurement period adjustment | —        | —        | $5      | $5              |
+| Foreign currency translation adjustment | $(56)   | $2      | —       | $(54)           |
+| **Balance as of March 31, 2022** | **$2,589** | **$4,403** | **$1,443** | **$8,435**      |
+The report provides details on Uber Technologies, Inc.'s intangible assets as of December 31, 2021, and March 31, 2022. Here are the key points:
+
+### Intangible Assets Overview
+
+#### As of December 31, 2021:
+- **Total Gross Carrying Value**: $3,032 million
+- **Total Accumulated Amortization**: $(620) million
+- **Net Carrying Value**: $2,412 million
+
+#### Breakdown:
+- **Consumer, Merchant and other relationships**:
+- Gross: $1,868 million
+- Accumulated Amortization: $(294) million
+- Net: $1,574 million
+- Useful Life: 9 years
+- **Developed technology**:
+- Gross: $922 million
+- Accumulated Amortization: $(269) million
+- Net: $653 million
+- Useful Life: 5 years
+- **Trade names and trademarks**:
+- Gross: $222 million
+- Accumulated Amortization: $(47) million
+- Net: $175 million
+- Useful Life: 6 years
+- **Patents**:
+- Gross: $15 million
+- Accumulated Amortization: $(7) million
+- Net: $8 million
+- Useful Life: 7 years
+- **Other**:
+- Gross: $5 million
+- Accumulated Amortization: $(3) million
+- Net: $2 million
+- Useful Life: 0 years
+
+#### As of March 31, 2022:
+- **Total Gross Carrying Value**: $3,022 million
+- **Total Accumulated Amortization**: $(753) million
+- **Net Carrying Value**: $2,269 million
+
+#### Breakdown:
+- **Consumer, Merchant and other relationships**:
+- Gross: $1,856 million
+- Accumulated Amortization: $(362) million
+- Net: $1,494 million
+- Useful Life: 9 years
+- **Developed technology**:
+- Gross: $924 million
+- Accumulated Amortization: $(325) million
+- Net: $599 million
+- Useful Life: 5 years
+- **Trade names and trademarks**:
+- Gross: $222 million
+- Accumulated Amortization: $(55) million
+- Net: $167 million
+- Useful Life: 6 years
+- **Patents**:
+- Gross: $15 million
+- Accumulated Amortization: $(8) million
+- Net: $7 million
+- Useful Life: 6 years
+- **Other**:
+- Gross: $5 million
+- Accumulated Amortization: $(3) million
+- Net: $2 million
+- Useful Life: 0 years
+
+### Amortization Expense
+- **For the three months ended March 31, 2021**: $92 million
+- **For the three months ended March 31, 2022**: $144 million
+
+### Estimated Future Amortization Expense (as of March 31, 2022):
+- **Remainder of 2022**: $381 million
+- **2023**: $363 million
+- **2024**: $306 million
+- **2025**: $266 million
+- **2026**: $203 million
+- **Thereafter**: $748 million
+- **Total**: $2,267 million
+
+This summary encapsulates the key financial data regarding Uber's intangible assets and their amortization.
+**Note 6 – Long-Term Debt and Revolving Credit Arrangements**
+
+**Components of Debt (in millions, except for percentages):**
+
+| Debt Component                          | As of December 31, 2021 | As of March 31, 2022 | Effective Interest Rates | Maturities            |
+|-----------------------------------------|--------------------------|-----------------------|-------------------------|-----------------------|
+| 2025 Refinanced Term Loan               | $1,448                   | $1,444                | 3.8%                    | April 4, 2025         |
+| 2027 Refinanced Term Loan               | $1,090                   | $1,087                | 3.8%                    | February 25, 2027     |
+| 2025 Senior Note                        | $1,000                   | $1,000                | 7.7%                    | May 15, 2025          |
+| 2026 Senior Note                        | $1,500                   | $1,500                | 8.1%                    | November 1, 2026      |
+| 2027 Senior Note                        | $1,200                   | $1,200                | 7.7%                    | September 15, 2027    |
+| 2028 Senior Note                        | $500                     | $500                  | 7.0%                    | January 15, 2028      |
+| 2029 Senior Note                        | $1,500                   | $1,500                | 4.7%                    | August 15, 2029       |
+| 2025 Convertible Notes                  | $1,150                   | $1,150                | 0.2%                    | December 15, 2025     |
+| **Total Debt**                         | **$9,388**               | **$9,381**            |                         |                       |
+| Less: unamortized discount and issuance costs | $(85)                | $(81)                 |                         |                       |
+| Less: current portion of long-term debt | $(27)                   | $(27)                 |                         |                       |
+| **Total Long-Term Debt**               | **$9,276**               | **$9,273**            |                         |                       |
+
+**2016 and 2018 Senior Secured Term Loans Refinancing:**
+On February 25, 2021, Uber entered into a refinancing transaction borrowing $2.6 billion to repay all outstanding loans under the 2016 and 2018 Senior Secured Term Loan agreements. This included a $1.1 billion tranche maturing on February 25, 2027, and a $1.5 billion tranche maturing on April 4, 2025. The refinancing qualified as a debt modification.
+
+The 2025 and 2027 Refinanced Term Loans are guaranteed by certain material domestic restricted subsidiaries and contain covenants restricting debt incurrence and fundamental changes. As of March 31, 2022, Uber was in compliance with all covenants. The loans are secured by certain intellectual property and equity of material foreign subsidiaries.
+
+**Fair Values (as of March 31, 2022):**
+- 2025 Refinanced Term Loan: $1.4 billion
+- 2027 Refinanced Term Loan: $1.1 billion
+
+**2025 Convertible Notes:**
+In December 2020, Uber issued $1.15 billion of 0% convertible senior notes due December 15, 2025. Holders may convert their notes under specific conditions prior to maturity.
+As of March 31, 2022, the 2025 Convertible Notes are classified as long-term since none of the conditions for early conversion had been met. The initial conversion rate is 12.3701 shares per $1,000 principal amount, equating to a conversion price of approximately $80.84 per share. Upon conversion, Uber may pay in cash, shares, or a combination of both. The notes cannot be redeemed before December 20, 2023, and can be redeemed for cash if certain stock price conditions are met.
+
+The indenture for the 2025 Convertible Notes does not impose financial or operational restrictions. Prior to adopting ASU 2020-06, proceeds from the notes were split between equity and liability components, with a $243 million debt discount amortized over the term. After adopting ASU 2020-06 on January 1, 2021, the accounting treatment changed, resulting in a decrease in additional paid-in capital and an increase in the notes by the same amount.
+
+The fair value of the 2025 Convertible Notes was $1.0 billion as of March 31, 2022, based on Level 2 valuation inputs.
+
+Regarding the Senior Notes (2025-2029), they are guaranteed by certain subsidiaries and have customary covenants. As of March 31, 2022, the fair values of the Senior Notes were as follows (in millions):
+
+- 2025 Senior Note: $1,044
+- 2026 Senior Note: $1,595
+- 2027 Senior Note: $1,281
+- 2028 Senior Note: $516
+- 2029 Senior Note: $1,410
+
+Total fair value of Senior Notes: $5,846 million.
+The table presents the interest expense related to Uber's long-term debt for the three months ended March 31, 2021, and 2022:
+
+| Description                                           | Three Months Ended March 31, 2021 | Three Months Ended March 31, 2022 |
+|------------------------------------------------------|------------------------------------|------------------------------------|
+| Contractual interest coupon                           | $111 million                       | $133 million                       |
+| Amortization of debt discount and issuance costs      | $7 million                         | $4 million                         |
+| **Total interest expense from long-term debt**       | **$118 million**                   | **$137 million**                   |
+
+Regarding the Revolving Credit Arrangements, Uber has a credit agreement for $2.3 billion maturing on June 13, 2023, which was amended on April 4, 2022, to extend the maturity to April 4, 2027, and to change the interest rate basis from LIBOR to SOFR, among other modifications. As of March 31, 2022, there was no outstanding balance on the Revolving Credit Facility.
+
+For Letters of Credit, as of December 31, 2021, and March 31, 2022, Uber had outstanding letters of credit of $749 million and $741 million, respectively, with reductions to available credit under the Revolving Credit Facility of $247 million and $239 million, respectively.
+### Supplemental Financial Statement Information
+
+#### Prepaid Expenses and Other Current Assets
+- **As of December 31, 2021**:
+- Prepaid expenses: $459 million
+- Other receivables: $553 million
+- Other: $442 million
+- **Total**: $1,454 million
+
+- **As of March 31, 2022**:
+- Prepaid expenses: $355 million
+- Other receivables: $615 million
+- Other: $492 million
+- **Total**: $1,462 million
+
+#### Accrued and Other Current Liabilities
+- **As of December 31, 2021**:
+- Accrued legal, regulatory and non-income taxes: $2,187 million
+- Accrued Drivers and Merchants liability: $1,187 million
+- Income and other tax liabilities: $376 million
+- Commitment to issue unsecured convertible notes in connection with Careem acquisition: $238 million
+- Other: $2,549 million
+- **Total**: $6,537 million
+
+- **As of March 31, 2022**:
+- Accrued legal, regulatory and non-income taxes: $2,066 million
+- Accrued Drivers and Merchants liability: $1,222 million
+- Income and other tax liabilities: $393 million
+- Commitment to issue unsecured convertible notes in connection with Careem acquisition: $234 million
+- Other: $2,251 million
+- **Total**: $6,166 million
+
+#### Other Long-Term Liabilities
+- **As of December 31, 2021**:
+- Deferred tax liabilities: $365 million
+- Other: $570 million
+- **Total**: $935 million
+
+- **As of March 31, 2022**:
+- Deferred tax liabilities: $91 million
+- Other: $588 million
+- **Total**: $679 million
+
+#### Accumulated Other Comprehensive Income (Loss)
+- **Balance as of December 31, 2020**:
+- Foreign Currency Translation Adjustments: $(581) million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $46 million
+- **Total**: $(535) million
+
+- **Other comprehensive income (loss) before reclassifications**:
+- Foreign Currency Translation Adjustments: $33 million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $1,156 million
+- **Total**: $1,189 million
+
+- **Balance as of March 31, 2021**:
+- Foreign Currency Translation Adjustments: $(548) million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $1,202 million
+- **Total**: $654 million
+
+This summary provides a concise overview of the financial information related to prepaid expenses, accrued liabilities, long-term liabilities, and accumulated other comprehensive income for the specified periods.
+The provided text includes financial information related to Uber Technologies, Inc. for the three months ended March 31, 2022, and compares it to the same period in 2021. Here are the key points:
+
+1. **Unrealized Gains (Losses)**:
+- As of December 31, 2021, the balance was $(524) million.
+- Other comprehensive income (loss) before reclassifications for the first quarter of 2022 was $19 million.
+- The balance as of March 31, 2022, was $(505) million.
+
+2. **Other Income (Expense), Net**:
+- **Three Months Ended March 31, 2021**:
+- Interest income: $5 million
+- Foreign currency exchange losses: $(25) million
+- Gain on business divestiture: $1,684 million
+- Unrealized gain on debt and equity securities: $63 million
+- Other income (expense), net: $1,710 million
+- **Three Months Ended March 31, 2022**:
+- Interest income: $11 million
+- Foreign currency exchange gains: $10 million
+- Gain on business divestiture: $0 million
+- Unrealized loss on debt and equity securities: $(5,570) million
+- Impairment of equity method investment: $(182) million
+- Other income (expense), net: $(5,557) million
+
+3. **Significant Changes**:
+- The most notable change was the significant unrealized loss on debt and equity securities in 2022, primarily due to losses on investments in Grab, Aurora, Didi, and Zomato.
+- There was a substantial decrease in other income (expense), net from $1,710 million in 2021 to $(5,557) million in 2022, largely due to the absence of a gain on business divestiture and the unrealized losses.
+
+This summary captures the essential financial data and changes in performance for Uber Technologies, Inc. during the specified periods.
+**Note 8 – Stockholders' Equity**
+
+**Equity Compensation Plans**
+Uber maintains four equity compensation plans for issuing shares of common stock to officers, employees, directors, and consultants: the 2010 Stock Plan, the 2013 Equity Incentive Plan, the 2019 Equity Incentive Plan, and the 2019 Employee Stock Purchase Plan (ESPP). After the IPO in 2019, only the 2019 Plan and ESPP have been utilized for awards, with no further awards granted under the 2010 and 2013 Plans. These plans allow for various types of awards, including incentive stock options (ISOs), nonqualified stock options (NSOs), stock appreciation rights (SARs), restricted stock awards, restricted stock units (RSUs), and performance-based awards.
+
+**Stock Option and SAR Activity**
+For the three months ended March 31, 2022, the summary of stock option and SAR activity is as follows (in millions, except share amounts which are in thousands):
+
+- **As of December 31, 2021**:
+- SARs Outstanding: 157
+- Options Outstanding: 24,253
+- Weighted-Average Exercise Price: $11.84
+- Remaining Contractual Life: 4.35 years
+- Aggregate Intrinsic Value: $735 million
+
+- **Granted**:
+- SARs: 4
+- Options: 421
+- Exercise Price: $33.89
+
+- **Exercised**:
+- SARs: (3)
+- Options: (999)
+- Exercise Price: $5.20
+
+- **Canceled and forfeited**:
+- SARs: —
+- Options: (88)
+- Exercise Price: $14.17
+
+- **As of March 31, 2022**:
+- SARs Outstanding: 158
+- Options Outstanding: 23,587
+- Weighted-Average Exercise Price: $12.51
+- Remaining Contractual Life: 4.10 years
+- Aggregate Intrinsic Value: $558 million
+
+- **Vested and expected to vest as of March 31, 2022**:
+- SARs: 141
+- Options: 17,045
+- Weighted-Average Exercise Price: $8.31
+- Remaining Contractual Life: 3.36 years
+- Aggregate Intrinsic Value: $473 million
+
+- **Exercisable as of March 31, 2022**:
+- SARs: 141
+- Options: 17,045
+- Weighted-Average Exercise Price: $8.31
+- Remaining Contractual Life: 3.36 years
+- Aggregate Intrinsic Value: $473 million
+
+**RSU Activity**
+The RSU activity for the three months ended March 31, 2022, is summarized as follows (in thousands, except per share amounts):
+
+- **Unvested and outstanding as of December 31, 2021**: 71,461 shares at a weighted-average grant-date fair value of $41.91
+- **Granted**: 59,266 shares at a weighted-average grant-date fair value of $33.65
+- **Vested**: (9,699) shares at a weighted-average grant-date fair value of $39.24
+- **Canceled and forfeited**: (4,073) shares at a weighted-average grant-date fair value of $39.87
+- **Unvested and outstanding as of March 31, 2022**: 116,955 shares at a weighted-average grant-date fair value of $37.99
+
+**Stock-Based Compensation Expense**
+The stock-based compensation expense by function for the three months ended March 31 is as follows (in millions):
+
+- **2021**:
+- Operations and support: $28
+- Sales and marketing: $22
+- Research and development: $133
+- General and administrative: $98
+- **Total**: $281
+
+- **2022**:
+- Operations and support: $33
+- Sales and marketing: $22
+- Research and development: $196
+- General and administrative: $108
+- **Total**: $359
+
+As of March 31, 2022, there was $4.5 billion of unamortized compensation costs related to all unvested awards, expected to be recognized over a weighted-average period of approximately 2.91 years.
+The document provides a detailed overview of Uber Technologies, Inc.'s income tax expenses and net income (loss) per share for the three months ended March 31, 2021, and 2022.
+
+1. **Income Tax Expense**:
+- For the three months ended March 31, 2021, the income tax expense was $185 million, primarily due to current tax on foreign earnings and deferred U.S. tax impacts related to the sale of the ATG Business, offset by U.S. losses.
+- For the same period in 2022, there was an income tax benefit of $(232) million, mainly driven by deferred U.S. tax impacts related to investments in companies like Grab, Aurora, Didi, and Zomato, along with U.S. losses, offset by current tax on foreign earnings.
+
+2. **Unrecognized Tax Benefits**:
+- In the three months ended March 31, 2022, the gross unrecognized tax benefits increased by an immaterial amount, which would not affect the effective tax rate due to a valuation allowance against certain deferred tax assets.
+
+3. **Tax Jurisdictions**:
+- Uber is subject to taxation in the U.S. and various foreign jurisdictions, with tax years from 2004 to 2022 remaining open for examination.
+
+4. **Net Income (Loss) Per Share**:
+- Basic net loss per share is calculated by dividing the net loss by the weighted-average number of common shares outstanding. Diluted net loss per share includes the effect of potential dilutive common stock.
+
+This summary encapsulates the key financial aspects related to income taxes and net income (loss) per share as reported by Uber Technologies, Inc. for the specified periods.
+The table presents the computation of basic and diluted net loss per share attributable to common stockholders for Uber Technologies, Inc. for the three months ended March 31, 2021, and March 31, 2022.
+
+### Basic Net Loss Per Share:
+- **Numerator:**
+- Net loss including non-controlling interests:
+- 2021: $(122) million
+- 2022: $(5,918) million
+- Net income (loss) attributable to non-controlling interests, net of tax:
+- 2021: $(14) million
+- 2022: $12 million
+- **Net loss attributable to common stockholders:**
+- 2021: $(108) million
+- 2022: $(5,930) million
+
+- **Denominator:**
+- Basic weighted-average common stock outstanding:
+- 2021: 1,858,525 thousand shares
+- 2022: 1,953,989 thousand shares
+
+- **Basic net loss per share attributable to common stockholders:**
+- 2021: $(0.06)
+- 2022: $(3.03)
+
+### Diluted Net Loss Per Share:
+- **Numerator:**
+- Net loss attributable to common stockholders:
+- 2021: $(108) million
+- 2022: $(5,930) million
+- Net loss attributable to Freight Holding convertible common shares non-controlling interest, net of tax:
+- 2021: $0
+- 2022: $(13) million
+- **Diluted net loss attributable to common stockholders:**
+- 2021: $(108) million
+- 2022: $(5,943) million
+
+- **Denominator:**
+- Number of shares used in basic net loss per share computation:
+- 2021: 1,858,525 thousand shares
+- 2022: 1,953,989 thousand shares
+- Weighted-average effect of potentially dilutive securities:
+- Assumed redemption of Freight Holding convertible common shares, non-controlling interest:
+- 2021: $0
+- 2022: 3,742 thousand shares
+- **Diluted weighted-average common stock outstanding:**
+- 2021: 1,858,525 thousand shares
+- 2022: 1,957,731 thousand shares
+
+- **Diluted net loss per share attributable to common stockholders:**
+- 2021: $(0.06)
+- 2022: $(3.04)
+
+### Potentially Dilutive Outstanding Securities Excluded from Computation:
+As of March 31:
+- Freight Holdings contingently redeemable preferred stock:
+- 2021: 13,586 thousand
+- 2022: 12,377 thousand
+- Convertible notes:
+- 2021: 22,013 thousand
+- 2022: 18,503 thousand
+- RSUs:
+- 2021: 82,146 thousand
+- 2022: 116,955 thousand
+- Stock options:
+- 2021: 26,073 thousand
+- 2022: 23,587 thousand
+- Common stock subject to repurchase:
+- 2021: 28 thousand
+- 2022: 3,767 thousand
+- Shares committed under ESPP:
+- 2021: 2,084 thousand
+- 2022: 3,361 thousand
+- Warrants to purchase common stock:
+- 2021: 126 thousand
+- 2022: 73 thousand
+
+**Total potentially dilutive outstanding securities:**
+- 2021: 146,056 thousand
+- 2022: 178,623 thousand
+**Segment Information and Geographic Information**
+
+Uber Technologies, Inc. has identified three operating and reportable segments as of the first quarter of 2022:
+
+1. **Mobility**: This segment connects consumers with drivers for rides in various vehicles, including cars, auto rickshaws, motorbikes, minibuses, and taxis. It also encompasses activities related to Financial Partnerships and Transit offerings.
+
+2. **Delivery**: This segment allows consumers to discover local restaurants, order meals, and choose between pick-up or delivery. In some markets, it also includes grocery, alcohol, and convenience store deliveries, along with other goods.
+
+3. **Freight**: This segment connects carriers with shippers, providing upfront pricing and booking capabilities. It also includes transportation management and logistics services.
+
+**Segment Adjusted EBITDA** is the primary performance measure used, defined as revenue minus specific expenses (cost of revenue, operations and support, sales and marketing, general and administrative, and research and development expenses). It excludes non-cash items or those not reflective of ongoing operations.
+
+**Segment Adjusted EBITDA for the Three Months Ended March 31:**
+
+| Segment   | 2021 (in millions) | 2022 (in millions) |
+|-----------|---------------------|---------------------|
+| Mobility  | $298                | $618                |
+| Delivery  | $(200)              | $30                 |
+| Freight   | $(29)               | $2                  |
+| All Other | $(11)               | $—                  |
+| **Total** | **$58**             | **$650**            |
+
+**Reconciliation to Loss from Operations:**
+
+| Item                                                                 | 2021 (in millions) | 2022 (in millions) |
+|----------------------------------------------------------------------|---------------------|---------------------|
+| Corporate G&A and Platform R&D (1), (2)                             | $(417)              | $(482)              |
+| Depreciation and amortization                                        | $(212)              | $(254)              |
+| Stock-based compensation expense                                       | $(281)              | $(359)              |
+| Legal, tax, and regulatory reserve changes and settlements            | $(551)              | $—                  |
+| Goodwill and asset impairments/loss on sale of assets                | $(57)               | $(13)               |
+| Acquisition, financing and divestitures related expenses              | $(36)               | $(14)               |
+| Accelerated lease costs related to cease-use of ROU assets           | $(2)                | $—                  |
+| COVID-19 response initiatives                                         | $(26)               | $(1)                |
+| Loss on lease arrangements, net                                       | $—                  | $(7)                |
+| Restructuring and related charges                                     | $—                  | $(2)                |
+| **Loss from operations**                                             | **$(1,524)**        | **$(482)**          |
+
+(1) Excluding stock-based compensation expense.
+(2) Includes costs not directly attributable to reportable segments, with shared costs like finance, accounting, tax, human resources, IT, and legal included. The allocation methodology is subject to periodic evaluation and may change.
+**Geographic Information: Revenue by Geography (in millions)**
+
+| Geographic Area         | Three Months Ended March 31, 2021 | Three Months Ended March 31, 2022 |
+|------------------------|------------------------------------|------------------------------------|
+| United States          | $1,683                             | $4,197                             |
+| All other countries     | $1,220                             | $2,657                             |
+| **Total Revenue**      | **$2,903**                        | **$6,854**                        |
+
+**Note 12 – Commitments and Contingencies: Contingencies**
+
+- As of December 31, 2021, and March 31, 2022, Uber recorded aggregate liabilities of $2.2 billion and $2.1 billion, respectively, with $1.3 billion related to non-income tax matters.
+- Legal and regulatory matters include claims related to independent contractor misclassification, Fair Credit Reporting Act claims, and various other employment-related claims.
+- The outcome of these legal matters is unpredictable, and if resolved against Uber for amounts exceeding management's expectations, it could materially affect the company's financial condition.
+
+**Driver Classification: California Attorney General Lawsuit**
+
+- California Assembly Bill 5 (AB5) went into effect in January 2020, establishing criteria for classifying workers as employees.
+- A lawsuit was filed against Uber and Lyft alleging misclassification of drivers, seeking an injunction and monetary damages.
+- A preliminary injunction was issued, but stayed pending appeal. The California Supreme Court declined to review the case, and the lawsuit returned to trial court after appellate proceedings.
+- Proposition 22, passed in November 2020, allows drivers to maintain independent contractor status under California law.
+The document discusses various legal challenges faced by Uber Technologies, Inc. regarding the classification of drivers as independent contractors versus employees. Key points include:
+
+1. **California Lawsuit**: The preliminary injunction related to claims by the California Attorney General was dissolved, but the lawsuit continues. A petition to stay the matter is in place, and the case remains stayed as to discovery.
+
+2. **Proposition 22**: A challenge to Proposition 22's constitutionality was filed, with a ruling from the Alameda County Superior Court declaring it unconstitutional. Appeals have been filed by the State of California and an intervening organization.
+
+3. **Massachusetts Attorney General Lawsuit**: A lawsuit was filed alleging that drivers are employees entitled to protections under wage and labor laws. Uber's motion to dismiss was denied, and a summary judgment motion is pending.
+
+4. **Swiss Social Security Reclassification**: Swiss authorities have classified drivers as employees for social security purposes, which Uber is challenging. A ruling on an appeal is expected in 2023.
+
+5. **UK Employment Tribunal Case**: A ruling upheld that drivers using the app in 2016 were classified as workers. Uber has since adjusted its treatment of drivers in the UK to comply with this ruling, including back pay and pension enrollment.
+
+6. **Other Legal Matters**: Uber anticipates further claims and inquiries regarding driver classification in various jurisdictions.
+
+The document indicates that while Uber is actively defending itself in these matters, the outcomes remain uncertain, and potential losses cannot be estimated.
+The document discusses various legal and tax matters affecting Uber Technologies, Inc. It highlights the unpredictability of litigation outcomes and their potential impact on the company's financial condition. Key points include:
+
+1. **State Unemployment Taxes**: Uber is involved in an audit by the New Jersey Department of Labor regarding the classification of Drivers as independent contractors or employees, with ongoing discussions about assessments made from 2014 to 2018.
+
+2. **Google v. Levandowski & Ron**: This section details arbitration claims made by Google against former employees for breach of contract and fraud. It mentions a significant financial award against Levandowski and a settlement involving Uber's indemnification obligations.
+
+3. **Non-Income Tax Matters**: Uber is under audit by various tax authorities concerning non-income tax liabilities, particularly related to transactions with Drivers and employee benefits. A significant issue involves the classification of Uber as a transportation provider in the UK, which could lead to VAT implications.
+
+4. **Estimated Liabilities**: The company has recorded estimated liabilities for these contingencies, acknowledging the complexity and uncertainty surrounding these legal and tax matters.
+
+Overall, the document emphasizes the potential financial and operational impacts of ongoing legal disputes and tax audits on Uber's business.
+The document discusses various legal and regulatory matters affecting Uber Technologies, Inc., including government inquiries related to compliance with laws such as antitrust, labor, and data protection. It highlights the potential impact of these investigations on the company's business and financial condition.
+
+Additionally, it covers indemnification provisions in business arrangements, indicating that Uber may be obligated to indemnify third parties for losses related to their activities. The document also explains the concept of Variable Interest Entities (VIEs), detailing how Uber consolidates VIEs where it is the primary beneficiary and the financial implications of these entities.
+
+Key points include:
+- Consolidated VIEs: Total assets of $4.2 billion and liabilities of $1.2 billion as of March 31, 2022.
+- Unconsolidated VIEs: Assets recognized of $605 million as of March 31, 2022, representing maximum exposure to loss.
+- Specific investments in companies like Lime and Moove, indicating Uber's economic interests and risks associated with these entities.
+The document discusses Uber Technologies, Inc.'s financial dealings and interests related to its subsidiary Moove and the divestiture of its ATG Business to Aurora.
+
+1. **Moove Investment**: Uber has a 30% minority interest in Moove, which includes a term loan of $213 million due in February 2026 and a commercial partnership agreement. Moove is now considered a related party due to these agreements.
+
+2. **Freight Holding**: As of the specified dates, Uber owned 78% of Freight Holding's capital stock, with minority stockholders including holders of preferred stock and employees with equity awards.
+
+3. **Divestiture of ATG Business**: The sale of the ATG Business to Aurora was completed on January 19, 2021. Uber received common shares valued at $1.3 billion and invested $400 million in Aurora. The sale did not qualify as a discontinued operation, and the gain on the sale was recorded as $1,644 million after accounting for various factors.
+
+4. **Financial Summary of ATG Sale**:
+- Fair value of common shares received: $1,277 million
+- Derecognition of non-controlling interests: $1,057 million
+- Liability for future obligations: $(315) million
+- Net consideration received: $2,019 million
+- Carrying value of net assets transferred: $(375) million
+- Gain on sale: $1,644 million
+
+This summary encapsulates the key financial transactions and their implications for Uber's financial reporting.
+The document is a quarterly report from Uber Technologies, Inc. that includes a management discussion and analysis of the company's financial condition and results of operations. It emphasizes the importance of reading this analysis alongside the condensed consolidated financial statements and other financial information provided in the report. The discussion contains forward-looking statements, which may differ from actual results due to various factors.
+
+Key points from the overview include:
+
+- Uber operates a technology platform that connects consumers with ride services, delivery services, and public transportation, as well as shippers with carriers in the freight industry.
+- The company is facing legal challenges regarding the classification of drivers as independent contractors versus employees, particularly in California and the UK.
+- Proposition 22, passed in California, provides a framework for independent work but is subject to ongoing legal challenges.
+- Uber has incurred and anticipates incurring additional expenses to comply with Proposition 22, but does not expect these changes to materially impact its business.
+- In the UK, a Supreme Court ruling classified drivers as "workers," leading to changes in compensation and benefits for drivers in that region.
+
+The report highlights the ongoing legal landscape affecting Uber's operations and the potential financial implications of these developments.
+The document provides a quarterly report for Uber Technologies, Inc., detailing financial and operational highlights for the first quarter of 2022 compared to the same period in 2021. Key metrics include:
+
+- **Monthly Active Platform Consumers (MAPCs)**: Increased from 98 million in Q1 2021 to 115 million in Q1 2022, reflecting a 17% growth year-over-year, despite a 3% decline quarter-over-quarter.
+- **Trips**: Rose from 1,447 million to 1,713 million, an 18% increase.
+- **Gross Bookings**: Increased significantly from $19,536 million to $26,449 million, a 35% rise (39% in constant currency).
+- **Revenue**: Jumped from $2,903 million to $6,854 million, a 136% increase (141% in constant currency).
+- **Net Loss**: Increased from a loss of $108 million to a loss of $5,930 million.
+- **Mobility Adjusted EBITDA**: Improved from $298 million to $618 million, a 107% increase.
+- **Delivery Adjusted EBITDA**: Shifted from a loss of $200 million to a profit of $30 million.
+- **Adjusted EBITDA**: Moved from a loss of $359 million to a profit of $168 million.
+- **Net Cash from Operating Activities**: Improved from a negative $611 million to a positive $15 million.
+- **Free Cash Flow**: Improved from a negative $682 million to a negative $47 million, a 93% improvement.
+
+The report also discusses potential impacts of legal classifications of drivers in the UK, which could lead to significant additional expenses and affect driver supply.
+**Key Financial Highlights from Uber's Q1 2022 Report:**
+
+1. **Gross Bookings:**
+- Total Gross Bookings: $26.4 billion (39% increase on a constant currency basis year-over-year).
+- Mobility Gross Bookings: Grew 62% year-over-year, driven by increased trip volumes.
+- Delivery Gross Bookings: Grew 15% year-over-year, with a 3% increase in global basket sizes.
+
+2. **Revenue:**
+- Total Revenue: $6.9 billion (up 136% year-over-year).
+- Take Rate: 25.9%.
+- Revenue growth attributed to:
+- $1.5 billion increase from the Freight business (acquisition of Transplace).
+- $200 million favorable impact from a change in accounting for the UK Mobility business.
+- A $600 million accrual reduction in Q1 2021 related to historical claims in the UK.
+
+3. **Net Loss:**
+- Net loss attributable to Uber: $5.9 billion.
+- Includes a pre-tax unrealized loss on debt and equity securities of $5.6 billion, with significant losses from investments in Grab, Aurora, Didi, and Zomato.
+- Stock-based compensation expense: $359 million.
+
+4. **Adjusted EBITDA:**
+- Adjusted EBITDA: $168 million (up $527 million year-over-year).
+- Mobility Adjusted EBITDA profit: $618 million (107% improvement year-over-year).
+- Delivery Adjusted EBITDA profit: $30 million (up $230 million from a loss of $200 million in Q1 2021).
+
+5. **Cash Position:**
+- Unrestricted cash and cash equivalents: $4.2 billion.
+
+**COVID-19 Impact and Response:**
+- The pandemic has significantly affected market conditions and demand for Mobility rides.
+- Uber has implemented safety measures, suspended shared Mobility offerings in most markets, and expanded delivery services.
+- The company is focused on liquidity preservation and cash flow management amid ongoing uncertainties related to COVID-19.
+
+This summary encapsulates the financial performance and strategic responses of Uber Technologies, Inc. during the first quarter of 2022.
+The document outlines the components of Uber Technologies, Inc.'s results of operations, focusing on revenue generation, cost of revenue, and various expense categories. Here are the key points:
+
+1. **Revenue**:
+- Uber generates revenue primarily from fees paid by Drivers and Merchants for using its platform.
+- The company acts as an agent in most transactions, recognizing revenue net of Driver and Merchant earnings and incentives.
+- In certain markets, Uber is responsible for providing mobility services, recognizing revenue on a gross basis when a trip is completed.
+
+2. **Cost of Revenue (Exclusive of Depreciation and Amortization)**:
+- This includes insurance costs, credit card processing fees, data center expenses, and payments to Drivers and Couriers.
+- Costs are expected to fluctuate with changes in Trip volume.
+
+3. **Operations and Support**:
+- Expenses consist of compensation for employees supporting operations, customer support costs, and Driver background checks.
+- As Trip volume increases post-COVID-19, these expenses are expected to rise in absolute terms but decrease as a percentage of revenue.
+
+4. **Sales and Marketing**:
+- This includes compensation for sales and marketing staff, advertising costs, and promotional expenditures.
+- Expenses are anticipated to increase in absolute terms but may vary as a percentage of revenue due to marketing campaign timing.
+
+5. **Research and Development**:
+- Expenses consist of compensation for engineering and product development staff and ongoing product improvements.
+- These expenses are expected to increase as Uber invests in R&D, though there may be a decrease in investments related to its ATG and Other Technology Programs following the sale of its ATG Business.
+
+Overall, the report indicates a focus on growth and efficiency as Uber navigates the recovery from the impacts of COVID-19.
+The text provides an overview of various financial components related to Uber Technologies, Inc.'s general and administrative expenses, depreciation and amortization, interest expense, other income (expense), provision for income taxes, and equity method investments.
+
+1. **General and Administrative Expenses**: These expenses include compensation for management and administrative staff, legal settlements, and corporate costs. They are expected to rise in absolute terms but decrease as a percentage of revenue as the company improves efficiency.
+
+2. **Depreciation and Amortization**: This includes costs related to physical assets and intangible assets. As the business recovers from COVID-19, these expenses are anticipated to increase due to infrastructure expansion.
+
+3. **Interest Expense**: Primarily related to the company's outstanding debt.
+
+4. **Other Income (Expense), Net**: This section includes various financial items such as interest income, foreign currency exchange gains/losses, gains from business divestitures, and unrealized gains/losses on securities.
+
+5. **Provision for Income Taxes**: The company is subject to varying tax rates based on domestic and foreign income, which affects its effective tax rate.
+
+6. **Equity Method Investments**: This includes the income or loss from the Yandex.Taxi joint venture.
+
+If you have specific questions about any of these sections or need further details, feel free to ask!
+The provided text summarizes the condensed consolidated statements of operations for Uber Technologies, Inc. for the three months ended March 31, 2021, and March 31, 2022. Here are the key financial figures:
+
+### Financial Summary (in millions)
+- **Revenue:**
+- 2021: $2,903
+- 2022: $6,854
+
+- **Costs and Expenses:**
+- Cost of revenue (exclusive of depreciation and amortization):
+- 2021: $1,710
+- 2022: $4,026
+- Operations and support:
+- 2021: $423
+- 2022: $574
+- Sales and marketing:
+- 2021: $1,103
+- 2022: $1,263
+- Research and development:
+- 2021: $515
+- 2022: $587
+- General and administrative:
+- 2021: $464
+- 2022: $632
+- Depreciation and amortization:
+- 2021: $212
+- 2022: $254
+
+- **Total Costs and Expenses:**
+- 2021: $4,427
+- 2022: $7,336
+
+- **Loss from Operations:**
+- 2021: $(1,524)
+- 2022: $(482)
+
+- **Net Loss Attributable to Uber Technologies, Inc.:**
+- 2021: $(108)
+- 2022: $(5,930)
+
+### Percentage of Revenue
+- **Total Costs and Expenses as a Percentage of Revenue:**
+- 2021: 152%
+- 2022: 107%
+
+- **Net Loss Attributable to Uber Technologies, Inc. as a Percentage of Revenue:**
+- 2021: (4)%
+- 2022: (87)%
+
+This summary highlights the significant increase in revenue from 2021 to 2022, alongside a notable increase in costs and expenses, leading to a larger net loss in 2022 compared to 2021.
+### Summary of Financial Performance for Uber Technologies, Inc. (Three Months Ended March 31, 2022 vs. 2021)
+
+#### Revenue
+- **2021**: $2,903 million
+- **2022**: $6,854 million
+- **% Change**: 136%
+- **Key Drivers**:
+- Increase in Gross Bookings by 35% (39% on a constant currency basis).
+- Recovery in Mobility Trip volumes post-COVID-19.
+- $1.5 billion increase in Freight revenue due to the acquisition of Transplace.
+- $304 million increase in Delivery revenue from higher Courier payments and incentives.
+- $200 million increase in Mobility revenue from business model changes in the UK.
+
+#### Cost of Revenue (Exclusive of Depreciation and Amortization)
+- **2021**: $1,710 million
+- **2022**: $4,026 million
+- **% Change**: 135%
+- **Percentage of Revenue**: 59% (remained constant)
+- **Key Drivers**:
+- $1.4 billion increase in Freight carrier payments and incentives.
+- $355 million increase in Courier payments and incentives.
+- $313 million increase in insurance expenses due to increased miles driven.
+- $160 million increase in Driver payments and incentives from UK business model changes.
+
+#### Operations and Support
+- **2021**: $423 million
+- **2022**: $574 million
+- **% Change**: 36%
+- **Percentage of Revenue**: 15% (decreased to 8%)
+- **Key Drivers**:
+- $87 million increase in employee headcount costs.
+- $35 million increase in external contractor expenses.
+- $5 million increase in stock-based compensation.
+
+#### Sales and Marketing
+- **2021**: $1,103 million
+- **2022**: $1,263 million
+- **% Change**: 15%
+- **Percentage of Revenue**: 38% (decreased to 18%)
+- **Key Drivers**:
+- $72 million increase in consumer advertising expenses.
+- Increase in consumer discounts and rider-facing loyalty expenses, totaling $649 million compared to $585 million in 2021.
+
+This analysis highlights significant growth in revenue and costs, reflecting the company's recovery and expansion efforts in various segments.
+### Financial Overview for Uber Technologies, Inc. (Three Months Ended March 31)
+
+#### Research and Development
+- **2021**: $515 million
+- **2022**: $587 million
+- **% Change**: 14%
+- **Percentage of Revenue**:
+- 2021: 18%
+- 2022: 9%
+- **Key Drivers**: Increase of $72 million primarily due to a $63 million rise in stock-based compensation.
+
+#### General and Administrative
+- **2021**: $464 million
+- **2022**: $632 million
+- **% Change**: 36%
+- **Percentage of Revenue**:
+- 2021: 16%
+- 2022: 9%
+- **Key Drivers**: Increase of $168 million due to:
+- $54 million in employee headcount costs
+- $49 million in legal, tax, and regulatory reserves
+- $12 million in external contractor expenses
+- $10 million in stock-based compensation.
+
+#### Depreciation and Amortization
+- **2021**: $212 million
+- **2022**: $254 million
+- **% Change**: 20%
+- **Percentage of Revenue**:
+- 2021: 7%
+- 2022: 4%
+- **Key Drivers**: Increase of $42 million mainly from additional amortization related to Transplace, Drizly, and Postmates intangible assets.
+
+#### Interest Expense
+- **2021**: $(115) million
+- **2022**: $(129) million
+- **% Change**: 12%
+- **Percentage of Revenue**:
+- 2021: (4)%
+- 2022: (2%)
+- **Key Drivers**: Increase was immaterial.
+
+#### Other Income (Expense), Net
+- **2021**: $1,710 million
+- **2022**: $(5,557) million
+- **% Change**: Not meaningful
+- **Percentage of Revenue**:
+- 2021: 59%
+- 2022: (81)%
+- **Key Drivers**:
+- Interest income increased from $5 million to $11 million (120%).
+- Foreign currency exchange gains turned from losses of $(25) million to gains of $10 million.
+- Gain on business divestiture of $1,684 million in 2021, not present in 2022.
+- Unrealized loss on debt and equity securities increased significantly from $63 million gain to $(5,570) million loss.
+- Impairment of equity method investment of $(182) million in 2022.
+
+This summary provides a concise overview of Uber's financial performance for the specified quarter, highlighting significant changes and key drivers behind the financial metrics.
+The excerpt from Uber Technologies, Inc.'s quarterly report provides insights into various financial aspects for the three months ended March 31 for the years 2021 and 2022. Here are the key points:
+
+1. **Gain on Business Divestiture**: There was a significant decrease in gain due to a $1.6 billion gain recognized in Q1 2021 from the sale of the ATG Business to Aurora.
+
+2. **Unrealized Gain (Loss) on Debt and Equity Securities**: This decreased by $5.6 billion, primarily due to:
+- $1.9 billion unrealized loss on Grab investment
+- $1.7 billion unrealized loss on Aurora investments
+- $1.4 billion unrealized loss on Didi investment
+- $462 million unrealized loss on Zomato investment
+
+3. **Impairment of Equity Method Investment**: A $182 million impairment loss was recorded on the MLU B.V. equity method investment.
+
+4. **Revaluation of MLU B.V. Call Option**: There was a $181 million gain from the change in fair value of the call option granted to Yandex.
+
+5. **Provision for (Benefit from) Income Taxes**:
+- For Q1 2021: $185 million provision
+- For Q1 2022: $232 million benefit
+- Effective tax rate: 261% in 2021 and 4% in 2022
+- The income tax benefit increased by $417 million, mainly due to deferred U.S. tax impacts related to investments in Grab and Aurora.
+
+6. **Income (Loss) from Equity Method Investments**:
+- For Q1 2021: $(8) million
+- For Q1 2022: $18 million
+- The increase was described as immaterial.
+
+This summary highlights the financial performance and changes in various investment valuations and tax provisions for Uber during the specified quarters.
+**Segment Results of Operations Overview:**
+
+Uber operates through three main segments: Mobility, Delivery, and Freight. Below is a summary of the financial performance for the three months ended March 31 for the years 2021 and 2022.
+
+### Revenue (in millions)
+| Segment   | 2021 Revenue | 2022 Revenue | % Change |
+|-----------|--------------|--------------|----------|
+| Mobility  | $853         | $2,518       | 195%     |
+| Delivery  | $1,741       | $2,512       | 44%      |
+| Freight   | $301         | $1,824       | **       |
+| All Other | $8           | $0           | **       |
+| **Total Revenue** | **$2,903** | **$6,854** | **136%** |
+
+**Note:** The percentage change for Freight and All Other is not meaningful.
+
+### Segment Adjusted EBITDA (in millions)
+| Segment   | 2021 Adjusted EBITDA | 2022 Adjusted EBITDA | % Change |
+|-----------|----------------------|----------------------|----------|
+| Mobility  | $298                 | $618                 | 107%     |
+| Delivery  | $(200)               | $30                  | **       |
+| Freight   | $(29)                | $2                   | **       |
+| All Other | $(11)                | $0                   | **       |
+| Corporate G&A and Platform R&D | $(417) | $(482) | (16%)    |
+| **Adjusted EBITDA** | **$(359)** | **$168** | **       |
+
+**Note:** The percentage change for Delivery, Freight, and All Other is not meaningful.
+
+### Key Highlights:
+- **Mobility Segment:** Revenue increased by $1.7 billion (195%) primarily due to increased trip volumes as the business recovers from COVID-19 impacts. Adjusted EBITDA profit increased by $320 million (107%).
+- **Delivery Segment:** Revenue grew by 44%, with a notable turnaround in adjusted EBITDA from a loss in 2021 to a profit in 2022.
+- **Freight Segment:** Revenue saw a significant increase, but the adjusted EBITDA remained minimal.
+- **Corporate G&A and Platform R&D:** Costs increased by 16%, reflecting ongoing investments in shared services and technology infrastructure.
+
+This summary provides a concise overview of Uber's financial performance across its segments for the specified quarter.
+The report provides a detailed analysis of Uber Technologies, Inc.'s financial performance for the quarter ended March 31, 2022, compared to the same period in 2021. Here are the key highlights:
+
+1. **Mobility Segment**:
+- Adjusted EBITDA profit increased, mainly due to higher Mobility revenue.
+- There was a $281 million increase in insurance expenses and a $76 million rise in credit card processing costs.
+
+2. **Delivery Segment**:
+- Revenue increased by $771 million (44% growth).
+- Adjusted EBITDA grew by $230 million (115% growth).
+- The increase in revenue was driven by a 15% rise in Delivery Gross Bookings, attributed to more food delivery orders and larger basket sizes.
+- The Take Rate improved from 14.0% to 18.1%.
+- Adjusted EBITDA improvement was offset by a $387 million increase in cost of revenue and a $94 million rise in consumer promotions and employee costs.
+
+3. **Freight Segment**:
+- Revenue surged by $1.5 billion (506% growth).
+- Adjusted EBITDA increased by $31 million (107% growth).
+- The revenue growth was primarily due to the acquisition of Transplace and an increase in the number of shippers and carriers.
+- Adjusted EBITDA improvement was offset by $1.4 billion in shipper payments and incentives and an $88 million increase in employee costs.
+
+4. **Key Metrics**:
+- Monthly Active Platform Consumers (MAPCs) are used to assess platform adoption and transaction frequency.
+- The report includes a table of MAPCs over several quarters, showing growth in user engagement.
+
+5. **Non-GAAP Financial Measures**:
+- Adjusted EBITDA, revenue growth rates in constant currency, and free cash flow are highlighted as important non-GAAP measures, with further details provided in the report.
+
+This summary encapsulates the financial performance and operational metrics of Uber for the specified quarter, reflecting significant growth across its segments.
+The quarterly report provides detailed financial information for Uber Technologies, Inc. It includes metrics such as:
+
+1. **Trips (in millions)**:
+- Q2 2020: 1,641
+- Q3 2020: 1,769
+- Q4 2020: 1,713
+- Q1 2021: 1,443
+- Q2 2021: 1,447
+- Q3 2021: 1,511
+- Q4 2021: 1,840
+- Q1 2022: 737
+
+2. **Gross Bookings (in millions)**:
+- Q2 2020: $10,224
+- Q3 2020: $14,745
+- Q4 2020: $17,152
+- Q1 2021: $19,536
+- Q2 2021: $21,900
+- Q3 2021: $23,113
+- Q4 2021: $25,866
+- Q1 2022: $26,449
+
+3. **Revenue Breakdown (in millions)**:
+- **Mobility**:
+- Q2 2020: $3,046
+- Q3 2020: $5,905
+- Q4 2020: $6,789
+- Q1 2021: $6,773
+- Q2 2021: $8,640
+- Q3 2021: $9,883
+- Q4 2021: $11,340
+- Q1 2022: $10,723
+- **Delivery**:
+- Q2 2020: $6,961
+- Q3 2020: $8,550
+- Q4 2020: $10,050
+- Q1 2021: $12,461
+- Q2 2021: $12,912
+- Q3 2021: $12,828
+- Q4 2021: $13,444
+- Q1 2022: $13,903
+- **Freight**:
+- Q2 2020: $212
+- Q3 2020: $290
+- Q4 2020: $313
+- Q1 2021: $302
+- Q2 2021: $348
+- Q3 2021: $402
+- Q4 2021: $1,082
+- Q1 2022: $1,823
+
+4. **Adjusted EBITDA**:
+- Q1 2021: $(359) million
+- Q1 2022: $168 million
+- The improvement of $527 million was attributed to increases in Mobility, Delivery, and Freight Adjusted EBITDA, despite a rise in Corporate G&A and Platform R&D costs.
+
+This report highlights the growth in trips, gross bookings, and revenue across different segments, as well as a significant improvement in Adjusted EBITDA from the previous year.
+The document discusses Uber Technologies, Inc.'s use of non-GAAP financial measures, specifically Adjusted EBITDA, to evaluate its business performance. It explains that these measures provide additional insights into the company's financial health by excluding certain items that may not reflect ongoing operations.
+
+**Key Points:**
+
+1. **Non-GAAP Financial Measures**: Uber uses Adjusted EBITDA, revenue growth rates in constant currency, and free cash flow for internal decision-making and performance assessment.
+
+2. **Adjusted EBITDA Definition**: It is calculated by excluding various items from net income (loss), including:
+- Income (loss) from discontinued operations
+- Non-controlling interests
+- Income taxes
+- Equity method investments
+- Interest expense
+- Other income/expense
+- Depreciation and amortization
+- Stock-based compensation
+- Legal, tax, and regulatory reserves
+- Goodwill and asset impairments
+- Acquisition and restructuring expenses
+- COVID-19 related expenses
+
+3. **Purpose of Adjusted EBITDA**: It helps management and investors assess operating performance, make strategic decisions, and compare results across periods.
+
+4. **COVID-19 Response Initiatives**: The document outlines various initiatives taken to support drivers and communities affected by the pandemic, which are accounted for in the financial statements.
+
+5. **Limitations**: Adjusted EBITDA should not be viewed as a substitute for GAAP financial measures, as it excludes certain recurring non-cash charges and does not reflect all cash capital expenditure requirements.
+
+Overall, the document emphasizes the importance of these non-GAAP measures in providing a clearer picture of Uber's operational performance while also acknowledging their limitations.
+The document provides a reconciliation of Adjusted EBITDA to net loss attributable to Uber Technologies, Inc. for the three months ended March 31 for the years 2021 and 2022. Here are the key figures:
+
+- **Net loss attributable to Uber Technologies, Inc.**:
+- 2021: $(108) million
+- 2022: $(5,930) million
+
+- **Adjusted EBITDA**:
+- 2021: $(359) million
+- 2022: $168 million
+
+The reconciliation includes various adjustments such as income taxes, interest expense, stock-based compensation, and other items not indicative of ongoing operating performance. The document also mentions the use of constant currency to assess revenue performance excluding foreign currency fluctuations.
+The free cash flow for Uber Technologies, Inc. for the three months ended March 31 is as follows:
+
+- **2021**:
+- Net cash provided by (used in) operating activities: $(611) million
+- Purchases of property and equipment: $(71) million
+- **Free cash flow**: $(682) million
+
+- **2022**:
+- Net cash provided by (used in) operating activities: $15 million
+- Purchases of property and equipment: $(62) million
+- **Free cash flow**: $(47) million
+
+This table shows a significant improvement in free cash flow from 2021 to 2022.
+### Liquidity and Capital Resources Summary
+
+#### Three Months Ended March 31 (In millions)
+
+| Activity                        | 2021       | 2022       |
+|---------------------------------|------------|------------|
+| Net cash provided by (used in) operating activities | $(611)     | $15        |
+| Net cash used in investing activities | $(250)     | $(135)     |
+| Net cash used in financing activities | $(226)     | $(113)     |
+
+#### Operating Activities
+- **2022**: Net cash provided was $15 million, with a net loss of $5.9 billion adjusted for:
+- $5.6 billion in unrealized losses from equity securities
+- $359 million in stock-based compensation
+- $254 million in depreciation and amortization
+- $27 million decrease in cash consumed by working capital.
+
+- **2021**: Net cash used was $611 million, with a net loss of $122 million adjusted for:
+- $1.7 billion gain on business divestiture
+- $281 million in stock-based compensation
+- $412 million decrease in cash consumed by working capital.
+
+#### Investing Activities
+- **2022**: Net cash used was $135 million, primarily for:
+- $62 million in purchases of property and equipment
+- $59 million in business acquisitions.
+
+- **2021**: Net cash used was $250 million, primarily for:
+- $803 million in purchases of non-marketable equity securities
+- $336 million in purchases of marketable securities
+- $216 million in purchases of a note receivable, offset by $696 million from maturities and sales of marketable securities and $500 million from the sale of non-marketable equity securities.
+
+#### Financing Activities
+- **2022**: Net cash used was $113 million, primarily for:
+- $62 million of principal payments on finance leases.
+
+- **2021**: Net cash used was $226 million, primarily for:
+- $194 million of principal repayment on Careem Notes.
+
+#### Other Information
+- As of March 31, 2022, $2.2 billion of $4.2 billion in cash and cash equivalents was held by foreign subsidiaries.
+- The company believes its existing cash balance in the U.S. is sufficient for working capital needs.
+- Compliance with debt and line of credit covenants was maintained.
+- Anticipated cash requirements for the next 12 months are expected to be met through existing funding sources and available credit lines.
+- The company continues to monitor the impact of the COVID-19 pandemic on its financial position and liquidity.
+
+#### Purchase Commitments
+- No material changes outside the ordinary course of business to contractual obligations as of March 31, 2022.
+
+#### Critical Accounting Estimates
+- Financial statements are prepared in accordance with GAAP, requiring estimates and assumptions that may affect reported amounts. Actual results may differ from estimates, impacting future financial statements.
+The document provides a detailed overview of Uber Technologies, Inc.'s exposure to various market risks, including interest rate risk, investment risk, and foreign currency risk.
+
+1. **Interest Rate Risk**: Uber's exposure primarily relates to its floating rate loans (2025 and 2027 Refinanced Term Loan Facilities). A hypothetical 100 basis point change in interest rates would not materially affect financial results. However, a 100 basis point increase would decrease the fair value of fixed-rate notes by $289 million as of March 31, 2022.
+
+2. **Investment Risk**: Uber aims to preserve capital and meet liquidity needs without significantly increasing risk. As of March 31, 2022, cash and cash equivalents totaled $7.6 billion. The company does not engage in trading or speculative investments, and a 100 basis point change in interest rates would not materially affect financial results. The carrying value of investments was $6.9 billion, which includes equity method investments.
+
+3. **Foreign Currency Risk**: Uber operates globally, exposing it to fluctuations in foreign currency exchange rates. Revenue and expenses in foreign currencies can negatively impact financial results when expressed in U.S. dollars. The company has experienced fluctuations in net income due to transaction gains or losses from remeasurement of asset and liability balances in foreign currencies.
+
+4. **Controls and Procedures**: Uber maintains disclosure controls and procedures to ensure compliance with the Securities Exchange Act of 1934, ensuring that required information is accurately recorded and reported within specified timeframes.
+
+This summary encapsulates the key points regarding market risks and controls as outlined in the quarterly report.
+The document discusses the effectiveness of Uber's disclosure controls and internal control over financial reporting as evaluated by the management, including the Chief Executive Officer and Chief Financial Officer. They concluded that these controls are effective at a reasonable assurance level, although they acknowledge that no system can provide absolute assurance against errors or fraud.
+
+Additionally, the document outlines various legal proceedings involving Uber, including significant matters related to driver classification, state unemployment taxes, and ongoing class actions in Australia. The Australian class actions allege that Uber conspired to breach transport legislation, causing loss and damage to participants in the taxi and hire-car industries. Uber denies these allegations and plans to defend itself vigorously.
+
+For more detailed information on these legal proceedings, readers are directed to Note 12 – Commitments and Contingencies in the condensed consolidated financial statements for the quarter ended March 31, 2022.
+The document outlines various legal risks and uncertainties faced by Uber Technologies, Inc. It emphasizes that while the company believes the resolution of ongoing legal matters will not materially affect its financial position or liquidity, these issues could impact its operational results in specific accounting periods. The report also highlights several risk factors that could adversely affect the company's business, financial condition, and stock price, including:
+
+1. Ongoing impacts of the COVID-19 pandemic.
+2. Potential reclassification of Drivers as employees rather than independent contractors.
+3. Intense competition in the mobility, delivery, and logistics industries.
+4. The necessity to lower fares or service fees to remain competitive.
+5. Significant historical losses and increasing operating expenses.
+6. Challenges in attracting and retaining a critical mass of platform users.
+7. Risks to brand reputation and the impact of negative publicity.
+8. Historical workplace culture issues and the challenges in addressing them.
+9. The need to optimize organizational structure amid growth.
+10. Safety incidents involving platform users.
+11. Risks associated with substantial investments in new technologies and offerings.
+
+These factors could lead to a decline in the trading price of Uber's common stock and potentially result in losses for investors.
+The document outlines various risks that Uber Technologies, Inc. faces in its business operations. Key points include:
+
+1. **Economic and Regulatory Risks**: The company generates a significant portion of its Gross Bookings from large metropolitan areas, which can be adversely affected by economic, social, weather, and regulatory conditions, including the ongoing impacts of COVID-19.
+
+2. **Technology and Competition Risks**: There is a risk of failing to offer competitive autonomous vehicle technologies, which may not perform as expected or be perceived as safe compared to competitors.
+
+3. **Human Resource Risks**: Retaining and attracting high-quality personnel is crucial, and issues like attrition or poor succession planning could negatively impact the business.
+
+4. **Data Security Risks**: The company faces potential security breaches and cyberattacks that could harm its reputation and operational results.
+
+5. **Climate Change Risks**: Uber is subject to risks related to climate change and has made commitments that require significant resources, which may need to be adjusted based on unforeseen circumstances.
+
+6. **Third-Party Reliance**: The business relies on third parties for distribution and software, and any interference could adversely affect operations.
+
+7. **Capital Requirements**: Additional capital will be needed for growth, which may not be available on favorable terms.
+
+8. **Acquisition Risks**: The inability to identify and integrate suitable acquisitions could harm operating results.
+
+9. **Legal and Regulatory Risks**: The company faces numerous legal and regulatory challenges that could impact its business.
+
+10. **Intellectual Property Risks**: Protecting intellectual property is crucial, and any claims of misappropriation could lead to significant expenses.
+
+11. **Stock Price Volatility**: The market price of Uber's common stock has been volatile, and there is a risk that investors may not be able to resell shares at or above the purchase price.
+
+Overall, the document emphasizes the various internal and external challenges that could impact Uber's business performance and future prospects.
+The document discusses the impact of the COVID-19 pandemic on Uber Technologies, Inc., highlighting several key points:
+
+1. **Driver Supply Constraints**: The company is experiencing a mismatch between recovering consumer demand for mobility services and the availability of drivers. This situation is exacerbated by ongoing concerns related to the COVID-19 pandemic.
+
+2. **Financial Impact**: The pandemic has adversely affected Uber's near-term financial results and may have long-term implications. The company has had to take significant actions, including workforce reductions and changes to pricing models, to mitigate these impacts.
+
+3. **Uncertainty of Future Developments**: The extent of the pandemic's impact on Uber's business will depend on various uncertain factors, including the duration of the outbreak, vaccine efficacy, and potential changes in consumer behavior.
+
+4. **Legal Risks**: Uber faces legal challenges regarding the classification of drivers as independent contractors versus employees. Ongoing litigation and regulatory scrutiny could lead to significant costs and operational changes.
+
+5. **Proposition 22**: In California, Proposition 22 allows drivers to maintain their independent contractor status, but legal challenges to this law may continue, potentially affecting Uber's operations and financial condition.
+
+Overall, the document outlines the operational and financial risks Uber faces due to the pandemic and ongoing legal challenges regarding driver classification.
+The text discusses the challenges Uber faces regarding the classification of its Drivers, particularly in light of legal actions and judicial decisions in various jurisdictions. Key points include:
+
+1. **Legal Challenges**: Uber and Lyft are facing complaints regarding the misclassification of Drivers, which could lead to significant changes in their business model if they are required to treat Drivers as employees. This would result in increased expenses related to wages, benefits, and compliance with labor laws.
+
+2. **Judicial Decisions**: The UK Supreme Court ruled that Uber Drivers are workers, prompting Uber to change its classification of UK Drivers to "workers," ensuring they receive at least the National Living Wage and other benefits. Similar rulings have occurred in France, Switzerland, Spain, and the Netherlands.
+
+3. **Unionization Risks**: The potential reclassification of Drivers could lead to unionization, which may result in collective bargaining agreements that deviate from Uber's business model, adversely affecting its financial condition and operations.
+
+4. **Financial Statement Impact**: Changes in Driver classification could impact Uber's financial statements, including revenue and costs, as detailed in their accounting policies.
+
+5. **Competitive Landscape**: Uber operates in highly competitive mobility, delivery, and logistics markets with low barriers to entry and significant competition from established players and new entrants. The ability to compete effectively is crucial for Uber's financial prospects.
+
+Overall, the text highlights the legal, financial, and competitive challenges Uber faces in maintaining its business model while navigating regulatory and market pressures.
+The document discusses the competitive landscape faced by Uber Technologies, Inc. in its various offerings, including Mobility, Delivery, and Freight. It highlights the challenges posed by well-capitalized competitors, the potential for reduced revenue and user engagement, and the impact of regulatory restrictions on competition with minority-owned affiliates. The company acknowledges that to remain competitive, it may need to lower fares and service fees, as well as offer significant incentives to drivers and discounts to consumers, which could adversely affect its financial performance.
+The text discusses several challenges and risks faced by Uber Technologies, Inc. in its business operations. Key points include:
+
+1. **Impact of Discounts and Promotions**: The company's financial performance is negatively affected by discounts, promotions, and reductions in fares and service fees. Changes in pricing models and strategies may not attract consumers and drivers effectively.
+
+2. **Competitive Landscape**: Uber faces significant competition from well-capitalized rivals, some of which are backed by major investors like SoftBank. This competition may lead to lower prices and increased incentives from competitors, putting pressure on Uber to maintain or lower its fares and service fees.
+
+3. **Financial Losses**: Uber has incurred substantial losses since its inception, with reported operating losses of $4.9 billion in 2020 and $3.8 billion in 2021. As of March 31, 2022, the company had an accumulated deficit of $29.6 billion.
+
+4. **Future Profitability Challenges**: The company anticipates increased operating expenses as it invests in expanding its user base and offerings. There is uncertainty about achieving or maintaining profitability, especially in new markets.
+
+5. **Driver and Merchant Supply Constraints**: Uber's success relies on attracting and retaining a critical mass of drivers, consumers, merchants, shippers, and carriers. Supply constraints, exacerbated by the COVID-19 pandemic, could hinder the company's ability to provide services effectively.
+
+6. **Market Dynamics**: The company may struggle to maintain network scale and liquidity in various geographic markets, which is essential for attracting users to its platform. A lack of drivers or merchants could diminish the appeal of Uber's services.
+
+Overall, the text highlights the complexities and uncertainties in Uber's business environment, emphasizing the need for strategic management to navigate these challenges.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. regarding its platform users, including Drivers, consumers, merchants, shippers, and carriers. Key points include:
+
+1. **Concentration Risk**: The reliance on significant restaurant partners increases the risk of fluctuations in operating results. If users switch to competitors, it could reduce opportunities for Drivers and merchants, impacting revenue.
+
+2. **User Satisfaction**: Factors such as dissatisfaction with service quality, pricing, and support can lead to a decline in platform users. Negative publicity and public health concerns (e.g., COVID-19) can also affect user retention.
+
+3. **Driver and Merchant Dynamics**: The number of Drivers and merchants may fluctuate due to various reasons, including local laws, competition, and dissatisfaction with the platform. Efforts to reduce Driver incentives to improve financial performance may lead to increased dissatisfaction.
+
+4. **Trade-offs in User Satisfaction**: Changes that benefit one user group may negatively impact another, leading to potential dissatisfaction across the platform.
+
+5. **Safety and Compliance**: Measures to enhance safety and prevent fraud may damage relationships with users. Additionally, changes in Driver qualification and background-check requirements could increase costs and hinder onboarding.
+
+6. **Protests and Business Interruptions**: Driver dissatisfaction has historically led to protests, which can disrupt operations and further decrease the number of active users on the platform.
+
+7. **Background Check Challenges**: Reliance on a single background-check provider poses risks. Changes in regulations could complicate the onboarding process for Drivers, adversely affecting business growth.
+
+Overall, the document highlights the interconnectedness of user satisfaction, regulatory compliance, and operational efficiency in maintaining Uber's platform viability.
+The text discusses the importance of maintaining and enhancing Uber's brand and reputation, highlighting the challenges the company has faced due to negative media coverage and past cultural issues. It emphasizes that failure to improve its brand could lead to difficulties in attracting employees and users, increased regulatory scrutiny, and potential financial impacts. The report also mentions the company's efforts to rehabilitate its brand, the risks associated with third-party partnerships, and the historical workplace culture that has created operational challenges. Overall, it underscores the critical nature of brand reputation in Uber's business strategy and future prospects.
+The text discusses the challenges and risks faced by Uber Technologies, Inc. as it has grown significantly since its inception. Key points include:
+
+1. **Organizational Complexity**: The rapid expansion has led to a complex organizational structure that may hinder effective management and communication of key policies across different regions and functions.
+
+2. **Workforce Management**: Uber has experienced substantial growth in its workforce, increasing from 159 employees in 2012 to approximately 30,900 by March 2022. Managing this growth, including hiring, training, and retaining qualified employees, is crucial for the company's success.
+
+3. **Technology and Infrastructure**: The company must upgrade its technology and network infrastructure to support its growth. Failure to do so could lead to system disruptions and negatively impact user experience.
+
+4. **Safety and Liability Risks**: Uber faces risks related to the actions of platform users, which could result in safety incidents and harm the company's reputation. The effectiveness of background checks on Drivers is also a concern.
+
+5. **Financial and Operational Resources**: To manage growth and improve systems, Uber will need to commit substantial financial and operational resources. Inadequate management of these areas could adversely affect the company's business and financial performance.
+
+Overall, the text highlights the importance of effective management, technology upgrades, and safety measures in sustaining Uber's growth and maintaining its competitive position.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. related to the safety and conduct of its Drivers and Couriers. Key points include:
+
+1. **Driver Qualification and Background Checks**: The standards for Couriers are less extensive than for Mobility Drivers, leading to potential complaints and legal actions regarding Driver conduct.
+
+2. **Criminal Activity**: Incidents of criminal behavior by Drivers or individuals impersonating them can harm consumer perception of safety, negatively impacting Uber's brand and reputation.
+
+3. **Violent Crime**: High rates of violent crime in certain regions, particularly in Latin America, have led to increased reports of Drivers and consumers being victimized.
+
+4. **Liability Risks**: Uber may face significant liability claims related to accidents or incidents involving Drivers, consumers, or third parties, which could increase operating costs and affect business results.
+
+5. **Insurance Coverage**: Current insurance policies may not cover all potential claims, leading to financial exposure.
+
+6. **Investments in New Offerings**: Uber is investing in new technologies and services, such as grocery and alcohol delivery, which carry inherent risks and may not yield expected benefits.
+
+7. **Market Acceptance**: There is uncertainty regarding consumer demand for new initiatives, and competition from other products could render Uber's offerings obsolete.
+
+8. **Management Distraction**: New development efforts may distract management from core operations and divert resources from established products.
+
+Overall, the text highlights the complexities and risks associated with Uber's operations and expansion efforts.
+The text discusses the challenges and risks Uber Technologies, Inc. faces in its international operations. Key points include:
+
+1. **Dependence on International Markets**: As of March 31, 2022, Uber operated in approximately 72 countries, with international markets accounting for about 75% of all trips.
+
+2. **Limited Experience**: Uber has limited experience in many international jurisdictions, which may affect its ability to manage risks and successfully expand.
+
+3. **Operational and Compliance Challenges**: These include language barriers, cultural differences, and the need to localize operations, such as translating the app and adapting to local laws.
+
+4. **Regulatory Risks**: Uber faces stricter laws in some countries regarding competition, pricing, payment methods, and data privacy, which could impact its operations.
+
+5. **Competition**: Local competitors may have better market understanding and relationships, posing a challenge to Uber's growth.
+
+6. **Social Acceptance and Technological Compatibility**: Variations in brand acceptance and technology use can affect Uber's success in different markets.
+
+7. **Legal and Financial Risks**: These include uncertainties regarding liability, currency fluctuations, cash transaction preferences, and complex tax systems.
+
+8. **Political and Economic Instability**: Global events, such as wars and terrorist attacks, can disrupt operations and impact the economy.
+
+Overall, the text highlights the complexities and risks associated with Uber's international business strategy.
+The text discusses the risks associated with Uber Technologies, Inc.'s minority ownership in various companies, including Didi, Grab, Yandex.Taxi, Lime, Zomato, and Aurora. Key points include:
+
+1. **Limited Control**: Uber has limited influence over these minority-owned affiliates, which poses risks such as potential loss of value. Uber is not involved in the day-to-day management of Didi and Zomato and has limited control over the boards of other companies.
+
+2. **Market Competition**: These companies may expand their offerings and compete with Uber, potentially harming Uber's business and financial condition.
+
+3. **Valuation Risks**: The value of Uber's assets in these companies is subject to market fluctuations and could be adversely affected by weakened financial markets.
+
+4. **Operational Risks**: The companies have limited operating histories and may face unpredictable results. They also operate in regions with various risks, including economic sanctions and public health concerns.
+
+5. **Liquidity and Transfer Restrictions**: Uber faces contractual limitations on selling or transferring these assets, including a lock-up period for shares in Aurora. There may be no public market for many of these securities, affecting their realizable value.
+
+6. **Potential Tax Implications**: Selling or transferring these assets could result in significant tax liabilities.
+
+Overall, these factors could materially impact Uber's business, financial condition, and stock price.
+The text discusses the potential fluctuations in Uber Technologies, Inc.'s operating results and the factors that may affect its profitability. Key points include:
+
+1. **Fluctuations in Operating Results**: Uber may experience significant variations in its financial performance, which are not necessarily indicative of future results. These fluctuations can be influenced by external factors, including the COVID-19 pandemic.
+
+2. **Seasonal Trends**:
+- **Mobility**: Typically, higher revenue is generated in the fourth quarter due to holiday demand, while the third quarter may see lower revenue due to vacation patterns.
+- **Delivery**: Expected seasonal increases in revenue are anticipated in the first and fourth quarters, although historical growth has masked these trends.
+
+3. **Challenges in Forecasting**: The company acknowledges difficulties in accurately forecasting operating results due to the pandemic and fixed expenses that may not adjust quickly to revenue changes.
+
+4. **Growth Dependency**: Uber's growth is contingent on various factors, including:
+- Attracting and retaining users.
+- Competing effectively in the market.
+- Expanding operations in new and existing markets.
+- Maintaining technological advancements.
+- Navigating regulatory environments.
+
+5. **Profitability Concerns**: If growth slows more than expected, achieving profitability may become challenging, adversely affecting financial results and investor value.
+
+6. **Objectives for Growth**: Uber aims to grow supply and demand, enhance user activity, expand market presence, and improve brand perception, among other goals.
+
+Overall, the text highlights the complexities and uncertainties surrounding Uber's financial performance and growth strategies.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. regarding its financial performance and operational capabilities. Key points include:
+
+1. **Revenue Dependence**: A significant portion of Uber's Gross Bookings comes from large metropolitan areas and airport trips. Any negative impact on operations in these areas could adversely affect financial results.
+
+2. **Geographic Concentration**: In 2021, 23% of Mobility Gross Bookings were derived from five major metropolitan areas. Economic, social, and regulatory conditions in these areas can significantly influence Uber's business.
+
+3. **Impact of COVID-19**: The pandemic has altered travel behavior, leading to a decline in demand for ridesharing, especially for airport-related trips, which accounted for 11% of Mobility Gross Bookings in 2021.
+
+4. **Regulatory Challenges**: Uber faces regulatory hurdles, including licensing requirements for airport operations. Non-compliance or changes in regulations could disrupt operations and affect financial performance.
+
+5. **Competition and Market Penetration**: Uber experiences strong competition in urban areas and faces challenges in expanding into suburban and rural markets, where personal vehicle ownership is more convenient.
+
+6. **Investment in Autonomous Technologies**: Uber has invested in autonomous vehicle technologies, including a merger with Aurora. The success of these technologies is crucial for maintaining competitive advantage and financial performance.
+
+Overall, the document highlights the interconnectedness of Uber's operational strategies, market dynamics, and regulatory environment, emphasizing the potential risks to its financial health and growth prospects.
+The text discusses several risks and challenges faced by Uber Technologies, Inc. regarding the development and implementation of autonomous vehicle technologies, as well as the importance of retaining high-quality personnel. Here are the key points:
+
+1. **Competition in Autonomous Vehicles**: Uber faces competition from companies like Waymo, Cruise Automation, and others that are developing autonomous vehicle technologies. If these competitors launch their offerings before Uber, or if their technology is perceived as superior, it could negatively impact Uber's market position and financial performance.
+
+2. **Risks and Liabilities**: The introduction of autonomous vehicles carries significant risks, including potential collisions and regulatory scrutiny. Failures in technology could lead to liability issues and damage Uber's reputation.
+
+3. **Regulatory Challenges**: Federal and state regulations regarding autonomous vehicles are evolving. New regulations could delay or limit Uber's ability to offer these technologies, and non-compliance could result in fines or penalties.
+
+4. **Personnel Challenges**: Uber's success relies on attracting and retaining high-quality employees. Challenges related to workplace culture, negative publicity, and the shift to hybrid work models could lead to increased attrition and difficulties in recruitment.
+
+5. **Leadership Transitions**: Changes in leadership or management could disrupt business operations and increase turnover. The loss of key personnel or failure to manage transitions effectively could harm Uber's growth and operating results.
+
+6. **Equity Incentives**: To attract and retain key personnel, Uber uses equity incentives, but there is no guarantee that these measures will be sufficient to maintain a strong workforce.
+
+Overall, the text highlights the interconnectedness of technological advancements, regulatory environments, and human resources in shaping Uber's business landscape.
+The text discusses several risks that Uber Technologies, Inc. faces, including:
+
+1. **Attracting and Retaining Personnel**: The effectiveness of equity incentives may decline, impacting the ability to attract and retain high-quality management and operational staff, which could adversely affect the company's performance.
+
+2. **Economic Conditions**: Economic factors such as unemployment, consumer debt, and consumer confidence can influence discretionary spending. During economic downturns, consumers may opt for lower-cost alternatives, which could reduce demand for Uber's services and harm its financial results.
+
+3. **Cost Increases**: Inflation and rising costs (fuel, food, labor, etc.) can negatively impact drivers, merchants, and carriers, potentially leading to reduced service availability on the platform and decreased network liquidity.
+
+4. **Security and Privacy Breaches**: Uber collects sensitive personal data, making it a target for data security attacks. Breaches could lead to significant liabilities, revenue loss, and damage to the brand, as well as disruption of business operations.
+
+Overall, these factors highlight the vulnerabilities in Uber's business model and the potential impact of external economic conditions and internal security challenges on its operations and financial health.
+The text discusses the potential risks and liabilities Uber Technologies, Inc. faces related to data security breaches and the importance of successfully introducing new products and features to retain users. It highlights past incidents, such as the 2014 and 2016 data breaches, and mentions the need for ongoing investment in product development to differentiate from competitors. Additionally, it addresses the challenges in measuring operational metrics and the potential inaccuracies that could affect the company's reputation and business performance.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. related to its payment systems, particularly the use of cash for transactions in certain jurisdictions. Key points include:
+
+1. **Multiple Accounts**: Uber acknowledges that some consumers may create multiple accounts despite prohibitions, which could affect data accuracy and long-term strategies.
+
+2. **Cash Payments**: In certain regions, Uber allows cash payments for rides and deliveries, which raises regulatory, operational, and safety concerns. Cash transactions accounted for approximately 7% of global Gross Bookings in 2021, with potential for increase.
+
+3. **Regulatory Compliance**: The use of cash can lead to significant fines and operational suspensions if regulations are not followed. There are also safety risks for drivers and riders associated with cash transactions.
+
+4. **Infrastructure Challenges**: Establishing systems to manage cash transactions is complex and may lead to difficulties in collecting service fees, impacting financial performance.
+
+5. **Credit Card Acceptance**: A significant portion (74%) of Gross Bookings is made via credit or debit cards. Loss of credit card acceptance privileges could severely limit Uber's business model.
+
+6. **Data Security Compliance**: Uber must comply with the Payment Card Industry Data Security Standard. Non-compliance could result in fines and operational restrictions.
+
+7. **Cybersecurity Threats**: The company faces risks from cyberattacks, which could harm its reputation and operational integrity.
+
+Overall, these factors highlight the complexities and risks associated with Uber's payment systems and the potential impact on its business operations and financial results.
+The text discusses the reliance of Uber Technologies, Inc. on information technology systems for its operations, highlighting the risks associated with cyberattacks, system failures, and software errors. It emphasizes the potential impact of these risks on the company's reputation, business operations, and financial results. Key points include:
+
+1. **Cybersecurity Risks**: Uber's systems are vulnerable to various cyber threats, including malware and phishing attacks. The company acknowledges that it may not be able to prevent sophisticated attacks and that breaches could harm its reputation and competitive position.
+
+2. **System Failures**: The complexity of Uber's platform means that undetected errors or bugs in the software could disrupt services. The company has experienced outages in the past and recognizes that such issues could lead to a loss of users and revenue.
+
+3. **AI Risks**: The growing use of artificial intelligence in Uber's offerings introduces additional risks, such as flawed algorithms and biased datasets, which could lead to legal liabilities and reputational damage.
+
+Overall, the text underscores the importance of maintaining robust cybersecurity measures and the challenges posed by the technical complexity of Uber's platform.
+The document discusses Uber Technologies, Inc.'s exposure to climate change risks and dependencies on third parties for its operations.
+
+1. **Climate Change Risks**: Uber faces both physical and transitional risks related to climate change, including market shifts towards electric vehicles (EVs) and the impact of extreme weather events. These risks could disrupt operations and increase costs. The company has made commitments to renewable energy and net-zero emissions but acknowledges that external factors may affect its ability to meet these goals.
+
+2. **Dependencies on Third Parties**: Uber's business relies on the performance of internet and mobile infrastructures, which are beyond its control. Disruptions in these services could affect the availability and speed of its platform, potentially driving users to competitors. Additionally, Uber depends on third-party marketplaces like the Apple App Store and Google Play for distribution, and any interference from these platforms could adversely impact its business.
+
+Overall, the document highlights the challenges Uber faces in managing climate-related risks and its reliance on external infrastructures and third-party services.
+The text discusses various risks that Uber Technologies, Inc. faces in relation to its reliance on third-party services and infrastructure. Key points include:
+
+1. **Advertising and User Tracking**: Uber's ability to effectively target advertisements may be hindered if iOS users do not grant permission for tracking, potentially increasing user acquisition costs.
+
+2. **Mapping Services**: Uber relies on Google Maps for critical mapping functions. The company does not control these services and may face challenges if access is restricted or if alternatives are not available.
+
+3. **Payment Processing**: Uber depends on third-party payment processors for transactions. If these services become unavailable or if fees increase, it could adversely affect Uber's operating costs and business operations.
+
+4. **System Failures**: Past system failures have led to payment delays for drivers, causing dissatisfaction and potential loss of trust in Uber's payment operations.
+
+5. **Third-Party Hosting**: Uber uses third-party cloud services and co-located data centers, which are vulnerable to various risks (e.g., natural disasters, cyberattacks). Interruptions in these services could impair Uber's ability to deliver its products and services.
+
+Overall, the text highlights the interconnectedness of Uber's operations with third-party services and the potential risks associated with these dependencies.
+The text discusses several risks associated with Uber Technologies, Inc.'s operations, particularly focusing on data center agreements, the use of third-party open source software, and financing challenges.
+
+1. **Data Center Agreements**: Uber may face delays in product delivery if it cannot renew agreements with data centers on reasonable terms, potentially harming revenue and user trust.
+
+2. **Open Source Software Risks**: The use of third-party open source software could lead to legal challenges regarding compliance with licensing terms, which may require the company to release proprietary code or incur significant costs to address non-compliance. Additionally, open source software may expose Uber to security risks and limit its ability to protect intellectual property.
+
+3. **Financing Needs**: Uber requires additional capital for growth, which may not be available on favorable terms. Issuing new equity could dilute existing shareholders, and existing debt agreements may impose restrictions that complicate obtaining further financing. As of March 31, 2022, Uber had significant outstanding debt, which could limit operational flexibility and necessitate additional borrowing for future investments, such as autonomous vehicles.
+The text discusses the financial risks and challenges faced by Uber Technologies, Inc. regarding its indebtedness and tax liabilities. Key points include:
+
+1. **Indebtedness Risks**:
+- A significant portion of cash flows may be used to pay interest and principal on debt, limiting funds for operations and growth.
+- Existing debt instruments impose restrictions on additional borrowing, mergers, asset sales, and dividend payments.
+- Future debt financing may come with additional covenants that could hinder capital-raising efforts.
+- Defaults on debt could lead to immediate repayment demands and restrict future financing options.
+
+2. **Interest Rate Risk**:
+- The company is exposed to interest rate fluctuations, which could impact financial stability.
+
+3. **Tax Liabilities**:
+- Tax laws are complex and subject to interpretation, leading to potential higher tax rates than currently paid.
+- Investigations into tax compliance could result in additional tax liabilities.
+- Certain jurisdictions require prepayment of contested taxes, impacting liquidity.
+- Ongoing audits by tax authorities could lead to adverse financial outcomes.
+
+4. **Tax Methodology Challenges**:
+- Tax authorities may challenge the company's valuation methodologies, potentially increasing the effective tax rate.
+- Future income taxes may be affected by earnings fluctuations and changes in tax laws.
+
+5. **Acquisition Risks**:
+- Acquiring businesses with different tax arrangements could lead to increased tax liabilities and affect financial results.
+
+Overall, the text highlights the potential financial strain from debt obligations and tax liabilities, which could hinder Uber's operational flexibility and growth strategy.
+The document discusses several key risks related to Uber Technologies, Inc.'s financial condition and operations, particularly concerning tax legislation, net operating loss carryforwards, currency exchange rates, and business acquisitions.
+
+1. **Tax Legislation Risks**: Changes in U.S. and global tax laws, particularly the Tax Cuts and Jobs Act, could adversely affect Uber's financial results. The elimination of the option to deduct research and development expenses may impact cash flows if not modified.
+
+2. **Net Operating Loss Carryforwards**: Uber has significant net operating loss carryforwards that could expire if not utilized. Changes in ownership could limit the ability to use these carryforwards, potentially increasing future tax liabilities.
+
+3. **Currency Exchange Rate Fluctuations**: As Uber operates in multiple currencies, fluctuations in exchange rates could materially affect financial results. The company may consider hedging strategies, but these come with risks and may not fully mitigate the impact of currency changes.
+
+4. **Acquisition Risks**: Uber's strategy includes acquiring other businesses, which carries risks related to the successful integration and performance of these acquisitions.
+
+Overall, these factors could significantly impact Uber's financial position, operating results, and cash flows.
+The text discusses the challenges and risks associated with Uber's acquisition strategy and joint ventures. Key points include:
+
+1. **Acquisition Challenges**: Uber faces intense competition for acquiring businesses and technologies, which may lead to difficulties in completing acquisitions on favorable terms or obtaining necessary regulatory approvals.
+
+2. **Management Diversion**: Negotiations and integrations of acquisitions can divert management's focus and incur significant costs.
+
+3. **Financial Risks**: Acquisitions may require substantial cash or debt financing, potentially restricting business operations and leading to dilution of stockholder equity.
+
+4. **Integration Risks**: Successfully integrating acquired businesses is fraught with challenges, including:
+- Disruption of ongoing operations.
+- User acceptance of new offerings.
+- Aligning internal controls and policies.
+- Retaining key employees and managing cultural differences.
+- Maintaining business relationships and brand identity.
+
+5. **Regulatory Risks**: Acquisitions may increase exposure to legal risks, such as violations of the U.S. Foreign Corrupt Practices Act (FCPA).
+
+6. **Performance Uncertainty**: There is no guarantee that acquired businesses will perform as expected, and failure to manage these acquisitions effectively could harm Uber's financial condition and operational results.
+
+Overall, the text emphasizes the complexities and potential downsides of Uber's growth strategy through acquisitions and joint ventures.
+The text discusses the legal and regulatory risks that Uber Technologies, Inc. faces in various jurisdictions regarding its ridesharing business model. Key points include:
+
+1. **Regulatory Restrictions**: Uber's operations have been blocked or limited in several markets, including Argentina, Germany, Italy, Japan, South Korea, and Spain, due to local laws and regulations.
+
+2. **Licenses and Permits**: Uber must obtain and comply with licenses or permits to operate in certain areas, and there is uncertainty about maintaining or renewing these licenses.
+
+3. **Lobbying by Competitors**: Traditional taxi and car service operators are lobbying for regulations that could impose additional requirements on Uber, affecting its business model.
+
+4. **Specific Regulatory Examples**:
+- In Barcelona, Uber suspended its services due to new regulations on minimum wait times.
+- New York City implemented minimum pay standards for drivers, adversely impacting Uber's financial performance.
+- Other cities, like San Francisco and Chicago, have enacted surcharges on ridesharing trips.
+
+5. **Legal Challenges**: Uber has faced legal challenges in various jurisdictions, such as Hong Kong and Colombia, which have affected its ability to operate and may lead to fines or penalties.
+
+6. **Future Risks**: The company is at risk of facing similar regulations in other jurisdictions, which could hinder its growth and operational capabilities.
+
+Overall, these legal and regulatory challenges pose significant risks to Uber's business model and financial performance.
+The text discusses various legal and regulatory challenges faced by Uber Technologies, Inc. It highlights the potential financial implications of fines and defense costs related to lawsuits, as well as the impact of negative press on user engagement. The company faces regulatory hurdles that may favor local competitors and impose restrictions on its operations, which could adversely affect revenue and growth.
+
+Key points include:
+
+1. **Regulatory Obstacles**: Uber encounters challenges from local governments and competitors, including delivery network fee caps and surge pricing limitations.
+
+2. **Legal Risks**: The company is involved in multiple litigations, including class action lawsuits, which could lead to significant financial liabilities.
+
+3. **Compliance Costs**: New laws and regulations may require substantial compliance costs, potentially dampening platform growth.
+
+4. **Environmental Regulations**: Initiatives aimed at reducing emissions may impact operations, prompting Uber to implement fees and transition to electric vehicles.
+
+5. **Brexit Impact**: The exit of the UK from the EU has implications for Uber's operations, as the UK accounted for a notable percentage of global Mobility Gross Bookings.
+
+6. **Ongoing Litigation**: Uber is contesting various legal challenges, which are costly and time-consuming, and adverse outcomes could harm its business operations.
+
+7. **E-bike and E-scooter Risks**: Although Uber divested certain assets, it still faces risks associated with dockless e-bikes and e-scooters available through its app.
+
+Overall, the document emphasizes the complex legal landscape and regulatory environment that Uber must navigate, which poses risks to its business model and financial performance.
+The text discusses various risks and regulatory challenges faced by Uber Technologies, Inc. regarding its dockless e-bikes and e-scooters, competition laws, and payment services. Key points include:
+
+1. **Injury Risks**: Users of dockless e-bikes and e-scooters may face higher injury risks in collisions compared to vehicle occupants due to less protective systems.
+
+2. **Quality Issues**: Any quality problems or defects in e-bikes or e-scooters could lead to negative publicity, regulatory actions, or lawsuits, especially if injuries occur.
+
+3. **Competition Laws**: Uber is under scrutiny from competition authorities in various jurisdictions, including the U.S. and EU, regarding pricing practices. Complaints about pricing strategies could lead to regulatory actions that may affect operations and financial results.
+
+4. **Government Regulation**: Uber's operations are subject to extensive regulations concerning payment and financial services. The company must obtain licenses in certain jurisdictions, and failure to do so could limit operations or lead to fines.
+
+5. **Strong Customer Authentication (SCA)**: New regulatory requirements in the EEA may complicate payment processes, potentially reducing user convenience and affecting transaction success rates, which could impact revenue.
+
+Overall, these factors could adversely affect Uber's business, financial condition, and operational results.
+The text discusses various legal and regulatory challenges faced by Uber Technologies, Inc. It highlights the potential adverse effects on the company's business, financial condition, and operating results due to:
+
+1. **Driver Payments**: The increase in the frequency of driver payments without corresponding consumer payments could negatively impact the business.
+
+2. **Evolving Regulations**: Changes in laws related to money transmission and online payments, particularly in Europe, have led to Uber Payments B.V. being subject to financial services regulations in the EEA. This includes compliance with anti-money laundering and terrorist financing laws.
+
+3. **Compliance Risks**: Non-compliance with financial laws could result in significant legal consequences, including lawsuits, penalties, and reputational harm.
+
+4. **Illegal Uses of Payment System**: The payment system is vulnerable to misuse, such as money laundering and fraud, necessitating substantial investment in compliance measures.
+
+5. **Government Investigations**: Uber is currently under investigation by various government agencies, including the DOJ and state AG offices, regarding business practices, data privacy incidents, and previous breaches. Past breaches have led to settlements and fines, which may continue to affect the company.
+
+6. **Potential Fines and Sanctions**: Ongoing inquiries could lead to additional fines, penalties, and changes in business practices, resulting in reputational damage and operational disruptions.
+
+Overall, the text emphasizes the importance of compliance with evolving regulations and the potential risks associated with legal inquiries and investigations.
+The text discusses the risks Uber Technologies, Inc. faces related to data privacy and security. Key points include:
+
+1. **Legal Risks**: Uber is exposed to potential claims and lawsuits due to past data breaches (2014 and 2016) and ongoing privacy incidents, which could lead to significant financial liabilities and operational restrictions.
+
+2. **Regulatory Compliance**: The company must comply with various privacy laws, including the GDPR in the EU and the CCPA in California, which impose strict requirements on data handling and can result in substantial fines for non-compliance.
+
+3. **Past Settlements**: Uber has entered into multiple settlements with regulatory authorities, including a consent decree with the FTC and fines from European authorities, which require enhanced data security practices.
+
+4. **Acquisition Liabilities**: Uber may inherit liabilities from companies it acquires, as seen with Careem and Drizly, which faced their own data security incidents.
+
+5. **Insurance Limitations**: Uber's insurance may not cover all potential claims, leaving the company vulnerable to significant financial exposure.
+
+6. **Evolving Regulations**: As Uber expands, it may encounter new or amended laws that increase compliance costs and operational burdens, impacting its business and financial condition.
+
+Overall, the text highlights the complex landscape of data privacy regulations and the potential consequences of non-compliance for Uber.
+The text discusses various legal and regulatory challenges that Uber Technologies, Inc. faces, particularly concerning data protection laws and litigation risks. Key points include:
+
+1. **Cross-Border Data Transfers**: Uber relies on mechanisms like the EU Standard Contract Clauses for transferring personal data outside the European Economic Area (EEA). Changes in regulations or legal rulings could hinder these transfers, impacting business operations.
+
+2. **Government Data Disclosure**: Uber may be required to disclose personal data to government agencies, which could lead to compliance issues and damage the company's reputation.
+
+3. **Legal Proceedings**: The company is involved in various legal matters, including driver classification, privacy issues, and employment practices. Adverse outcomes could result in significant costs and operational changes.
+
+4. **Arbitration Provisions**: Uber includes arbitration clauses in its terms of service to streamline dispute resolution. However, these provisions face scrutiny and could lead to increased litigation costs if found unenforceable.
+
+5. **Compliance Costs**: Adapting to evolving data protection laws may increase compliance costs and expose Uber to legal actions, which could disrupt business operations and financial results.
+
+Overall, the text highlights the complexities and potential risks associated with legal compliance and data management for Uber.
+The document discusses several risks and challenges faced by Uber Technologies, Inc. related to its operations in countries with high levels of corruption, compliance with anti-corruption laws, and the regulatory environment for Drivers. Key points include:
+
+1. **Corruption Risks**: Uber operates in regions known for corruption, which increases the risk of unauthorized payments by various parties, including Drivers and business partners. The company is subject to the Foreign Corrupt Practices Act (FCPA) and similar laws, and may face additional compliance requirements.
+
+2. **Driver Licensing Requirements**: Many jurisdictions are enforcing or proposing new licensing rules for Drivers, which could limit Uber's ability to scale its operations. Potential caps on the number of licensed Drivers or vehicles could adversely affect business growth.
+
+3. **Liability for Driver Onboarding Practices**: Uber faces legal challenges regarding its methods for attracting and onboarding Drivers, including lawsuits related to unsolicited communications. Adverse outcomes from these lawsuits could lead to financial damages and operational changes.
+
+4. **Insurance Coverage Dependence**: Uber relies on a combination of third-party insurance and self-insurance. Changes in insurance terms or requirements for additional coverage could negatively impact the business. The cost of insurance is notably higher in the U.S. and Canada, and inadequate coverage could result in significant liabilities.
+
+Overall, these factors highlight the complexities and risks associated with Uber's business model and regulatory environment.
+The text discusses several risks and challenges faced by Uber Technologies, Inc. related to insurance, liability, pricing regulations, and intellectual property protection. Here are the key points:
+
+1. **Insurance and Liability Risks**:
+- Uber and its captive insurance subsidiary have reinsurance and indemnification arrangements that could lead to significant payouts exceeding insurance reserves, impacting financial condition.
+- The company may face claims related to traffic accidents or incidents involving Drivers, which may not be fully covered by insurance policies.
+- There are local laws and regulations regarding insurance coverage that could lead to legal actions or increased costs for Uber.
+
+2. **Pricing Regulations**:
+- Uber's revenue is influenced by pricing models for consumer fares and Driver earnings, which may face challenges or regulations in various jurisdictions.
+- Specific examples include caps on surge pricing in certain cities, which could affect operating costs and revenue.
+
+3. **Intellectual Property Protection**:
+- Uber's intellectual property is crucial for its competitive advantage, and inadequate protection could harm its brand and market position.
+- The company employs various legal measures to protect its intellectual property, but these may not always be effective.
+
+Overall, these factors could adversely affect Uber's business, financial condition, and operational results.
+The text discusses various risks related to Uber Technologies, Inc.'s intellectual property (IP) and financial reporting. Key points include:
+
+1. **Intellectual Property Risks**:
+- Uber faces challenges in protecting its IP from competitors who may copy or reverse-engineer its products.
+- There is a risk of losing competitive advantages if trade secrets are compromised.
+- Enforcement of IP rights can be costly and time-consuming, and there is no guarantee of success.
+- The company may face litigation over alleged IP infringement, which could divert resources and harm its brand.
+
+2. **Financial Reporting Risks**:
+- Changes in accounting principles could significantly affect reported financial results, particularly in revenue recognition.
+- The complexity of accounting for Uber's business model may lead to material changes in financial statements.
+
+3. **Investment Company Act**:
+- Uber believes it does not qualify as an "investment company" under the Investment Company Act, but if deemed so, it would face regulatory burdens that could adversely affect its operations and financial condition.
+
+Overall, these risks highlight the potential challenges Uber may encounter in maintaining its competitive edge and accurately reporting its financial performance.
+The document discusses the risks related to the ownership of Uber Technologies, Inc.'s common stock. It highlights that the market price of the stock has been volatile and may continue to fluctuate due to various factors, including:
+
+- Actual or anticipated changes in key performance indicators (MAPCs, Trips, Adjusted EBITDA, Gross Bookings, revenue).
+- Announcements or estimates regarding the number of Drivers and consumers on the platform.
+- Variations between actual results and expectations from management or analysts.
+- Changes in accounting principles or interpretations.
+- Actions and estimates from securities analysts.
+- Announcements of significant products, innovations, or partnerships.
+- Negative media coverage.
+- Changes in the performance and valuations of technology companies.
+- Stock market fluctuations influenced by broader economic trends.
+- Legal actions against the company.
+- Regulatory developments affecting operations.
+- Changes in the board of directors or management.
+- Safety incidents on the platform.
+- Public statements regarding the legality of product offerings.
+- External events such as war, terrorism, natural disasters, or public health crises.
+
+The document also notes that stock price fluctuations can occur independently of a company's performance and that past volatility has led to securities class action litigation against the company. Additionally, Delaware law and the company's governing documents may complicate mergers or proxy contests, potentially affecting stock prices. Overall, these factors could lead to significant declines in stock price, impacting investors' ability to sell shares at or above their purchase price.
+The document outlines several provisions in Uber Technologies, Inc.'s amended and restated certificate of incorporation and bylaws that could negatively impact the trading price of its common stock. Key points include:
+
+1. **Board Control**: The board of directors has the authority to fill vacancies, limiting stockholder influence.
+2. **Advance Notice Requirements**: These may reduce the number of stockholder proposals.
+3. **Special Meetings**: Limitations on convening special meetings could hinder governance changes.
+4. **Cumulative Voting**: The prohibition on cumulative voting restricts minority stockholders' ability to elect directors.
+5. **Preferred Stock Issuance**: The board can issue preferred stock without stockholder approval, potentially complicating acquisition attempts.
+
+Additionally, the document mentions that significant sales of common stock by existing stockholders could depress stock prices and that the company does not plan to pay cash dividends in the foreseeable future. It also states that disputes between stockholders and the company will be handled in Delaware courts, which may limit stockholders' options for legal recourse.
+The provided text discusses several important aspects related to Uber Technologies, Inc.'s legal and financial reporting obligations. Here are the key points:
+
+1. **Exclusive Forum Provision**: Uber's amended and restated certificate of incorporation designates federal district courts in the U.S. as the exclusive forum for disputes arising under the Securities Act. However, this is contingent on a final ruling in Delaware regarding its enforceability. Other jurisdictions may not uphold this provision, potentially leading to increased costs for Uber if disputes arise outside the designated forum.
+
+2. **Impact on Stockholders**: The exclusive forum provisions may limit stockholders' ability to choose a preferred judicial forum for disputes, which could discourage lawsuits against the company and its directors or officers.
+
+3. **Internal Controls Over Financial Reporting**: As a public company, Uber is required to maintain effective internal controls over financial reporting. Failure to do so could negatively impact investor confidence and the value of its common stock.
+
+4. **Sarbanes-Oxley Act Compliance**: Under Section 404 of the Sarbanes-Oxley Act, Uber must provide an annual report on the effectiveness of its internal controls, and its independent auditors must attest to this effectiveness. Any material weaknesses identified could hinder the company's ability to report its financial condition accurately.
+
+5. **Challenges of Growth**: As Uber expands, particularly in high-growth areas like Delivery and Freight, it may face challenges in maintaining consistent performance and timely implementation of new controls, increasing the risk of material weaknesses in internal controls.
+
+6. **Consequences of Weaknesses**: If material weaknesses are identified, it could lead to a loss of investor confidence, a decline in stock price, and potential sanctions or investigations by regulatory authorities.
+
+7. **Unregistered Sales of Equity Securities**: The report indicates that there are no unregistered sales of equity securities to disclose.
+
+8. **Exhibits**: The report references an Exhibit Index, which includes documents incorporated by reference or filed with the quarterly report.
+
+These points highlight the legal and regulatory challenges Uber faces as a public company, particularly concerning internal controls and the implications of its corporate governance structure.
+The document contains an exhibit index for Uber Technologies, Inc.'s quarterly report filed with the SEC. It lists various exhibits along with their descriptions, filing dates, and references. Key exhibits include:
+
+- **3.1**: Amended and Restated Certificate of Incorporation
+- **3.2**: Amended and Restated Bylaws
+- **10.1**: RSU Conversion and Deferral Program for Directors
+- **10.2**: Amendment to the Google Maps Master Agreement
+- **31.1**: Certification of the Principal Executive Officer
+- **31.2**: Certification of the Principal Financial Officer
+- **32.1**: Certifications pursuant to 18 U.S.C. Section 1350
+- **101.INS to 101.PRE**: Various XBRL documents
+
+Certain portions of exhibits have been omitted, and the certifications are deemed furnished, not filed.
+The document includes the signatures of key executives from Uber Technologies, Inc. as part of their quarterly report filed with the SEC. The signatures confirm the authenticity of the report and indicate that the individuals are duly authorized to represent the company.
+
+The signatories are:
+- Dara Khosrowshahi, Chief Executive Officer and Director (Principal Executive Officer)
+- Nelson Chai, Chief Financial Officer (Principal Financial Officer)
+
+Both signatures are dated May 5, 2022.
+The document is an exhibit detailing the RSU (Restricted Stock Unit) Conversion and Deferral Program for Directors of Uber Technologies, Inc. It was approved on November 1, 2021, and became effective on May 9, 2022.
+
+Key points include:
+
+1. **Purpose**: The program allows Directors to convert their compensation into RSU Awards and defer the settlement of these awards.
+
+2. **Equity Incentive Plan**: RSU Awards will be issued under the Equity Plan, subject to its terms, with shares drawn from the Equity Plan's reserve.
+
+3. **Effective Date**: The program is effective for compensation earned on or after the date of the 2022 annual stockholders' meeting.
+
+4. **Definitions**:
+- "Administrator" refers to the Compensation Committee or delegated persons.
+- "Affiliate" includes any parent, subsidiary, or entity under common control with the Company.
+- "Award Agreement" is the document outlining the terms of an RSU Award.
+- "Board" refers to the Board of Directors of Uber.
+- "Code" refers to the U.S. Internal Revenue Code.
+- "Company" refers to Uber Technologies, Inc. and its successors.
+
+This document outlines the framework for how Directors can manage their compensation through RSUs.
+The text provided defines several terms related to compensation and corporate transactions for Uber Technologies, Inc. Here are the key definitions:
+
+1. **Compensation**: Cash compensation earned by Directors for their services to the Board or a Board committee.
+
+2. **Converted RSU Award**: An RSU Award made under Section 4.
+
+3. **Conversion Date**: The date when Compensation would be payable to a Participant if there were no Deferral Election.
+
+4. **Corporate Transaction**: This includes several scenarios:
+- **Merger or Consolidation**: A transaction where the voting securities of the Company do not continue to represent at least 50% of the total voting power after the transaction.
+- **Beneficial Ownership**: When an Exchange Act Person acquires more than 50% of the voting power of the Company’s securities, excluding additional acquisitions by those already owning over 50%.
+- **Sale of Assets**: The sale or disposition of all or substantially all of the Company’s assets, except to the Company or its wholly owned subsidiaries.
+- **Change in Control**: Occurs when a majority of the Board members are replaced within a 12-month period by members not endorsed by the majority of the existing Board.
+
+5. **Deferral Election**: Defined in Section 5.1, though the specific definition is not provided in the text.
+
+These definitions are part of the regulatory framework governing compensation and corporate governance for the company.
+The text provided appears to be definitions from a legal or regulatory document related to Uber Technologies, Inc., specifically concerning terms used in their Equity Incentive Plan. Here are some key definitions:
+
+- **Deferral Election Form**: A form for Directors to make a Deferral Election.
+- **Deferred RSUs**: The portion of a Restricted Stock Unit (RSU) Award that is subject to a Deferral Election.
+- **Director**: A non-employee member of the Board based in the U.S.
+- **Disability**: A condition where a Participant is unable to engage in substantial gainful activity due to a physical or mental impairment expected to last at least 12 months.
+- **Effective Date**: The date defined in Section 1.3 of the document.
+- **Entity**: A corporation, partnership, limited liability company, or other organization.
+- **Equity Plan**: The Uber Technologies, Inc. 2019 Equity Incentive Plan, including any amendments or successor plans.
+- **Exchange Act**: Refers to the U.S. Securities Exchange Act of 1934 and its regulations.
+- **Exchange Act Person**: A definition that excludes certain entities and individuals from being classified as such under the Exchange Act.
+- **Non-Converted RSU Award**: An RSU Award made under the Director Compensation Policy that is not a Converted RSU Award.
+- **Parent**: A corporation in a chain of corporations ending with the Company.
+
+If you have specific questions about any of these terms or need further clarification, feel free to ask!
+The document outlines the definitions and eligibility criteria for the Uber Technologies, Inc. RSU Conversion and Deferral Program for Directors. Key points include:
+
+- **Participant**: A Director who opts into the Program by making a Deferral Election or an RSU Election.
+- **Program**: The RSU Conversion and Deferral Program for Directors, which may be amended over time.
+- **RSU Award**: A restricted stock unit award granted under the Equity Plan.
+- **Eligibility**: Directors are eligible to participate, and those who cease to be eligible will still be considered Participants for previously converted RSU Awards until fully distributed.
+- **RSU Election**: Directors can convert a percentage of their Compensation into RSU Awards by completing an RSU Election Form, which becomes irrevocable after the specified deadline.
+
+This section provides a framework for how Directors can manage their compensation through RSU Awards.
+The document outlines the procedures and regulations regarding Restricted Stock Unit (RSU) Elections and Deferral Elections for participants in the program. Here are the key points:
+
+1. **Timing of RSU Election**:
+- RSU Elections must be made by December 31 of the year prior to the calendar year in which the services are performed, or earlier as determined by the Administrator.
+- If an individual becomes eligible to participate during a calendar year, they can make an RSU Election within 30 days of eligibility.
+
+2. **Effect of RSU Election**:
+- Compensation subject to the RSU Election will be converted into RSU Awards based on the average daily closing price of the company's stock in the month prior to the conversion date.
+
+3. **Vesting and Issuance of RSU Award**:
+- RSU Awards will be fully vested and issued within 60 days following the conversion date, unless specified otherwise by the Administrator.
+
+4. **RSU Award Terms**:
+- RSU Awards are governed by the terms of the Equity Incentive Plan, which includes provisions for tax withholding, restrictions, and corporate events.
+
+5. **Election to Defer RSUs**:
+- Directors can elect to defer the issuance of a percentage of Shares from an RSU Award by submitting a Deferral Election Form.
+- Once made, a Deferral Election is irrevocable and applies only to Converted RSU Awards related to Compensation for the specified calendar year.
+
+This summary captures the essential details regarding RSU and Deferral Elections as outlined in the document.
+The text outlines the procedures and regulations regarding the deferral of Restricted Stock Unit (RSU) Awards for Directors within a specific program. Here are the key points:
+
+1. **Deferral Election Timing**:
+- For Converted RSU Awards, a Director must make a Deferral Election at the same time as the RSU Election for the corresponding Compensation.
+- For Non-Converted RSU Awards, the Deferral Election must generally be made by December 31 of the year prior to the award issuance. New participants have 30 days from their eligibility date to make this election.
+
+2. **Form of Issuance**:
+- Participants can choose to receive shares from Deferred RSUs either as a single payment or in three annual installments. If no choice is made, the default is a single payment.
+
+3. **Re-deferral Election**:
+- Participants may postpone the issuance of Deferred RSUs for at least five years, with the election taking effect 12 months after it is made. However, in cases of Corporate Transactions, Disability, or death, shares will be issued as per the original schedule.
+
+4. **Issuance Upon Termination of Service**:
+- Shares from Deferred RSUs will be issued within 90 days following a Participant's termination of service, unless specified otherwise by the Administrator.
+
+These provisions ensure that Directors have options regarding the timing and method of receiving their RSU Awards while adhering to regulatory requirements.
+The text provided outlines the terms and conditions related to the in-service distribution, annual installments, accelerated issuance, beneficiary designations, and vesting of shares for Deferred Restricted Stock Units (RSUs) under a compensation program. Here are the key points:
+
+1. **In-Service Distribution (Section 6.2)**: Participants can elect a distribution date for their Deferred RSUs, which must be after three years from the deferral election. If the participant's service ends before this date, shares will be issued around May 16 following termination.
+
+2. **Annual Installments (Section 6.3)**: After the initial share issuance, subsequent shares will be issued annually on the anniversary of the initial issuance. Shares will be divided by three, rounding down any fractions, with fractional shares accumulated for the final installment.
+
+3. **Accelerated Issuance (Section 6.4)**: In the event of a corporate transaction, disability, or death, all Deferred RSUs will be issued in a single payment within 90 days of the event.
+
+4. **Beneficiary Designation (Section 6.5)**: Participants can designate beneficiaries, which can be changed at any time before death. If no beneficiary is designated or if the designated beneficiary predeceases the participant, the participant's estate will be the beneficiary.
+
+5. **Vesting and Issuance of Shares (Section 6.6)**: Shares underlying RSUs will be fully vested and issued as soon as practicable after the issuance date, but no later than March 15 of the following calendar year, or December 31 in the case of death.
+
+These sections provide a framework for how Deferred RSUs are managed, including the timing of distributions and the rights of participants and their beneficiaries.
+The text provided outlines specific provisions related to a benefits program administered by Uber Technologies, Inc. Here are the key points:
+
+1. **No Right to Assets (7.1)**: Participation in the program does not grant participants any rights or liens against the company's assets. The benefits are unfunded, and participants are considered general unsecured creditors.
+
+2. **No Right to Transfer Interest (7.2)**: Benefits under the program cannot be transferred, sold, or assigned. However, an alternate payee may receive benefits under certain conditions defined by a domestic relations order, provided it does not grant them rights to the company's assets or payments beyond what the participant is entitled to.
+
+3. **No Service Rights (7.3)**: Participation in the program does not guarantee continued employment. The company retains the right to terminate any participant's service at any time and for any reason.
+
+4. **Administration of the Program (8.1)**: The program is administered by an Administrator who has the authority to adopt rules, determine requirements for elections, interpret program terms, and resolve questions or ambiguities.
+
+5. **Incapacity (8.2)**: If a participant is unable to manage their affairs due to illness or accident, payments may be made to a designated family member or party deemed appropriate by the Administrator, unless a legal guardian has been appointed.
+
+These sections emphasize the non-vested nature of benefits, the lack of transferability, and the administrative authority over the program.
+The text provided outlines several sections of a program related to compensation and benefits for participants, likely within a corporate context. Here are the key points summarized:
+
+1. **Amendment, Suspension, and Termination (Section 8.3)**: The Compensation Committee can amend, suspend, or terminate the program at any time. However, any changes that reduce benefits for existing participants after a Corporate Transaction require their written consent. Amendments for compliance with Section 409A of the Code can be made without reducing participant benefits.
+
+2. **Power to Delegate Authority (Section 8.4)**: The Administrator has the discretion to delegate its authority and responsibilities under the program to others.
+
+3. **Headings (Section 8.5)**: Headings in the document are for reference only and do not influence the interpretation of the program's provisions.
+
+4. **Severability (Section 8.6)**: If any part of the program is found to be void or unenforceable, the remaining provisions will still be effective. The void provisions may be limited or replaced to maintain the program's intended benefits.
+
+5. **Governing Law (Section 8.7)**: The program will be governed by California law, excluding any conflicting legal principles, unless federal law overrides.
+
+6. **Complete Statement of Program (Section 8.8)**: The program is a complete statement of its terms, and benefits are determined solely by its provisions. Other evidence will not be considered, except for terms from the Equity Plan and applicable Award Agreements regarding RSU Awards.
+
+7. **Compliance with Section 409A of the Code (Section 8.9)**: The program aims to comply with or be exempt from Section 409A of the Code. It specifies conditions for distributions, payments upon termination, and the treatment of installment payments, ensuring that participants cannot designate the year for distributions outside of the Code's provisions.
+
+This summary captures the essential elements of the sections provided. If you have specific questions or need further details, feel free to ask!
+It seems that the text you provided is a fragment from a legal or financial document, possibly related to tax implications under Section 409A of the Internal Revenue Code. If you have specific questions about this section or need further information regarding the quarterly report from Uber Technologies, Inc., please let me know!
+The document is an amendment to the Google Maps Master Agreement between Google LLC and Uber Technologies, Inc. It outlines changes to the Services Schedule related to the Google Maps Platform Rides and Delivery Solution Services. Key points include:
+
+1. **Effective Date**: The amendment is effective upon signing by Google.
+2. **Amendments**:
+- **Section 11.4(b)**: Specifies that upon termination or expiration of the Order Form, Uber must delete cached Google Maps content, with certain exceptions outlined in the agreement.
+- **Section 12**: Lists the sections that will survive the expiration or termination of the Services Schedule, including data use, intellectual property ownership, and content usage frameworks.
+- **Section 14**: Additional definitions related to the agreement are to be amended, though specific changes are not detailed in the provided text.
+
+This amendment is part of the ongoing contractual relationship between the two companies regarding the use of Google Maps services.
+The document appears to be an amendment to an agreement between Google and a customer, detailing changes to specific appendices related to a caching solution and content usage framework. It confirms that the original agreement remains in effect except for the modifications made by this amendment. The governing law and dispute resolution provisions of the original agreement also apply to this amendment. The document is signed by authorized representatives from both parties, indicating their agreement to the changes.
+
+If you have specific questions about the content or need further details, please let me know!
+It seems that you have provided a reference to an appendix related to a caching solution, but there is no specific question or context provided. Could you please clarify what information or assistance you need regarding the caching solution or any other aspect of the quarterly report?
+It seems that the content you provided is a reference to an appendix related to a content usage framework, but it does not contain specific information or questions. If you have any specific questions or need information about Uber Technologies, Inc.'s quarterly report or any other topic, please let me know!
+The document is a certification by Dara Khosrowshahi, the Chief Executive Officer of Uber Technologies, Inc., in accordance with the Sarbanes-Oxley Act of 2002. It certifies the accuracy and completeness of the company's Quarterly Report on Form 10-Q. Key points from the certification include:
+
+1. Review of the report and assurance that it does not contain any misleading statements.
+2. Confirmation that the financial statements fairly present the company's financial condition and results of operations.
+3. Responsibility for establishing and maintaining disclosure controls and internal control over financial reporting.
+4. Evaluation of the effectiveness of these controls and disclosure of any changes that may materially affect them.
+5. Disclosure of any significant deficiencies or fraud related to internal control over financial reporting.
+
+The certification is dated May 5, 2022, and is signed by Dara Khosrowshahi.
+The document is a certification by Nelson Chai, the Chief Financial Officer of Uber Technologies, Inc., in accordance with the Sarbanes-Oxley Act of 2002. It certifies the accuracy and completeness of the company's Quarterly Report on Form 10-Q. Key points include:
+
+1. Review of the report and assurance that it does not contain misleading statements.
+2. Confirmation that the financial statements fairly present the company's financial condition and results.
+3. Responsibility for establishing and maintaining disclosure controls and internal control over financial reporting.
+4. Evaluation of the effectiveness of these controls and disclosure of any changes that may materially affect them.
+5. Disclosure of any significant deficiencies or fraud related to internal control over financial reporting.
+
+The certification is dated May 5, 2022, and is signed by Nelson Chai.
+The document contains certifications from the Chief Executive Officer, Dara Khosrowshahi, and the Chief Financial Officer, Nelson Chai, of Uber Technologies Inc. These certifications are made pursuant to 18 U.S.C. Section 1350 and the Sarbanes-Oxley Act of 2002. Both executives affirm that the Quarterly Report on Form 10-Q for the period ended March 31, 2022, complies with the requirements of the Securities Exchange Act of 1934 and accurately presents the financial condition and results of operations of the company. The certifications are dated May 5, 2022.
+The document is a quarterly report (Form 10-Q) filed by Uber Technologies, Inc. with the SEC for the period ended March 31, 2022. It includes essential information such as the company's incorporation details, trading symbol (UBER), and confirmation of compliance with filing requirements. The report indicates that Uber is a large accelerated filer and confirms that it is not a shell company. As of May 2, 2022, there were 1,963,660,253 shares of common stock outstanding.
+The document is a quarterly report from Uber Technologies, Inc. filed with the SEC. It includes the following sections:
+
+1. **Special Note Regarding Forward-Looking Statements** - Page 2
+2. **PART I - FINANCIAL INFORMATION** - Page 4
+- Item 1: Financial Statements (unaudited)
+- Condensed Consolidated Balance Sheets as of December 31, 2021, and March 31, 2022 - Page 4
+- Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2021, and 2022 - Page 5
+- Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three Months Ended March 31, 2021, and 2022 - Page 6
+- Condensed Consolidated Statements of Redeemable Non-Controlling Interests and Equity for the Three Months Ended March 31, 2021, and 2022 - Page 7
+- Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2021, and 2022 - Page 9
+- Notes to Condensed Consolidated Financial Statements - Page 11
+- Item 2: Management's Discussion and Analysis of Financial Condition and Results of Operations - Page 32
+- Item 3: Quantitative and Qualitative Disclosures About Market Risk - Page 48
+- Item 4: Controls and Procedures - Page 48
+
+3. **PART II - OTHER INFORMATION** - Page 49
+- Item 1: Legal Proceedings - Page 49
+- Item 1A: Risk Factors - Page 50
+- Item 2: Unregistered Sales of Equity Securities and Use of Proceeds - Page 86
+- Item 6: Exhibits - Page 86
+- Signatures - Page 88
+
+This report provides a comprehensive overview of Uber's financial performance and other relevant information for the specified quarter.
+The document contains a section titled "Special Note Regarding Forward-Looking Statements," which outlines various forward-looking statements made by Uber Technologies, Inc. These statements pertain to the company's future operations, financial performance, business strategy, and other relevant factors. Key points include:
+
+- The potential impacts of COVID-19 and other pandemics on the business.
+- The company's ability to defend against litigation and government proceedings.
+- Competition in the market and management of growth.
+- Expectations regarding financial performance, including revenue and profitability.
+- Anticipated investments in new products and capital expenditures.
+- The ability to recruit and retain skilled personnel.
+- Plans for international expansion and compliance with regulations.
+
+The document emphasizes that actual results may differ from these forward-looking statements and advises caution in relying on them as predictions of future events.
+The text discusses the nature of forward-looking statements made by Uber Technologies, Inc. in their Quarterly Report on Form 10-Q. It highlights that these statements are subject to various risks, uncertainties, and assumptions, which could lead to actual results differing materially from those projected. The company emphasizes that statements reflecting beliefs and opinions are based on information available at the time of the report and may not be exhaustive. Furthermore, the report clarifies that forward-looking statements are only valid as of their date and that Uber does not commit to updating them unless legally required. Investors are advised to be cautious and not to place undue reliance on these statements.
+**Uber Technologies, Inc. Condensed Consolidated Balance Sheets Summary:**
+
+**As of December 31, 2021:**
+- Total Assets: $38,774 million
+- Total Liabilities: $23,425 million
+- Total Equity: $15,145 million
+
+**As of March 31, 2022:**
+- Total Assets: $32,812 million
+- Total Liabilities: $22,994 million
+- Total Equity: $9,613 million
+
+**Key Changes:**
+- Total Assets decreased by $5,962 million.
+- Total Liabilities decreased by $431 million.
+- Total Equity decreased by $5,532 million.
+
+**Current Assets (Comparison):**
+- Cash and Cash Equivalents: Decreased from $4,295 million to $4,184 million.
+- Accounts Receivable: Increased from $2,439 million to $2,476 million.
+- Total Current Assets: Decreased from $8,819 million to $8,665 million.
+
+**Long-term Debt:**
+- Remained relatively stable, with a slight decrease from $9,276 million to $9,273 million.
+
+This summary provides a snapshot of Uber's financial position at the end of the specified periods.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Operations (Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021**
+- Revenue: $2,903 million
+- Total Costs and Expenses: $4,427 million
+- Loss from Operations: $(1,524) million
+- Interest Expense: $(115) million
+- Other Income (Expense), Net: $1,710 million
+- Income (Loss) Before Income Taxes: $71 million
+- Provision for Income Taxes: $185 million
+- Income (Loss) from Equity Method Investments: $(8) million
+- Net Loss: $(122) million
+- Net Loss Attributable to Uber Technologies, Inc.: $(108) million
+- Net Loss Per Share (Basic): $(0.06)
+- Weighted-Average Shares (Basic): 1,858,525
+
+- **2022**
+- Revenue: $6,854 million
+- Total Costs and Expenses: $7,336 million
+- Loss from Operations: $(482) million
+- Interest Expense: $(129) million
+- Other Income (Expense), Net: $(5,557) million
+- Income (Loss) Before Income Taxes: $(6,168) million
+- Provision for Income Taxes: $(232) million
+- Income (Loss) from Equity Method Investments: $18 million
+- Net Loss: $(5,918) million
+- Net Loss Attributable to Uber Technologies, Inc.: $(5,930) million
+- Net Loss Per Share (Basic): $(3.03)
+- Weighted-Average Shares (Basic): 1,953,989
+
+This summary provides a snapshot of Uber's financial performance for the specified quarters, highlighting revenue, expenses, losses, and per-share metrics.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Comprehensive Income (Loss)**
+
+**(In millions) (Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021:**
+- Net loss including non-controlling interests: $(122)
+- Other comprehensive income, net of tax:
+- Change in foreign currency translation adjustment: $33
+- Change in unrealized gain on investments in available-for-sale securities: $1,156
+- Other comprehensive income, net of tax: $1,189
+- Comprehensive income (loss) including non-controlling interests: $1,067
+- Less: comprehensive income (loss) attributable to non-controlling interests: $(14)
+- Comprehensive income (loss) attributable to Uber Technologies, Inc.: $1,081
+
+- **2022:**
+- Net loss including non-controlling interests: $(5,918)
+- Other comprehensive income, net of tax:
+- Change in foreign currency translation adjustment: $19
+- Change in unrealized gain on investments in available-for-sale securities: $0
+- Other comprehensive income, net of tax: $19
+- Comprehensive income (loss) including non-controlling interests: $(5,899)
+- Less: comprehensive income (loss) attributable to non-controlling interests: $12
+- Comprehensive income (loss) attributable to Uber Technologies, Inc.: $(5,911)
+
+**Note:** The accompanying notes are an integral part of these condensed consolidated financial statements.
+The provided text is a portion of the condensed consolidated statements of redeemable non-controlling interests and equity for Uber Technologies, Inc. as of March 31, 2021. It includes financial data such as balances, stock transactions, and adjustments related to equity and non-controlling interests.
+
+Key figures from the statement include:
+
+- Balance as of December 31, 2020:
+- Redeemable Non-Controlling Interests: $787 million
+- Common Stock: 1,849,794 shares
+- Additional Paid-In Capital: $35,931 million
+- Accumulated Other Comprehensive Income (Loss): $(535) million
+- Accumulated Deficit: $(23,130) million
+- Redeemable Non-Controlling Interests: $701 million
+- Total Equity: $12,967 million
+
+- Balance as of March 31, 2021:
+- Redeemable Non-Controlling Interests: $473 million
+- Common Stock: 1,867,369 shares
+- Additional Paid-In Capital: $36,182 million
+- Accumulated Other Comprehensive Income: $654 million
+- Accumulated Deficit: $(23,238) million
+- Total Equity: $13,598 million
+
+The statement also details various transactions affecting equity, such as stock options exercised, stock-based compensation, and adjustments for unrealized gains and losses.
+The document contains the condensed consolidated statements of redeemable non-controlling interests and equity for Uber Technologies, Inc. as of March 31, 2022. Here are the key details:
+
+- **Balance as of December 31, 2021**:
+- Redeemable Non-Controlling Interests: $204 million
+- Common Stock: 1,949,316 shares
+- Additional Paid-In Capital: $38,608 million
+- Other Comprehensive Income (Loss): $(524) million
+- Accumulated Deficit: $(23,626) million
+- Non-Controlling Interests: $687 million
+- Total Equity: $15,145 million
+
+- **Changes during the quarter**:
+- Exercise of stock options: 1,093 shares, $6 million increase in Additional Paid-In Capital
+- Stock-based compensation: $369 million increase in Additional Paid-In Capital
+- Issuance of common stock for RSUs: 9,569 shares, no impact on equity
+- Shares withheld for net share settlement: $(11) million decrease in Additional Paid-In Capital
+- Issuance of common stock for contingent consideration: 132 shares, $5 million increase in Additional Paid-In Capital
+- Foreign currency translation adjustment: $19 million increase in Other Comprehensive Income
+- Net loss: $(5,920) million (including $1 million from redeemable non-controlling interests)
+
+- **Balance as of March 31, 2022**:
+- Redeemable Non-Controlling Interests: $205 million
+- Common Stock: 1,959,794 shares
+- Additional Paid-In Capital: $38,977 million
+- Other Comprehensive Income (Loss): $(505) million
+- Accumulated Deficit: $(29,556) million
+- Non-Controlling Interests: $697 million
+- Total Equity: $9,613 million
+
+This summary provides an overview of the changes in equity and the financial position of Uber Technologies, Inc. for the specified quarter.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Cash Flows (In millions, Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021**:
+- Net loss including non-controlling interests: $(122)
+- Net cash provided by (used in) operating activities: $(611)
+- Net cash used in investing activities: $(250)
+- Net cash used in financing activities: $(226)
+- Effect of exchange rate changes: $(46)
+
+- **2022**:
+- Net loss including non-controlling interests: $(5,918)
+- Net cash provided by (used in) operating activities: $15
+- Net cash used in investing activities: $(135)
+- Net cash used in financing activities: $(113)
+- Effect of exchange rate changes: $20
+
+This summary provides a snapshot of Uber's cash flows from operating, investing, and financing activities for the specified quarters.
+The provided text includes financial information related to Uber Technologies, Inc.'s cash and cash equivalents, as well as supplemental disclosures regarding cash flow. Here are the key points:
+
+1. **Net Decrease in Cash and Cash Equivalents**:
+- Current period: $(1,133)
+- Previous period: $(213)
+
+2. **Cash and Cash Equivalents, and Restricted Cash**:
+- Beginning of period: $7,391 (current) and $7,805 (previous)
+- Reclassification from assets held for sale: $349 (current) and $0 (previous)
+- End of period: $6,607 (current) and $7,592 (previous)
+
+3. **Reconciliation to Condensed Consolidated Balance Sheets**:
+- Cash and cash equivalents: $4,836 (current) and $4,184 (previous)
+- Restricted cash and cash equivalents (current): $247 (current) and $543 (previous)
+- Restricted cash and cash equivalents (non-current): $1,524 (current) and $2,865 (previous)
+- Total: $6,607 (current) and $7,592 (previous)
+
+4. **Supplemental Disclosures of Cash Flow Information**:
+- Cash paid for interest (net of amount capitalized): $84 (current) and $135 (previous)
+- Cash paid for income taxes (net of refunds): $22 (current) and $41 (previous)
+- Non-cash investing and financing activities:
+- Finance lease obligations: $21 (current) and $46 (previous)
+- Right-of-use assets obtained in exchange for lease obligations: $45 (current) and $132 (previous)
+- Ownership interest received in exchange for divestiture: $1,018 (current) and $0 (previous)
+- Conversion of convertible notes to common stock: $158 (current) and $0 (previous)
+
+This summary captures the essential financial data regarding cash flow and equivalents for the specified periods.
+**Note 1 – Description of Business and Summary of Significant Accounting Policies**
+
+**Description of Business**
+Uber Technologies, Inc. (“Uber”) was incorporated in Delaware in July 2010 and is headquartered in San Francisco, California. Uber operates a technology platform that connects consumers (Riders) with independent ride service providers (Mobility Drivers) for ridesharing, and connects Riders and other consumers (Eaters) with restaurants and stores (Merchants) through delivery service providers (Couriers). Uber also connects consumers with public transportation networks and facilitates connections in the freight industry. The technology is utilized globally, primarily in the U.S., Canada, Latin America, Europe, the Middle East, Africa, and Asia (excluding China and Southeast Asia).
+
+**Basis of Presentation**
+The unaudited condensed consolidated financial statements are prepared in accordance with GAAP and SEC regulations for interim financial reporting. The balance sheet as of December 31, 2021, is derived from audited financial statements. Certain disclosures may be condensed or omitted, and results for interim periods may not indicate full-year results. Management believes the financial statements include all necessary adjustments for a fair presentation.
+
+**Basis of Consolidation**
+The financial statements include accounts of Uber Technologies, Inc. and entities consolidated under variable interest and voting models, with all intercompany balances and transactions eliminated.
+
+**Use of Estimates**
+Preparing the financial statements requires management to make estimates and assumptions affecting reported amounts. These estimates, based on historical experience and reasonable assumptions, include fair values of investments, useful lives of assets, impairment assessments, stock-based compensation, and tax reserves. The COVID-19 pandemic has introduced uncertainties that may affect these estimates in future periods.
+**1. What impact has COVID-19 had on Uber's business?**
+
+COVID-19 has adversely impacted Uber's business by reducing global demand for Mobility offerings while accelerating the growth of Delivery offerings. The pandemic has created uncertainty regarding its cumulative and ultimate impact on Uber's future operations, financial position, liquidity, and cash flows.
+
+**2. What accounting standard did Uber adopt in January 2022?**
+
+Uber adopted ASU 2021-10, “Government Assistance (Topic 832): Disclosures by Business Entities about Government Assistance,” on January 1, 2022. This standard requires disclosures about transactions with a government accounted for by applying a grant or contribution accounting model by analogy.
+
+**3. What is the effective date for the recently issued ASU 2021-08?**
+
+The ASU 2021-08, “Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers,” is effective for public companies for fiscal years and interim periods beginning after December 15, 2022.
+
+**4. How did Uber's total revenue change from Q1 2021 to Q1 2022?**
+
+Uber's total revenue increased from $2,903 million in Q1 2021 to $6,854 million in Q1 2022.
+
+**5. What were the revenue figures for Mobility and Delivery in Q1 2022?**
+
+In Q1 2022, Mobility revenue was $2,518 million, and Delivery revenue was $2,512 million.
+The document provides a detailed overview of Uber Technologies, Inc.'s financial performance for the first quarter of 2022, including revenue recognition policies for mobility, delivery, and freight services. Here are the key points:
+
+1. **Mobility Services Revenue**:
+- Uber recognizes revenue from end-users on a gross basis in markets where it is responsible for providing mobility services. Revenue is recognized when a trip is completed.
+- Payments to drivers are recorded as cost of revenue, excluding depreciation and amortization.
+
+2. **Delivery Revenue**:
+- Revenue is derived from merchants and couriers using the delivery platform. In certain markets, delivery fees charged to end-users are included in revenue.
+- For the three months ended March 31, 2021, and 2022, revenue from end-users was $88 million and $241 million, respectively. Cost of revenue for these transactions was $339 million and $740 million for the same periods.
+
+3. **Freight Revenue**:
+- This includes revenue from freight transportation services and transportation management following the acquisition of Tupelo Parent, Inc. (Transplace).
+
+4. **All Other Revenue**:
+- Prior to 2022, this primarily included collaboration revenue from the Advanced Technologies Group and revenue from New Mobility offerings.
+
+5. **Contract Balances**:
+- As of March 31, 2022, Uber had $155 million in contract liabilities. Revenue recognized from these contracts was not material for the three months ended March 31, 2021, and 2022.
+- Remaining performance obligations for contracts with an expected length greater than one year are expected to be recognized as $25 million within 12 months and $121 million beyond 12 months, totaling $146 million.
+
+6. **Investments**:
+- As of March 31, 2022, Uber's investments included non-marketable equity securities valued at $306 million and marketable equity securities with significant decreases in value for companies like Didi, Grab, and Aurora compared to December 31, 2021.
+- Total investments decreased from $11,806 million as of December 31, 2021, to $6,247 million as of March 31, 2022.
+
+This summary encapsulates the financial performance and key metrics from the quarterly report.
+The document provides a detailed overview of Uber Technologies, Inc.'s financial assets and liabilities measured at fair value on a recurring basis as of December 31, 2021, and March 31, 2022. It categorizes these assets and liabilities into three levels based on the fair value hierarchy:
+
+1. **Financial Assets**:
+- **Non-marketable equity securities**:
+- As of December 31, 2021: $32 million (Level 3)
+- As of March 31, 2022: $21 million (Level 3)
+- **Marketable equity securities**:
+- As of December 31, 2021: $11,359 million (Level 1)
+- As of March 31, 2022: $5,811 million (Level 1)
+- **Note receivable from a related party**:
+- As of December 31, 2021: $132 million (Level 3)
+- As of March 31, 2022: $130 million (Level 3)
+
+**Total Financial Assets**:
+- As of December 31, 2021: $11,523 million
+- As of March 31, 2022: $5,962 million
+
+2. **Financial Liabilities**:
+- **MLU B.V. Call Option**:
+- As of December 31, 2021: $193 million (Level 3)
+- As of March 31, 2022: $12 million (Level 3)
+
+**Total Financial Liabilities**:
+- As of December 31, 2021: $193 million
+- As of March 31, 2022: $12 million
+
+The document also discusses the valuation techniques used for Level 3 inputs, which include unobservable inputs and estimation techniques due to the lack of quoted market prices. It highlights the sensitivity of fair value estimates to changes in these inputs, particularly in relation to the investee's financing activities.
+
+Additionally, a reconciliation of Level 3 financial assets and liabilities as of March 31, 2022, shows changes in fair value, with non-marketable equity securities decreasing by $11 million, note receivables decreasing by $2 million, and the MLU B.V. Call Option decreasing by $181 million.
+The document provides detailed information about Uber Technologies, Inc.'s non-financial assets and equity method investments as of March 31, 2022. Here are the key points:
+
+1. **Non-Financial Assets**:
+- Goodwill, intangible assets, and property and equipment are adjusted to fair value when an impairment charge is recognized, primarily using Level 3 inputs.
+
+2. **Non-Marketable Equity Securities**:
+- These are investments in privately held companies without readily determinable fair values.
+- The carrying value is adjusted based on observable transactions or for impairment, recorded in other income (expense), net.
+- No material unrealized or realized gains or losses were recorded for these securities during the three months ended March 31, 2021, and 2022.
+- The total carrying value of non-marketable equity securities as of March 31, 2022, was $285 million, up from $283 million as of December 31, 2021.
+
+3. **Equity Method Investments**:
+- The carrying value of equity method investments decreased from $800 million as of December 31, 2021, to $624 million as of March 31, 2022.
+- The significant change was due to an impairment charge of $182 million for the investment in MLU B.V., attributed to economic projections related to the Russian economy amid geopolitical tensions.
+- The carrying value of MLU B.V. was $574 million as of March 31, 2022, down from $751 million as of December 31, 2021.
+
+4. **MLU B.V. Basis Difference**:
+- The carrying value includes a basis difference, adjusted for share in income or losses and amortization.
+- Currency translation adjustments due to the depreciation of the Ruble against the U.S. Dollar will be reflected in future financial statements.
+
+This summary encapsulates the financial adjustments and valuations related to Uber's non-financial and equity method investments as of the specified date.
+The table below summarizes the composition of the basis difference as of March 31, 2022 (in millions):
+
+- Equity method goodwill: $320
+- Intangible assets, net of accumulated amortization: $48
+- Deferred tax liabilities: $(13)
+- Cumulative currency translation adjustments: $(70)
+
+**Total Basis Difference:** $285 million
+
+**Amortization Details:**
+- The basis difference related to intangible assets is amortized over an estimated useful life of approximately 3.1 years using the straight-line method.
+- Equity method goodwill is not amortized.
+
+**MLU B.V. Call Option:**
+- On August 30, 2021, Uber granted Yandex an option to acquire its remaining equity interest in MLU B.V. for approximately $1.8 billion.
+- As of December 31, 2021, the fair value of the MLU B.V. Call Option was $193 million.
+- As of March 31, 2022, the fair value decreased to $12 million, reflecting a $181 million gain for the fair value change during the quarter.
+
+**Goodwill Changes:**
+The following table presents the changes in the carrying value of goodwill by reportable segment for the three months ended March 31, 2022 (in millions):
+
+| Segment   | Mobility | Delivery | Freight | Total Goodwill |
+|-----------|----------|----------|---------|-----------------|
+| Balance as of December 31, 2021 | $2,581   | $4,401   | $1,438  | $8,420          |
+| Acquisitions | $64      | —        | —       | $64             |
+| Measurement period adjustment | —        | —        | $5      | $5              |
+| Foreign currency translation adjustment | $(56)   | $2      | —       | $(54)           |
+| **Balance as of March 31, 2022** | **$2,589** | **$4,403** | **$1,443** | **$8,435**      |
+The report provides details on Uber Technologies, Inc.'s intangible assets as of December 31, 2021, and March 31, 2022. Here are the key points:
+
+### Intangible Assets Overview
+
+#### As of December 31, 2021:
+- **Total Gross Carrying Value**: $3,032 million
+- **Total Accumulated Amortization**: $(620) million
+- **Net Carrying Value**: $2,412 million
+
+#### Breakdown:
+- **Consumer, Merchant and other relationships**:
+- Gross: $1,868 million
+- Accumulated Amortization: $(294) million
+- Net: $1,574 million
+- Useful Life: 9 years
+- **Developed technology**:
+- Gross: $922 million
+- Accumulated Amortization: $(269) million
+- Net: $653 million
+- Useful Life: 5 years
+- **Trade names and trademarks**:
+- Gross: $222 million
+- Accumulated Amortization: $(47) million
+- Net: $175 million
+- Useful Life: 6 years
+- **Patents**:
+- Gross: $15 million
+- Accumulated Amortization: $(7) million
+- Net: $8 million
+- Useful Life: 7 years
+- **Other**:
+- Gross: $5 million
+- Accumulated Amortization: $(3) million
+- Net: $2 million
+- Useful Life: 0 years
+
+#### As of March 31, 2022:
+- **Total Gross Carrying Value**: $3,022 million
+- **Total Accumulated Amortization**: $(753) million
+- **Net Carrying Value**: $2,269 million
+
+#### Breakdown:
+- **Consumer, Merchant and other relationships**:
+- Gross: $1,856 million
+- Accumulated Amortization: $(362) million
+- Net: $1,494 million
+- Useful Life: 9 years
+- **Developed technology**:
+- Gross: $924 million
+- Accumulated Amortization: $(325) million
+- Net: $599 million
+- Useful Life: 5 years
+- **Trade names and trademarks**:
+- Gross: $222 million
+- Accumulated Amortization: $(55) million
+- Net: $167 million
+- Useful Life: 6 years
+- **Patents**:
+- Gross: $15 million
+- Accumulated Amortization: $(8) million
+- Net: $7 million
+- Useful Life: 6 years
+- **Other**:
+- Gross: $5 million
+- Accumulated Amortization: $(3) million
+- Net: $2 million
+- Useful Life: 0 years
+
+### Amortization Expense
+- **For the three months ended March 31, 2021**: $92 million
+- **For the three months ended March 31, 2022**: $144 million
+
+### Estimated Future Amortization Expense (as of March 31, 2022):
+- **Remainder of 2022**: $381 million
+- **2023**: $363 million
+- **2024**: $306 million
+- **2025**: $266 million
+- **2026**: $203 million
+- **Thereafter**: $748 million
+- **Total**: $2,267 million
+
+This summary encapsulates the key financial data regarding Uber's intangible assets and their amortization.
+**Note 6 – Long-Term Debt and Revolving Credit Arrangements**
+
+**Components of Debt (in millions, except for percentages):**
+
+| Debt Component                          | As of December 31, 2021 | As of March 31, 2022 | Effective Interest Rates | Maturities            |
+|-----------------------------------------|--------------------------|-----------------------|-------------------------|-----------------------|
+| 2025 Refinanced Term Loan               | $1,448                   | $1,444                | 3.8%                    | April 4, 2025         |
+| 2027 Refinanced Term Loan               | $1,090                   | $1,087                | 3.8%                    | February 25, 2027     |
+| 2025 Senior Note                        | $1,000                   | $1,000                | 7.7%                    | May 15, 2025          |
+| 2026 Senior Note                        | $1,500                   | $1,500                | 8.1%                    | November 1, 2026      |
+| 2027 Senior Note                        | $1,200                   | $1,200                | 7.7%                    | September 15, 2027    |
+| 2028 Senior Note                        | $500                     | $500                  | 7.0%                    | January 15, 2028      |
+| 2029 Senior Note                        | $1,500                   | $1,500                | 4.7%                    | August 15, 2029       |
+| 2025 Convertible Notes                  | $1,150                   | $1,150                | 0.2%                    | December 15, 2025     |
+| **Total Debt**                         | **$9,388**               | **$9,381**            |                         |                       |
+| Less: unamortized discount and issuance costs | $(85)                | $(81)                 |                         |                       |
+| Less: current portion of long-term debt | $(27)                   | $(27)                 |                         |                       |
+| **Total Long-Term Debt**               | **$9,276**               | **$9,273**            |                         |                       |
+
+**2016 and 2018 Senior Secured Term Loans Refinancing:**
+On February 25, 2021, Uber entered into a refinancing transaction borrowing $2.6 billion to repay all outstanding loans under the 2016 and 2018 Senior Secured Term Loan agreements. This included a $1.1 billion tranche maturing on February 25, 2027, and a $1.5 billion tranche maturing on April 4, 2025. The refinancing qualified as a debt modification.
+
+The 2025 and 2027 Refinanced Term Loans are guaranteed by certain material domestic restricted subsidiaries and contain covenants restricting debt incurrence and fundamental changes. As of March 31, 2022, Uber was in compliance with all covenants. The loans are secured by certain intellectual property and equity of material foreign subsidiaries.
+
+**Fair Values (as of March 31, 2022):**
+- 2025 Refinanced Term Loan: $1.4 billion
+- 2027 Refinanced Term Loan: $1.1 billion
+
+**2025 Convertible Notes:**
+In December 2020, Uber issued $1.15 billion of 0% convertible senior notes due December 15, 2025. Holders may convert their notes under specific conditions prior to maturity.
+As of March 31, 2022, the 2025 Convertible Notes are classified as long-term since none of the conditions for early conversion had been met. The initial conversion rate is 12.3701 shares per $1,000 principal amount, equating to a conversion price of approximately $80.84 per share. Upon conversion, Uber may pay in cash, shares, or a combination of both. The notes cannot be redeemed before December 20, 2023, and can be redeemed for cash if certain stock price conditions are met.
+
+The indenture for the 2025 Convertible Notes does not impose financial or operational restrictions. Prior to adopting ASU 2020-06, proceeds from the notes were split between equity and liability components, with a $243 million debt discount amortized over the term. After adopting ASU 2020-06 on January 1, 2021, the accounting treatment changed, resulting in a decrease in additional paid-in capital and an increase in the notes by the same amount.
+
+The fair value of the 2025 Convertible Notes was $1.0 billion as of March 31, 2022, based on Level 2 valuation inputs.
+
+Regarding the Senior Notes (2025-2029), they are guaranteed by certain subsidiaries and have customary covenants. As of March 31, 2022, the fair values of the Senior Notes were as follows (in millions):
+
+- 2025 Senior Note: $1,044
+- 2026 Senior Note: $1,595
+- 2027 Senior Note: $1,281
+- 2028 Senior Note: $516
+- 2029 Senior Note: $1,410
+
+Total fair value of Senior Notes: $5,846 million.
+The table presents the interest expense related to Uber's long-term debt for the three months ended March 31, 2021, and 2022:
+
+| Description                                           | Three Months Ended March 31, 2021 | Three Months Ended March 31, 2022 |
+|------------------------------------------------------|------------------------------------|------------------------------------|
+| Contractual interest coupon                           | $111 million                       | $133 million                       |
+| Amortization of debt discount and issuance costs      | $7 million                         | $4 million                         |
+| **Total interest expense from long-term debt**       | **$118 million**                   | **$137 million**                   |
+
+Regarding the Revolving Credit Arrangements, Uber has a credit agreement for $2.3 billion maturing on June 13, 2023, which was amended on April 4, 2022, to extend the maturity to April 4, 2027, and to change the interest rate basis from LIBOR to SOFR, among other modifications. As of March 31, 2022, there was no outstanding balance on the Revolving Credit Facility.
+
+For Letters of Credit, as of December 31, 2021, and March 31, 2022, Uber had outstanding letters of credit of $749 million and $741 million, respectively, with reductions to available credit under the Revolving Credit Facility of $247 million and $239 million, respectively.
+### Supplemental Financial Statement Information
+
+#### Prepaid Expenses and Other Current Assets
+- **As of December 31, 2021**:
+- Prepaid expenses: $459 million
+- Other receivables: $553 million
+- Other: $442 million
+- **Total**: $1,454 million
+
+- **As of March 31, 2022**:
+- Prepaid expenses: $355 million
+- Other receivables: $615 million
+- Other: $492 million
+- **Total**: $1,462 million
+
+#### Accrued and Other Current Liabilities
+- **As of December 31, 2021**:
+- Accrued legal, regulatory and non-income taxes: $2,187 million
+- Accrued Drivers and Merchants liability: $1,187 million
+- Income and other tax liabilities: $376 million
+- Commitment to issue unsecured convertible notes in connection with Careem acquisition: $238 million
+- Other: $2,549 million
+- **Total**: $6,537 million
+
+- **As of March 31, 2022**:
+- Accrued legal, regulatory and non-income taxes: $2,066 million
+- Accrued Drivers and Merchants liability: $1,222 million
+- Income and other tax liabilities: $393 million
+- Commitment to issue unsecured convertible notes in connection with Careem acquisition: $234 million
+- Other: $2,251 million
+- **Total**: $6,166 million
+
+#### Other Long-Term Liabilities
+- **As of December 31, 2021**:
+- Deferred tax liabilities: $365 million
+- Other: $570 million
+- **Total**: $935 million
+
+- **As of March 31, 2022**:
+- Deferred tax liabilities: $91 million
+- Other: $588 million
+- **Total**: $679 million
+
+#### Accumulated Other Comprehensive Income (Loss)
+- **Balance as of December 31, 2020**:
+- Foreign Currency Translation Adjustments: $(581) million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $46 million
+- **Total**: $(535) million
+
+- **Other comprehensive income (loss) before reclassifications**:
+- Foreign Currency Translation Adjustments: $33 million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $1,156 million
+- **Total**: $1,189 million
+
+- **Balance as of March 31, 2021**:
+- Foreign Currency Translation Adjustments: $(548) million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $1,202 million
+- **Total**: $654 million
+
+This summary provides a concise overview of the financial information related to prepaid expenses, accrued liabilities, long-term liabilities, and accumulated other comprehensive income for the specified periods.
+The provided text includes financial information related to Uber Technologies, Inc. for the three months ended March 31, 2022, and compares it to the same period in 2021. Here are the key points:
+
+1. **Unrealized Gains (Losses)**:
+- As of December 31, 2021, the balance was $(524) million.
+- Other comprehensive income (loss) before reclassifications for the first quarter of 2022 was $19 million.
+- The balance as of March 31, 2022, was $(505) million.
+
+2. **Other Income (Expense), Net**:
+- **Three Months Ended March 31, 2021**:
+- Interest income: $5 million
+- Foreign currency exchange losses: $(25) million
+- Gain on business divestiture: $1,684 million
+- Unrealized gain on debt and equity securities: $63 million
+- Other income (expense), net: $1,710 million
+- **Three Months Ended March 31, 2022**:
+- Interest income: $11 million
+- Foreign currency exchange gains: $10 million
+- Gain on business divestiture: $0 million
+- Unrealized loss on debt and equity securities: $(5,570) million
+- Impairment of equity method investment: $(182) million
+- Other income (expense), net: $(5,557) million
+
+3. **Significant Changes**:
+- The most notable change was the significant unrealized loss on debt and equity securities in 2022, primarily due to losses on investments in Grab, Aurora, Didi, and Zomato.
+- There was a substantial decrease in other income (expense), net from $1,710 million in 2021 to $(5,557) million in 2022, largely due to the absence of a gain on business divestiture and the unrealized losses.
+
+This summary captures the essential financial data and changes in performance for Uber Technologies, Inc. during the specified periods.
+**Note 8 – Stockholders' Equity**
+
+**Equity Compensation Plans**
+Uber maintains four equity compensation plans for issuing shares of common stock to officers, employees, directors, and consultants: the 2010 Stock Plan, the 2013 Equity Incentive Plan, the 2019 Equity Incentive Plan, and the 2019 Employee Stock Purchase Plan (ESPP). After the IPO in 2019, only the 2019 Plan and ESPP have been utilized for awards, with no further awards granted under the 2010 and 2013 Plans. These plans allow for various types of awards, including incentive stock options (ISOs), nonqualified stock options (NSOs), stock appreciation rights (SARs), restricted stock awards, restricted stock units (RSUs), and performance-based awards.
+
+**Stock Option and SAR Activity**
+For the three months ended March 31, 2022, the summary of stock option and SAR activity is as follows (in millions, except share amounts which are in thousands):
+
+- **As of December 31, 2021**:
+- SARs Outstanding: 157
+- Options Outstanding: 24,253
+- Weighted-Average Exercise Price: $11.84
+- Remaining Contractual Life: 4.35 years
+- Aggregate Intrinsic Value: $735 million
+
+- **Granted**:
+- SARs: 4
+- Options: 421
+- Exercise Price: $33.89
+
+- **Exercised**:
+- SARs: (3)
+- Options: (999)
+- Exercise Price: $5.20
+
+- **Canceled and forfeited**:
+- SARs: —
+- Options: (88)
+- Exercise Price: $14.17
+
+- **As of March 31, 2022**:
+- SARs Outstanding: 158
+- Options Outstanding: 23,587
+- Weighted-Average Exercise Price: $12.51
+- Remaining Contractual Life: 4.10 years
+- Aggregate Intrinsic Value: $558 million
+
+- **Vested and expected to vest as of March 31, 2022**:
+- SARs: 141
+- Options: 17,045
+- Weighted-Average Exercise Price: $8.31
+- Remaining Contractual Life: 3.36 years
+- Aggregate Intrinsic Value: $473 million
+
+- **Exercisable as of March 31, 2022**:
+- SARs: 141
+- Options: 17,045
+- Weighted-Average Exercise Price: $8.31
+- Remaining Contractual Life: 3.36 years
+- Aggregate Intrinsic Value: $473 million
+
+**RSU Activity**
+The RSU activity for the three months ended March 31, 2022, is summarized as follows (in thousands, except per share amounts):
+
+- **Unvested and outstanding as of December 31, 2021**: 71,461 shares at a weighted-average grant-date fair value of $41.91
+- **Granted**: 59,266 shares at a weighted-average grant-date fair value of $33.65
+- **Vested**: (9,699) shares at a weighted-average grant-date fair value of $39.24
+- **Canceled and forfeited**: (4,073) shares at a weighted-average grant-date fair value of $39.87
+- **Unvested and outstanding as of March 31, 2022**: 116,955 shares at a weighted-average grant-date fair value of $37.99
+
+**Stock-Based Compensation Expense**
+The stock-based compensation expense by function for the three months ended March 31 is as follows (in millions):
+
+- **2021**:
+- Operations and support: $28
+- Sales and marketing: $22
+- Research and development: $133
+- General and administrative: $98
+- **Total**: $281
+
+- **2022**:
+- Operations and support: $33
+- Sales and marketing: $22
+- Research and development: $196
+- General and administrative: $108
+- **Total**: $359
+
+As of March 31, 2022, there was $4.5 billion of unamortized compensation costs related to all unvested awards, expected to be recognized over a weighted-average period of approximately 2.91 years.
+The document provides a detailed overview of Uber Technologies, Inc.'s income tax expenses and net income (loss) per share for the three months ended March 31, 2021, and 2022.
+
+1. **Income Tax Expense**:
+- For the three months ended March 31, 2021, the income tax expense was $185 million, primarily due to current tax on foreign earnings and deferred U.S. tax impacts related to the sale of the ATG Business, offset by U.S. losses.
+- For the same period in 2022, there was an income tax benefit of $(232) million, mainly driven by deferred U.S. tax impacts related to investments in companies like Grab, Aurora, Didi, and Zomato, along with U.S. losses, offset by current tax on foreign earnings.
+
+2. **Unrecognized Tax Benefits**:
+- In the three months ended March 31, 2022, the gross unrecognized tax benefits increased by an immaterial amount, which would not affect the effective tax rate due to a valuation allowance against certain deferred tax assets.
+
+3. **Tax Jurisdictions**:
+- Uber is subject to taxation in the U.S. and various foreign jurisdictions, with tax years from 2004 to 2022 remaining open for examination.
+
+4. **Net Income (Loss) Per Share**:
+- Basic net loss per share is calculated by dividing the net loss by the weighted-average number of common shares outstanding. Diluted net loss per share includes the effect of potential dilutive common stock.
+
+This summary encapsulates the key financial aspects related to income taxes and net income (loss) per share as reported by Uber Technologies, Inc. for the specified periods.
+The table presents the computation of basic and diluted net loss per share attributable to common stockholders for Uber Technologies, Inc. for the three months ended March 31, 2021, and March 31, 2022.
+
+### Basic Net Loss Per Share:
+- **Numerator:**
+- Net loss including non-controlling interests:
+- 2021: $(122) million
+- 2022: $(5,918) million
+- Net income (loss) attributable to non-controlling interests, net of tax:
+- 2021: $(14) million
+- 2022: $12 million
+- **Net loss attributable to common stockholders:**
+- 2021: $(108) million
+- 2022: $(5,930) million
+
+- **Denominator:**
+- Basic weighted-average common stock outstanding:
+- 2021: 1,858,525 thousand shares
+- 2022: 1,953,989 thousand shares
+
+- **Basic net loss per share attributable to common stockholders:**
+- 2021: $(0.06)
+- 2022: $(3.03)
+
+### Diluted Net Loss Per Share:
+- **Numerator:**
+- Net loss attributable to common stockholders:
+- 2021: $(108) million
+- 2022: $(5,930) million
+- Net loss attributable to Freight Holding convertible common shares non-controlling interest, net of tax:
+- 2021: $0
+- 2022: $(13) million
+- **Diluted net loss attributable to common stockholders:**
+- 2021: $(108) million
+- 2022: $(5,943) million
+
+- **Denominator:**
+- Number of shares used in basic net loss per share computation:
+- 2021: 1,858,525 thousand shares
+- 2022: 1,953,989 thousand shares
+- Weighted-average effect of potentially dilutive securities:
+- Assumed redemption of Freight Holding convertible common shares, non-controlling interest:
+- 2021: $0
+- 2022: 3,742 thousand shares
+- **Diluted weighted-average common stock outstanding:**
+- 2021: 1,858,525 thousand shares
+- 2022: 1,957,731 thousand shares
+
+- **Diluted net loss per share attributable to common stockholders:**
+- 2021: $(0.06)
+- 2022: $(3.04)
+
+### Potentially Dilutive Outstanding Securities Excluded from Computation:
+As of March 31:
+- Freight Holdings contingently redeemable preferred stock:
+- 2021: 13,586 thousand
+- 2022: 12,377 thousand
+- Convertible notes:
+- 2021: 22,013 thousand
+- 2022: 18,503 thousand
+- RSUs:
+- 2021: 82,146 thousand
+- 2022: 116,955 thousand
+- Stock options:
+- 2021: 26,073 thousand
+- 2022: 23,587 thousand
+- Common stock subject to repurchase:
+- 2021: 28 thousand
+- 2022: 3,767 thousand
+- Shares committed under ESPP:
+- 2021: 2,084 thousand
+- 2022: 3,361 thousand
+- Warrants to purchase common stock:
+- 2021: 126 thousand
+- 2022: 73 thousand
+
+**Total potentially dilutive outstanding securities:**
+- 2021: 146,056 thousand
+- 2022: 178,623 thousand
+**Segment Information and Geographic Information**
+
+Uber Technologies, Inc. has identified three operating and reportable segments as of the first quarter of 2022:
+
+1. **Mobility**: This segment connects consumers with drivers for rides in various vehicles, including cars, auto rickshaws, motorbikes, minibuses, and taxis. It also encompasses activities related to Financial Partnerships and Transit offerings.
+
+2. **Delivery**: This segment allows consumers to discover local restaurants, order meals, and choose between pick-up or delivery. In some markets, it also includes grocery, alcohol, and convenience store deliveries, along with other goods.
+
+3. **Freight**: This segment connects carriers with shippers, providing upfront pricing and booking capabilities. It also includes transportation management and logistics services.
+
+**Segment Adjusted EBITDA** is the primary performance measure used, defined as revenue minus specific expenses (cost of revenue, operations and support, sales and marketing, general and administrative, and research and development expenses). It excludes non-cash items or those not reflective of ongoing operations.
+
+**Segment Adjusted EBITDA for the Three Months Ended March 31:**
+
+| Segment   | 2021 (in millions) | 2022 (in millions) |
+|-----------|---------------------|---------------------|
+| Mobility  | $298                | $618                |
+| Delivery  | $(200)              | $30                 |
+| Freight   | $(29)               | $2                  |
+| All Other | $(11)               | $—                  |
+| **Total** | **$58**             | **$650**            |
+
+**Reconciliation to Loss from Operations:**
+
+| Item                                                                 | 2021 (in millions) | 2022 (in millions) |
+|----------------------------------------------------------------------|---------------------|---------------------|
+| Corporate G&A and Platform R&D (1), (2)                             | $(417)              | $(482)              |
+| Depreciation and amortization                                        | $(212)              | $(254)              |
+| Stock-based compensation expense                                       | $(281)              | $(359)              |
+| Legal, tax, and regulatory reserve changes and settlements            | $(551)              | $—                  |
+| Goodwill and asset impairments/loss on sale of assets                | $(57)               | $(13)               |
+| Acquisition, financing and divestitures related expenses              | $(36)               | $(14)               |
+| Accelerated lease costs related to cease-use of ROU assets           | $(2)                | $—                  |
+| COVID-19 response initiatives                                         | $(26)               | $(1)                |
+| Loss on lease arrangements, net                                       | $—                  | $(7)                |
+| Restructuring and related charges                                     | $—                  | $(2)                |
+| **Loss from operations**                                             | **$(1,524)**        | **$(482)**          |
+
+(1) Excluding stock-based compensation expense.
+(2) Includes costs not directly attributable to reportable segments, with shared costs like finance, accounting, tax, human resources, IT, and legal included. The allocation methodology is subject to periodic evaluation and may change.
+**Geographic Information: Revenue by Geography (in millions)**
+
+| Geographic Area         | Three Months Ended March 31, 2021 | Three Months Ended March 31, 2022 |
+|------------------------|------------------------------------|------------------------------------|
+| United States          | $1,683                             | $4,197                             |
+| All other countries     | $1,220                             | $2,657                             |
+| **Total Revenue**      | **$2,903**                        | **$6,854**                        |
+
+**Note 12 – Commitments and Contingencies: Contingencies**
+
+- As of December 31, 2021, and March 31, 2022, Uber recorded aggregate liabilities of $2.2 billion and $2.1 billion, respectively, with $1.3 billion related to non-income tax matters.
+- Legal and regulatory matters include claims related to independent contractor misclassification, Fair Credit Reporting Act claims, and various other employment-related claims.
+- The outcome of these legal matters is unpredictable, and if resolved against Uber for amounts exceeding management's expectations, it could materially affect the company's financial condition.
+
+**Driver Classification: California Attorney General Lawsuit**
+
+- California Assembly Bill 5 (AB5) went into effect in January 2020, establishing criteria for classifying workers as employees.
+- A lawsuit was filed against Uber and Lyft alleging misclassification of drivers, seeking an injunction and monetary damages.
+- A preliminary injunction was issued, but stayed pending appeal. The California Supreme Court declined to review the case, and the lawsuit returned to trial court after appellate proceedings.
+- Proposition 22, passed in November 2020, allows drivers to maintain independent contractor status under California law.
+The document discusses various legal challenges faced by Uber Technologies, Inc. regarding the classification of drivers as independent contractors versus employees. Key points include:
+
+1. **California Lawsuit**: The preliminary injunction related to claims by the California Attorney General was dissolved, but the lawsuit continues. A petition to stay the matter is in place, and the case remains stayed as to discovery.
+
+2. **Proposition 22**: A challenge to Proposition 22's constitutionality was filed, with a ruling from the Alameda County Superior Court declaring it unconstitutional. Appeals have been filed by the State of California and an intervening organization.
+
+3. **Massachusetts Attorney General Lawsuit**: A lawsuit was filed alleging that drivers are employees entitled to protections under wage and labor laws. Uber's motion to dismiss was denied, and a summary judgment motion is pending.
+
+4. **Swiss Social Security Reclassification**: Swiss authorities have classified drivers as employees for social security purposes, which Uber is challenging. A ruling on an appeal is expected in 2023.
+
+5. **UK Employment Tribunal Case**: A ruling upheld that drivers using the app in 2016 were classified as workers. Uber has since adjusted its treatment of drivers in the UK to comply with this ruling, including back pay and pension enrollment.
+
+6. **Other Legal Matters**: Uber anticipates further claims and inquiries regarding driver classification in various jurisdictions.
+
+The document indicates that while Uber is actively defending itself in these matters, the outcomes remain uncertain, and potential losses cannot be estimated.
+The document discusses various legal and tax matters affecting Uber Technologies, Inc. It highlights the unpredictability of litigation outcomes and their potential impact on the company's financial condition. Key points include:
+
+1. **State Unemployment Taxes**: Uber is involved in an audit by the New Jersey Department of Labor regarding the classification of Drivers as independent contractors or employees, with ongoing discussions about assessments made from 2014 to 2018.
+
+2. **Google v. Levandowski & Ron**: This section details arbitration claims made by Google against former employees for breach of contract and fraud. It mentions a significant financial award against Levandowski and a settlement involving Uber's indemnification obligations.
+
+3. **Non-Income Tax Matters**: Uber is under audit by various tax authorities concerning non-income tax liabilities, particularly related to transactions with Drivers and employee benefits. A significant issue involves the classification of Uber as a transportation provider in the UK, which could lead to VAT implications.
+
+4. **Estimated Liabilities**: The company has recorded estimated liabilities for these contingencies, acknowledging the complexity and uncertainty surrounding these legal and tax matters.
+
+Overall, the document emphasizes the potential financial and operational impacts of ongoing legal disputes and tax audits on Uber's business.
+The document discusses various legal and regulatory matters affecting Uber Technologies, Inc., including government inquiries related to compliance with laws such as antitrust, labor, and data protection. It highlights the potential impact of these investigations on the company's business and financial condition.
+
+Additionally, it covers indemnification provisions in business arrangements, indicating that Uber may be obligated to indemnify third parties for losses related to their activities. The document also explains the concept of Variable Interest Entities (VIEs), detailing how Uber consolidates VIEs where it is the primary beneficiary and the financial implications of these entities.
+
+Key points include:
+- Consolidated VIEs: Total assets of $4.2 billion and liabilities of $1.2 billion as of March 31, 2022.
+- Unconsolidated VIEs: Assets recognized of $605 million as of March 31, 2022, representing maximum exposure to loss.
+- Specific investments in companies like Lime and Moove, indicating Uber's economic interests and risks associated with these entities.
+The document discusses Uber Technologies, Inc.'s financial dealings and interests related to its subsidiary Moove and the divestiture of its ATG Business to Aurora.
+
+1. **Moove Investment**: Uber has a 30% minority interest in Moove, which includes a term loan of $213 million due in February 2026 and a commercial partnership agreement. Moove is now considered a related party due to these agreements.
+
+2. **Freight Holding**: As of the specified dates, Uber owned 78% of Freight Holding's capital stock, with minority stockholders including holders of preferred stock and employees with equity awards.
+
+3. **Divestiture of ATG Business**: The sale of the ATG Business to Aurora was completed on January 19, 2021. Uber received common shares valued at $1.3 billion and invested $400 million in Aurora. The sale did not qualify as a discontinued operation, and the gain on the sale was recorded as $1,644 million after accounting for various factors.
+
+4. **Financial Summary of ATG Sale**:
+- Fair value of common shares received: $1,277 million
+- Derecognition of non-controlling interests: $1,057 million
+- Liability for future obligations: $(315) million
+- Net consideration received: $2,019 million
+- Carrying value of net assets transferred: $(375) million
+- Gain on sale: $1,644 million
+
+This summary encapsulates the key financial transactions and their implications for Uber's financial reporting.
+The document is a quarterly report from Uber Technologies, Inc. that includes a management discussion and analysis of the company's financial condition and results of operations. It emphasizes the importance of reading this analysis alongside the condensed consolidated financial statements and other financial information provided in the report. The discussion contains forward-looking statements, which may differ from actual results due to various factors.
+
+Key points from the overview include:
+
+- Uber operates a technology platform that connects consumers with ride services, delivery services, and public transportation, as well as shippers with carriers in the freight industry.
+- The company is facing legal challenges regarding the classification of drivers as independent contractors versus employees, particularly in California and the UK.
+- Proposition 22, passed in California, provides a framework for independent work but is subject to ongoing legal challenges.
+- Uber has incurred and anticipates incurring additional expenses to comply with Proposition 22, but does not expect these changes to materially impact its business.
+- In the UK, a Supreme Court ruling classified drivers as "workers," leading to changes in compensation and benefits for drivers in that region.
+
+The report highlights the ongoing legal landscape affecting Uber's operations and the potential financial implications of these developments.
+The document provides a quarterly report for Uber Technologies, Inc., detailing financial and operational highlights for the first quarter of 2022 compared to the same period in 2021. Key metrics include:
+
+- **Monthly Active Platform Consumers (MAPCs)**: Increased from 98 million in Q1 2021 to 115 million in Q1 2022, reflecting a 17% growth year-over-year, despite a 3% decline quarter-over-quarter.
+- **Trips**: Rose from 1,447 million to 1,713 million, an 18% increase.
+- **Gross Bookings**: Increased significantly from $19,536 million to $26,449 million, a 35% rise (39% in constant currency).
+- **Revenue**: Jumped from $2,903 million to $6,854 million, a 136% increase (141% in constant currency).
+- **Net Loss**: Increased from a loss of $108 million to a loss of $5,930 million.
+- **Mobility Adjusted EBITDA**: Improved from $298 million to $618 million, a 107% increase.
+- **Delivery Adjusted EBITDA**: Shifted from a loss of $200 million to a profit of $30 million.
+- **Adjusted EBITDA**: Moved from a loss of $359 million to a profit of $168 million.
+- **Net Cash from Operating Activities**: Improved from a negative $611 million to a positive $15 million.
+- **Free Cash Flow**: Improved from a negative $682 million to a negative $47 million, a 93% improvement.
+
+The report also discusses potential impacts of legal classifications of drivers in the UK, which could lead to significant additional expenses and affect driver supply.
+**Key Financial Highlights from Uber's Q1 2022 Report:**
+
+1. **Gross Bookings:**
+- Total Gross Bookings: $26.4 billion (39% increase on a constant currency basis year-over-year).
+- Mobility Gross Bookings: Grew 62% year-over-year, driven by increased trip volumes.
+- Delivery Gross Bookings: Grew 15% year-over-year, with a 3% increase in global basket sizes.
+
+2. **Revenue:**
+- Total Revenue: $6.9 billion (up 136% year-over-year).
+- Take Rate: 25.9%.
+- Revenue growth attributed to:
+- $1.5 billion increase from the Freight business (acquisition of Transplace).
+- $200 million favorable impact from a change in accounting for the UK Mobility business.
+- A $600 million accrual reduction in Q1 2021 related to historical claims in the UK.
+
+3. **Net Loss:**
+- Net loss attributable to Uber: $5.9 billion.
+- Includes a pre-tax unrealized loss on debt and equity securities of $5.6 billion, with significant losses from investments in Grab, Aurora, Didi, and Zomato.
+- Stock-based compensation expense: $359 million.
+
+4. **Adjusted EBITDA:**
+- Adjusted EBITDA: $168 million (up $527 million year-over-year).
+- Mobility Adjusted EBITDA profit: $618 million (107% improvement year-over-year).
+- Delivery Adjusted EBITDA profit: $30 million (up $230 million from a loss of $200 million in Q1 2021).
+
+5. **Cash Position:**
+- Unrestricted cash and cash equivalents: $4.2 billion.
+
+**COVID-19 Impact and Response:**
+- The pandemic has significantly affected market conditions and demand for Mobility rides.
+- Uber has implemented safety measures, suspended shared Mobility offerings in most markets, and expanded delivery services.
+- The company is focused on liquidity preservation and cash flow management amid ongoing uncertainties related to COVID-19.
+
+This summary encapsulates the financial performance and strategic responses of Uber Technologies, Inc. during the first quarter of 2022.
+The document outlines the components of Uber Technologies, Inc.'s results of operations, focusing on revenue generation, cost of revenue, and various expense categories. Here are the key points:
+
+1. **Revenue**:
+- Uber generates revenue primarily from fees paid by Drivers and Merchants for using its platform.
+- The company acts as an agent in most transactions, recognizing revenue net of Driver and Merchant earnings and incentives.
+- In certain markets, Uber is responsible for providing mobility services, recognizing revenue on a gross basis when a trip is completed.
+
+2. **Cost of Revenue (Exclusive of Depreciation and Amortization)**:
+- This includes insurance costs, credit card processing fees, data center expenses, and payments to Drivers and Couriers.
+- Costs are expected to fluctuate with changes in Trip volume.
+
+3. **Operations and Support**:
+- Expenses consist of compensation for employees supporting operations, customer support costs, and Driver background checks.
+- As Trip volume increases post-COVID-19, these expenses are expected to rise in absolute terms but decrease as a percentage of revenue.
+
+4. **Sales and Marketing**:
+- This includes compensation for sales and marketing staff, advertising costs, and promotional expenditures.
+- Expenses are anticipated to increase in absolute terms but may vary as a percentage of revenue due to marketing campaign timing.
+
+5. **Research and Development**:
+- Expenses consist of compensation for engineering and product development staff and ongoing product improvements.
+- These expenses are expected to increase as Uber invests in R&D, though there may be a decrease in investments related to its ATG and Other Technology Programs following the sale of its ATG Business.
+
+Overall, the report indicates a focus on growth and efficiency as Uber navigates the recovery from the impacts of COVID-19.
+The text provides an overview of various financial components related to Uber Technologies, Inc.'s general and administrative expenses, depreciation and amortization, interest expense, other income (expense), provision for income taxes, and equity method investments.
+
+1. **General and Administrative Expenses**: These expenses include compensation for management and administrative staff, legal settlements, and corporate costs. They are expected to rise in absolute terms but decrease as a percentage of revenue as the company improves efficiency.
+
+2. **Depreciation and Amortization**: This includes costs related to physical assets and intangible assets. As the business recovers from COVID-19, these expenses are anticipated to increase due to infrastructure expansion.
+
+3. **Interest Expense**: Primarily related to the company's outstanding debt.
+
+4. **Other Income (Expense), Net**: This section includes various financial items such as interest income, foreign currency exchange gains/losses, gains from business divestitures, and unrealized gains/losses on securities.
+
+5. **Provision for Income Taxes**: The company is subject to varying tax rates based on domestic and foreign income, which affects its effective tax rate.
+
+6. **Equity Method Investments**: This includes the income or loss from the Yandex.Taxi joint venture.
+
+If you have specific questions about any of these sections or need further details, feel free to ask!
+The provided text summarizes the condensed consolidated statements of operations for Uber Technologies, Inc. for the three months ended March 31, 2021, and March 31, 2022. Here are the key financial figures:
+
+### Financial Summary (in millions)
+- **Revenue:**
+- 2021: $2,903
+- 2022: $6,854
+
+- **Costs and Expenses:**
+- Cost of revenue (exclusive of depreciation and amortization):
+- 2021: $1,710
+- 2022: $4,026
+- Operations and support:
+- 2021: $423
+- 2022: $574
+- Sales and marketing:
+- 2021: $1,103
+- 2022: $1,263
+- Research and development:
+- 2021: $515
+- 2022: $587
+- General and administrative:
+- 2021: $464
+- 2022: $632
+- Depreciation and amortization:
+- 2021: $212
+- 2022: $254
+
+- **Total Costs and Expenses:**
+- 2021: $4,427
+- 2022: $7,336
+
+- **Loss from Operations:**
+- 2021: $(1,524)
+- 2022: $(482)
+
+- **Net Loss Attributable to Uber Technologies, Inc.:**
+- 2021: $(108)
+- 2022: $(5,930)
+
+### Percentage of Revenue
+- **Total Costs and Expenses as a Percentage of Revenue:**
+- 2021: 152%
+- 2022: 107%
+
+- **Net Loss Attributable to Uber Technologies, Inc. as a Percentage of Revenue:**
+- 2021: (4)%
+- 2022: (87)%
+
+This summary highlights the significant increase in revenue from 2021 to 2022, alongside a notable increase in costs and expenses, leading to a larger net loss in 2022 compared to 2021.
+### Summary of Financial Performance for Uber Technologies, Inc. (Three Months Ended March 31, 2022 vs. 2021)
+
+#### Revenue
+- **2021**: $2,903 million
+- **2022**: $6,854 million
+- **% Change**: 136%
+- **Key Drivers**:
+- Increase in Gross Bookings by 35% (39% on a constant currency basis).
+- Recovery in Mobility Trip volumes post-COVID-19.
+- $1.5 billion increase in Freight revenue due to the acquisition of Transplace.
+- $304 million increase in Delivery revenue from higher Courier payments and incentives.
+- $200 million increase in Mobility revenue from business model changes in the UK.
+
+#### Cost of Revenue (Exclusive of Depreciation and Amortization)
+- **2021**: $1,710 million
+- **2022**: $4,026 million
+- **% Change**: 135%
+- **Percentage of Revenue**: 59% (remained constant)
+- **Key Drivers**:
+- $1.4 billion increase in Freight carrier payments and incentives.
+- $355 million increase in Courier payments and incentives.
+- $313 million increase in insurance expenses due to increased miles driven.
+- $160 million increase in Driver payments and incentives from UK business model changes.
+
+#### Operations and Support
+- **2021**: $423 million
+- **2022**: $574 million
+- **% Change**: 36%
+- **Percentage of Revenue**: 15% (decreased to 8%)
+- **Key Drivers**:
+- $87 million increase in employee headcount costs.
+- $35 million increase in external contractor expenses.
+- $5 million increase in stock-based compensation.
+
+#### Sales and Marketing
+- **2021**: $1,103 million
+- **2022**: $1,263 million
+- **% Change**: 15%
+- **Percentage of Revenue**: 38% (decreased to 18%)
+- **Key Drivers**:
+- $72 million increase in consumer advertising expenses.
+- Increase in consumer discounts and rider-facing loyalty expenses, totaling $649 million compared to $585 million in 2021.
+
+This analysis highlights significant growth in revenue and costs, reflecting the company's recovery and expansion efforts in various segments.
+### Financial Overview for Uber Technologies, Inc. (Three Months Ended March 31)
+
+#### Research and Development
+- **2021**: $515 million
+- **2022**: $587 million
+- **% Change**: 14%
+- **Percentage of Revenue**:
+- 2021: 18%
+- 2022: 9%
+- **Key Drivers**: Increase of $72 million primarily due to a $63 million rise in stock-based compensation.
+
+#### General and Administrative
+- **2021**: $464 million
+- **2022**: $632 million
+- **% Change**: 36%
+- **Percentage of Revenue**:
+- 2021: 16%
+- 2022: 9%
+- **Key Drivers**: Increase of $168 million due to:
+- $54 million in employee headcount costs
+- $49 million in legal, tax, and regulatory reserves
+- $12 million in external contractor expenses
+- $10 million in stock-based compensation.
+
+#### Depreciation and Amortization
+- **2021**: $212 million
+- **2022**: $254 million
+- **% Change**: 20%
+- **Percentage of Revenue**:
+- 2021: 7%
+- 2022: 4%
+- **Key Drivers**: Increase of $42 million mainly from additional amortization related to Transplace, Drizly, and Postmates intangible assets.
+
+#### Interest Expense
+- **2021**: $(115) million
+- **2022**: $(129) million
+- **% Change**: 12%
+- **Percentage of Revenue**:
+- 2021: (4)%
+- 2022: (2%)
+- **Key Drivers**: Increase was immaterial.
+
+#### Other Income (Expense), Net
+- **2021**: $1,710 million
+- **2022**: $(5,557) million
+- **% Change**: Not meaningful
+- **Percentage of Revenue**:
+- 2021: 59%
+- 2022: (81)%
+- **Key Drivers**:
+- Interest income increased from $5 million to $11 million (120%).
+- Foreign currency exchange gains turned from losses of $(25) million to gains of $10 million.
+- Gain on business divestiture of $1,684 million in 2021, not present in 2022.
+- Unrealized loss on debt and equity securities increased significantly from $63 million gain to $(5,570) million loss.
+- Impairment of equity method investment of $(182) million in 2022.
+
+This summary provides a concise overview of Uber's financial performance for the specified quarter, highlighting significant changes and key drivers behind the financial metrics.
+The excerpt from Uber Technologies, Inc.'s quarterly report provides insights into various financial aspects for the three months ended March 31 for the years 2021 and 2022. Here are the key points:
+
+1. **Gain on Business Divestiture**: There was a significant decrease in gain due to a $1.6 billion gain recognized in Q1 2021 from the sale of the ATG Business to Aurora.
+
+2. **Unrealized Gain (Loss) on Debt and Equity Securities**: This decreased by $5.6 billion, primarily due to:
+- $1.9 billion unrealized loss on Grab investment
+- $1.7 billion unrealized loss on Aurora investments
+- $1.4 billion unrealized loss on Didi investment
+- $462 million unrealized loss on Zomato investment
+
+3. **Impairment of Equity Method Investment**: A $182 million impairment loss was recorded on the MLU B.V. equity method investment.
+
+4. **Revaluation of MLU B.V. Call Option**: There was a $181 million gain from the change in fair value of the call option granted to Yandex.
+
+5. **Provision for (Benefit from) Income Taxes**:
+- For Q1 2021: $185 million provision
+- For Q1 2022: $232 million benefit
+- Effective tax rate: 261% in 2021 and 4% in 2022
+- The income tax benefit increased by $417 million, mainly due to deferred U.S. tax impacts related to investments in Grab and Aurora.
+
+6. **Income (Loss) from Equity Method Investments**:
+- For Q1 2021: $(8) million
+- For Q1 2022: $18 million
+- The increase was described as immaterial.
+
+This summary highlights the financial performance and changes in various investment valuations and tax provisions for Uber during the specified quarters.
+**Segment Results of Operations Overview:**
+
+Uber operates through three main segments: Mobility, Delivery, and Freight. Below is a summary of the financial performance for the three months ended March 31 for the years 2021 and 2022.
+
+### Revenue (in millions)
+| Segment   | 2021 Revenue | 2022 Revenue | % Change |
+|-----------|--------------|--------------|----------|
+| Mobility  | $853         | $2,518       | 195%     |
+| Delivery  | $1,741       | $2,512       | 44%      |
+| Freight   | $301         | $1,824       | **       |
+| All Other | $8           | $0           | **       |
+| **Total Revenue** | **$2,903** | **$6,854** | **136%** |
+
+**Note:** The percentage change for Freight and All Other is not meaningful.
+
+### Segment Adjusted EBITDA (in millions)
+| Segment   | 2021 Adjusted EBITDA | 2022 Adjusted EBITDA | % Change |
+|-----------|----------------------|----------------------|----------|
+| Mobility  | $298                 | $618                 | 107%     |
+| Delivery  | $(200)               | $30                  | **       |
+| Freight   | $(29)                | $2                   | **       |
+| All Other | $(11)                | $0                   | **       |
+| Corporate G&A and Platform R&D | $(417) | $(482) | (16%)    |
+| **Adjusted EBITDA** | **$(359)** | **$168** | **       |
+
+**Note:** The percentage change for Delivery, Freight, and All Other is not meaningful.
+
+### Key Highlights:
+- **Mobility Segment:** Revenue increased by $1.7 billion (195%) primarily due to increased trip volumes as the business recovers from COVID-19 impacts. Adjusted EBITDA profit increased by $320 million (107%).
+- **Delivery Segment:** Revenue grew by 44%, with a notable turnaround in adjusted EBITDA from a loss in 2021 to a profit in 2022.
+- **Freight Segment:** Revenue saw a significant increase, but the adjusted EBITDA remained minimal.
+- **Corporate G&A and Platform R&D:** Costs increased by 16%, reflecting ongoing investments in shared services and technology infrastructure.
+
+This summary provides a concise overview of Uber's financial performance across its segments for the specified quarter.
+The report provides a detailed analysis of Uber Technologies, Inc.'s financial performance for the quarter ended March 31, 2022, compared to the same period in 2021. Here are the key highlights:
+
+1. **Mobility Segment**:
+- Adjusted EBITDA profit increased, mainly due to higher Mobility revenue.
+- There was a $281 million increase in insurance expenses and a $76 million rise in credit card processing costs.
+
+2. **Delivery Segment**:
+- Revenue increased by $771 million (44% growth).
+- Adjusted EBITDA grew by $230 million (115% growth).
+- The increase in revenue was driven by a 15% rise in Delivery Gross Bookings, attributed to more food delivery orders and larger basket sizes.
+- The Take Rate improved from 14.0% to 18.1%.
+- Adjusted EBITDA improvement was offset by a $387 million increase in cost of revenue and a $94 million rise in consumer promotions and employee costs.
+
+3. **Freight Segment**:
+- Revenue surged by $1.5 billion (506% growth).
+- Adjusted EBITDA increased by $31 million (107% growth).
+- The revenue growth was primarily due to the acquisition of Transplace and an increase in the number of shippers and carriers.
+- Adjusted EBITDA improvement was offset by $1.4 billion in shipper payments and incentives and an $88 million increase in employee costs.
+
+4. **Key Metrics**:
+- Monthly Active Platform Consumers (MAPCs) are used to assess platform adoption and transaction frequency.
+- The report includes a table of MAPCs over several quarters, showing growth in user engagement.
+
+5. **Non-GAAP Financial Measures**:
+- Adjusted EBITDA, revenue growth rates in constant currency, and free cash flow are highlighted as important non-GAAP measures, with further details provided in the report.
+
+This summary encapsulates the financial performance and operational metrics of Uber for the specified quarter, reflecting significant growth across its segments.
+The quarterly report provides detailed financial information for Uber Technologies, Inc. It includes metrics such as:
+
+1. **Trips (in millions)**:
+- Q2 2020: 1,641
+- Q3 2020: 1,769
+- Q4 2020: 1,713
+- Q1 2021: 1,443
+- Q2 2021: 1,447
+- Q3 2021: 1,511
+- Q4 2021: 1,840
+- Q1 2022: 737
+
+2. **Gross Bookings (in millions)**:
+- Q2 2020: $10,224
+- Q3 2020: $14,745
+- Q4 2020: $17,152
+- Q1 2021: $19,536
+- Q2 2021: $21,900
+- Q3 2021: $23,113
+- Q4 2021: $25,866
+- Q1 2022: $26,449
+
+3. **Revenue Breakdown (in millions)**:
+- **Mobility**:
+- Q2 2020: $3,046
+- Q3 2020: $5,905
+- Q4 2020: $6,789
+- Q1 2021: $6,773
+- Q2 2021: $8,640
+- Q3 2021: $9,883
+- Q4 2021: $11,340
+- Q1 2022: $10,723
+- **Delivery**:
+- Q2 2020: $6,961
+- Q3 2020: $8,550
+- Q4 2020: $10,050
+- Q1 2021: $12,461
+- Q2 2021: $12,912
+- Q3 2021: $12,828
+- Q4 2021: $13,444
+- Q1 2022: $13,903
+- **Freight**:
+- Q2 2020: $212
+- Q3 2020: $290
+- Q4 2020: $313
+- Q1 2021: $302
+- Q2 2021: $348
+- Q3 2021: $402
+- Q4 2021: $1,082
+- Q1 2022: $1,823
+
+4. **Adjusted EBITDA**:
+- Q1 2021: $(359) million
+- Q1 2022: $168 million
+- The improvement of $527 million was attributed to increases in Mobility, Delivery, and Freight Adjusted EBITDA, despite a rise in Corporate G&A and Platform R&D costs.
+
+This report highlights the growth in trips, gross bookings, and revenue across different segments, as well as a significant improvement in Adjusted EBITDA from the previous year.
+The document discusses Uber Technologies, Inc.'s use of non-GAAP financial measures, specifically Adjusted EBITDA, to evaluate its business performance. It explains that these measures provide additional insights into the company's financial health by excluding certain items that may not reflect ongoing operations.
+
+**Key Points:**
+
+1. **Non-GAAP Financial Measures**: Uber uses Adjusted EBITDA, revenue growth rates in constant currency, and free cash flow for internal decision-making and performance assessment.
+
+2. **Adjusted EBITDA Definition**: It is calculated by excluding various items from net income (loss), including:
+- Income (loss) from discontinued operations
+- Non-controlling interests
+- Income taxes
+- Equity method investments
+- Interest expense
+- Other income/expense
+- Depreciation and amortization
+- Stock-based compensation
+- Legal, tax, and regulatory reserves
+- Goodwill and asset impairments
+- Acquisition and restructuring expenses
+- COVID-19 related expenses
+
+3. **Purpose of Adjusted EBITDA**: It helps management and investors assess operating performance, make strategic decisions, and compare results across periods.
+
+4. **COVID-19 Response Initiatives**: The document outlines various initiatives taken to support drivers and communities affected by the pandemic, which are accounted for in the financial statements.
+
+5. **Limitations**: Adjusted EBITDA should not be viewed as a substitute for GAAP financial measures, as it excludes certain recurring non-cash charges and does not reflect all cash capital expenditure requirements.
+
+Overall, the document emphasizes the importance of these non-GAAP measures in providing a clearer picture of Uber's operational performance while also acknowledging their limitations.
+The document provides a reconciliation of Adjusted EBITDA to net loss attributable to Uber Technologies, Inc. for the three months ended March 31 for the years 2021 and 2022. Here are the key figures:
+
+- **Net loss attributable to Uber Technologies, Inc.**:
+- 2021: $(108) million
+- 2022: $(5,930) million
+
+- **Adjusted EBITDA**:
+- 2021: $(359) million
+- 2022: $168 million
+
+The reconciliation includes various adjustments such as income taxes, interest expense, stock-based compensation, and other items not indicative of ongoing operating performance. The document also mentions the use of constant currency to assess revenue performance excluding foreign currency fluctuations.
+The free cash flow for Uber Technologies, Inc. for the three months ended March 31 is as follows:
+
+- **2021**:
+- Net cash provided by (used in) operating activities: $(611) million
+- Purchases of property and equipment: $(71) million
+- **Free cash flow**: $(682) million
+
+- **2022**:
+- Net cash provided by (used in) operating activities: $15 million
+- Purchases of property and equipment: $(62) million
+- **Free cash flow**: $(47) million
+
+This table shows a significant improvement in free cash flow from 2021 to 2022.
+### Liquidity and Capital Resources Summary
+
+#### Three Months Ended March 31 (In millions)
+
+| Activity                        | 2021       | 2022       |
+|---------------------------------|------------|------------|
+| Net cash provided by (used in) operating activities | $(611)     | $15        |
+| Net cash used in investing activities | $(250)     | $(135)     |
+| Net cash used in financing activities | $(226)     | $(113)     |
+
+#### Operating Activities
+- **2022**: Net cash provided was $15 million, with a net loss of $5.9 billion adjusted for:
+- $5.6 billion in unrealized losses from equity securities
+- $359 million in stock-based compensation
+- $254 million in depreciation and amortization
+- $27 million decrease in cash consumed by working capital.
+
+- **2021**: Net cash used was $611 million, with a net loss of $122 million adjusted for:
+- $1.7 billion gain on business divestiture
+- $281 million in stock-based compensation
+- $412 million decrease in cash consumed by working capital.
+
+#### Investing Activities
+- **2022**: Net cash used was $135 million, primarily for:
+- $62 million in purchases of property and equipment
+- $59 million in business acquisitions.
+
+- **2021**: Net cash used was $250 million, primarily for:
+- $803 million in purchases of non-marketable equity securities
+- $336 million in purchases of marketable securities
+- $216 million in purchases of a note receivable, offset by $696 million from maturities and sales of marketable securities and $500 million from the sale of non-marketable equity securities.
+
+#### Financing Activities
+- **2022**: Net cash used was $113 million, primarily for:
+- $62 million of principal payments on finance leases.
+
+- **2021**: Net cash used was $226 million, primarily for:
+- $194 million of principal repayment on Careem Notes.
+
+#### Other Information
+- As of March 31, 2022, $2.2 billion of $4.2 billion in cash and cash equivalents was held by foreign subsidiaries.
+- The company believes its existing cash balance in the U.S. is sufficient for working capital needs.
+- Compliance with debt and line of credit covenants was maintained.
+- Anticipated cash requirements for the next 12 months are expected to be met through existing funding sources and available credit lines.
+- The company continues to monitor the impact of the COVID-19 pandemic on its financial position and liquidity.
+
+#### Purchase Commitments
+- No material changes outside the ordinary course of business to contractual obligations as of March 31, 2022.
+
+#### Critical Accounting Estimates
+- Financial statements are prepared in accordance with GAAP, requiring estimates and assumptions that may affect reported amounts. Actual results may differ from estimates, impacting future financial statements.
+The document provides a detailed overview of Uber Technologies, Inc.'s exposure to various market risks, including interest rate risk, investment risk, and foreign currency risk.
+
+1. **Interest Rate Risk**: Uber's exposure primarily relates to its floating rate loans (2025 and 2027 Refinanced Term Loan Facilities). A hypothetical 100 basis point change in interest rates would not materially affect financial results. However, a 100 basis point increase would decrease the fair value of fixed-rate notes by $289 million as of March 31, 2022.
+
+2. **Investment Risk**: Uber aims to preserve capital and meet liquidity needs without significantly increasing risk. As of March 31, 2022, cash and cash equivalents totaled $7.6 billion. The company does not engage in trading or speculative investments, and a 100 basis point change in interest rates would not materially affect financial results. The carrying value of investments was $6.9 billion, which includes equity method investments.
+
+3. **Foreign Currency Risk**: Uber operates globally, exposing it to fluctuations in foreign currency exchange rates. Revenue and expenses in foreign currencies can negatively impact financial results when expressed in U.S. dollars. The company has experienced fluctuations in net income due to transaction gains or losses from remeasurement of asset and liability balances in foreign currencies.
+
+4. **Controls and Procedures**: Uber maintains disclosure controls and procedures to ensure compliance with the Securities Exchange Act of 1934, ensuring that required information is accurately recorded and reported within specified timeframes.
+
+This summary encapsulates the key points regarding market risks and controls as outlined in the quarterly report.
+The document discusses the effectiveness of Uber's disclosure controls and internal control over financial reporting as evaluated by the management, including the Chief Executive Officer and Chief Financial Officer. They concluded that these controls are effective at a reasonable assurance level, although they acknowledge that no system can provide absolute assurance against errors or fraud.
+
+Additionally, the document outlines various legal proceedings involving Uber, including significant matters related to driver classification, state unemployment taxes, and ongoing class actions in Australia. The Australian class actions allege that Uber conspired to breach transport legislation, causing loss and damage to participants in the taxi and hire-car industries. Uber denies these allegations and plans to defend itself vigorously.
+
+For more detailed information on these legal proceedings, readers are directed to Note 12 – Commitments and Contingencies in the condensed consolidated financial statements for the quarter ended March 31, 2022.
+The document outlines various legal risks and uncertainties faced by Uber Technologies, Inc. It emphasizes that while the company believes the resolution of ongoing legal matters will not materially affect its financial position or liquidity, these issues could impact its operational results in specific accounting periods. The report also highlights several risk factors that could adversely affect the company's business, financial condition, and stock price, including:
+
+1. Ongoing impacts of the COVID-19 pandemic.
+2. Potential reclassification of Drivers as employees rather than independent contractors.
+3. Intense competition in the mobility, delivery, and logistics industries.
+4. The necessity to lower fares or service fees to remain competitive.
+5. Significant historical losses and increasing operating expenses.
+6. Challenges in attracting and retaining a critical mass of platform users.
+7. Risks to brand reputation and the impact of negative publicity.
+8. Historical workplace culture issues and the challenges in addressing them.
+9. The need to optimize organizational structure amid growth.
+10. Safety incidents involving platform users.
+11. Risks associated with substantial investments in new technologies and offerings.
+
+These factors could lead to a decline in the trading price of Uber's common stock and potentially result in losses for investors.
+The document outlines various risks that Uber Technologies, Inc. faces in its business operations. Key points include:
+
+1. **Economic and Regulatory Risks**: The company generates a significant portion of its Gross Bookings from large metropolitan areas, which can be adversely affected by economic, social, weather, and regulatory conditions, including the ongoing impacts of COVID-19.
+
+2. **Technology and Competition Risks**: There is a risk of failing to offer competitive autonomous vehicle technologies, which may not perform as expected or be perceived as safe compared to competitors.
+
+3. **Human Resource Risks**: Retaining and attracting high-quality personnel is crucial, and issues like attrition or poor succession planning could negatively impact the business.
+
+4. **Data Security Risks**: The company faces potential security breaches and cyberattacks that could harm its reputation and operational results.
+
+5. **Climate Change Risks**: Uber is subject to risks related to climate change and has made commitments that require significant resources, which may need to be adjusted based on unforeseen circumstances.
+
+6. **Third-Party Reliance**: The business relies on third parties for distribution and software, and any interference could adversely affect operations.
+
+7. **Capital Requirements**: Additional capital will be needed for growth, which may not be available on favorable terms.
+
+8. **Acquisition Risks**: The inability to identify and integrate suitable acquisitions could harm operating results.
+
+9. **Legal and Regulatory Risks**: The company faces numerous legal and regulatory challenges that could impact its business.
+
+10. **Intellectual Property Risks**: Protecting intellectual property is crucial, and any claims of misappropriation could lead to significant expenses.
+
+11. **Stock Price Volatility**: The market price of Uber's common stock has been volatile, and there is a risk that investors may not be able to resell shares at or above the purchase price.
+
+Overall, the document emphasizes the various internal and external challenges that could impact Uber's business performance and future prospects.
+The document discusses the impact of the COVID-19 pandemic on Uber Technologies, Inc., highlighting several key points:
+
+1. **Driver Supply Constraints**: The company is experiencing a mismatch between recovering consumer demand for mobility services and the availability of drivers. This situation is exacerbated by ongoing concerns related to the COVID-19 pandemic.
+
+2. **Financial Impact**: The pandemic has adversely affected Uber's near-term financial results and may have long-term implications. The company has had to take significant actions, including workforce reductions and changes to pricing models, to mitigate these impacts.
+
+3. **Uncertainty of Future Developments**: The extent of the pandemic's impact on Uber's business will depend on various uncertain factors, including the duration of the outbreak, vaccine efficacy, and potential changes in consumer behavior.
+
+4. **Legal Risks**: Uber faces legal challenges regarding the classification of drivers as independent contractors versus employees. Ongoing litigation and regulatory scrutiny could lead to significant costs and operational changes.
+
+5. **Proposition 22**: In California, Proposition 22 allows drivers to maintain their independent contractor status, but legal challenges to this law may continue, potentially affecting Uber's operations and financial condition.
+
+Overall, the document outlines the operational and financial risks Uber faces due to the pandemic and ongoing legal challenges regarding driver classification.
+The text discusses the challenges Uber faces regarding the classification of its Drivers, particularly in light of legal actions and judicial decisions in various jurisdictions. Key points include:
+
+1. **Legal Challenges**: Uber and Lyft are facing complaints regarding the misclassification of Drivers, which could lead to significant changes in their business model if they are required to treat Drivers as employees. This would result in increased expenses related to wages, benefits, and compliance with labor laws.
+
+2. **Judicial Decisions**: The UK Supreme Court ruled that Uber Drivers are workers, prompting Uber to change its classification of UK Drivers to "workers," ensuring they receive at least the National Living Wage and other benefits. Similar rulings have occurred in France, Switzerland, Spain, and the Netherlands.
+
+3. **Unionization Risks**: The potential reclassification of Drivers could lead to unionization, which may result in collective bargaining agreements that deviate from Uber's business model, adversely affecting its financial condition and operations.
+
+4. **Financial Statement Impact**: Changes in Driver classification could impact Uber's financial statements, including revenue and costs, as detailed in their accounting policies.
+
+5. **Competitive Landscape**: Uber operates in highly competitive mobility, delivery, and logistics markets with low barriers to entry and significant competition from established players and new entrants. The ability to compete effectively is crucial for Uber's financial prospects.
+
+Overall, the text highlights the legal, financial, and competitive challenges Uber faces in maintaining its business model while navigating regulatory and market pressures.
+The document discusses the competitive landscape faced by Uber Technologies, Inc. in its various offerings, including Mobility, Delivery, and Freight. It highlights the challenges posed by well-capitalized competitors, the potential for reduced revenue and user engagement, and the impact of regulatory restrictions on competition with minority-owned affiliates. The company acknowledges that to remain competitive, it may need to lower fares and service fees, as well as offer significant incentives to drivers and discounts to consumers, which could adversely affect its financial performance.
+The text discusses several challenges and risks faced by Uber Technologies, Inc. in its business operations. Key points include:
+
+1. **Impact of Discounts and Promotions**: The company's financial performance is negatively affected by discounts, promotions, and reductions in fares and service fees. Changes in pricing models and strategies may not attract consumers and drivers effectively.
+
+2. **Competitive Landscape**: Uber faces significant competition from well-capitalized rivals, some of which are backed by major investors like SoftBank. This competition may lead to lower prices and increased incentives from competitors, putting pressure on Uber to maintain or lower its fares and service fees.
+
+3. **Financial Losses**: Uber has incurred substantial losses since its inception, with reported operating losses of $4.9 billion in 2020 and $3.8 billion in 2021. As of March 31, 2022, the company had an accumulated deficit of $29.6 billion.
+
+4. **Future Profitability Challenges**: The company anticipates increased operating expenses as it invests in expanding its user base and offerings. There is uncertainty about achieving or maintaining profitability, especially in new markets.
+
+5. **Driver and Merchant Supply Constraints**: Uber's success relies on attracting and retaining a critical mass of drivers, consumers, merchants, shippers, and carriers. Supply constraints, exacerbated by the COVID-19 pandemic, could hinder the company's ability to provide services effectively.
+
+6. **Market Dynamics**: The company may struggle to maintain network scale and liquidity in various geographic markets, which is essential for attracting users to its platform. A lack of drivers or merchants could diminish the appeal of Uber's services.
+
+Overall, the text highlights the complexities and uncertainties in Uber's business environment, emphasizing the need for strategic management to navigate these challenges.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. regarding its platform users, including Drivers, consumers, merchants, shippers, and carriers. Key points include:
+
+1. **Concentration Risk**: The reliance on significant restaurant partners increases the risk of fluctuations in operating results. If users switch to competitors, it could reduce opportunities for Drivers and merchants, impacting revenue.
+
+2. **User Satisfaction**: Factors such as dissatisfaction with service quality, pricing, and support can lead to a decline in platform users. Negative publicity and public health concerns (e.g., COVID-19) can also affect user retention.
+
+3. **Driver and Merchant Dynamics**: The number of Drivers and merchants may fluctuate due to various reasons, including local laws, competition, and dissatisfaction with the platform. Efforts to reduce Driver incentives to improve financial performance may lead to increased dissatisfaction.
+
+4. **Trade-offs in User Satisfaction**: Changes that benefit one user group may negatively impact another, leading to potential dissatisfaction across the platform.
+
+5. **Safety and Compliance**: Measures to enhance safety and prevent fraud may damage relationships with users. Additionally, changes in Driver qualification and background-check requirements could increase costs and hinder onboarding.
+
+6. **Protests and Business Interruptions**: Driver dissatisfaction has historically led to protests, which can disrupt operations and further decrease the number of active users on the platform.
+
+7. **Background Check Challenges**: Reliance on a single background-check provider poses risks. Changes in regulations could complicate the onboarding process for Drivers, adversely affecting business growth.
+
+Overall, the document highlights the interconnectedness of user satisfaction, regulatory compliance, and operational efficiency in maintaining Uber's platform viability.
+The text discusses the importance of maintaining and enhancing Uber's brand and reputation, highlighting the challenges the company has faced due to negative media coverage and past cultural issues. It emphasizes that failure to improve its brand could lead to difficulties in attracting employees and users, increased regulatory scrutiny, and potential financial impacts. The report also mentions the company's efforts to rehabilitate its brand, the risks associated with third-party partnerships, and the historical workplace culture that has created operational challenges. Overall, it underscores the critical nature of brand reputation in Uber's business strategy and future prospects.
+The text discusses the challenges and risks faced by Uber Technologies, Inc. as it has grown significantly since its inception. Key points include:
+
+1. **Organizational Complexity**: The rapid expansion has led to a complex organizational structure that may hinder effective management and communication of key policies across different regions and functions.
+
+2. **Workforce Management**: Uber has experienced substantial growth in its workforce, increasing from 159 employees in 2012 to approximately 30,900 by March 2022. Managing this growth, including hiring, training, and retaining qualified employees, is crucial for the company's success.
+
+3. **Technology and Infrastructure**: The company must upgrade its technology and network infrastructure to support its growth. Failure to do so could lead to system disruptions and negatively impact user experience.
+
+4. **Safety and Liability Risks**: Uber faces risks related to the actions of platform users, which could result in safety incidents and harm the company's reputation. The effectiveness of background checks on Drivers is also a concern.
+
+5. **Financial and Operational Resources**: To manage growth and improve systems, Uber will need to commit substantial financial and operational resources. Inadequate management of these areas could adversely affect the company's business and financial performance.
+
+Overall, the text highlights the importance of effective management, technology upgrades, and safety measures in sustaining Uber's growth and maintaining its competitive position.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. related to the safety and conduct of its Drivers and Couriers. Key points include:
+
+1. **Driver Qualification and Background Checks**: The standards for Couriers are less extensive than for Mobility Drivers, leading to potential complaints and legal actions regarding Driver conduct.
+
+2. **Criminal Activity**: Incidents of criminal behavior by Drivers or individuals impersonating them can harm consumer perception of safety, negatively impacting Uber's brand and reputation.
+
+3. **Violent Crime**: High rates of violent crime in certain regions, particularly in Latin America, have led to increased reports of Drivers and consumers being victimized.
+
+4. **Liability Risks**: Uber may face significant liability claims related to accidents or incidents involving Drivers, consumers, or third parties, which could increase operating costs and affect business results.
+
+5. **Insurance Coverage**: Current insurance policies may not cover all potential claims, leading to financial exposure.
+
+6. **Investments in New Offerings**: Uber is investing in new technologies and services, such as grocery and alcohol delivery, which carry inherent risks and may not yield expected benefits.
+
+7. **Market Acceptance**: There is uncertainty regarding consumer demand for new initiatives, and competition from other products could render Uber's offerings obsolete.
+
+8. **Management Distraction**: New development efforts may distract management from core operations and divert resources from established products.
+
+Overall, the text highlights the complexities and risks associated with Uber's operations and expansion efforts.
+The text discusses the challenges and risks Uber Technologies, Inc. faces in its international operations. Key points include:
+
+1. **Dependence on International Markets**: As of March 31, 2022, Uber operated in approximately 72 countries, with international markets accounting for about 75% of all trips.
+
+2. **Limited Experience**: Uber has limited experience in many international jurisdictions, which may affect its ability to manage risks and successfully expand.
+
+3. **Operational and Compliance Challenges**: These include language barriers, cultural differences, and the need to localize operations, such as translating the app and adapting to local laws.
+
+4. **Regulatory Risks**: Uber faces stricter laws in some countries regarding competition, pricing, payment methods, and data privacy, which could impact its operations.
+
+5. **Competition**: Local competitors may have better market understanding and relationships, posing a challenge to Uber's growth.
+
+6. **Social Acceptance and Technological Compatibility**: Variations in brand acceptance and technology use can affect Uber's success in different markets.
+
+7. **Legal and Financial Risks**: These include uncertainties regarding liability, currency fluctuations, cash transaction preferences, and complex tax systems.
+
+8. **Political and Economic Instability**: Global events, such as wars and terrorist attacks, can disrupt operations and impact the economy.
+
+Overall, the text highlights the complexities and risks associated with Uber's international business strategy.
+The text discusses the risks associated with Uber Technologies, Inc.'s minority ownership in various companies, including Didi, Grab, Yandex.Taxi, Lime, Zomato, and Aurora. Key points include:
+
+1. **Limited Control**: Uber has limited influence over these minority-owned affiliates, which poses risks such as potential loss of value. Uber is not involved in the day-to-day management of Didi and Zomato and has limited control over the boards of other companies.
+
+2. **Market Competition**: These companies may expand their offerings and compete with Uber, potentially harming Uber's business and financial condition.
+
+3. **Valuation Risks**: The value of Uber's assets in these companies is subject to market fluctuations and could be adversely affected by weakened financial markets.
+
+4. **Operational Risks**: The companies have limited operating histories and may face unpredictable results. They also operate in regions with various risks, including economic sanctions and public health concerns.
+
+5. **Liquidity and Transfer Restrictions**: Uber faces contractual limitations on selling or transferring these assets, including a lock-up period for shares in Aurora. There may be no public market for many of these securities, affecting their realizable value.
+
+6. **Potential Tax Implications**: Selling or transferring these assets could result in significant tax liabilities.
+
+Overall, these factors could materially impact Uber's business, financial condition, and stock price.
+The text discusses the potential fluctuations in Uber Technologies, Inc.'s operating results and the factors that may affect its profitability. Key points include:
+
+1. **Fluctuations in Operating Results**: Uber may experience significant variations in its financial performance, which are not necessarily indicative of future results. These fluctuations can be influenced by external factors, including the COVID-19 pandemic.
+
+2. **Seasonal Trends**:
+- **Mobility**: Typically, higher revenue is generated in the fourth quarter due to holiday demand, while the third quarter may see lower revenue due to vacation patterns.
+- **Delivery**: Expected seasonal increases in revenue are anticipated in the first and fourth quarters, although historical growth has masked these trends.
+
+3. **Challenges in Forecasting**: The company acknowledges difficulties in accurately forecasting operating results due to the pandemic and fixed expenses that may not adjust quickly to revenue changes.
+
+4. **Growth Dependency**: Uber's growth is contingent on various factors, including:
+- Attracting and retaining users.
+- Competing effectively in the market.
+- Expanding operations in new and existing markets.
+- Maintaining technological advancements.
+- Navigating regulatory environments.
+
+5. **Profitability Concerns**: If growth slows more than expected, achieving profitability may become challenging, adversely affecting financial results and investor value.
+
+6. **Objectives for Growth**: Uber aims to grow supply and demand, enhance user activity, expand market presence, and improve brand perception, among other goals.
+
+Overall, the text highlights the complexities and uncertainties surrounding Uber's financial performance and growth strategies.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. regarding its financial performance and operational capabilities. Key points include:
+
+1. **Revenue Dependence**: A significant portion of Uber's Gross Bookings comes from large metropolitan areas and airport trips. Any negative impact on operations in these areas could adversely affect financial results.
+
+2. **Geographic Concentration**: In 2021, 23% of Mobility Gross Bookings were derived from five major metropolitan areas. Economic, social, and regulatory conditions in these areas can significantly influence Uber's business.
+
+3. **Impact of COVID-19**: The pandemic has altered travel behavior, leading to a decline in demand for ridesharing, especially for airport-related trips, which accounted for 11% of Mobility Gross Bookings in 2021.
+
+4. **Regulatory Challenges**: Uber faces regulatory hurdles, including licensing requirements for airport operations. Non-compliance or changes in regulations could disrupt operations and affect financial performance.
+
+5. **Competition and Market Penetration**: Uber experiences strong competition in urban areas and faces challenges in expanding into suburban and rural markets, where personal vehicle ownership is more convenient.
+
+6. **Investment in Autonomous Technologies**: Uber has invested in autonomous vehicle technologies, including a merger with Aurora. The success of these technologies is crucial for maintaining competitive advantage and financial performance.
+
+Overall, the document highlights the interconnectedness of Uber's operational strategies, market dynamics, and regulatory environment, emphasizing the potential risks to its financial health and growth prospects.
+The text discusses several risks and challenges faced by Uber Technologies, Inc. regarding the development and implementation of autonomous vehicle technologies, as well as the importance of retaining high-quality personnel. Here are the key points:
+
+1. **Competition in Autonomous Vehicles**: Uber faces competition from companies like Waymo, Cruise Automation, and others that are developing autonomous vehicle technologies. If these competitors launch their offerings before Uber, or if their technology is perceived as superior, it could negatively impact Uber's market position and financial performance.
+
+2. **Risks and Liabilities**: The introduction of autonomous vehicles carries significant risks, including potential collisions and regulatory scrutiny. Failures in technology could lead to liability issues and damage Uber's reputation.
+
+3. **Regulatory Challenges**: Federal and state regulations regarding autonomous vehicles are evolving. New regulations could delay or limit Uber's ability to offer these technologies, and non-compliance could result in fines or penalties.
+
+4. **Personnel Challenges**: Uber's success relies on attracting and retaining high-quality employees. Challenges related to workplace culture, negative publicity, and the shift to hybrid work models could lead to increased attrition and difficulties in recruitment.
+
+5. **Leadership Transitions**: Changes in leadership or management could disrupt business operations and increase turnover. The loss of key personnel or failure to manage transitions effectively could harm Uber's growth and operating results.
+
+6. **Equity Incentives**: To attract and retain key personnel, Uber uses equity incentives, but there is no guarantee that these measures will be sufficient to maintain a strong workforce.
+
+Overall, the text highlights the interconnectedness of technological advancements, regulatory environments, and human resources in shaping Uber's business landscape.
+The text discusses several risks that Uber Technologies, Inc. faces, including:
+
+1. **Attracting and Retaining Personnel**: The effectiveness of equity incentives may decline, impacting the ability to attract and retain high-quality management and operational staff, which could adversely affect the company's performance.
+
+2. **Economic Conditions**: Economic factors such as unemployment, consumer debt, and consumer confidence can influence discretionary spending. During economic downturns, consumers may opt for lower-cost alternatives, which could reduce demand for Uber's services and harm its financial results.
+
+3. **Cost Increases**: Inflation and rising costs (fuel, food, labor, etc.) can negatively impact drivers, merchants, and carriers, potentially leading to reduced service availability on the platform and decreased network liquidity.
+
+4. **Security and Privacy Breaches**: Uber collects sensitive personal data, making it a target for data security attacks. Breaches could lead to significant liabilities, revenue loss, and damage to the brand, as well as disruption of business operations.
+
+Overall, these factors highlight the vulnerabilities in Uber's business model and the potential impact of external economic conditions and internal security challenges on its operations and financial health.
+The text discusses the potential risks and liabilities Uber Technologies, Inc. faces related to data security breaches and the importance of successfully introducing new products and features to retain users. It highlights past incidents, such as the 2014 and 2016 data breaches, and mentions the need for ongoing investment in product development to differentiate from competitors. Additionally, it addresses the challenges in measuring operational metrics and the potential inaccuracies that could affect the company's reputation and business performance.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. related to its payment systems, particularly the use of cash for transactions in certain jurisdictions. Key points include:
+
+1. **Multiple Accounts**: Uber acknowledges that some consumers may create multiple accounts despite prohibitions, which could affect data accuracy and long-term strategies.
+
+2. **Cash Payments**: In certain regions, Uber allows cash payments for rides and deliveries, which raises regulatory, operational, and safety concerns. Cash transactions accounted for approximately 7% of global Gross Bookings in 2021, with potential for increase.
+
+3. **Regulatory Compliance**: The use of cash can lead to significant fines and operational suspensions if regulations are not followed. There are also safety risks for drivers and riders associated with cash transactions.
+
+4. **Infrastructure Challenges**: Establishing systems to manage cash transactions is complex and may lead to difficulties in collecting service fees, impacting financial performance.
+
+5. **Credit Card Acceptance**: A significant portion (74%) of Gross Bookings is made via credit or debit cards. Loss of credit card acceptance privileges could severely limit Uber's business model.
+
+6. **Data Security Compliance**: Uber must comply with the Payment Card Industry Data Security Standard. Non-compliance could result in fines and operational restrictions.
+
+7. **Cybersecurity Threats**: The company faces risks from cyberattacks, which could harm its reputation and operational integrity.
+
+Overall, these factors highlight the complexities and risks associated with Uber's payment systems and the potential impact on its business operations and financial results.
+The text discusses the reliance of Uber Technologies, Inc. on information technology systems for its operations, highlighting the risks associated with cyberattacks, system failures, and software errors. It emphasizes the potential impact of these risks on the company's reputation, business operations, and financial results. Key points include:
+
+1. **Cybersecurity Risks**: Uber's systems are vulnerable to various cyber threats, including malware and phishing attacks. The company acknowledges that it may not be able to prevent sophisticated attacks and that breaches could harm its reputation and competitive position.
+
+2. **System Failures**: The complexity of Uber's platform means that undetected errors or bugs in the software could disrupt services. The company has experienced outages in the past and recognizes that such issues could lead to a loss of users and revenue.
+
+3. **AI Risks**: The growing use of artificial intelligence in Uber's offerings introduces additional risks, such as flawed algorithms and biased datasets, which could lead to legal liabilities and reputational damage.
+
+Overall, the text underscores the importance of maintaining robust cybersecurity measures and the challenges posed by the technical complexity of Uber's platform.
+The document discusses Uber Technologies, Inc.'s exposure to climate change risks and dependencies on third parties for its operations.
+
+1. **Climate Change Risks**: Uber faces both physical and transitional risks related to climate change, including market shifts towards electric vehicles (EVs) and the impact of extreme weather events. These risks could disrupt operations and increase costs. The company has made commitments to renewable energy and net-zero emissions but acknowledges that external factors may affect its ability to meet these goals.
+
+2. **Dependencies on Third Parties**: Uber's business relies on the performance of internet and mobile infrastructures, which are beyond its control. Disruptions in these services could affect the availability and speed of its platform, potentially driving users to competitors. Additionally, Uber depends on third-party marketplaces like the Apple App Store and Google Play for distribution, and any interference from these platforms could adversely impact its business.
+
+Overall, the document highlights the challenges Uber faces in managing climate-related risks and its reliance on external infrastructures and third-party services.
+The text discusses various risks that Uber Technologies, Inc. faces in relation to its reliance on third-party services and infrastructure. Key points include:
+
+1. **Advertising and User Tracking**: Uber's ability to effectively target advertisements may be hindered if iOS users do not grant permission for tracking, potentially increasing user acquisition costs.
+
+2. **Mapping Services**: Uber relies on Google Maps for critical mapping functions. The company does not control these services and may face challenges if access is restricted or if alternatives are not available.
+
+3. **Payment Processing**: Uber depends on third-party payment processors for transactions. If these services become unavailable or if fees increase, it could adversely affect Uber's operating costs and business operations.
+
+4. **System Failures**: Past system failures have led to payment delays for drivers, causing dissatisfaction and potential loss of trust in Uber's payment operations.
+
+5. **Third-Party Hosting**: Uber uses third-party cloud services and co-located data centers, which are vulnerable to various risks (e.g., natural disasters, cyberattacks). Interruptions in these services could impair Uber's ability to deliver its products and services.
+
+Overall, the text highlights the interconnectedness of Uber's operations with third-party services and the potential risks associated with these dependencies.
+The text discusses several risks associated with Uber Technologies, Inc.'s operations, particularly focusing on data center agreements, the use of third-party open source software, and financing challenges.
+
+1. **Data Center Agreements**: Uber may face delays in product delivery if it cannot renew agreements with data centers on reasonable terms, potentially harming revenue and user trust.
+
+2. **Open Source Software Risks**: The use of third-party open source software could lead to legal challenges regarding compliance with licensing terms, which may require the company to release proprietary code or incur significant costs to address non-compliance. Additionally, open source software may expose Uber to security risks and limit its ability to protect intellectual property.
+
+3. **Financing Needs**: Uber requires additional capital for growth, which may not be available on favorable terms. Issuing new equity could dilute existing shareholders, and existing debt agreements may impose restrictions that complicate obtaining further financing. As of March 31, 2022, Uber had significant outstanding debt, which could limit operational flexibility and necessitate additional borrowing for future investments, such as autonomous vehicles.
+The text discusses the financial risks and challenges faced by Uber Technologies, Inc. regarding its indebtedness and tax liabilities. Key points include:
+
+1. **Indebtedness Risks**:
+- A significant portion of cash flows may be used to pay interest and principal on debt, limiting funds for operations and growth.
+- Existing debt instruments impose restrictions on additional borrowing, mergers, asset sales, and dividend payments.
+- Future debt financing may come with additional covenants that could hinder capital-raising efforts.
+- Defaults on debt could lead to immediate repayment demands and restrict future financing options.
+
+2. **Interest Rate Risk**:
+- The company is exposed to interest rate fluctuations, which could impact financial stability.
+
+3. **Tax Liabilities**:
+- Tax laws are complex and subject to interpretation, leading to potential higher tax rates than currently paid.
+- Investigations into tax compliance could result in additional tax liabilities.
+- Certain jurisdictions require prepayment of contested taxes, impacting liquidity.
+- Ongoing audits by tax authorities could lead to adverse financial outcomes.
+
+4. **Tax Methodology Challenges**:
+- Tax authorities may challenge the company's valuation methodologies, potentially increasing the effective tax rate.
+- Future income taxes may be affected by earnings fluctuations and changes in tax laws.
+
+5. **Acquisition Risks**:
+- Acquiring businesses with different tax arrangements could lead to increased tax liabilities and affect financial results.
+
+Overall, the text highlights the potential financial strain from debt obligations and tax liabilities, which could hinder Uber's operational flexibility and growth strategy.
+The document discusses several key risks related to Uber Technologies, Inc.'s financial condition and operations, particularly concerning tax legislation, net operating loss carryforwards, currency exchange rates, and business acquisitions.
+
+1. **Tax Legislation Risks**: Changes in U.S. and global tax laws, particularly the Tax Cuts and Jobs Act, could adversely affect Uber's financial results. The elimination of the option to deduct research and development expenses may impact cash flows if not modified.
+
+2. **Net Operating Loss Carryforwards**: Uber has significant net operating loss carryforwards that could expire if not utilized. Changes in ownership could limit the ability to use these carryforwards, potentially increasing future tax liabilities.
+
+3. **Currency Exchange Rate Fluctuations**: As Uber operates in multiple currencies, fluctuations in exchange rates could materially affect financial results. The company may consider hedging strategies, but these come with risks and may not fully mitigate the impact of currency changes.
+
+4. **Acquisition Risks**: Uber's strategy includes acquiring other businesses, which carries risks related to the successful integration and performance of these acquisitions.
+
+Overall, these factors could significantly impact Uber's financial position, operating results, and cash flows.
+The text discusses the challenges and risks associated with Uber's acquisition strategy and joint ventures. Key points include:
+
+1. **Acquisition Challenges**: Uber faces intense competition for acquiring businesses and technologies, which may lead to difficulties in completing acquisitions on favorable terms or obtaining necessary regulatory approvals.
+
+2. **Management Diversion**: Negotiations and integrations of acquisitions can divert management's focus and incur significant costs.
+
+3. **Financial Risks**: Acquisitions may require substantial cash or debt financing, potentially restricting business operations and leading to dilution of stockholder equity.
+
+4. **Integration Risks**: Successfully integrating acquired businesses is fraught with challenges, including:
+- Disruption of ongoing operations.
+- User acceptance of new offerings.
+- Aligning internal controls and policies.
+- Retaining key employees and managing cultural differences.
+- Maintaining business relationships and brand identity.
+
+5. **Regulatory Risks**: Acquisitions may increase exposure to legal risks, such as violations of the U.S. Foreign Corrupt Practices Act (FCPA).
+
+6. **Performance Uncertainty**: There is no guarantee that acquired businesses will perform as expected, and failure to manage these acquisitions effectively could harm Uber's financial condition and operational results.
+
+Overall, the text emphasizes the complexities and potential downsides of Uber's growth strategy through acquisitions and joint ventures.
+The text discusses the legal and regulatory risks that Uber Technologies, Inc. faces in various jurisdictions regarding its ridesharing business model. Key points include:
+
+1. **Regulatory Restrictions**: Uber's operations have been blocked or limited in several markets, including Argentina, Germany, Italy, Japan, South Korea, and Spain, due to local laws and regulations.
+
+2. **Licenses and Permits**: Uber must obtain and comply with licenses or permits to operate in certain areas, and there is uncertainty about maintaining or renewing these licenses.
+
+3. **Lobbying by Competitors**: Traditional taxi and car service operators are lobbying for regulations that could impose additional requirements on Uber, affecting its business model.
+
+4. **Specific Regulatory Examples**:
+- In Barcelona, Uber suspended its services due to new regulations on minimum wait times.
+- New York City implemented minimum pay standards for drivers, adversely impacting Uber's financial performance.
+- Other cities, like San Francisco and Chicago, have enacted surcharges on ridesharing trips.
+
+5. **Legal Challenges**: Uber has faced legal challenges in various jurisdictions, such as Hong Kong and Colombia, which have affected its ability to operate and may lead to fines or penalties.
+
+6. **Future Risks**: The company is at risk of facing similar regulations in other jurisdictions, which could hinder its growth and operational capabilities.
+
+Overall, these legal and regulatory challenges pose significant risks to Uber's business model and financial performance.
+The text discusses various legal and regulatory challenges faced by Uber Technologies, Inc. It highlights the potential financial implications of fines and defense costs related to lawsuits, as well as the impact of negative press on user engagement. The company faces regulatory hurdles that may favor local competitors and impose restrictions on its operations, which could adversely affect revenue and growth.
+
+Key points include:
+
+1. **Regulatory Obstacles**: Uber encounters challenges from local governments and competitors, including delivery network fee caps and surge pricing limitations.
+
+2. **Legal Risks**: The company is involved in multiple litigations, including class action lawsuits, which could lead to significant financial liabilities.
+
+3. **Compliance Costs**: New laws and regulations may require substantial compliance costs, potentially dampening platform growth.
+
+4. **Environmental Regulations**: Initiatives aimed at reducing emissions may impact operations, prompting Uber to implement fees and transition to electric vehicles.
+
+5. **Brexit Impact**: The exit of the UK from the EU has implications for Uber's operations, as the UK accounted for a notable percentage of global Mobility Gross Bookings.
+
+6. **Ongoing Litigation**: Uber is contesting various legal challenges, which are costly and time-consuming, and adverse outcomes could harm its business operations.
+
+7. **E-bike and E-scooter Risks**: Although Uber divested certain assets, it still faces risks associated with dockless e-bikes and e-scooters available through its app.
+
+Overall, the document emphasizes the complex legal landscape and regulatory environment that Uber must navigate, which poses risks to its business model and financial performance.
+The text discusses various risks and regulatory challenges faced by Uber Technologies, Inc. regarding its dockless e-bikes and e-scooters, competition laws, and payment services. Key points include:
+
+1. **Injury Risks**: Users of dockless e-bikes and e-scooters may face higher injury risks in collisions compared to vehicle occupants due to less protective systems.
+
+2. **Quality Issues**: Any quality problems or defects in e-bikes or e-scooters could lead to negative publicity, regulatory actions, or lawsuits, especially if injuries occur.
+
+3. **Competition Laws**: Uber is under scrutiny from competition authorities in various jurisdictions, including the U.S. and EU, regarding pricing practices. Complaints about pricing strategies could lead to regulatory actions that may affect operations and financial results.
+
+4. **Government Regulation**: Uber's operations are subject to extensive regulations concerning payment and financial services. The company must obtain licenses in certain jurisdictions, and failure to do so could limit operations or lead to fines.
+
+5. **Strong Customer Authentication (SCA)**: New regulatory requirements in the EEA may complicate payment processes, potentially reducing user convenience and affecting transaction success rates, which could impact revenue.
+
+Overall, these factors could adversely affect Uber's business, financial condition, and operational results.
+The text discusses various legal and regulatory challenges faced by Uber Technologies, Inc. It highlights the potential adverse effects on the company's business, financial condition, and operating results due to:
+
+1. **Driver Payments**: The increase in the frequency of driver payments without corresponding consumer payments could negatively impact the business.
+
+2. **Evolving Regulations**: Changes in laws related to money transmission and online payments, particularly in Europe, have led to Uber Payments B.V. being subject to financial services regulations in the EEA. This includes compliance with anti-money laundering and terrorist financing laws.
+
+3. **Compliance Risks**: Non-compliance with financial laws could result in significant legal consequences, including lawsuits, penalties, and reputational harm.
+
+4. **Illegal Uses of Payment System**: The payment system is vulnerable to misuse, such as money laundering and fraud, necessitating substantial investment in compliance measures.
+
+5. **Government Investigations**: Uber is currently under investigation by various government agencies, including the DOJ and state AG offices, regarding business practices, data privacy incidents, and previous breaches. Past breaches have led to settlements and fines, which may continue to affect the company.
+
+6. **Potential Fines and Sanctions**: Ongoing inquiries could lead to additional fines, penalties, and changes in business practices, resulting in reputational damage and operational disruptions.
+
+Overall, the text emphasizes the importance of compliance with evolving regulations and the potential risks associated with legal inquiries and investigations.
+The text discusses the risks Uber Technologies, Inc. faces related to data privacy and security. Key points include:
+
+1. **Legal Risks**: Uber is exposed to potential claims and lawsuits due to past data breaches (2014 and 2016) and ongoing privacy incidents, which could lead to significant financial liabilities and operational restrictions.
+
+2. **Regulatory Compliance**: The company must comply with various privacy laws, including the GDPR in the EU and the CCPA in California, which impose strict requirements on data handling and can result in substantial fines for non-compliance.
+
+3. **Past Settlements**: Uber has entered into multiple settlements with regulatory authorities, including a consent decree with the FTC and fines from European authorities, which require enhanced data security practices.
+
+4. **Acquisition Liabilities**: Uber may inherit liabilities from companies it acquires, as seen with Careem and Drizly, which faced their own data security incidents.
+
+5. **Insurance Limitations**: Uber's insurance may not cover all potential claims, leaving the company vulnerable to significant financial exposure.
+
+6. **Evolving Regulations**: As Uber expands, it may encounter new or amended laws that increase compliance costs and operational burdens, impacting its business and financial condition.
+
+Overall, the text highlights the complex landscape of data privacy regulations and the potential consequences of non-compliance for Uber.
+The text discusses various legal and regulatory challenges that Uber Technologies, Inc. faces, particularly concerning data protection laws and litigation risks. Key points include:
+
+1. **Cross-Border Data Transfers**: Uber relies on mechanisms like the EU Standard Contract Clauses for transferring personal data outside the European Economic Area (EEA). Changes in regulations or legal rulings could hinder these transfers, impacting business operations.
+
+2. **Government Data Disclosure**: Uber may be required to disclose personal data to government agencies, which could lead to compliance issues and damage the company's reputation.
+
+3. **Legal Proceedings**: The company is involved in various legal matters, including driver classification, privacy issues, and employment practices. Adverse outcomes could result in significant costs and operational changes.
+
+4. **Arbitration Provisions**: Uber includes arbitration clauses in its terms of service to streamline dispute resolution. However, these provisions face scrutiny and could lead to increased litigation costs if found unenforceable.
+
+5. **Compliance Costs**: Adapting to evolving data protection laws may increase compliance costs and expose Uber to legal actions, which could disrupt business operations and financial results.
+
+Overall, the text highlights the complexities and potential risks associated with legal compliance and data management for Uber.
+The document discusses several risks and challenges faced by Uber Technologies, Inc. related to its operations in countries with high levels of corruption, compliance with anti-corruption laws, and the regulatory environment for Drivers. Key points include:
+
+1. **Corruption Risks**: Uber operates in regions known for corruption, which increases the risk of unauthorized payments by various parties, including Drivers and business partners. The company is subject to the Foreign Corrupt Practices Act (FCPA) and similar laws, and may face additional compliance requirements.
+
+2. **Driver Licensing Requirements**: Many jurisdictions are enforcing or proposing new licensing rules for Drivers, which could limit Uber's ability to scale its operations. Potential caps on the number of licensed Drivers or vehicles could adversely affect business growth.
+
+3. **Liability for Driver Onboarding Practices**: Uber faces legal challenges regarding its methods for attracting and onboarding Drivers, including lawsuits related to unsolicited communications. Adverse outcomes from these lawsuits could lead to financial damages and operational changes.
+
+4. **Insurance Coverage Dependence**: Uber relies on a combination of third-party insurance and self-insurance. Changes in insurance terms or requirements for additional coverage could negatively impact the business. The cost of insurance is notably higher in the U.S. and Canada, and inadequate coverage could result in significant liabilities.
+
+Overall, these factors highlight the complexities and risks associated with Uber's business model and regulatory environment.
+The text discusses several risks and challenges faced by Uber Technologies, Inc. related to insurance, liability, pricing regulations, and intellectual property protection. Here are the key points:
+
+1. **Insurance and Liability Risks**:
+- Uber and its captive insurance subsidiary have reinsurance and indemnification arrangements that could lead to significant payouts exceeding insurance reserves, impacting financial condition.
+- The company may face claims related to traffic accidents or incidents involving Drivers, which may not be fully covered by insurance policies.
+- There are local laws and regulations regarding insurance coverage that could lead to legal actions or increased costs for Uber.
+
+2. **Pricing Regulations**:
+- Uber's revenue is influenced by pricing models for consumer fares and Driver earnings, which may face challenges or regulations in various jurisdictions.
+- Specific examples include caps on surge pricing in certain cities, which could affect operating costs and revenue.
+
+3. **Intellectual Property Protection**:
+- Uber's intellectual property is crucial for its competitive advantage, and inadequate protection could harm its brand and market position.
+- The company employs various legal measures to protect its intellectual property, but these may not always be effective.
+
+Overall, these factors could adversely affect Uber's business, financial condition, and operational results.
+The text discusses various risks related to Uber Technologies, Inc.'s intellectual property (IP) and financial reporting. Key points include:
+
+1. **Intellectual Property Risks**:
+- Uber faces challenges in protecting its IP from competitors who may copy or reverse-engineer its products.
+- There is a risk of losing competitive advantages if trade secrets are compromised.
+- Enforcement of IP rights can be costly and time-consuming, and there is no guarantee of success.
+- The company may face litigation over alleged IP infringement, which could divert resources and harm its brand.
+
+2. **Financial Reporting Risks**:
+- Changes in accounting principles could significantly affect reported financial results, particularly in revenue recognition.
+- The complexity of accounting for Uber's business model may lead to material changes in financial statements.
+
+3. **Investment Company Act**:
+- Uber believes it does not qualify as an "investment company" under the Investment Company Act, but if deemed so, it would face regulatory burdens that could adversely affect its operations and financial condition.
+
+Overall, these risks highlight the potential challenges Uber may encounter in maintaining its competitive edge and accurately reporting its financial performance.
+The document discusses the risks related to the ownership of Uber Technologies, Inc.'s common stock. It highlights that the market price of the stock has been volatile and may continue to fluctuate due to various factors, including:
+
+- Actual or anticipated changes in key performance indicators (MAPCs, Trips, Adjusted EBITDA, Gross Bookings, revenue).
+- Announcements or estimates regarding the number of Drivers and consumers on the platform.
+- Variations between actual results and expectations from management or analysts.
+- Changes in accounting principles or interpretations.
+- Actions and estimates from securities analysts.
+- Announcements of significant products, innovations, or partnerships.
+- Negative media coverage.
+- Changes in the performance and valuations of technology companies.
+- Stock market fluctuations influenced by broader economic trends.
+- Legal actions against the company.
+- Regulatory developments affecting operations.
+- Changes in the board of directors or management.
+- Safety incidents on the platform.
+- Public statements regarding the legality of product offerings.
+- External events such as war, terrorism, natural disasters, or public health crises.
+
+The document also notes that stock price fluctuations can occur independently of a company's performance and that past volatility has led to securities class action litigation against the company. Additionally, Delaware law and the company's governing documents may complicate mergers or proxy contests, potentially affecting stock prices. Overall, these factors could lead to significant declines in stock price, impacting investors' ability to sell shares at or above their purchase price.
+The document outlines several provisions in Uber Technologies, Inc.'s amended and restated certificate of incorporation and bylaws that could negatively impact the trading price of its common stock. Key points include:
+
+1. **Board Control**: The board of directors has the authority to fill vacancies, limiting stockholder influence.
+2. **Advance Notice Requirements**: These may reduce the number of stockholder proposals.
+3. **Special Meetings**: Limitations on convening special meetings could hinder governance changes.
+4. **Cumulative Voting**: The prohibition on cumulative voting restricts minority stockholders' ability to elect directors.
+5. **Preferred Stock Issuance**: The board can issue preferred stock without stockholder approval, potentially complicating acquisition attempts.
+
+Additionally, the document mentions that significant sales of common stock by existing stockholders could depress stock prices and that the company does not plan to pay cash dividends in the foreseeable future. It also states that disputes between stockholders and the company will be handled in Delaware courts, which may limit stockholders' options for legal recourse.
+The provided text discusses several important aspects related to Uber Technologies, Inc.'s legal and financial reporting obligations. Here are the key points:
+
+1. **Exclusive Forum Provision**: Uber's amended and restated certificate of incorporation designates federal district courts in the U.S. as the exclusive forum for disputes arising under the Securities Act. However, this is contingent on a final ruling in Delaware regarding its enforceability. Other jurisdictions may not uphold this provision, potentially leading to increased costs for Uber if disputes arise outside the designated forum.
+
+2. **Impact on Stockholders**: The exclusive forum provisions may limit stockholders' ability to choose a preferred judicial forum for disputes, which could discourage lawsuits against the company and its directors or officers.
+
+3. **Internal Controls Over Financial Reporting**: As a public company, Uber is required to maintain effective internal controls over financial reporting. Failure to do so could negatively impact investor confidence and the value of its common stock.
+
+4. **Sarbanes-Oxley Act Compliance**: Under Section 404 of the Sarbanes-Oxley Act, Uber must provide an annual report on the effectiveness of its internal controls, and its independent auditors must attest to this effectiveness. Any material weaknesses identified could hinder the company's ability to report its financial condition accurately.
+
+5. **Challenges of Growth**: As Uber expands, particularly in high-growth areas like Delivery and Freight, it may face challenges in maintaining consistent performance and timely implementation of new controls, increasing the risk of material weaknesses in internal controls.
+
+6. **Consequences of Weaknesses**: If material weaknesses are identified, it could lead to a loss of investor confidence, a decline in stock price, and potential sanctions or investigations by regulatory authorities.
+
+7. **Unregistered Sales of Equity Securities**: The report indicates that there are no unregistered sales of equity securities to disclose.
+
+8. **Exhibits**: The report references an Exhibit Index, which includes documents incorporated by reference or filed with the quarterly report.
+
+These points highlight the legal and regulatory challenges Uber faces as a public company, particularly concerning internal controls and the implications of its corporate governance structure.
+The document contains an exhibit index for Uber Technologies, Inc.'s quarterly report filed with the SEC. It lists various exhibits along with their descriptions, filing dates, and references. Key exhibits include:
+
+- **3.1**: Amended and Restated Certificate of Incorporation
+- **3.2**: Amended and Restated Bylaws
+- **10.1**: RSU Conversion and Deferral Program for Directors
+- **10.2**: Amendment to the Google Maps Master Agreement
+- **31.1**: Certification of the Principal Executive Officer
+- **31.2**: Certification of the Principal Financial Officer
+- **32.1**: Certifications pursuant to 18 U.S.C. Section 1350
+- **101.INS to 101.PRE**: Various XBRL documents
+
+Certain portions of exhibits have been omitted, and the certifications are deemed furnished, not filed.
+The document includes the signatures of key executives from Uber Technologies, Inc. as part of their quarterly report filed with the SEC. The signatures confirm the authenticity of the report and indicate that the individuals are duly authorized to represent the company.
+
+The signatories are:
+- Dara Khosrowshahi, Chief Executive Officer and Director (Principal Executive Officer)
+- Nelson Chai, Chief Financial Officer (Principal Financial Officer)
+
+Both signatures are dated May 5, 2022.
+The document is an exhibit detailing the RSU (Restricted Stock Unit) Conversion and Deferral Program for Directors of Uber Technologies, Inc. It was approved on November 1, 2021, and became effective on May 9, 2022.
+
+Key points include:
+
+1. **Purpose**: The program allows Directors to convert their compensation into RSU Awards and defer the settlement of these awards.
+
+2. **Equity Incentive Plan**: RSU Awards will be issued under the Equity Plan, subject to its terms, with shares drawn from the Equity Plan's reserve.
+
+3. **Effective Date**: The program is effective for compensation earned on or after the date of the 2022 annual stockholders' meeting.
+
+4. **Definitions**:
+- "Administrator" refers to the Compensation Committee or delegated persons.
+- "Affiliate" includes any parent, subsidiary, or entity under common control with the Company.
+- "Award Agreement" is the document outlining the terms of an RSU Award.
+- "Board" refers to the Board of Directors of Uber.
+- "Code" refers to the U.S. Internal Revenue Code.
+- "Company" refers to Uber Technologies, Inc. and its successors.
+
+This document outlines the framework for how Directors can manage their compensation through RSUs.
+The text provided defines several terms related to compensation and corporate transactions for Uber Technologies, Inc. Here are the key definitions:
+
+1. **Compensation**: Cash compensation earned by Directors for their services to the Board or a Board committee.
+
+2. **Converted RSU Award**: An RSU Award made under Section 4.
+
+3. **Conversion Date**: The date when Compensation would be payable to a Participant if there were no Deferral Election.
+
+4. **Corporate Transaction**: This includes several scenarios:
+- **Merger or Consolidation**: A transaction where the voting securities of the Company do not continue to represent at least 50% of the total voting power after the transaction.
+- **Beneficial Ownership**: When an Exchange Act Person acquires more than 50% of the voting power of the Company’s securities, excluding additional acquisitions by those already owning over 50%.
+- **Sale of Assets**: The sale or disposition of all or substantially all of the Company’s assets, except to the Company or its wholly owned subsidiaries.
+- **Change in Control**: Occurs when a majority of the Board members are replaced within a 12-month period by members not endorsed by the majority of the existing Board.
+
+5. **Deferral Election**: Defined in Section 5.1, though the specific definition is not provided in the text.
+
+These definitions are part of the regulatory framework governing compensation and corporate governance for the company.
+The text provided appears to be definitions from a legal or regulatory document related to Uber Technologies, Inc., specifically concerning terms used in their Equity Incentive Plan. Here are some key definitions:
+
+- **Deferral Election Form**: A form for Directors to make a Deferral Election.
+- **Deferred RSUs**: The portion of a Restricted Stock Unit (RSU) Award that is subject to a Deferral Election.
+- **Director**: A non-employee member of the Board based in the U.S.
+- **Disability**: A condition where a Participant is unable to engage in substantial gainful activity due to a physical or mental impairment expected to last at least 12 months.
+- **Effective Date**: The date defined in Section 1.3 of the document.
+- **Entity**: A corporation, partnership, limited liability company, or other organization.
+- **Equity Plan**: The Uber Technologies, Inc. 2019 Equity Incentive Plan, including any amendments or successor plans.
+- **Exchange Act**: Refers to the U.S. Securities Exchange Act of 1934 and its regulations.
+- **Exchange Act Person**: A definition that excludes certain entities and individuals from being classified as such under the Exchange Act.
+- **Non-Converted RSU Award**: An RSU Award made under the Director Compensation Policy that is not a Converted RSU Award.
+- **Parent**: A corporation in a chain of corporations ending with the Company.
+
+If you have specific questions about any of these terms or need further clarification, feel free to ask!
+The document outlines the definitions and eligibility criteria for the Uber Technologies, Inc. RSU Conversion and Deferral Program for Directors. Key points include:
+
+- **Participant**: A Director who opts into the Program by making a Deferral Election or an RSU Election.
+- **Program**: The RSU Conversion and Deferral Program for Directors, which may be amended over time.
+- **RSU Award**: A restricted stock unit award granted under the Equity Plan.
+- **Eligibility**: Directors are eligible to participate, and those who cease to be eligible will still be considered Participants for previously converted RSU Awards until fully distributed.
+- **RSU Election**: Directors can convert a percentage of their Compensation into RSU Awards by completing an RSU Election Form, which becomes irrevocable after the specified deadline.
+
+This section provides a framework for how Directors can manage their compensation through RSU Awards.
+The document outlines the procedures and regulations regarding Restricted Stock Unit (RSU) Elections and Deferral Elections for participants in the program. Here are the key points:
+
+1. **Timing of RSU Election**:
+- RSU Elections must be made by December 31 of the year prior to the calendar year in which the services are performed, or earlier as determined by the Administrator.
+- If an individual becomes eligible to participate during a calendar year, they can make an RSU Election within 30 days of eligibility.
+
+2. **Effect of RSU Election**:
+- Compensation subject to the RSU Election will be converted into RSU Awards based on the average daily closing price of the company's stock in the month prior to the conversion date.
+
+3. **Vesting and Issuance of RSU Award**:
+- RSU Awards will be fully vested and issued within 60 days following the conversion date, unless specified otherwise by the Administrator.
+
+4. **RSU Award Terms**:
+- RSU Awards are governed by the terms of the Equity Incentive Plan, which includes provisions for tax withholding, restrictions, and corporate events.
+
+5. **Election to Defer RSUs**:
+- Directors can elect to defer the issuance of a percentage of Shares from an RSU Award by submitting a Deferral Election Form.
+- Once made, a Deferral Election is irrevocable and applies only to Converted RSU Awards related to Compensation for the specified calendar year.
+
+This summary captures the essential details regarding RSU and Deferral Elections as outlined in the document.
+The text outlines the procedures and regulations regarding the deferral of Restricted Stock Unit (RSU) Awards for Directors within a specific program. Here are the key points:
+
+1. **Deferral Election Timing**:
+- For Converted RSU Awards, a Director must make a Deferral Election at the same time as the RSU Election for the corresponding Compensation.
+- For Non-Converted RSU Awards, the Deferral Election must generally be made by December 31 of the year prior to the award issuance. New participants have 30 days from their eligibility date to make this election.
+
+2. **Form of Issuance**:
+- Participants can choose to receive shares from Deferred RSUs either as a single payment or in three annual installments. If no choice is made, the default is a single payment.
+
+3. **Re-deferral Election**:
+- Participants may postpone the issuance of Deferred RSUs for at least five years, with the election taking effect 12 months after it is made. However, in cases of Corporate Transactions, Disability, or death, shares will be issued as per the original schedule.
+
+4. **Issuance Upon Termination of Service**:
+- Shares from Deferred RSUs will be issued within 90 days following a Participant's termination of service, unless specified otherwise by the Administrator.
+
+These provisions ensure that Directors have options regarding the timing and method of receiving their RSU Awards while adhering to regulatory requirements.
+The text provided outlines the terms and conditions related to the in-service distribution, annual installments, accelerated issuance, beneficiary designations, and vesting of shares for Deferred Restricted Stock Units (RSUs) under a compensation program. Here are the key points:
+
+1. **In-Service Distribution (Section 6.2)**: Participants can elect a distribution date for their Deferred RSUs, which must be after three years from the deferral election. If the participant's service ends before this date, shares will be issued around May 16 following termination.
+
+2. **Annual Installments (Section 6.3)**: After the initial share issuance, subsequent shares will be issued annually on the anniversary of the initial issuance. Shares will be divided by three, rounding down any fractions, with fractional shares accumulated for the final installment.
+
+3. **Accelerated Issuance (Section 6.4)**: In the event of a corporate transaction, disability, or death, all Deferred RSUs will be issued in a single payment within 90 days of the event.
+
+4. **Beneficiary Designation (Section 6.5)**: Participants can designate beneficiaries, which can be changed at any time before death. If no beneficiary is designated or if the designated beneficiary predeceases the participant, the participant's estate will be the beneficiary.
+
+5. **Vesting and Issuance of Shares (Section 6.6)**: Shares underlying RSUs will be fully vested and issued as soon as practicable after the issuance date, but no later than March 15 of the following calendar year, or December 31 in the case of death.
+
+These sections provide a framework for how Deferred RSUs are managed, including the timing of distributions and the rights of participants and their beneficiaries.
+The text provided outlines specific provisions related to a benefits program administered by Uber Technologies, Inc. Here are the key points:
+
+1. **No Right to Assets (7.1)**: Participation in the program does not grant participants any rights or liens against the company's assets. The benefits are unfunded, and participants are considered general unsecured creditors.
+
+2. **No Right to Transfer Interest (7.2)**: Benefits under the program cannot be transferred, sold, or assigned. However, an alternate payee may receive benefits under certain conditions defined by a domestic relations order, provided it does not grant them rights to the company's assets or payments beyond what the participant is entitled to.
+
+3. **No Service Rights (7.3)**: Participation in the program does not guarantee continued employment. The company retains the right to terminate any participant's service at any time and for any reason.
+
+4. **Administration of the Program (8.1)**: The program is administered by an Administrator who has the authority to adopt rules, determine requirements for elections, interpret program terms, and resolve questions or ambiguities.
+
+5. **Incapacity (8.2)**: If a participant is unable to manage their affairs due to illness or accident, payments may be made to a designated family member or party deemed appropriate by the Administrator, unless a legal guardian has been appointed.
+
+These sections emphasize the non-vested nature of benefits, the lack of transferability, and the administrative authority over the program.
+The text provided outlines several sections of a program related to compensation and benefits for participants, likely within a corporate context. Here are the key points summarized:
+
+1. **Amendment, Suspension, and Termination (Section 8.3)**: The Compensation Committee can amend, suspend, or terminate the program at any time. However, any changes that reduce benefits for existing participants after a Corporate Transaction require their written consent. Amendments for compliance with Section 409A of the Code can be made without reducing participant benefits.
+
+2. **Power to Delegate Authority (Section 8.4)**: The Administrator has the discretion to delegate its authority and responsibilities under the program to others.
+
+3. **Headings (Section 8.5)**: Headings in the document are for reference only and do not influence the interpretation of the program's provisions.
+
+4. **Severability (Section 8.6)**: If any part of the program is found to be void or unenforceable, the remaining provisions will still be effective. The void provisions may be limited or replaced to maintain the program's intended benefits.
+
+5. **Governing Law (Section 8.7)**: The program will be governed by California law, excluding any conflicting legal principles, unless federal law overrides.
+
+6. **Complete Statement of Program (Section 8.8)**: The program is a complete statement of its terms, and benefits are determined solely by its provisions. Other evidence will not be considered, except for terms from the Equity Plan and applicable Award Agreements regarding RSU Awards.
+
+7. **Compliance with Section 409A of the Code (Section 8.9)**: The program aims to comply with or be exempt from Section 409A of the Code. It specifies conditions for distributions, payments upon termination, and the treatment of installment payments, ensuring that participants cannot designate the year for distributions outside of the Code's provisions.
+
+This summary captures the essential elements of the sections provided. If you have specific questions or need further details, feel free to ask!
+It seems that the text you provided is a fragment from a legal or financial document, possibly related to tax implications under Section 409A of the Internal Revenue Code. If you have specific questions about this section or need further information regarding the quarterly report from Uber Technologies, Inc., please let me know!
+The document is an amendment to the Google Maps Master Agreement between Google LLC and Uber Technologies, Inc. It outlines changes to the Services Schedule related to the Google Maps Platform Rides and Delivery Solution Services. Key points include:
+
+1. **Effective Date**: The amendment is effective upon signing by Google.
+2. **Amendments**:
+- **Section 11.4(b)**: Specifies that upon termination or expiration of the Order Form, Uber must delete cached Google Maps content, with certain exceptions outlined in the agreement.
+- **Section 12**: Lists the sections that will survive the expiration or termination of the Services Schedule, including data use, intellectual property ownership, and content usage frameworks.
+- **Section 14**: Additional definitions related to the agreement are to be amended, though specific changes are not detailed in the provided text.
+
+This amendment is part of the ongoing contractual relationship between the two companies regarding the use of Google Maps services.
+The document appears to be an amendment to an agreement between Google and a customer, detailing changes to specific appendices related to a caching solution and content usage framework. It confirms that the original agreement remains in effect except for the modifications made by this amendment. The governing law and dispute resolution provisions of the original agreement also apply to this amendment. The document is signed by authorized representatives from both parties, indicating their agreement to the changes.
+
+If you have specific questions about the content or need further details, please let me know!
+It seems that you have provided a reference to an appendix related to a caching solution, but there is no specific question or context provided. Could you please clarify what information or assistance you need regarding the caching solution or any other aspect of the quarterly report?
+It seems that the content you provided is a reference to an appendix related to a content usage framework, but it does not contain specific information or questions. If you have any specific questions or need information about Uber Technologies, Inc.'s quarterly report or any other topic, please let me know!
+The document is a certification by Dara Khosrowshahi, the Chief Executive Officer of Uber Technologies, Inc., in accordance with the Sarbanes-Oxley Act of 2002. It certifies the accuracy and completeness of the company's Quarterly Report on Form 10-Q. Key points from the certification include:
+
+1. Review of the report and assurance that it does not contain any misleading statements.
+2. Confirmation that the financial statements fairly present the company's financial condition and results of operations.
+3. Responsibility for establishing and maintaining disclosure controls and internal control over financial reporting.
+4. Evaluation of the effectiveness of these controls and disclosure of any changes that may materially affect them.
+5. Disclosure of any significant deficiencies or fraud related to internal control over financial reporting.
+
+The certification is dated May 5, 2022, and is signed by Dara Khosrowshahi.
+The document is a certification by Nelson Chai, the Chief Financial Officer of Uber Technologies, Inc., in accordance with the Sarbanes-Oxley Act of 2002. It certifies the accuracy and completeness of the company's Quarterly Report on Form 10-Q. Key points include:
+
+1. Review of the report and assurance that it does not contain misleading statements.
+2. Confirmation that the financial statements fairly present the company's financial condition and results.
+3. Responsibility for establishing and maintaining disclosure controls and internal control over financial reporting.
+4. Evaluation of the effectiveness of these controls and disclosure of any changes that may materially affect them.
+5. Disclosure of any significant deficiencies or fraud related to internal control over financial reporting.
+
+The certification is dated May 5, 2022, and is signed by Nelson Chai.
+The document contains certifications from the Chief Executive Officer, Dara Khosrowshahi, and the Chief Financial Officer, Nelson Chai, of Uber Technologies Inc. These certifications are made pursuant to 18 U.S.C. Section 1350 and the Sarbanes-Oxley Act of 2002. Both executives affirm that the Quarterly Report on Form 10-Q for the period ended March 31, 2022, complies with the requirements of the Securities Exchange Act of 1934 and accurately presents the financial condition and results of operations of the company. The certifications are dated May 5, 2022.
+The document is a quarterly report (Form 10-Q) filed by Uber Technologies, Inc. with the SEC for the period ended March 31, 2022. It includes essential information such as the company's incorporation details, trading symbol (UBER), and confirmation of compliance with filing requirements. The report indicates that Uber is a large accelerated filer and confirms that it is not a shell company. As of May 2, 2022, there were 1,963,660,253 shares of common stock outstanding.
+The document is a quarterly report from Uber Technologies, Inc. filed with the SEC. It includes the following sections:
+
+1. **Special Note Regarding Forward-Looking Statements** - Page 2
+2. **PART I - FINANCIAL INFORMATION** - Page 4
+- Item 1: Financial Statements (unaudited)
+- Condensed Consolidated Balance Sheets as of December 31, 2021, and March 31, 2022 - Page 4
+- Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2021, and 2022 - Page 5
+- Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three Months Ended March 31, 2021, and 2022 - Page 6
+- Condensed Consolidated Statements of Redeemable Non-Controlling Interests and Equity for the Three Months Ended March 31, 2021, and 2022 - Page 7
+- Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2021, and 2022 - Page 9
+- Notes to Condensed Consolidated Financial Statements - Page 11
+- Item 2: Management's Discussion and Analysis of Financial Condition and Results of Operations - Page 32
+- Item 3: Quantitative and Qualitative Disclosures About Market Risk - Page 48
+- Item 4: Controls and Procedures - Page 48
+
+3. **PART II - OTHER INFORMATION** - Page 49
+- Item 1: Legal Proceedings - Page 49
+- Item 1A: Risk Factors - Page 50
+- Item 2: Unregistered Sales of Equity Securities and Use of Proceeds - Page 86
+- Item 6: Exhibits - Page 86
+- Signatures - Page 88
+
+This report provides a comprehensive overview of Uber's financial performance and other relevant information for the specified quarter.
+The document contains a section titled "Special Note Regarding Forward-Looking Statements," which outlines various forward-looking statements made by Uber Technologies, Inc. These statements pertain to the company's future operations, financial performance, business strategy, and other relevant factors. Key points include:
+
+- The potential impacts of COVID-19 and other pandemics on the business.
+- The company's ability to defend against litigation and government proceedings.
+- Competition in the market and management of growth.
+- Expectations regarding financial performance, including revenue and profitability.
+- Anticipated investments in new products and capital expenditures.
+- The ability to recruit and retain skilled personnel.
+- Plans for international expansion and compliance with regulations.
+
+The document emphasizes that actual results may differ from these forward-looking statements and advises caution in relying on them as predictions of future events.
+The text discusses the nature of forward-looking statements made by Uber Technologies, Inc. in their Quarterly Report on Form 10-Q. It highlights that these statements are subject to various risks, uncertainties, and assumptions, which could lead to actual results differing materially from those projected. The company emphasizes that statements reflecting beliefs and opinions are based on information available at the time of the report and may not be exhaustive. Furthermore, the report clarifies that forward-looking statements are only valid as of their date and that Uber does not commit to updating them unless legally required. Investors are advised to be cautious and not to place undue reliance on these statements.
+**Uber Technologies, Inc. Condensed Consolidated Balance Sheets Summary:**
+
+**As of December 31, 2021:**
+- Total Assets: $38,774 million
+- Total Liabilities: $23,425 million
+- Total Equity: $15,145 million
+
+**As of March 31, 2022:**
+- Total Assets: $32,812 million
+- Total Liabilities: $22,994 million
+- Total Equity: $9,613 million
+
+**Key Changes:**
+- Total Assets decreased by $5,962 million.
+- Total Liabilities decreased by $431 million.
+- Total Equity decreased by $5,532 million.
+
+**Current Assets (Comparison):**
+- Cash and Cash Equivalents: Decreased from $4,295 million to $4,184 million.
+- Accounts Receivable: Increased from $2,439 million to $2,476 million.
+- Total Current Assets: Decreased from $8,819 million to $8,665 million.
+
+**Long-term Debt:**
+- Remained relatively stable, with a slight decrease from $9,276 million to $9,273 million.
+
+This summary provides a snapshot of Uber's financial position at the end of the specified periods.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Operations (Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021**
+- Revenue: $2,903 million
+- Total Costs and Expenses: $4,427 million
+- Loss from Operations: $(1,524) million
+- Interest Expense: $(115) million
+- Other Income (Expense), Net: $1,710 million
+- Income (Loss) Before Income Taxes: $71 million
+- Provision for Income Taxes: $185 million
+- Income (Loss) from Equity Method Investments: $(8) million
+- Net Loss: $(122) million
+- Net Loss Attributable to Uber Technologies, Inc.: $(108) million
+- Net Loss Per Share (Basic): $(0.06)
+- Weighted-Average Shares (Basic): 1,858,525
+
+- **2022**
+- Revenue: $6,854 million
+- Total Costs and Expenses: $7,336 million
+- Loss from Operations: $(482) million
+- Interest Expense: $(129) million
+- Other Income (Expense), Net: $(5,557) million
+- Income (Loss) Before Income Taxes: $(6,168) million
+- Provision for Income Taxes: $(232) million
+- Income (Loss) from Equity Method Investments: $18 million
+- Net Loss: $(5,918) million
+- Net Loss Attributable to Uber Technologies, Inc.: $(5,930) million
+- Net Loss Per Share (Basic): $(3.03)
+- Weighted-Average Shares (Basic): 1,953,989
+
+This summary provides a snapshot of Uber's financial performance for the specified quarters, highlighting revenue, expenses, losses, and per-share metrics.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Comprehensive Income (Loss)**
+
+**(In millions) (Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021:**
+- Net loss including non-controlling interests: $(122)
+- Other comprehensive income, net of tax:
+- Change in foreign currency translation adjustment: $33
+- Change in unrealized gain on investments in available-for-sale securities: $1,156
+- Other comprehensive income, net of tax: $1,189
+- Comprehensive income (loss) including non-controlling interests: $1,067
+- Less: comprehensive income (loss) attributable to non-controlling interests: $(14)
+- Comprehensive income (loss) attributable to Uber Technologies, Inc.: $1,081
+
+- **2022:**
+- Net loss including non-controlling interests: $(5,918)
+- Other comprehensive income, net of tax:
+- Change in foreign currency translation adjustment: $19
+- Change in unrealized gain on investments in available-for-sale securities: $0
+- Other comprehensive income, net of tax: $19
+- Comprehensive income (loss) including non-controlling interests: $(5,899)
+- Less: comprehensive income (loss) attributable to non-controlling interests: $12
+- Comprehensive income (loss) attributable to Uber Technologies, Inc.: $(5,911)
+
+**Note:** The accompanying notes are an integral part of these condensed consolidated financial statements.
+The provided text is a portion of the condensed consolidated statements of redeemable non-controlling interests and equity for Uber Technologies, Inc. as of March 31, 2021. It includes financial data such as balances, stock transactions, and adjustments related to equity and non-controlling interests.
+
+Key figures from the statement include:
+
+- Balance as of December 31, 2020:
+- Redeemable Non-Controlling Interests: $787 million
+- Common Stock: 1,849,794 shares
+- Additional Paid-In Capital: $35,931 million
+- Accumulated Other Comprehensive Income (Loss): $(535) million
+- Accumulated Deficit: $(23,130) million
+- Redeemable Non-Controlling Interests: $701 million
+- Total Equity: $12,967 million
+
+- Balance as of March 31, 2021:
+- Redeemable Non-Controlling Interests: $473 million
+- Common Stock: 1,867,369 shares
+- Additional Paid-In Capital: $36,182 million
+- Accumulated Other Comprehensive Income: $654 million
+- Accumulated Deficit: $(23,238) million
+- Total Equity: $13,598 million
+
+The statement also details various transactions affecting equity, such as stock options exercised, stock-based compensation, and adjustments for unrealized gains and losses.
+The document contains the condensed consolidated statements of redeemable non-controlling interests and equity for Uber Technologies, Inc. as of March 31, 2022. Here are the key details:
+
+- **Balance as of December 31, 2021**:
+- Redeemable Non-Controlling Interests: $204 million
+- Common Stock: 1,949,316 shares
+- Additional Paid-In Capital: $38,608 million
+- Other Comprehensive Income (Loss): $(524) million
+- Accumulated Deficit: $(23,626) million
+- Non-Controlling Interests: $687 million
+- Total Equity: $15,145 million
+
+- **Changes during the quarter**:
+- Exercise of stock options: 1,093 shares, $6 million increase in Additional Paid-In Capital
+- Stock-based compensation: $369 million increase in Additional Paid-In Capital
+- Issuance of common stock for RSUs: 9,569 shares, no impact on equity
+- Shares withheld for net share settlement: $(11) million decrease in Additional Paid-In Capital
+- Issuance of common stock for contingent consideration: 132 shares, $5 million increase in Additional Paid-In Capital
+- Foreign currency translation adjustment: $19 million increase in Other Comprehensive Income
+- Net loss: $(5,920) million (including $1 million from redeemable non-controlling interests)
+
+- **Balance as of March 31, 2022**:
+- Redeemable Non-Controlling Interests: $205 million
+- Common Stock: 1,959,794 shares
+- Additional Paid-In Capital: $38,977 million
+- Other Comprehensive Income (Loss): $(505) million
+- Accumulated Deficit: $(29,556) million
+- Non-Controlling Interests: $697 million
+- Total Equity: $9,613 million
+
+This summary provides an overview of the changes in equity and the financial position of Uber Technologies, Inc. for the specified quarter.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Cash Flows (In millions, Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021**:
+- Net loss including non-controlling interests: $(122)
+- Net cash provided by (used in) operating activities: $(611)
+- Net cash used in investing activities: $(250)
+- Net cash used in financing activities: $(226)
+- Effect of exchange rate changes: $(46)
+
+- **2022**:
+- Net loss including non-controlling interests: $(5,918)
+- Net cash provided by (used in) operating activities: $15
+- Net cash used in investing activities: $(135)
+- Net cash used in financing activities: $(113)
+- Effect of exchange rate changes: $20
+
+This summary provides a snapshot of Uber's cash flows from operating, investing, and financing activities for the specified quarters.
+The provided text includes financial information related to Uber Technologies, Inc.'s cash and cash equivalents, as well as supplemental disclosures regarding cash flow. Here are the key points:
+
+1. **Net Decrease in Cash and Cash Equivalents**:
+- Current period: $(1,133)
+- Previous period: $(213)
+
+2. **Cash and Cash Equivalents, and Restricted Cash**:
+- Beginning of period: $7,391 (current) and $7,805 (previous)
+- Reclassification from assets held for sale: $349 (current) and $0 (previous)
+- End of period: $6,607 (current) and $7,592 (previous)
+
+3. **Reconciliation to Condensed Consolidated Balance Sheets**:
+- Cash and cash equivalents: $4,836 (current) and $4,184 (previous)
+- Restricted cash and cash equivalents (current): $247 (current) and $543 (previous)
+- Restricted cash and cash equivalents (non-current): $1,524 (current) and $2,865 (previous)
+- Total: $6,607 (current) and $7,592 (previous)
+
+4. **Supplemental Disclosures of Cash Flow Information**:
+- Cash paid for interest (net of amount capitalized): $84 (current) and $135 (previous)
+- Cash paid for income taxes (net of refunds): $22 (current) and $41 (previous)
+- Non-cash investing and financing activities:
+- Finance lease obligations: $21 (current) and $46 (previous)
+- Right-of-use assets obtained in exchange for lease obligations: $45 (current) and $132 (previous)
+- Ownership interest received in exchange for divestiture: $1,018 (current) and $0 (previous)
+- Conversion of convertible notes to common stock: $158 (current) and $0 (previous)
+
+This summary captures the essential financial data regarding cash flow and equivalents for the specified periods.
+**Note 1 – Description of Business and Summary of Significant Accounting Policies**
+
+**Description of Business**
+Uber Technologies, Inc. (“Uber”) was incorporated in Delaware in July 2010 and is headquartered in San Francisco, California. Uber operates a technology platform that connects consumers (Riders) with independent ride service providers (Mobility Drivers) for ridesharing, and connects Riders and other consumers (Eaters) with restaurants and stores (Merchants) through delivery service providers (Couriers). Uber also connects consumers with public transportation networks and facilitates connections in the freight industry. The technology is utilized globally, primarily in the U.S., Canada, Latin America, Europe, the Middle East, Africa, and Asia (excluding China and Southeast Asia).
+
+**Basis of Presentation**
+The unaudited condensed consolidated financial statements are prepared in accordance with GAAP and SEC regulations for interim financial reporting. The balance sheet as of December 31, 2021, is derived from audited financial statements. Certain disclosures may be condensed or omitted, and results for interim periods may not indicate full-year results. Management believes the financial statements include all necessary adjustments for a fair presentation.
+
+**Basis of Consolidation**
+The financial statements include accounts of Uber Technologies, Inc. and entities consolidated under variable interest and voting models, with all intercompany balances and transactions eliminated.
+
+**Use of Estimates**
+Preparing the financial statements requires management to make estimates and assumptions affecting reported amounts. These estimates, based on historical experience and reasonable assumptions, include fair values of investments, useful lives of assets, impairment assessments, stock-based compensation, and tax reserves. The COVID-19 pandemic has introduced uncertainties that may affect these estimates in future periods.
+**1. What impact has COVID-19 had on Uber's business?**
+
+COVID-19 has adversely impacted Uber's business by reducing global demand for Mobility offerings while accelerating the growth of Delivery offerings. The pandemic has created uncertainty regarding its cumulative and ultimate impact on Uber's future operations, financial position, liquidity, and cash flows.
+
+**2. What accounting standard did Uber adopt in January 2022?**
+
+Uber adopted ASU 2021-10, “Government Assistance (Topic 832): Disclosures by Business Entities about Government Assistance,” on January 1, 2022. This standard requires disclosures about transactions with a government accounted for by applying a grant or contribution accounting model by analogy.
+
+**3. What is the effective date for the recently issued ASU 2021-08?**
+
+The ASU 2021-08, “Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers,” is effective for public companies for fiscal years and interim periods beginning after December 15, 2022.
+
+**4. How did Uber's total revenue change from Q1 2021 to Q1 2022?**
+
+Uber's total revenue increased from $2,903 million in Q1 2021 to $6,854 million in Q1 2022.
+
+**5. What were the revenue figures for Mobility and Delivery in Q1 2022?**
+
+In Q1 2022, Mobility revenue was $2,518 million, and Delivery revenue was $2,512 million.
+The document provides a detailed overview of Uber Technologies, Inc.'s financial performance for the first quarter of 2022, including revenue recognition policies for mobility, delivery, and freight services. Here are the key points:
+
+1. **Mobility Services Revenue**:
+- Uber recognizes revenue from end-users on a gross basis in markets where it is responsible for providing mobility services. Revenue is recognized when a trip is completed.
+- Payments to drivers are recorded as cost of revenue, excluding depreciation and amortization.
+
+2. **Delivery Revenue**:
+- Revenue is derived from merchants and couriers using the delivery platform. In certain markets, delivery fees charged to end-users are included in revenue.
+- For the three months ended March 31, 2021, and 2022, revenue from end-users was $88 million and $241 million, respectively. Cost of revenue for these transactions was $339 million and $740 million for the same periods.
+
+3. **Freight Revenue**:
+- This includes revenue from freight transportation services and transportation management following the acquisition of Tupelo Parent, Inc. (Transplace).
+
+4. **All Other Revenue**:
+- Prior to 2022, this primarily included collaboration revenue from the Advanced Technologies Group and revenue from New Mobility offerings.
+
+5. **Contract Balances**:
+- As of March 31, 2022, Uber had $155 million in contract liabilities. Revenue recognized from these contracts was not material for the three months ended March 31, 2021, and 2022.
+- Remaining performance obligations for contracts with an expected length greater than one year are expected to be recognized as $25 million within 12 months and $121 million beyond 12 months, totaling $146 million.
+
+6. **Investments**:
+- As of March 31, 2022, Uber's investments included non-marketable equity securities valued at $306 million and marketable equity securities with significant decreases in value for companies like Didi, Grab, and Aurora compared to December 31, 2021.
+- Total investments decreased from $11,806 million as of December 31, 2021, to $6,247 million as of March 31, 2022.
+
+This summary encapsulates the financial performance and key metrics from the quarterly report.
+The document provides a detailed overview of Uber Technologies, Inc.'s financial assets and liabilities measured at fair value on a recurring basis as of December 31, 2021, and March 31, 2022. It categorizes these assets and liabilities into three levels based on the fair value hierarchy:
+
+1. **Financial Assets**:
+- **Non-marketable equity securities**:
+- As of December 31, 2021: $32 million (Level 3)
+- As of March 31, 2022: $21 million (Level 3)
+- **Marketable equity securities**:
+- As of December 31, 2021: $11,359 million (Level 1)
+- As of March 31, 2022: $5,811 million (Level 1)
+- **Note receivable from a related party**:
+- As of December 31, 2021: $132 million (Level 3)
+- As of March 31, 2022: $130 million (Level 3)
+
+**Total Financial Assets**:
+- As of December 31, 2021: $11,523 million
+- As of March 31, 2022: $5,962 million
+
+2. **Financial Liabilities**:
+- **MLU B.V. Call Option**:
+- As of December 31, 2021: $193 million (Level 3)
+- As of March 31, 2022: $12 million (Level 3)
+
+**Total Financial Liabilities**:
+- As of December 31, 2021: $193 million
+- As of March 31, 2022: $12 million
+
+The document also discusses the valuation techniques used for Level 3 inputs, which include unobservable inputs and estimation techniques due to the lack of quoted market prices. It highlights the sensitivity of fair value estimates to changes in these inputs, particularly in relation to the investee's financing activities.
+
+Additionally, a reconciliation of Level 3 financial assets and liabilities as of March 31, 2022, shows changes in fair value, with non-marketable equity securities decreasing by $11 million, note receivables decreasing by $2 million, and the MLU B.V. Call Option decreasing by $181 million.
+The document provides detailed information about Uber Technologies, Inc.'s non-financial assets and equity method investments as of March 31, 2022. Here are the key points:
+
+1. **Non-Financial Assets**:
+- Goodwill, intangible assets, and property and equipment are adjusted to fair value when an impairment charge is recognized, primarily using Level 3 inputs.
+
+2. **Non-Marketable Equity Securities**:
+- These are investments in privately held companies without readily determinable fair values.
+- The carrying value is adjusted based on observable transactions or for impairment, recorded in other income (expense), net.
+- No material unrealized or realized gains or losses were recorded for these securities during the three months ended March 31, 2021, and 2022.
+- The total carrying value of non-marketable equity securities as of March 31, 2022, was $285 million, up from $283 million as of December 31, 2021.
+
+3. **Equity Method Investments**:
+- The carrying value of equity method investments decreased from $800 million as of December 31, 2021, to $624 million as of March 31, 2022.
+- The significant change was due to an impairment charge of $182 million for the investment in MLU B.V., attributed to economic projections related to the Russian economy amid geopolitical tensions.
+- The carrying value of MLU B.V. was $574 million as of March 31, 2022, down from $751 million as of December 31, 2021.
+
+4. **MLU B.V. Basis Difference**:
+- The carrying value includes a basis difference, adjusted for share in income or losses and amortization.
+- Currency translation adjustments due to the depreciation of the Ruble against the U.S. Dollar will be reflected in future financial statements.
+
+This summary encapsulates the financial adjustments and valuations related to Uber's non-financial and equity method investments as of the specified date.
+The table below summarizes the composition of the basis difference as of March 31, 2022 (in millions):
+
+- Equity method goodwill: $320
+- Intangible assets, net of accumulated amortization: $48
+- Deferred tax liabilities: $(13)
+- Cumulative currency translation adjustments: $(70)
+
+**Total Basis Difference:** $285 million
+
+**Amortization Details:**
+- The basis difference related to intangible assets is amortized over an estimated useful life of approximately 3.1 years using the straight-line method.
+- Equity method goodwill is not amortized.
+
+**MLU B.V. Call Option:**
+- On August 30, 2021, Uber granted Yandex an option to acquire its remaining equity interest in MLU B.V. for approximately $1.8 billion.
+- As of December 31, 2021, the fair value of the MLU B.V. Call Option was $193 million.
+- As of March 31, 2022, the fair value decreased to $12 million, reflecting a $181 million gain for the fair value change during the quarter.
+
+**Goodwill Changes:**
+The following table presents the changes in the carrying value of goodwill by reportable segment for the three months ended March 31, 2022 (in millions):
+
+| Segment   | Mobility | Delivery | Freight | Total Goodwill |
+|-----------|----------|----------|---------|-----------------|
+| Balance as of December 31, 2021 | $2,581   | $4,401   | $1,438  | $8,420          |
+| Acquisitions | $64      | —        | —       | $64             |
+| Measurement period adjustment | —        | —        | $5      | $5              |
+| Foreign currency translation adjustment | $(56)   | $2      | —       | $(54)           |
+| **Balance as of March 31, 2022** | **$2,589** | **$4,403** | **$1,443** | **$8,435**      |
+The report provides details on Uber Technologies, Inc.'s intangible assets as of December 31, 2021, and March 31, 2022. Here are the key points:
+
+### Intangible Assets Overview
+
+#### As of December 31, 2021:
+- **Total Gross Carrying Value**: $3,032 million
+- **Total Accumulated Amortization**: $(620) million
+- **Net Carrying Value**: $2,412 million
+
+#### Breakdown:
+- **Consumer, Merchant and other relationships**:
+- Gross: $1,868 million
+- Accumulated Amortization: $(294) million
+- Net: $1,574 million
+- Useful Life: 9 years
+- **Developed technology**:
+- Gross: $922 million
+- Accumulated Amortization: $(269) million
+- Net: $653 million
+- Useful Life: 5 years
+- **Trade names and trademarks**:
+- Gross: $222 million
+- Accumulated Amortization: $(47) million
+- Net: $175 million
+- Useful Life: 6 years
+- **Patents**:
+- Gross: $15 million
+- Accumulated Amortization: $(7) million
+- Net: $8 million
+- Useful Life: 7 years
+- **Other**:
+- Gross: $5 million
+- Accumulated Amortization: $(3) million
+- Net: $2 million
+- Useful Life: 0 years
+
+#### As of March 31, 2022:
+- **Total Gross Carrying Value**: $3,022 million
+- **Total Accumulated Amortization**: $(753) million
+- **Net Carrying Value**: $2,269 million
+
+#### Breakdown:
+- **Consumer, Merchant and other relationships**:
+- Gross: $1,856 million
+- Accumulated Amortization: $(362) million
+- Net: $1,494 million
+- Useful Life: 9 years
+- **Developed technology**:
+- Gross: $924 million
+- Accumulated Amortization: $(325) million
+- Net: $599 million
+- Useful Life: 5 years
+- **Trade names and trademarks**:
+- Gross: $222 million
+- Accumulated Amortization: $(55) million
+- Net: $167 million
+- Useful Life: 6 years
+- **Patents**:
+- Gross: $15 million
+- Accumulated Amortization: $(8) million
+- Net: $7 million
+- Useful Life: 6 years
+- **Other**:
+- Gross: $5 million
+- Accumulated Amortization: $(3) million
+- Net: $2 million
+- Useful Life: 0 years
+
+### Amortization Expense
+- **For the three months ended March 31, 2021**: $92 million
+- **For the three months ended March 31, 2022**: $144 million
+
+### Estimated Future Amortization Expense (as of March 31, 2022):
+- **Remainder of 2022**: $381 million
+- **2023**: $363 million
+- **2024**: $306 million
+- **2025**: $266 million
+- **2026**: $203 million
+- **Thereafter**: $748 million
+- **Total**: $2,267 million
+
+This summary encapsulates the key financial data regarding Uber's intangible assets and their amortization.
+**Note 6 – Long-Term Debt and Revolving Credit Arrangements**
+
+**Components of Debt (in millions, except for percentages):**
+
+| Debt Component                          | As of December 31, 2021 | As of March 31, 2022 | Effective Interest Rates | Maturities            |
+|-----------------------------------------|--------------------------|-----------------------|-------------------------|-----------------------|
+| 2025 Refinanced Term Loan               | $1,448                   | $1,444                | 3.8%                    | April 4, 2025         |
+| 2027 Refinanced Term Loan               | $1,090                   | $1,087                | 3.8%                    | February 25, 2027     |
+| 2025 Senior Note                        | $1,000                   | $1,000                | 7.7%                    | May 15, 2025          |
+| 2026 Senior Note                        | $1,500                   | $1,500                | 8.1%                    | November 1, 2026      |
+| 2027 Senior Note                        | $1,200                   | $1,200                | 7.7%                    | September 15, 2027    |
+| 2028 Senior Note                        | $500                     | $500                  | 7.0%                    | January 15, 2028      |
+| 2029 Senior Note                        | $1,500                   | $1,500                | 4.7%                    | August 15, 2029       |
+| 2025 Convertible Notes                  | $1,150                   | $1,150                | 0.2%                    | December 15, 2025     |
+| **Total Debt**                         | **$9,388**               | **$9,381**            |                         |                       |
+| Less: unamortized discount and issuance costs | $(85)                | $(81)                 |                         |                       |
+| Less: current portion of long-term debt | $(27)                   | $(27)                 |                         |                       |
+| **Total Long-Term Debt**               | **$9,276**               | **$9,273**            |                         |                       |
+
+**2016 and 2018 Senior Secured Term Loans Refinancing:**
+On February 25, 2021, Uber entered into a refinancing transaction borrowing $2.6 billion to repay all outstanding loans under the 2016 and 2018 Senior Secured Term Loan agreements. This included a $1.1 billion tranche maturing on February 25, 2027, and a $1.5 billion tranche maturing on April 4, 2025. The refinancing qualified as a debt modification.
+
+The 2025 and 2027 Refinanced Term Loans are guaranteed by certain material domestic restricted subsidiaries and contain covenants restricting debt incurrence and fundamental changes. As of March 31, 2022, Uber was in compliance with all covenants. The loans are secured by certain intellectual property and equity of material foreign subsidiaries.
+
+**Fair Values (as of March 31, 2022):**
+- 2025 Refinanced Term Loan: $1.4 billion
+- 2027 Refinanced Term Loan: $1.1 billion
+
+**2025 Convertible Notes:**
+In December 2020, Uber issued $1.15 billion of 0% convertible senior notes due December 15, 2025. Holders may convert their notes under specific conditions prior to maturity.
+As of March 31, 2022, the 2025 Convertible Notes are classified as long-term since none of the conditions for early conversion had been met. The initial conversion rate is 12.3701 shares per $1,000 principal amount, equating to a conversion price of approximately $80.84 per share. Upon conversion, Uber may pay in cash, shares, or a combination of both. The notes cannot be redeemed before December 20, 2023, and can be redeemed for cash if certain stock price conditions are met.
+
+The indenture for the 2025 Convertible Notes does not impose financial or operational restrictions. Prior to adopting ASU 2020-06, proceeds from the notes were split between equity and liability components, with a $243 million debt discount amortized over the term. After adopting ASU 2020-06 on January 1, 2021, the accounting treatment changed, resulting in a decrease in additional paid-in capital and an increase in the notes by the same amount.
+
+The fair value of the 2025 Convertible Notes was $1.0 billion as of March 31, 2022, based on Level 2 valuation inputs.
+
+Regarding the Senior Notes (2025-2029), they are guaranteed by certain subsidiaries and have customary covenants. As of March 31, 2022, the fair values of the Senior Notes were as follows (in millions):
+
+- 2025 Senior Note: $1,044
+- 2026 Senior Note: $1,595
+- 2027 Senior Note: $1,281
+- 2028 Senior Note: $516
+- 2029 Senior Note: $1,410
+
+Total fair value of Senior Notes: $5,846 million.
+The table presents the interest expense related to Uber's long-term debt for the three months ended March 31, 2021, and 2022:
+
+| Description                                           | Three Months Ended March 31, 2021 | Three Months Ended March 31, 2022 |
+|------------------------------------------------------|------------------------------------|------------------------------------|
+| Contractual interest coupon                           | $111 million                       | $133 million                       |
+| Amortization of debt discount and issuance costs      | $7 million                         | $4 million                         |
+| **Total interest expense from long-term debt**       | **$118 million**                   | **$137 million**                   |
+
+Regarding the Revolving Credit Arrangements, Uber has a credit agreement for $2.3 billion maturing on June 13, 2023, which was amended on April 4, 2022, to extend the maturity to April 4, 2027, and to change the interest rate basis from LIBOR to SOFR, among other modifications. As of March 31, 2022, there was no outstanding balance on the Revolving Credit Facility.
+
+For Letters of Credit, as of December 31, 2021, and March 31, 2022, Uber had outstanding letters of credit of $749 million and $741 million, respectively, with reductions to available credit under the Revolving Credit Facility of $247 million and $239 million, respectively.
+### Supplemental Financial Statement Information
+
+#### Prepaid Expenses and Other Current Assets
+- **As of December 31, 2021**:
+- Prepaid expenses: $459 million
+- Other receivables: $553 million
+- Other: $442 million
+- **Total**: $1,454 million
+
+- **As of March 31, 2022**:
+- Prepaid expenses: $355 million
+- Other receivables: $615 million
+- Other: $492 million
+- **Total**: $1,462 million
+
+#### Accrued and Other Current Liabilities
+- **As of December 31, 2021**:
+- Accrued legal, regulatory and non-income taxes: $2,187 million
+- Accrued Drivers and Merchants liability: $1,187 million
+- Income and other tax liabilities: $376 million
+- Commitment to issue unsecured convertible notes in connection with Careem acquisition: $238 million
+- Other: $2,549 million
+- **Total**: $6,537 million
+
+- **As of March 31, 2022**:
+- Accrued legal, regulatory and non-income taxes: $2,066 million
+- Accrued Drivers and Merchants liability: $1,222 million
+- Income and other tax liabilities: $393 million
+- Commitment to issue unsecured convertible notes in connection with Careem acquisition: $234 million
+- Other: $2,251 million
+- **Total**: $6,166 million
+
+#### Other Long-Term Liabilities
+- **As of December 31, 2021**:
+- Deferred tax liabilities: $365 million
+- Other: $570 million
+- **Total**: $935 million
+
+- **As of March 31, 2022**:
+- Deferred tax liabilities: $91 million
+- Other: $588 million
+- **Total**: $679 million
+
+#### Accumulated Other Comprehensive Income (Loss)
+- **Balance as of December 31, 2020**:
+- Foreign Currency Translation Adjustments: $(581) million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $46 million
+- **Total**: $(535) million
+
+- **Other comprehensive income (loss) before reclassifications**:
+- Foreign Currency Translation Adjustments: $33 million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $1,156 million
+- **Total**: $1,189 million
+
+- **Balance as of March 31, 2021**:
+- Foreign Currency Translation Adjustments: $(548) million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $1,202 million
+- **Total**: $654 million
+
+This summary provides a concise overview of the financial information related to prepaid expenses, accrued liabilities, long-term liabilities, and accumulated other comprehensive income for the specified periods.
+The provided text includes financial information related to Uber Technologies, Inc. for the three months ended March 31, 2022, and compares it to the same period in 2021. Here are the key points:
+
+1. **Unrealized Gains (Losses)**:
+- As of December 31, 2021, the balance was $(524) million.
+- Other comprehensive income (loss) before reclassifications for the first quarter of 2022 was $19 million.
+- The balance as of March 31, 2022, was $(505) million.
+
+2. **Other Income (Expense), Net**:
+- **Three Months Ended March 31, 2021**:
+- Interest income: $5 million
+- Foreign currency exchange losses: $(25) million
+- Gain on business divestiture: $1,684 million
+- Unrealized gain on debt and equity securities: $63 million
+- Other income (expense), net: $1,710 million
+- **Three Months Ended March 31, 2022**:
+- Interest income: $11 million
+- Foreign currency exchange gains: $10 million
+- Gain on business divestiture: $0 million
+- Unrealized loss on debt and equity securities: $(5,570) million
+- Impairment of equity method investment: $(182) million
+- Other income (expense), net: $(5,557) million
+
+3. **Significant Changes**:
+- The most notable change was the significant unrealized loss on debt and equity securities in 2022, primarily due to losses on investments in Grab, Aurora, Didi, and Zomato.
+- There was a substantial decrease in other income (expense), net from $1,710 million in 2021 to $(5,557) million in 2022, largely due to the absence of a gain on business divestiture and the unrealized losses.
+
+This summary captures the essential financial data and changes in performance for Uber Technologies, Inc. during the specified periods.
+**Note 8 – Stockholders' Equity**
+
+**Equity Compensation Plans**
+Uber maintains four equity compensation plans for issuing shares of common stock to officers, employees, directors, and consultants: the 2010 Stock Plan, the 2013 Equity Incentive Plan, the 2019 Equity Incentive Plan, and the 2019 Employee Stock Purchase Plan (ESPP). After the IPO in 2019, only the 2019 Plan and ESPP have been utilized for awards, with no further awards granted under the 2010 and 2013 Plans. These plans allow for various types of awards, including incentive stock options (ISOs), nonqualified stock options (NSOs), stock appreciation rights (SARs), restricted stock awards, restricted stock units (RSUs), and performance-based awards.
+
+**Stock Option and SAR Activity**
+For the three months ended March 31, 2022, the summary of stock option and SAR activity is as follows (in millions, except share amounts which are in thousands):
+
+- **As of December 31, 2021**:
+- SARs Outstanding: 157
+- Options Outstanding: 24,253
+- Weighted-Average Exercise Price: $11.84
+- Remaining Contractual Life: 4.35 years
+- Aggregate Intrinsic Value: $735 million
+
+- **Granted**:
+- SARs: 4
+- Options: 421
+- Exercise Price: $33.89
+
+- **Exercised**:
+- SARs: (3)
+- Options: (999)
+- Exercise Price: $5.20
+
+- **Canceled and forfeited**:
+- SARs: —
+- Options: (88)
+- Exercise Price: $14.17
+
+- **As of March 31, 2022**:
+- SARs Outstanding: 158
+- Options Outstanding: 23,587
+- Weighted-Average Exercise Price: $12.51
+- Remaining Contractual Life: 4.10 years
+- Aggregate Intrinsic Value: $558 million
+
+- **Vested and expected to vest as of March 31, 2022**:
+- SARs: 141
+- Options: 17,045
+- Weighted-Average Exercise Price: $8.31
+- Remaining Contractual Life: 3.36 years
+- Aggregate Intrinsic Value: $473 million
+
+- **Exercisable as of March 31, 2022**:
+- SARs: 141
+- Options: 17,045
+- Weighted-Average Exercise Price: $8.31
+- Remaining Contractual Life: 3.36 years
+- Aggregate Intrinsic Value: $473 million
+
+**RSU Activity**
+The RSU activity for the three months ended March 31, 2022, is summarized as follows (in thousands, except per share amounts):
+
+- **Unvested and outstanding as of December 31, 2021**: 71,461 shares at a weighted-average grant-date fair value of $41.91
+- **Granted**: 59,266 shares at a weighted-average grant-date fair value of $33.65
+- **Vested**: (9,699) shares at a weighted-average grant-date fair value of $39.24
+- **Canceled and forfeited**: (4,073) shares at a weighted-average grant-date fair value of $39.87
+- **Unvested and outstanding as of March 31, 2022**: 116,955 shares at a weighted-average grant-date fair value of $37.99
+
+**Stock-Based Compensation Expense**
+The stock-based compensation expense by function for the three months ended March 31 is as follows (in millions):
+
+- **2021**:
+- Operations and support: $28
+- Sales and marketing: $22
+- Research and development: $133
+- General and administrative: $98
+- **Total**: $281
+
+- **2022**:
+- Operations and support: $33
+- Sales and marketing: $22
+- Research and development: $196
+- General and administrative: $108
+- **Total**: $359
+
+As of March 31, 2022, there was $4.5 billion of unamortized compensation costs related to all unvested awards, expected to be recognized over a weighted-average period of approximately 2.91 years.
+The document provides a detailed overview of Uber Technologies, Inc.'s income tax expenses and net income (loss) per share for the three months ended March 31, 2021, and 2022.
+
+1. **Income Tax Expense**:
+- For the three months ended March 31, 2021, the income tax expense was $185 million, primarily due to current tax on foreign earnings and deferred U.S. tax impacts related to the sale of the ATG Business, offset by U.S. losses.
+- For the same period in 2022, there was an income tax benefit of $(232) million, mainly driven by deferred U.S. tax impacts related to investments in companies like Grab, Aurora, Didi, and Zomato, along with U.S. losses, offset by current tax on foreign earnings.
+
+2. **Unrecognized Tax Benefits**:
+- In the three months ended March 31, 2022, the gross unrecognized tax benefits increased by an immaterial amount, which would not affect the effective tax rate due to a valuation allowance against certain deferred tax assets.
+
+3. **Tax Jurisdictions**:
+- Uber is subject to taxation in the U.S. and various foreign jurisdictions, with tax years from 2004 to 2022 remaining open for examination.
+
+4. **Net Income (Loss) Per Share**:
+- Basic net loss per share is calculated by dividing the net loss by the weighted-average number of common shares outstanding. Diluted net loss per share includes the effect of potential dilutive common stock.
+
+This summary encapsulates the key financial aspects related to income taxes and net income (loss) per share as reported by Uber Technologies, Inc. for the specified periods.
+The table presents the computation of basic and diluted net loss per share attributable to common stockholders for Uber Technologies, Inc. for the three months ended March 31, 2021, and March 31, 2022.
+
+### Basic Net Loss Per Share:
+- **Numerator:**
+- Net loss including non-controlling interests:
+- 2021: $(122) million
+- 2022: $(5,918) million
+- Net income (loss) attributable to non-controlling interests, net of tax:
+- 2021: $(14) million
+- 2022: $12 million
+- **Net loss attributable to common stockholders:**
+- 2021: $(108) million
+- 2022: $(5,930) million
+
+- **Denominator:**
+- Basic weighted-average common stock outstanding:
+- 2021: 1,858,525 thousand shares
+- 2022: 1,953,989 thousand shares
+
+- **Basic net loss per share attributable to common stockholders:**
+- 2021: $(0.06)
+- 2022: $(3.03)
+
+### Diluted Net Loss Per Share:
+- **Numerator:**
+- Net loss attributable to common stockholders:
+- 2021: $(108) million
+- 2022: $(5,930) million
+- Net loss attributable to Freight Holding convertible common shares non-controlling interest, net of tax:
+- 2021: $0
+- 2022: $(13) million
+- **Diluted net loss attributable to common stockholders:**
+- 2021: $(108) million
+- 2022: $(5,943) million
+
+- **Denominator:**
+- Number of shares used in basic net loss per share computation:
+- 2021: 1,858,525 thousand shares
+- 2022: 1,953,989 thousand shares
+- Weighted-average effect of potentially dilutive securities:
+- Assumed redemption of Freight Holding convertible common shares, non-controlling interest:
+- 2021: $0
+- 2022: 3,742 thousand shares
+- **Diluted weighted-average common stock outstanding:**
+- 2021: 1,858,525 thousand shares
+- 2022: 1,957,731 thousand shares
+
+- **Diluted net loss per share attributable to common stockholders:**
+- 2021: $(0.06)
+- 2022: $(3.04)
+
+### Potentially Dilutive Outstanding Securities Excluded from Computation:
+As of March 31:
+- Freight Holdings contingently redeemable preferred stock:
+- 2021: 13,586 thousand
+- 2022: 12,377 thousand
+- Convertible notes:
+- 2021: 22,013 thousand
+- 2022: 18,503 thousand
+- RSUs:
+- 2021: 82,146 thousand
+- 2022: 116,955 thousand
+- Stock options:
+- 2021: 26,073 thousand
+- 2022: 23,587 thousand
+- Common stock subject to repurchase:
+- 2021: 28 thousand
+- 2022: 3,767 thousand
+- Shares committed under ESPP:
+- 2021: 2,084 thousand
+- 2022: 3,361 thousand
+- Warrants to purchase common stock:
+- 2021: 126 thousand
+- 2022: 73 thousand
+
+**Total potentially dilutive outstanding securities:**
+- 2021: 146,056 thousand
+- 2022: 178,623 thousand
+**Segment Information and Geographic Information**
+
+Uber Technologies, Inc. has identified three operating and reportable segments as of the first quarter of 2022:
+
+1. **Mobility**: This segment connects consumers with drivers for rides in various vehicles, including cars, auto rickshaws, motorbikes, minibuses, and taxis. It also encompasses activities related to Financial Partnerships and Transit offerings.
+
+2. **Delivery**: This segment allows consumers to discover local restaurants, order meals, and choose between pick-up or delivery. In some markets, it also includes grocery, alcohol, and convenience store deliveries, along with other goods.
+
+3. **Freight**: This segment connects carriers with shippers, providing upfront pricing and booking capabilities. It also includes transportation management and logistics services.
+
+**Segment Adjusted EBITDA** is the primary performance measure used, defined as revenue minus specific expenses (cost of revenue, operations and support, sales and marketing, general and administrative, and research and development expenses). It excludes non-cash items or those not reflective of ongoing operations.
+
+**Segment Adjusted EBITDA for the Three Months Ended March 31:**
+
+| Segment   | 2021 (in millions) | 2022 (in millions) |
+|-----------|---------------------|---------------------|
+| Mobility  | $298                | $618                |
+| Delivery  | $(200)              | $30                 |
+| Freight   | $(29)               | $2                  |
+| All Other | $(11)               | $—                  |
+| **Total** | **$58**             | **$650**            |
+
+**Reconciliation to Loss from Operations:**
+
+| Item                                                                 | 2021 (in millions) | 2022 (in millions) |
+|----------------------------------------------------------------------|---------------------|---------------------|
+| Corporate G&A and Platform R&D (1), (2)                             | $(417)              | $(482)              |
+| Depreciation and amortization                                        | $(212)              | $(254)              |
+| Stock-based compensation expense                                       | $(281)              | $(359)              |
+| Legal, tax, and regulatory reserve changes and settlements            | $(551)              | $—                  |
+| Goodwill and asset impairments/loss on sale of assets                | $(57)               | $(13)               |
+| Acquisition, financing and divestitures related expenses              | $(36)               | $(14)               |
+| Accelerated lease costs related to cease-use of ROU assets           | $(2)                | $—                  |
+| COVID-19 response initiatives                                         | $(26)               | $(1)                |
+| Loss on lease arrangements, net                                       | $—                  | $(7)                |
+| Restructuring and related charges                                     | $—                  | $(2)                |
+| **Loss from operations**                                             | **$(1,524)**        | **$(482)**          |
+
+(1) Excluding stock-based compensation expense.
+(2) Includes costs not directly attributable to reportable segments, with shared costs like finance, accounting, tax, human resources, IT, and legal included. The allocation methodology is subject to periodic evaluation and may change.
+**Geographic Information: Revenue by Geography (in millions)**
+
+| Geographic Area         | Three Months Ended March 31, 2021 | Three Months Ended March 31, 2022 |
+|------------------------|------------------------------------|------------------------------------|
+| United States          | $1,683                             | $4,197                             |
+| All other countries     | $1,220                             | $2,657                             |
+| **Total Revenue**      | **$2,903**                        | **$6,854**                        |
+
+**Note 12 – Commitments and Contingencies: Contingencies**
+
+- As of December 31, 2021, and March 31, 2022, Uber recorded aggregate liabilities of $2.2 billion and $2.1 billion, respectively, with $1.3 billion related to non-income tax matters.
+- Legal and regulatory matters include claims related to independent contractor misclassification, Fair Credit Reporting Act claims, and various other employment-related claims.
+- The outcome of these legal matters is unpredictable, and if resolved against Uber for amounts exceeding management's expectations, it could materially affect the company's financial condition.
+
+**Driver Classification: California Attorney General Lawsuit**
+
+- California Assembly Bill 5 (AB5) went into effect in January 2020, establishing criteria for classifying workers as employees.
+- A lawsuit was filed against Uber and Lyft alleging misclassification of drivers, seeking an injunction and monetary damages.
+- A preliminary injunction was issued, but stayed pending appeal. The California Supreme Court declined to review the case, and the lawsuit returned to trial court after appellate proceedings.
+- Proposition 22, passed in November 2020, allows drivers to maintain independent contractor status under California law.
+The document discusses various legal challenges faced by Uber Technologies, Inc. regarding the classification of drivers as independent contractors versus employees. Key points include:
+
+1. **California Lawsuit**: The preliminary injunction related to claims by the California Attorney General was dissolved, but the lawsuit continues. A petition to stay the matter is in place, and the case remains stayed as to discovery.
+
+2. **Proposition 22**: A challenge to Proposition 22's constitutionality was filed, with a ruling from the Alameda County Superior Court declaring it unconstitutional. Appeals have been filed by the State of California and an intervening organization.
+
+3. **Massachusetts Attorney General Lawsuit**: A lawsuit was filed alleging that drivers are employees entitled to protections under wage and labor laws. Uber's motion to dismiss was denied, and a summary judgment motion is pending.
+
+4. **Swiss Social Security Reclassification**: Swiss authorities have classified drivers as employees for social security purposes, which Uber is challenging. A ruling on an appeal is expected in 2023.
+
+5. **UK Employment Tribunal Case**: A ruling upheld that drivers using the app in 2016 were classified as workers. Uber has since adjusted its treatment of drivers in the UK to comply with this ruling, including back pay and pension enrollment.
+
+6. **Other Legal Matters**: Uber anticipates further claims and inquiries regarding driver classification in various jurisdictions.
+
+The document indicates that while Uber is actively defending itself in these matters, the outcomes remain uncertain, and potential losses cannot be estimated.
+The document discusses various legal and tax matters affecting Uber Technologies, Inc. It highlights the unpredictability of litigation outcomes and their potential impact on the company's financial condition. Key points include:
+
+1. **State Unemployment Taxes**: Uber is involved in an audit by the New Jersey Department of Labor regarding the classification of Drivers as independent contractors or employees, with ongoing discussions about assessments made from 2014 to 2018.
+
+2. **Google v. Levandowski & Ron**: This section details arbitration claims made by Google against former employees for breach of contract and fraud. It mentions a significant financial award against Levandowski and a settlement involving Uber's indemnification obligations.
+
+3. **Non-Income Tax Matters**: Uber is under audit by various tax authorities concerning non-income tax liabilities, particularly related to transactions with Drivers and employee benefits. A significant issue involves the classification of Uber as a transportation provider in the UK, which could lead to VAT implications.
+
+4. **Estimated Liabilities**: The company has recorded estimated liabilities for these contingencies, acknowledging the complexity and uncertainty surrounding these legal and tax matters.
+
+Overall, the document emphasizes the potential financial and operational impacts of ongoing legal disputes and tax audits on Uber's business.
+The document discusses various legal and regulatory matters affecting Uber Technologies, Inc., including government inquiries related to compliance with laws such as antitrust, labor, and data protection. It highlights the potential impact of these investigations on the company's business and financial condition.
+
+Additionally, it covers indemnification provisions in business arrangements, indicating that Uber may be obligated to indemnify third parties for losses related to their activities. The document also explains the concept of Variable Interest Entities (VIEs), detailing how Uber consolidates VIEs where it is the primary beneficiary and the financial implications of these entities.
+
+Key points include:
+- Consolidated VIEs: Total assets of $4.2 billion and liabilities of $1.2 billion as of March 31, 2022.
+- Unconsolidated VIEs: Assets recognized of $605 million as of March 31, 2022, representing maximum exposure to loss.
+- Specific investments in companies like Lime and Moove, indicating Uber's economic interests and risks associated with these entities.
+The document discusses Uber Technologies, Inc.'s financial dealings and interests related to its subsidiary Moove and the divestiture of its ATG Business to Aurora.
+
+1. **Moove Investment**: Uber has a 30% minority interest in Moove, which includes a term loan of $213 million due in February 2026 and a commercial partnership agreement. Moove is now considered a related party due to these agreements.
+
+2. **Freight Holding**: As of the specified dates, Uber owned 78% of Freight Holding's capital stock, with minority stockholders including holders of preferred stock and employees with equity awards.
+
+3. **Divestiture of ATG Business**: The sale of the ATG Business to Aurora was completed on January 19, 2021. Uber received common shares valued at $1.3 billion and invested $400 million in Aurora. The sale did not qualify as a discontinued operation, and the gain on the sale was recorded as $1,644 million after accounting for various factors.
+
+4. **Financial Summary of ATG Sale**:
+- Fair value of common shares received: $1,277 million
+- Derecognition of non-controlling interests: $1,057 million
+- Liability for future obligations: $(315) million
+- Net consideration received: $2,019 million
+- Carrying value of net assets transferred: $(375) million
+- Gain on sale: $1,644 million
+
+This summary encapsulates the key financial transactions and their implications for Uber's financial reporting.
+The document is a quarterly report from Uber Technologies, Inc. that includes a management discussion and analysis of the company's financial condition and results of operations. It emphasizes the importance of reading this analysis alongside the condensed consolidated financial statements and other financial information provided in the report. The discussion contains forward-looking statements, which may differ from actual results due to various factors.
+
+Key points from the overview include:
+
+- Uber operates a technology platform that connects consumers with ride services, delivery services, and public transportation, as well as shippers with carriers in the freight industry.
+- The company is facing legal challenges regarding the classification of drivers as independent contractors versus employees, particularly in California and the UK.
+- Proposition 22, passed in California, provides a framework for independent work but is subject to ongoing legal challenges.
+- Uber has incurred and anticipates incurring additional expenses to comply with Proposition 22, but does not expect these changes to materially impact its business.
+- In the UK, a Supreme Court ruling classified drivers as "workers," leading to changes in compensation and benefits for drivers in that region.
+
+The report highlights the ongoing legal landscape affecting Uber's operations and the potential financial implications of these developments.
+The document provides a quarterly report for Uber Technologies, Inc., detailing financial and operational highlights for the first quarter of 2022 compared to the same period in 2021. Key metrics include:
+
+- **Monthly Active Platform Consumers (MAPCs)**: Increased from 98 million in Q1 2021 to 115 million in Q1 2022, reflecting a 17% growth year-over-year, despite a 3% decline quarter-over-quarter.
+- **Trips**: Rose from 1,447 million to 1,713 million, an 18% increase.
+- **Gross Bookings**: Increased significantly from $19,536 million to $26,449 million, a 35% rise (39% in constant currency).
+- **Revenue**: Jumped from $2,903 million to $6,854 million, a 136% increase (141% in constant currency).
+- **Net Loss**: Increased from a loss of $108 million to a loss of $5,930 million.
+- **Mobility Adjusted EBITDA**: Improved from $298 million to $618 million, a 107% increase.
+- **Delivery Adjusted EBITDA**: Shifted from a loss of $200 million to a profit of $30 million.
+- **Adjusted EBITDA**: Moved from a loss of $359 million to a profit of $168 million.
+- **Net Cash from Operating Activities**: Improved from a negative $611 million to a positive $15 million.
+- **Free Cash Flow**: Improved from a negative $682 million to a negative $47 million, a 93% improvement.
+
+The report also discusses potential impacts of legal classifications of drivers in the UK, which could lead to significant additional expenses and affect driver supply.
+**Key Financial Highlights from Uber's Q1 2022 Report:**
+
+1. **Gross Bookings:**
+- Total Gross Bookings: $26.4 billion (39% increase on a constant currency basis year-over-year).
+- Mobility Gross Bookings: Grew 62% year-over-year, driven by increased trip volumes.
+- Delivery Gross Bookings: Grew 15% year-over-year, with a 3% increase in global basket sizes.
+
+2. **Revenue:**
+- Total Revenue: $6.9 billion (up 136% year-over-year).
+- Take Rate: 25.9%.
+- Revenue growth attributed to:
+- $1.5 billion increase from the Freight business (acquisition of Transplace).
+- $200 million favorable impact from a change in accounting for the UK Mobility business.
+- A $600 million accrual reduction in Q1 2021 related to historical claims in the UK.
+
+3. **Net Loss:**
+- Net loss attributable to Uber: $5.9 billion.
+- Includes a pre-tax unrealized loss on debt and equity securities of $5.6 billion, with significant losses from investments in Grab, Aurora, Didi, and Zomato.
+- Stock-based compensation expense: $359 million.
+
+4. **Adjusted EBITDA:**
+- Adjusted EBITDA: $168 million (up $527 million year-over-year).
+- Mobility Adjusted EBITDA profit: $618 million (107% improvement year-over-year).
+- Delivery Adjusted EBITDA profit: $30 million (up $230 million from a loss of $200 million in Q1 2021).
+
+5. **Cash Position:**
+- Unrestricted cash and cash equivalents: $4.2 billion.
+
+**COVID-19 Impact and Response:**
+- The pandemic has significantly affected market conditions and demand for Mobility rides.
+- Uber has implemented safety measures, suspended shared Mobility offerings in most markets, and expanded delivery services.
+- The company is focused on liquidity preservation and cash flow management amid ongoing uncertainties related to COVID-19.
+
+This summary encapsulates the financial performance and strategic responses of Uber Technologies, Inc. during the first quarter of 2022.
+The document outlines the components of Uber Technologies, Inc.'s results of operations, focusing on revenue generation, cost of revenue, and various expense categories. Here are the key points:
+
+1. **Revenue**:
+- Uber generates revenue primarily from fees paid by Drivers and Merchants for using its platform.
+- The company acts as an agent in most transactions, recognizing revenue net of Driver and Merchant earnings and incentives.
+- In certain markets, Uber is responsible for providing mobility services, recognizing revenue on a gross basis when a trip is completed.
+
+2. **Cost of Revenue (Exclusive of Depreciation and Amortization)**:
+- This includes insurance costs, credit card processing fees, data center expenses, and payments to Drivers and Couriers.
+- Costs are expected to fluctuate with changes in Trip volume.
+
+3. **Operations and Support**:
+- Expenses consist of compensation for employees supporting operations, customer support costs, and Driver background checks.
+- As Trip volume increases post-COVID-19, these expenses are expected to rise in absolute terms but decrease as a percentage of revenue.
+
+4. **Sales and Marketing**:
+- This includes compensation for sales and marketing staff, advertising costs, and promotional expenditures.
+- Expenses are anticipated to increase in absolute terms but may vary as a percentage of revenue due to marketing campaign timing.
+
+5. **Research and Development**:
+- Expenses consist of compensation for engineering and product development staff and ongoing product improvements.
+- These expenses are expected to increase as Uber invests in R&D, though there may be a decrease in investments related to its ATG and Other Technology Programs following the sale of its ATG Business.
+
+Overall, the report indicates a focus on growth and efficiency as Uber navigates the recovery from the impacts of COVID-19.
+The text provides an overview of various financial components related to Uber Technologies, Inc.'s general and administrative expenses, depreciation and amortization, interest expense, other income (expense), provision for income taxes, and equity method investments.
+
+1. **General and Administrative Expenses**: These expenses include compensation for management and administrative staff, legal settlements, and corporate costs. They are expected to rise in absolute terms but decrease as a percentage of revenue as the company improves efficiency.
+
+2. **Depreciation and Amortization**: This includes costs related to physical assets and intangible assets. As the business recovers from COVID-19, these expenses are anticipated to increase due to infrastructure expansion.
+
+3. **Interest Expense**: Primarily related to the company's outstanding debt.
+
+4. **Other Income (Expense), Net**: This section includes various financial items such as interest income, foreign currency exchange gains/losses, gains from business divestitures, and unrealized gains/losses on securities.
+
+5. **Provision for Income Taxes**: The company is subject to varying tax rates based on domestic and foreign income, which affects its effective tax rate.
+
+6. **Equity Method Investments**: This includes the income or loss from the Yandex.Taxi joint venture.
+
+If you have specific questions about any of these sections or need further details, feel free to ask!
+The provided text summarizes the condensed consolidated statements of operations for Uber Technologies, Inc. for the three months ended March 31, 2021, and March 31, 2022. Here are the key financial figures:
+
+### Financial Summary (in millions)
+- **Revenue:**
+- 2021: $2,903
+- 2022: $6,854
+
+- **Costs and Expenses:**
+- Cost of revenue (exclusive of depreciation and amortization):
+- 2021: $1,710
+- 2022: $4,026
+- Operations and support:
+- 2021: $423
+- 2022: $574
+- Sales and marketing:
+- 2021: $1,103
+- 2022: $1,263
+- Research and development:
+- 2021: $515
+- 2022: $587
+- General and administrative:
+- 2021: $464
+- 2022: $632
+- Depreciation and amortization:
+- 2021: $212
+- 2022: $254
+
+- **Total Costs and Expenses:**
+- 2021: $4,427
+- 2022: $7,336
+
+- **Loss from Operations:**
+- 2021: $(1,524)
+- 2022: $(482)
+
+- **Net Loss Attributable to Uber Technologies, Inc.:**
+- 2021: $(108)
+- 2022: $(5,930)
+
+### Percentage of Revenue
+- **Total Costs and Expenses as a Percentage of Revenue:**
+- 2021: 152%
+- 2022: 107%
+
+- **Net Loss Attributable to Uber Technologies, Inc. as a Percentage of Revenue:**
+- 2021: (4)%
+- 2022: (87)%
+
+This summary highlights the significant increase in revenue from 2021 to 2022, alongside a notable increase in costs and expenses, leading to a larger net loss in 2022 compared to 2021.
+### Summary of Financial Performance for Uber Technologies, Inc. (Three Months Ended March 31, 2022 vs. 2021)
+
+#### Revenue
+- **2021**: $2,903 million
+- **2022**: $6,854 million
+- **% Change**: 136%
+- **Key Drivers**:
+- Increase in Gross Bookings by 35% (39% on a constant currency basis).
+- Recovery in Mobility Trip volumes post-COVID-19.
+- $1.5 billion increase in Freight revenue due to the acquisition of Transplace.
+- $304 million increase in Delivery revenue from higher Courier payments and incentives.
+- $200 million increase in Mobility revenue from business model changes in the UK.
+
+#### Cost of Revenue (Exclusive of Depreciation and Amortization)
+- **2021**: $1,710 million
+- **2022**: $4,026 million
+- **% Change**: 135%
+- **Percentage of Revenue**: 59% (remained constant)
+- **Key Drivers**:
+- $1.4 billion increase in Freight carrier payments and incentives.
+- $355 million increase in Courier payments and incentives.
+- $313 million increase in insurance expenses due to increased miles driven.
+- $160 million increase in Driver payments and incentives from UK business model changes.
+
+#### Operations and Support
+- **2021**: $423 million
+- **2022**: $574 million
+- **% Change**: 36%
+- **Percentage of Revenue**: 15% (decreased to 8%)
+- **Key Drivers**:
+- $87 million increase in employee headcount costs.
+- $35 million increase in external contractor expenses.
+- $5 million increase in stock-based compensation.
+
+#### Sales and Marketing
+- **2021**: $1,103 million
+- **2022**: $1,263 million
+- **% Change**: 15%
+- **Percentage of Revenue**: 38% (decreased to 18%)
+- **Key Drivers**:
+- $72 million increase in consumer advertising expenses.
+- Increase in consumer discounts and rider-facing loyalty expenses, totaling $649 million compared to $585 million in 2021.
+
+This analysis highlights significant growth in revenue and costs, reflecting the company's recovery and expansion efforts in various segments.
+### Financial Overview for Uber Technologies, Inc. (Three Months Ended March 31)
+
+#### Research and Development
+- **2021**: $515 million
+- **2022**: $587 million
+- **% Change**: 14%
+- **Percentage of Revenue**:
+- 2021: 18%
+- 2022: 9%
+- **Key Drivers**: Increase of $72 million primarily due to a $63 million rise in stock-based compensation.
+
+#### General and Administrative
+- **2021**: $464 million
+- **2022**: $632 million
+- **% Change**: 36%
+- **Percentage of Revenue**:
+- 2021: 16%
+- 2022: 9%
+- **Key Drivers**: Increase of $168 million due to:
+- $54 million in employee headcount costs
+- $49 million in legal, tax, and regulatory reserves
+- $12 million in external contractor expenses
+- $10 million in stock-based compensation.
+
+#### Depreciation and Amortization
+- **2021**: $212 million
+- **2022**: $254 million
+- **% Change**: 20%
+- **Percentage of Revenue**:
+- 2021: 7%
+- 2022: 4%
+- **Key Drivers**: Increase of $42 million mainly from additional amortization related to Transplace, Drizly, and Postmates intangible assets.
+
+#### Interest Expense
+- **2021**: $(115) million
+- **2022**: $(129) million
+- **% Change**: 12%
+- **Percentage of Revenue**:
+- 2021: (4)%
+- 2022: (2%)
+- **Key Drivers**: Increase was immaterial.
+
+#### Other Income (Expense), Net
+- **2021**: $1,710 million
+- **2022**: $(5,557) million
+- **% Change**: Not meaningful
+- **Percentage of Revenue**:
+- 2021: 59%
+- 2022: (81)%
+- **Key Drivers**:
+- Interest income increased from $5 million to $11 million (120%).
+- Foreign currency exchange gains turned from losses of $(25) million to gains of $10 million.
+- Gain on business divestiture of $1,684 million in 2021, not present in 2022.
+- Unrealized loss on debt and equity securities increased significantly from $63 million gain to $(5,570) million loss.
+- Impairment of equity method investment of $(182) million in 2022.
+
+This summary provides a concise overview of Uber's financial performance for the specified quarter, highlighting significant changes and key drivers behind the financial metrics.
+The excerpt from Uber Technologies, Inc.'s quarterly report provides insights into various financial aspects for the three months ended March 31 for the years 2021 and 2022. Here are the key points:
+
+1. **Gain on Business Divestiture**: There was a significant decrease in gain due to a $1.6 billion gain recognized in Q1 2021 from the sale of the ATG Business to Aurora.
+
+2. **Unrealized Gain (Loss) on Debt and Equity Securities**: This decreased by $5.6 billion, primarily due to:
+- $1.9 billion unrealized loss on Grab investment
+- $1.7 billion unrealized loss on Aurora investments
+- $1.4 billion unrealized loss on Didi investment
+- $462 million unrealized loss on Zomato investment
+
+3. **Impairment of Equity Method Investment**: A $182 million impairment loss was recorded on the MLU B.V. equity method investment.
+
+4. **Revaluation of MLU B.V. Call Option**: There was a $181 million gain from the change in fair value of the call option granted to Yandex.
+
+5. **Provision for (Benefit from) Income Taxes**:
+- For Q1 2021: $185 million provision
+- For Q1 2022: $232 million benefit
+- Effective tax rate: 261% in 2021 and 4% in 2022
+- The income tax benefit increased by $417 million, mainly due to deferred U.S. tax impacts related to investments in Grab and Aurora.
+
+6. **Income (Loss) from Equity Method Investments**:
+- For Q1 2021: $(8) million
+- For Q1 2022: $18 million
+- The increase was described as immaterial.
+
+This summary highlights the financial performance and changes in various investment valuations and tax provisions for Uber during the specified quarters.
+**Segment Results of Operations Overview:**
+
+Uber operates through three main segments: Mobility, Delivery, and Freight. Below is a summary of the financial performance for the three months ended March 31 for the years 2021 and 2022.
+
+### Revenue (in millions)
+| Segment   | 2021 Revenue | 2022 Revenue | % Change |
+|-----------|--------------|--------------|----------|
+| Mobility  | $853         | $2,518       | 195%     |
+| Delivery  | $1,741       | $2,512       | 44%      |
+| Freight   | $301         | $1,824       | **       |
+| All Other | $8           | $0           | **       |
+| **Total Revenue** | **$2,903** | **$6,854** | **136%** |
+
+**Note:** The percentage change for Freight and All Other is not meaningful.
+
+### Segment Adjusted EBITDA (in millions)
+| Segment   | 2021 Adjusted EBITDA | 2022 Adjusted EBITDA | % Change |
+|-----------|----------------------|----------------------|----------|
+| Mobility  | $298                 | $618                 | 107%     |
+| Delivery  | $(200)               | $30                  | **       |
+| Freight   | $(29)                | $2                   | **       |
+| All Other | $(11)                | $0                   | **       |
+| Corporate G&A and Platform R&D | $(417) | $(482) | (16%)    |
+| **Adjusted EBITDA** | **$(359)** | **$168** | **       |
+
+**Note:** The percentage change for Delivery, Freight, and All Other is not meaningful.
+
+### Key Highlights:
+- **Mobility Segment:** Revenue increased by $1.7 billion (195%) primarily due to increased trip volumes as the business recovers from COVID-19 impacts. Adjusted EBITDA profit increased by $320 million (107%).
+- **Delivery Segment:** Revenue grew by 44%, with a notable turnaround in adjusted EBITDA from a loss in 2021 to a profit in 2022.
+- **Freight Segment:** Revenue saw a significant increase, but the adjusted EBITDA remained minimal.
+- **Corporate G&A and Platform R&D:** Costs increased by 16%, reflecting ongoing investments in shared services and technology infrastructure.
+
+This summary provides a concise overview of Uber's financial performance across its segments for the specified quarter.
+The report provides a detailed analysis of Uber Technologies, Inc.'s financial performance for the quarter ended March 31, 2022, compared to the same period in 2021. Here are the key highlights:
+
+1. **Mobility Segment**:
+- Adjusted EBITDA profit increased, mainly due to higher Mobility revenue.
+- There was a $281 million increase in insurance expenses and a $76 million rise in credit card processing costs.
+
+2. **Delivery Segment**:
+- Revenue increased by $771 million (44% growth).
+- Adjusted EBITDA grew by $230 million (115% growth).
+- The increase in revenue was driven by a 15% rise in Delivery Gross Bookings, attributed to more food delivery orders and larger basket sizes.
+- The Take Rate improved from 14.0% to 18.1%.
+- Adjusted EBITDA improvement was offset by a $387 million increase in cost of revenue and a $94 million rise in consumer promotions and employee costs.
+
+3. **Freight Segment**:
+- Revenue surged by $1.5 billion (506% growth).
+- Adjusted EBITDA increased by $31 million (107% growth).
+- The revenue growth was primarily due to the acquisition of Transplace and an increase in the number of shippers and carriers.
+- Adjusted EBITDA improvement was offset by $1.4 billion in shipper payments and incentives and an $88 million increase in employee costs.
+
+4. **Key Metrics**:
+- Monthly Active Platform Consumers (MAPCs) are used to assess platform adoption and transaction frequency.
+- The report includes a table of MAPCs over several quarters, showing growth in user engagement.
+
+5. **Non-GAAP Financial Measures**:
+- Adjusted EBITDA, revenue growth rates in constant currency, and free cash flow are highlighted as important non-GAAP measures, with further details provided in the report.
+
+This summary encapsulates the financial performance and operational metrics of Uber for the specified quarter, reflecting significant growth across its segments.
+The quarterly report provides detailed financial information for Uber Technologies, Inc. It includes metrics such as:
+
+1. **Trips (in millions)**:
+- Q2 2020: 1,641
+- Q3 2020: 1,769
+- Q4 2020: 1,713
+- Q1 2021: 1,443
+- Q2 2021: 1,447
+- Q3 2021: 1,511
+- Q4 2021: 1,840
+- Q1 2022: 737
+
+2. **Gross Bookings (in millions)**:
+- Q2 2020: $10,224
+- Q3 2020: $14,745
+- Q4 2020: $17,152
+- Q1 2021: $19,536
+- Q2 2021: $21,900
+- Q3 2021: $23,113
+- Q4 2021: $25,866
+- Q1 2022: $26,449
+
+3. **Revenue Breakdown (in millions)**:
+- **Mobility**:
+- Q2 2020: $3,046
+- Q3 2020: $5,905
+- Q4 2020: $6,789
+- Q1 2021: $6,773
+- Q2 2021: $8,640
+- Q3 2021: $9,883
+- Q4 2021: $11,340
+- Q1 2022: $10,723
+- **Delivery**:
+- Q2 2020: $6,961
+- Q3 2020: $8,550
+- Q4 2020: $10,050
+- Q1 2021: $12,461
+- Q2 2021: $12,912
+- Q3 2021: $12,828
+- Q4 2021: $13,444
+- Q1 2022: $13,903
+- **Freight**:
+- Q2 2020: $212
+- Q3 2020: $290
+- Q4 2020: $313
+- Q1 2021: $302
+- Q2 2021: $348
+- Q3 2021: $402
+- Q4 2021: $1,082
+- Q1 2022: $1,823
+
+4. **Adjusted EBITDA**:
+- Q1 2021: $(359) million
+- Q1 2022: $168 million
+- The improvement of $527 million was attributed to increases in Mobility, Delivery, and Freight Adjusted EBITDA, despite a rise in Corporate G&A and Platform R&D costs.
+
+This report highlights the growth in trips, gross bookings, and revenue across different segments, as well as a significant improvement in Adjusted EBITDA from the previous year.
+The document discusses Uber Technologies, Inc.'s use of non-GAAP financial measures, specifically Adjusted EBITDA, to evaluate its business performance. It explains that these measures provide additional insights into the company's financial health by excluding certain items that may not reflect ongoing operations.
+
+**Key Points:**
+
+1. **Non-GAAP Financial Measures**: Uber uses Adjusted EBITDA, revenue growth rates in constant currency, and free cash flow for internal decision-making and performance assessment.
+
+2. **Adjusted EBITDA Definition**: It is calculated by excluding various items from net income (loss), including:
+- Income (loss) from discontinued operations
+- Non-controlling interests
+- Income taxes
+- Equity method investments
+- Interest expense
+- Other income/expense
+- Depreciation and amortization
+- Stock-based compensation
+- Legal, tax, and regulatory reserves
+- Goodwill and asset impairments
+- Acquisition and restructuring expenses
+- COVID-19 related expenses
+
+3. **Purpose of Adjusted EBITDA**: It helps management and investors assess operating performance, make strategic decisions, and compare results across periods.
+
+4. **COVID-19 Response Initiatives**: The document outlines various initiatives taken to support drivers and communities affected by the pandemic, which are accounted for in the financial statements.
+
+5. **Limitations**: Adjusted EBITDA should not be viewed as a substitute for GAAP financial measures, as it excludes certain recurring non-cash charges and does not reflect all cash capital expenditure requirements.
+
+Overall, the document emphasizes the importance of these non-GAAP measures in providing a clearer picture of Uber's operational performance while also acknowledging their limitations.
+The document provides a reconciliation of Adjusted EBITDA to net loss attributable to Uber Technologies, Inc. for the three months ended March 31 for the years 2021 and 2022. Here are the key figures:
+
+- **Net loss attributable to Uber Technologies, Inc.**:
+- 2021: $(108) million
+- 2022: $(5,930) million
+
+- **Adjusted EBITDA**:
+- 2021: $(359) million
+- 2022: $168 million
+
+The reconciliation includes various adjustments such as income taxes, interest expense, stock-based compensation, and other items not indicative of ongoing operating performance. The document also mentions the use of constant currency to assess revenue performance excluding foreign currency fluctuations.
+The free cash flow for Uber Technologies, Inc. for the three months ended March 31 is as follows:
+
+- **2021**:
+- Net cash provided by (used in) operating activities: $(611) million
+- Purchases of property and equipment: $(71) million
+- **Free cash flow**: $(682) million
+
+- **2022**:
+- Net cash provided by (used in) operating activities: $15 million
+- Purchases of property and equipment: $(62) million
+- **Free cash flow**: $(47) million
+
+This table shows a significant improvement in free cash flow from 2021 to 2022.
+### Liquidity and Capital Resources Summary
+
+#### Three Months Ended March 31 (In millions)
+
+| Activity                        | 2021       | 2022       |
+|---------------------------------|------------|------------|
+| Net cash provided by (used in) operating activities | $(611)     | $15        |
+| Net cash used in investing activities | $(250)     | $(135)     |
+| Net cash used in financing activities | $(226)     | $(113)     |
+
+#### Operating Activities
+- **2022**: Net cash provided was $15 million, with a net loss of $5.9 billion adjusted for:
+- $5.6 billion in unrealized losses from equity securities
+- $359 million in stock-based compensation
+- $254 million in depreciation and amortization
+- $27 million decrease in cash consumed by working capital.
+
+- **2021**: Net cash used was $611 million, with a net loss of $122 million adjusted for:
+- $1.7 billion gain on business divestiture
+- $281 million in stock-based compensation
+- $412 million decrease in cash consumed by working capital.
+
+#### Investing Activities
+- **2022**: Net cash used was $135 million, primarily for:
+- $62 million in purchases of property and equipment
+- $59 million in business acquisitions.
+
+- **2021**: Net cash used was $250 million, primarily for:
+- $803 million in purchases of non-marketable equity securities
+- $336 million in purchases of marketable securities
+- $216 million in purchases of a note receivable, offset by $696 million from maturities and sales of marketable securities and $500 million from the sale of non-marketable equity securities.
+
+#### Financing Activities
+- **2022**: Net cash used was $113 million, primarily for:
+- $62 million of principal payments on finance leases.
+
+- **2021**: Net cash used was $226 million, primarily for:
+- $194 million of principal repayment on Careem Notes.
+
+#### Other Information
+- As of March 31, 2022, $2.2 billion of $4.2 billion in cash and cash equivalents was held by foreign subsidiaries.
+- The company believes its existing cash balance in the U.S. is sufficient for working capital needs.
+- Compliance with debt and line of credit covenants was maintained.
+- Anticipated cash requirements for the next 12 months are expected to be met through existing funding sources and available credit lines.
+- The company continues to monitor the impact of the COVID-19 pandemic on its financial position and liquidity.
+
+#### Purchase Commitments
+- No material changes outside the ordinary course of business to contractual obligations as of March 31, 2022.
+
+#### Critical Accounting Estimates
+- Financial statements are prepared in accordance with GAAP, requiring estimates and assumptions that may affect reported amounts. Actual results may differ from estimates, impacting future financial statements.
+The document provides a detailed overview of Uber Technologies, Inc.'s exposure to various market risks, including interest rate risk, investment risk, and foreign currency risk.
+
+1. **Interest Rate Risk**: Uber's exposure primarily relates to its floating rate loans (2025 and 2027 Refinanced Term Loan Facilities). A hypothetical 100 basis point change in interest rates would not materially affect financial results. However, a 100 basis point increase would decrease the fair value of fixed-rate notes by $289 million as of March 31, 2022.
+
+2. **Investment Risk**: Uber aims to preserve capital and meet liquidity needs without significantly increasing risk. As of March 31, 2022, cash and cash equivalents totaled $7.6 billion. The company does not engage in trading or speculative investments, and a 100 basis point change in interest rates would not materially affect financial results. The carrying value of investments was $6.9 billion, which includes equity method investments.
+
+3. **Foreign Currency Risk**: Uber operates globally, exposing it to fluctuations in foreign currency exchange rates. Revenue and expenses in foreign currencies can negatively impact financial results when expressed in U.S. dollars. The company has experienced fluctuations in net income due to transaction gains or losses from remeasurement of asset and liability balances in foreign currencies.
+
+4. **Controls and Procedures**: Uber maintains disclosure controls and procedures to ensure compliance with the Securities Exchange Act of 1934, ensuring that required information is accurately recorded and reported within specified timeframes.
+
+This summary encapsulates the key points regarding market risks and controls as outlined in the quarterly report.
+The document discusses the effectiveness of Uber's disclosure controls and internal control over financial reporting as evaluated by the management, including the Chief Executive Officer and Chief Financial Officer. They concluded that these controls are effective at a reasonable assurance level, although they acknowledge that no system can provide absolute assurance against errors or fraud.
+
+Additionally, the document outlines various legal proceedings involving Uber, including significant matters related to driver classification, state unemployment taxes, and ongoing class actions in Australia. The Australian class actions allege that Uber conspired to breach transport legislation, causing loss and damage to participants in the taxi and hire-car industries. Uber denies these allegations and plans to defend itself vigorously.
+
+For more detailed information on these legal proceedings, readers are directed to Note 12 – Commitments and Contingencies in the condensed consolidated financial statements for the quarter ended March 31, 2022.
+The document outlines various legal risks and uncertainties faced by Uber Technologies, Inc. It emphasizes that while the company believes the resolution of ongoing legal matters will not materially affect its financial position or liquidity, these issues could impact its operational results in specific accounting periods. The report also highlights several risk factors that could adversely affect the company's business, financial condition, and stock price, including:
+
+1. Ongoing impacts of the COVID-19 pandemic.
+2. Potential reclassification of Drivers as employees rather than independent contractors.
+3. Intense competition in the mobility, delivery, and logistics industries.
+4. The necessity to lower fares or service fees to remain competitive.
+5. Significant historical losses and increasing operating expenses.
+6. Challenges in attracting and retaining a critical mass of platform users.
+7. Risks to brand reputation and the impact of negative publicity.
+8. Historical workplace culture issues and the challenges in addressing them.
+9. The need to optimize organizational structure amid growth.
+10. Safety incidents involving platform users.
+11. Risks associated with substantial investments in new technologies and offerings.
+
+These factors could lead to a decline in the trading price of Uber's common stock and potentially result in losses for investors.
+The document outlines various risks that Uber Technologies, Inc. faces in its business operations. Key points include:
+
+1. **Economic and Regulatory Risks**: The company generates a significant portion of its Gross Bookings from large metropolitan areas, which can be adversely affected by economic, social, weather, and regulatory conditions, including the ongoing impacts of COVID-19.
+
+2. **Technology and Competition Risks**: There is a risk of failing to offer competitive autonomous vehicle technologies, which may not perform as expected or be perceived as safe compared to competitors.
+
+3. **Human Resource Risks**: Retaining and attracting high-quality personnel is crucial, and issues like attrition or poor succession planning could negatively impact the business.
+
+4. **Data Security Risks**: The company faces potential security breaches and cyberattacks that could harm its reputation and operational results.
+
+5. **Climate Change Risks**: Uber is subject to risks related to climate change and has made commitments that require significant resources, which may need to be adjusted based on unforeseen circumstances.
+
+6. **Third-Party Reliance**: The business relies on third parties for distribution and software, and any interference could adversely affect operations.
+
+7. **Capital Requirements**: Additional capital will be needed for growth, which may not be available on favorable terms.
+
+8. **Acquisition Risks**: The inability to identify and integrate suitable acquisitions could harm operating results.
+
+9. **Legal and Regulatory Risks**: The company faces numerous legal and regulatory challenges that could impact its business.
+
+10. **Intellectual Property Risks**: Protecting intellectual property is crucial, and any claims of misappropriation could lead to significant expenses.
+
+11. **Stock Price Volatility**: The market price of Uber's common stock has been volatile, and there is a risk that investors may not be able to resell shares at or above the purchase price.
+
+Overall, the document emphasizes the various internal and external challenges that could impact Uber's business performance and future prospects.
+The document discusses the impact of the COVID-19 pandemic on Uber Technologies, Inc., highlighting several key points:
+
+1. **Driver Supply Constraints**: The company is experiencing a mismatch between recovering consumer demand for mobility services and the availability of drivers. This situation is exacerbated by ongoing concerns related to the COVID-19 pandemic.
+
+2. **Financial Impact**: The pandemic has adversely affected Uber's near-term financial results and may have long-term implications. The company has had to take significant actions, including workforce reductions and changes to pricing models, to mitigate these impacts.
+
+3. **Uncertainty of Future Developments**: The extent of the pandemic's impact on Uber's business will depend on various uncertain factors, including the duration of the outbreak, vaccine efficacy, and potential changes in consumer behavior.
+
+4. **Legal Risks**: Uber faces legal challenges regarding the classification of drivers as independent contractors versus employees. Ongoing litigation and regulatory scrutiny could lead to significant costs and operational changes.
+
+5. **Proposition 22**: In California, Proposition 22 allows drivers to maintain their independent contractor status, but legal challenges to this law may continue, potentially affecting Uber's operations and financial condition.
+
+Overall, the document outlines the operational and financial risks Uber faces due to the pandemic and ongoing legal challenges regarding driver classification.
+The text discusses the challenges Uber faces regarding the classification of its Drivers, particularly in light of legal actions and judicial decisions in various jurisdictions. Key points include:
+
+1. **Legal Challenges**: Uber and Lyft are facing complaints regarding the misclassification of Drivers, which could lead to significant changes in their business model if they are required to treat Drivers as employees. This would result in increased expenses related to wages, benefits, and compliance with labor laws.
+
+2. **Judicial Decisions**: The UK Supreme Court ruled that Uber Drivers are workers, prompting Uber to change its classification of UK Drivers to "workers," ensuring they receive at least the National Living Wage and other benefits. Similar rulings have occurred in France, Switzerland, Spain, and the Netherlands.
+
+3. **Unionization Risks**: The potential reclassification of Drivers could lead to unionization, which may result in collective bargaining agreements that deviate from Uber's business model, adversely affecting its financial condition and operations.
+
+4. **Financial Statement Impact**: Changes in Driver classification could impact Uber's financial statements, including revenue and costs, as detailed in their accounting policies.
+
+5. **Competitive Landscape**: Uber operates in highly competitive mobility, delivery, and logistics markets with low barriers to entry and significant competition from established players and new entrants. The ability to compete effectively is crucial for Uber's financial prospects.
+
+Overall, the text highlights the legal, financial, and competitive challenges Uber faces in maintaining its business model while navigating regulatory and market pressures.
+The document discusses the competitive landscape faced by Uber Technologies, Inc. in its various offerings, including Mobility, Delivery, and Freight. It highlights the challenges posed by well-capitalized competitors, the potential for reduced revenue and user engagement, and the impact of regulatory restrictions on competition with minority-owned affiliates. The company acknowledges that to remain competitive, it may need to lower fares and service fees, as well as offer significant incentives to drivers and discounts to consumers, which could adversely affect its financial performance.
+The text discusses several challenges and risks faced by Uber Technologies, Inc. in its business operations. Key points include:
+
+1. **Impact of Discounts and Promotions**: The company's financial performance is negatively affected by discounts, promotions, and reductions in fares and service fees. Changes in pricing models and strategies may not attract consumers and drivers effectively.
+
+2. **Competitive Landscape**: Uber faces significant competition from well-capitalized rivals, some of which are backed by major investors like SoftBank. This competition may lead to lower prices and increased incentives from competitors, putting pressure on Uber to maintain or lower its fares and service fees.
+
+3. **Financial Losses**: Uber has incurred substantial losses since its inception, with reported operating losses of $4.9 billion in 2020 and $3.8 billion in 2021. As of March 31, 2022, the company had an accumulated deficit of $29.6 billion.
+
+4. **Future Profitability Challenges**: The company anticipates increased operating expenses as it invests in expanding its user base and offerings. There is uncertainty about achieving or maintaining profitability, especially in new markets.
+
+5. **Driver and Merchant Supply Constraints**: Uber's success relies on attracting and retaining a critical mass of drivers, consumers, merchants, shippers, and carriers. Supply constraints, exacerbated by the COVID-19 pandemic, could hinder the company's ability to provide services effectively.
+
+6. **Market Dynamics**: The company may struggle to maintain network scale and liquidity in various geographic markets, which is essential for attracting users to its platform. A lack of drivers or merchants could diminish the appeal of Uber's services.
+
+Overall, the text highlights the complexities and uncertainties in Uber's business environment, emphasizing the need for strategic management to navigate these challenges.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. regarding its platform users, including Drivers, consumers, merchants, shippers, and carriers. Key points include:
+
+1. **Concentration Risk**: The reliance on significant restaurant partners increases the risk of fluctuations in operating results. If users switch to competitors, it could reduce opportunities for Drivers and merchants, impacting revenue.
+
+2. **User Satisfaction**: Factors such as dissatisfaction with service quality, pricing, and support can lead to a decline in platform users. Negative publicity and public health concerns (e.g., COVID-19) can also affect user retention.
+
+3. **Driver and Merchant Dynamics**: The number of Drivers and merchants may fluctuate due to various reasons, including local laws, competition, and dissatisfaction with the platform. Efforts to reduce Driver incentives to improve financial performance may lead to increased dissatisfaction.
+
+4. **Trade-offs in User Satisfaction**: Changes that benefit one user group may negatively impact another, leading to potential dissatisfaction across the platform.
+
+5. **Safety and Compliance**: Measures to enhance safety and prevent fraud may damage relationships with users. Additionally, changes in Driver qualification and background-check requirements could increase costs and hinder onboarding.
+
+6. **Protests and Business Interruptions**: Driver dissatisfaction has historically led to protests, which can disrupt operations and further decrease the number of active users on the platform.
+
+7. **Background Check Challenges**: Reliance on a single background-check provider poses risks. Changes in regulations could complicate the onboarding process for Drivers, adversely affecting business growth.
+
+Overall, the document highlights the interconnectedness of user satisfaction, regulatory compliance, and operational efficiency in maintaining Uber's platform viability.
+The text discusses the importance of maintaining and enhancing Uber's brand and reputation, highlighting the challenges the company has faced due to negative media coverage and past cultural issues. It emphasizes that failure to improve its brand could lead to difficulties in attracting employees and users, increased regulatory scrutiny, and potential financial impacts. The report also mentions the company's efforts to rehabilitate its brand, the risks associated with third-party partnerships, and the historical workplace culture that has created operational challenges. Overall, it underscores the critical nature of brand reputation in Uber's business strategy and future prospects.
+The text discusses the challenges and risks faced by Uber Technologies, Inc. as it has grown significantly since its inception. Key points include:
+
+1. **Organizational Complexity**: The rapid expansion has led to a complex organizational structure that may hinder effective management and communication of key policies across different regions and functions.
+
+2. **Workforce Management**: Uber has experienced substantial growth in its workforce, increasing from 159 employees in 2012 to approximately 30,900 by March 2022. Managing this growth, including hiring, training, and retaining qualified employees, is crucial for the company's success.
+
+3. **Technology and Infrastructure**: The company must upgrade its technology and network infrastructure to support its growth. Failure to do so could lead to system disruptions and negatively impact user experience.
+
+4. **Safety and Liability Risks**: Uber faces risks related to the actions of platform users, which could result in safety incidents and harm the company's reputation. The effectiveness of background checks on Drivers is also a concern.
+
+5. **Financial and Operational Resources**: To manage growth and improve systems, Uber will need to commit substantial financial and operational resources. Inadequate management of these areas could adversely affect the company's business and financial performance.
+
+Overall, the text highlights the importance of effective management, technology upgrades, and safety measures in sustaining Uber's growth and maintaining its competitive position.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. related to the safety and conduct of its Drivers and Couriers. Key points include:
+
+1. **Driver Qualification and Background Checks**: The standards for Couriers are less extensive than for Mobility Drivers, leading to potential complaints and legal actions regarding Driver conduct.
+
+2. **Criminal Activity**: Incidents of criminal behavior by Drivers or individuals impersonating them can harm consumer perception of safety, negatively impacting Uber's brand and reputation.
+
+3. **Violent Crime**: High rates of violent crime in certain regions, particularly in Latin America, have led to increased reports of Drivers and consumers being victimized.
+
+4. **Liability Risks**: Uber may face significant liability claims related to accidents or incidents involving Drivers, consumers, or third parties, which could increase operating costs and affect business results.
+
+5. **Insurance Coverage**: Current insurance policies may not cover all potential claims, leading to financial exposure.
+
+6. **Investments in New Offerings**: Uber is investing in new technologies and services, such as grocery and alcohol delivery, which carry inherent risks and may not yield expected benefits.
+
+7. **Market Acceptance**: There is uncertainty regarding consumer demand for new initiatives, and competition from other products could render Uber's offerings obsolete.
+
+8. **Management Distraction**: New development efforts may distract management from core operations and divert resources from established products.
+
+Overall, the text highlights the complexities and risks associated with Uber's operations and expansion efforts.
+The text discusses the challenges and risks Uber Technologies, Inc. faces in its international operations. Key points include:
+
+1. **Dependence on International Markets**: As of March 31, 2022, Uber operated in approximately 72 countries, with international markets accounting for about 75% of all trips.
+
+2. **Limited Experience**: Uber has limited experience in many international jurisdictions, which may affect its ability to manage risks and successfully expand.
+
+3. **Operational and Compliance Challenges**: These include language barriers, cultural differences, and the need to localize operations, such as translating the app and adapting to local laws.
+
+4. **Regulatory Risks**: Uber faces stricter laws in some countries regarding competition, pricing, payment methods, and data privacy, which could impact its operations.
+
+5. **Competition**: Local competitors may have better market understanding and relationships, posing a challenge to Uber's growth.
+
+6. **Social Acceptance and Technological Compatibility**: Variations in brand acceptance and technology use can affect Uber's success in different markets.
+
+7. **Legal and Financial Risks**: These include uncertainties regarding liability, currency fluctuations, cash transaction preferences, and complex tax systems.
+
+8. **Political and Economic Instability**: Global events, such as wars and terrorist attacks, can disrupt operations and impact the economy.
+
+Overall, the text highlights the complexities and risks associated with Uber's international business strategy.
+The text discusses the risks associated with Uber Technologies, Inc.'s minority ownership in various companies, including Didi, Grab, Yandex.Taxi, Lime, Zomato, and Aurora. Key points include:
+
+1. **Limited Control**: Uber has limited influence over these minority-owned affiliates, which poses risks such as potential loss of value. Uber is not involved in the day-to-day management of Didi and Zomato and has limited control over the boards of other companies.
+
+2. **Market Competition**: These companies may expand their offerings and compete with Uber, potentially harming Uber's business and financial condition.
+
+3. **Valuation Risks**: The value of Uber's assets in these companies is subject to market fluctuations and could be adversely affected by weakened financial markets.
+
+4. **Operational Risks**: The companies have limited operating histories and may face unpredictable results. They also operate in regions with various risks, including economic sanctions and public health concerns.
+
+5. **Liquidity and Transfer Restrictions**: Uber faces contractual limitations on selling or transferring these assets, including a lock-up period for shares in Aurora. There may be no public market for many of these securities, affecting their realizable value.
+
+6. **Potential Tax Implications**: Selling or transferring these assets could result in significant tax liabilities.
+
+Overall, these factors could materially impact Uber's business, financial condition, and stock price.
+The text discusses the potential fluctuations in Uber Technologies, Inc.'s operating results and the factors that may affect its profitability. Key points include:
+
+1. **Fluctuations in Operating Results**: Uber may experience significant variations in its financial performance, which are not necessarily indicative of future results. These fluctuations can be influenced by external factors, including the COVID-19 pandemic.
+
+2. **Seasonal Trends**:
+- **Mobility**: Typically, higher revenue is generated in the fourth quarter due to holiday demand, while the third quarter may see lower revenue due to vacation patterns.
+- **Delivery**: Expected seasonal increases in revenue are anticipated in the first and fourth quarters, although historical growth has masked these trends.
+
+3. **Challenges in Forecasting**: The company acknowledges difficulties in accurately forecasting operating results due to the pandemic and fixed expenses that may not adjust quickly to revenue changes.
+
+4. **Growth Dependency**: Uber's growth is contingent on various factors, including:
+- Attracting and retaining users.
+- Competing effectively in the market.
+- Expanding operations in new and existing markets.
+- Maintaining technological advancements.
+- Navigating regulatory environments.
+
+5. **Profitability Concerns**: If growth slows more than expected, achieving profitability may become challenging, adversely affecting financial results and investor value.
+
+6. **Objectives for Growth**: Uber aims to grow supply and demand, enhance user activity, expand market presence, and improve brand perception, among other goals.
+
+Overall, the text highlights the complexities and uncertainties surrounding Uber's financial performance and growth strategies.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. regarding its financial performance and operational capabilities. Key points include:
+
+1. **Revenue Dependence**: A significant portion of Uber's Gross Bookings comes from large metropolitan areas and airport trips. Any negative impact on operations in these areas could adversely affect financial results.
+
+2. **Geographic Concentration**: In 2021, 23% of Mobility Gross Bookings were derived from five major metropolitan areas. Economic, social, and regulatory conditions in these areas can significantly influence Uber's business.
+
+3. **Impact of COVID-19**: The pandemic has altered travel behavior, leading to a decline in demand for ridesharing, especially for airport-related trips, which accounted for 11% of Mobility Gross Bookings in 2021.
+
+4. **Regulatory Challenges**: Uber faces regulatory hurdles, including licensing requirements for airport operations. Non-compliance or changes in regulations could disrupt operations and affect financial performance.
+
+5. **Competition and Market Penetration**: Uber experiences strong competition in urban areas and faces challenges in expanding into suburban and rural markets, where personal vehicle ownership is more convenient.
+
+6. **Investment in Autonomous Technologies**: Uber has invested in autonomous vehicle technologies, including a merger with Aurora. The success of these technologies is crucial for maintaining competitive advantage and financial performance.
+
+Overall, the document highlights the interconnectedness of Uber's operational strategies, market dynamics, and regulatory environment, emphasizing the potential risks to its financial health and growth prospects.
+The text discusses several risks and challenges faced by Uber Technologies, Inc. regarding the development and implementation of autonomous vehicle technologies, as well as the importance of retaining high-quality personnel. Here are the key points:
+
+1. **Competition in Autonomous Vehicles**: Uber faces competition from companies like Waymo, Cruise Automation, and others that are developing autonomous vehicle technologies. If these competitors launch their offerings before Uber, or if their technology is perceived as superior, it could negatively impact Uber's market position and financial performance.
+
+2. **Risks and Liabilities**: The introduction of autonomous vehicles carries significant risks, including potential collisions and regulatory scrutiny. Failures in technology could lead to liability issues and damage Uber's reputation.
+
+3. **Regulatory Challenges**: Federal and state regulations regarding autonomous vehicles are evolving. New regulations could delay or limit Uber's ability to offer these technologies, and non-compliance could result in fines or penalties.
+
+4. **Personnel Challenges**: Uber's success relies on attracting and retaining high-quality employees. Challenges related to workplace culture, negative publicity, and the shift to hybrid work models could lead to increased attrition and difficulties in recruitment.
+
+5. **Leadership Transitions**: Changes in leadership or management could disrupt business operations and increase turnover. The loss of key personnel or failure to manage transitions effectively could harm Uber's growth and operating results.
+
+6. **Equity Incentives**: To attract and retain key personnel, Uber uses equity incentives, but there is no guarantee that these measures will be sufficient to maintain a strong workforce.
+
+Overall, the text highlights the interconnectedness of technological advancements, regulatory environments, and human resources in shaping Uber's business landscape.
+The text discusses several risks that Uber Technologies, Inc. faces, including:
+
+1. **Attracting and Retaining Personnel**: The effectiveness of equity incentives may decline, impacting the ability to attract and retain high-quality management and operational staff, which could adversely affect the company's performance.
+
+2. **Economic Conditions**: Economic factors such as unemployment, consumer debt, and consumer confidence can influence discretionary spending. During economic downturns, consumers may opt for lower-cost alternatives, which could reduce demand for Uber's services and harm its financial results.
+
+3. **Cost Increases**: Inflation and rising costs (fuel, food, labor, etc.) can negatively impact drivers, merchants, and carriers, potentially leading to reduced service availability on the platform and decreased network liquidity.
+
+4. **Security and Privacy Breaches**: Uber collects sensitive personal data, making it a target for data security attacks. Breaches could lead to significant liabilities, revenue loss, and damage to the brand, as well as disruption of business operations.
+
+Overall, these factors highlight the vulnerabilities in Uber's business model and the potential impact of external economic conditions and internal security challenges on its operations and financial health.
+The text discusses the potential risks and liabilities Uber Technologies, Inc. faces related to data security breaches and the importance of successfully introducing new products and features to retain users. It highlights past incidents, such as the 2014 and 2016 data breaches, and mentions the need for ongoing investment in product development to differentiate from competitors. Additionally, it addresses the challenges in measuring operational metrics and the potential inaccuracies that could affect the company's reputation and business performance.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. related to its payment systems, particularly the use of cash for transactions in certain jurisdictions. Key points include:
+
+1. **Multiple Accounts**: Uber acknowledges that some consumers may create multiple accounts despite prohibitions, which could affect data accuracy and long-term strategies.
+
+2. **Cash Payments**: In certain regions, Uber allows cash payments for rides and deliveries, which raises regulatory, operational, and safety concerns. Cash transactions accounted for approximately 7% of global Gross Bookings in 2021, with potential for increase.
+
+3. **Regulatory Compliance**: The use of cash can lead to significant fines and operational suspensions if regulations are not followed. There are also safety risks for drivers and riders associated with cash transactions.
+
+4. **Infrastructure Challenges**: Establishing systems to manage cash transactions is complex and may lead to difficulties in collecting service fees, impacting financial performance.
+
+5. **Credit Card Acceptance**: A significant portion (74%) of Gross Bookings is made via credit or debit cards. Loss of credit card acceptance privileges could severely limit Uber's business model.
+
+6. **Data Security Compliance**: Uber must comply with the Payment Card Industry Data Security Standard. Non-compliance could result in fines and operational restrictions.
+
+7. **Cybersecurity Threats**: The company faces risks from cyberattacks, which could harm its reputation and operational integrity.
+
+Overall, these factors highlight the complexities and risks associated with Uber's payment systems and the potential impact on its business operations and financial results.
+The text discusses the reliance of Uber Technologies, Inc. on information technology systems for its operations, highlighting the risks associated with cyberattacks, system failures, and software errors. It emphasizes the potential impact of these risks on the company's reputation, business operations, and financial results. Key points include:
+
+1. **Cybersecurity Risks**: Uber's systems are vulnerable to various cyber threats, including malware and phishing attacks. The company acknowledges that it may not be able to prevent sophisticated attacks and that breaches could harm its reputation and competitive position.
+
+2. **System Failures**: The complexity of Uber's platform means that undetected errors or bugs in the software could disrupt services. The company has experienced outages in the past and recognizes that such issues could lead to a loss of users and revenue.
+
+3. **AI Risks**: The growing use of artificial intelligence in Uber's offerings introduces additional risks, such as flawed algorithms and biased datasets, which could lead to legal liabilities and reputational damage.
+
+Overall, the text underscores the importance of maintaining robust cybersecurity measures and the challenges posed by the technical complexity of Uber's platform.
+The document discusses Uber Technologies, Inc.'s exposure to climate change risks and dependencies on third parties for its operations.
+
+1. **Climate Change Risks**: Uber faces both physical and transitional risks related to climate change, including market shifts towards electric vehicles (EVs) and the impact of extreme weather events. These risks could disrupt operations and increase costs. The company has made commitments to renewable energy and net-zero emissions but acknowledges that external factors may affect its ability to meet these goals.
+
+2. **Dependencies on Third Parties**: Uber's business relies on the performance of internet and mobile infrastructures, which are beyond its control. Disruptions in these services could affect the availability and speed of its platform, potentially driving users to competitors. Additionally, Uber depends on third-party marketplaces like the Apple App Store and Google Play for distribution, and any interference from these platforms could adversely impact its business.
+
+Overall, the document highlights the challenges Uber faces in managing climate-related risks and its reliance on external infrastructures and third-party services.
+The text discusses various risks that Uber Technologies, Inc. faces in relation to its reliance on third-party services and infrastructure. Key points include:
+
+1. **Advertising and User Tracking**: Uber's ability to effectively target advertisements may be hindered if iOS users do not grant permission for tracking, potentially increasing user acquisition costs.
+
+2. **Mapping Services**: Uber relies on Google Maps for critical mapping functions. The company does not control these services and may face challenges if access is restricted or if alternatives are not available.
+
+3. **Payment Processing**: Uber depends on third-party payment processors for transactions. If these services become unavailable or if fees increase, it could adversely affect Uber's operating costs and business operations.
+
+4. **System Failures**: Past system failures have led to payment delays for drivers, causing dissatisfaction and potential loss of trust in Uber's payment operations.
+
+5. **Third-Party Hosting**: Uber uses third-party cloud services and co-located data centers, which are vulnerable to various risks (e.g., natural disasters, cyberattacks). Interruptions in these services could impair Uber's ability to deliver its products and services.
+
+Overall, the text highlights the interconnectedness of Uber's operations with third-party services and the potential risks associated with these dependencies.
+The text discusses several risks associated with Uber Technologies, Inc.'s operations, particularly focusing on data center agreements, the use of third-party open source software, and financing challenges.
+
+1. **Data Center Agreements**: Uber may face delays in product delivery if it cannot renew agreements with data centers on reasonable terms, potentially harming revenue and user trust.
+
+2. **Open Source Software Risks**: The use of third-party open source software could lead to legal challenges regarding compliance with licensing terms, which may require the company to release proprietary code or incur significant costs to address non-compliance. Additionally, open source software may expose Uber to security risks and limit its ability to protect intellectual property.
+
+3. **Financing Needs**: Uber requires additional capital for growth, which may not be available on favorable terms. Issuing new equity could dilute existing shareholders, and existing debt agreements may impose restrictions that complicate obtaining further financing. As of March 31, 2022, Uber had significant outstanding debt, which could limit operational flexibility and necessitate additional borrowing for future investments, such as autonomous vehicles.
+The text discusses the financial risks and challenges faced by Uber Technologies, Inc. regarding its indebtedness and tax liabilities. Key points include:
+
+1. **Indebtedness Risks**:
+- A significant portion of cash flows may be used to pay interest and principal on debt, limiting funds for operations and growth.
+- Existing debt instruments impose restrictions on additional borrowing, mergers, asset sales, and dividend payments.
+- Future debt financing may come with additional covenants that could hinder capital-raising efforts.
+- Defaults on debt could lead to immediate repayment demands and restrict future financing options.
+
+2. **Interest Rate Risk**:
+- The company is exposed to interest rate fluctuations, which could impact financial stability.
+
+3. **Tax Liabilities**:
+- Tax laws are complex and subject to interpretation, leading to potential higher tax rates than currently paid.
+- Investigations into tax compliance could result in additional tax liabilities.
+- Certain jurisdictions require prepayment of contested taxes, impacting liquidity.
+- Ongoing audits by tax authorities could lead to adverse financial outcomes.
+
+4. **Tax Methodology Challenges**:
+- Tax authorities may challenge the company's valuation methodologies, potentially increasing the effective tax rate.
+- Future income taxes may be affected by earnings fluctuations and changes in tax laws.
+
+5. **Acquisition Risks**:
+- Acquiring businesses with different tax arrangements could lead to increased tax liabilities and affect financial results.
+
+Overall, the text highlights the potential financial strain from debt obligations and tax liabilities, which could hinder Uber's operational flexibility and growth strategy.
+The document discusses several key risks related to Uber Technologies, Inc.'s financial condition and operations, particularly concerning tax legislation, net operating loss carryforwards, currency exchange rates, and business acquisitions.
+
+1. **Tax Legislation Risks**: Changes in U.S. and global tax laws, particularly the Tax Cuts and Jobs Act, could adversely affect Uber's financial results. The elimination of the option to deduct research and development expenses may impact cash flows if not modified.
+
+2. **Net Operating Loss Carryforwards**: Uber has significant net operating loss carryforwards that could expire if not utilized. Changes in ownership could limit the ability to use these carryforwards, potentially increasing future tax liabilities.
+
+3. **Currency Exchange Rate Fluctuations**: As Uber operates in multiple currencies, fluctuations in exchange rates could materially affect financial results. The company may consider hedging strategies, but these come with risks and may not fully mitigate the impact of currency changes.
+
+4. **Acquisition Risks**: Uber's strategy includes acquiring other businesses, which carries risks related to the successful integration and performance of these acquisitions.
+
+Overall, these factors could significantly impact Uber's financial position, operating results, and cash flows.
+The text discusses the challenges and risks associated with Uber's acquisition strategy and joint ventures. Key points include:
+
+1. **Acquisition Challenges**: Uber faces intense competition for acquiring businesses and technologies, which may lead to difficulties in completing acquisitions on favorable terms or obtaining necessary regulatory approvals.
+
+2. **Management Diversion**: Negotiations and integrations of acquisitions can divert management's focus and incur significant costs.
+
+3. **Financial Risks**: Acquisitions may require substantial cash or debt financing, potentially restricting business operations and leading to dilution of stockholder equity.
+
+4. **Integration Risks**: Successfully integrating acquired businesses is fraught with challenges, including:
+- Disruption of ongoing operations.
+- User acceptance of new offerings.
+- Aligning internal controls and policies.
+- Retaining key employees and managing cultural differences.
+- Maintaining business relationships and brand identity.
+
+5. **Regulatory Risks**: Acquisitions may increase exposure to legal risks, such as violations of the U.S. Foreign Corrupt Practices Act (FCPA).
+
+6. **Performance Uncertainty**: There is no guarantee that acquired businesses will perform as expected, and failure to manage these acquisitions effectively could harm Uber's financial condition and operational results.
+
+Overall, the text emphasizes the complexities and potential downsides of Uber's growth strategy through acquisitions and joint ventures.
+The text discusses the legal and regulatory risks that Uber Technologies, Inc. faces in various jurisdictions regarding its ridesharing business model. Key points include:
+
+1. **Regulatory Restrictions**: Uber's operations have been blocked or limited in several markets, including Argentina, Germany, Italy, Japan, South Korea, and Spain, due to local laws and regulations.
+
+2. **Licenses and Permits**: Uber must obtain and comply with licenses or permits to operate in certain areas, and there is uncertainty about maintaining or renewing these licenses.
+
+3. **Lobbying by Competitors**: Traditional taxi and car service operators are lobbying for regulations that could impose additional requirements on Uber, affecting its business model.
+
+4. **Specific Regulatory Examples**:
+- In Barcelona, Uber suspended its services due to new regulations on minimum wait times.
+- New York City implemented minimum pay standards for drivers, adversely impacting Uber's financial performance.
+- Other cities, like San Francisco and Chicago, have enacted surcharges on ridesharing trips.
+
+5. **Legal Challenges**: Uber has faced legal challenges in various jurisdictions, such as Hong Kong and Colombia, which have affected its ability to operate and may lead to fines or penalties.
+
+6. **Future Risks**: The company is at risk of facing similar regulations in other jurisdictions, which could hinder its growth and operational capabilities.
+
+Overall, these legal and regulatory challenges pose significant risks to Uber's business model and financial performance.
+The text discusses various legal and regulatory challenges faced by Uber Technologies, Inc. It highlights the potential financial implications of fines and defense costs related to lawsuits, as well as the impact of negative press on user engagement. The company faces regulatory hurdles that may favor local competitors and impose restrictions on its operations, which could adversely affect revenue and growth.
+
+Key points include:
+
+1. **Regulatory Obstacles**: Uber encounters challenges from local governments and competitors, including delivery network fee caps and surge pricing limitations.
+
+2. **Legal Risks**: The company is involved in multiple litigations, including class action lawsuits, which could lead to significant financial liabilities.
+
+3. **Compliance Costs**: New laws and regulations may require substantial compliance costs, potentially dampening platform growth.
+
+4. **Environmental Regulations**: Initiatives aimed at reducing emissions may impact operations, prompting Uber to implement fees and transition to electric vehicles.
+
+5. **Brexit Impact**: The exit of the UK from the EU has implications for Uber's operations, as the UK accounted for a notable percentage of global Mobility Gross Bookings.
+
+6. **Ongoing Litigation**: Uber is contesting various legal challenges, which are costly and time-consuming, and adverse outcomes could harm its business operations.
+
+7. **E-bike and E-scooter Risks**: Although Uber divested certain assets, it still faces risks associated with dockless e-bikes and e-scooters available through its app.
+
+Overall, the document emphasizes the complex legal landscape and regulatory environment that Uber must navigate, which poses risks to its business model and financial performance.
+The text discusses various risks and regulatory challenges faced by Uber Technologies, Inc. regarding its dockless e-bikes and e-scooters, competition laws, and payment services. Key points include:
+
+1. **Injury Risks**: Users of dockless e-bikes and e-scooters may face higher injury risks in collisions compared to vehicle occupants due to less protective systems.
+
+2. **Quality Issues**: Any quality problems or defects in e-bikes or e-scooters could lead to negative publicity, regulatory actions, or lawsuits, especially if injuries occur.
+
+3. **Competition Laws**: Uber is under scrutiny from competition authorities in various jurisdictions, including the U.S. and EU, regarding pricing practices. Complaints about pricing strategies could lead to regulatory actions that may affect operations and financial results.
+
+4. **Government Regulation**: Uber's operations are subject to extensive regulations concerning payment and financial services. The company must obtain licenses in certain jurisdictions, and failure to do so could limit operations or lead to fines.
+
+5. **Strong Customer Authentication (SCA)**: New regulatory requirements in the EEA may complicate payment processes, potentially reducing user convenience and affecting transaction success rates, which could impact revenue.
+
+Overall, these factors could adversely affect Uber's business, financial condition, and operational results.
+The text discusses various legal and regulatory challenges faced by Uber Technologies, Inc. It highlights the potential adverse effects on the company's business, financial condition, and operating results due to:
+
+1. **Driver Payments**: The increase in the frequency of driver payments without corresponding consumer payments could negatively impact the business.
+
+2. **Evolving Regulations**: Changes in laws related to money transmission and online payments, particularly in Europe, have led to Uber Payments B.V. being subject to financial services regulations in the EEA. This includes compliance with anti-money laundering and terrorist financing laws.
+
+3. **Compliance Risks**: Non-compliance with financial laws could result in significant legal consequences, including lawsuits, penalties, and reputational harm.
+
+4. **Illegal Uses of Payment System**: The payment system is vulnerable to misuse, such as money laundering and fraud, necessitating substantial investment in compliance measures.
+
+5. **Government Investigations**: Uber is currently under investigation by various government agencies, including the DOJ and state AG offices, regarding business practices, data privacy incidents, and previous breaches. Past breaches have led to settlements and fines, which may continue to affect the company.
+
+6. **Potential Fines and Sanctions**: Ongoing inquiries could lead to additional fines, penalties, and changes in business practices, resulting in reputational damage and operational disruptions.
+
+Overall, the text emphasizes the importance of compliance with evolving regulations and the potential risks associated with legal inquiries and investigations.
+The text discusses the risks Uber Technologies, Inc. faces related to data privacy and security. Key points include:
+
+1. **Legal Risks**: Uber is exposed to potential claims and lawsuits due to past data breaches (2014 and 2016) and ongoing privacy incidents, which could lead to significant financial liabilities and operational restrictions.
+
+2. **Regulatory Compliance**: The company must comply with various privacy laws, including the GDPR in the EU and the CCPA in California, which impose strict requirements on data handling and can result in substantial fines for non-compliance.
+
+3. **Past Settlements**: Uber has entered into multiple settlements with regulatory authorities, including a consent decree with the FTC and fines from European authorities, which require enhanced data security practices.
+
+4. **Acquisition Liabilities**: Uber may inherit liabilities from companies it acquires, as seen with Careem and Drizly, which faced their own data security incidents.
+
+5. **Insurance Limitations**: Uber's insurance may not cover all potential claims, leaving the company vulnerable to significant financial exposure.
+
+6. **Evolving Regulations**: As Uber expands, it may encounter new or amended laws that increase compliance costs and operational burdens, impacting its business and financial condition.
+
+Overall, the text highlights the complex landscape of data privacy regulations and the potential consequences of non-compliance for Uber.
+The text discusses various legal and regulatory challenges that Uber Technologies, Inc. faces, particularly concerning data protection laws and litigation risks. Key points include:
+
+1. **Cross-Border Data Transfers**: Uber relies on mechanisms like the EU Standard Contract Clauses for transferring personal data outside the European Economic Area (EEA). Changes in regulations or legal rulings could hinder these transfers, impacting business operations.
+
+2. **Government Data Disclosure**: Uber may be required to disclose personal data to government agencies, which could lead to compliance issues and damage the company's reputation.
+
+3. **Legal Proceedings**: The company is involved in various legal matters, including driver classification, privacy issues, and employment practices. Adverse outcomes could result in significant costs and operational changes.
+
+4. **Arbitration Provisions**: Uber includes arbitration clauses in its terms of service to streamline dispute resolution. However, these provisions face scrutiny and could lead to increased litigation costs if found unenforceable.
+
+5. **Compliance Costs**: Adapting to evolving data protection laws may increase compliance costs and expose Uber to legal actions, which could disrupt business operations and financial results.
+
+Overall, the text highlights the complexities and potential risks associated with legal compliance and data management for Uber.
+The document discusses several risks and challenges faced by Uber Technologies, Inc. related to its operations in countries with high levels of corruption, compliance with anti-corruption laws, and the regulatory environment for Drivers. Key points include:
+
+1. **Corruption Risks**: Uber operates in regions known for corruption, which increases the risk of unauthorized payments by various parties, including Drivers and business partners. The company is subject to the Foreign Corrupt Practices Act (FCPA) and similar laws, and may face additional compliance requirements.
+
+2. **Driver Licensing Requirements**: Many jurisdictions are enforcing or proposing new licensing rules for Drivers, which could limit Uber's ability to scale its operations. Potential caps on the number of licensed Drivers or vehicles could adversely affect business growth.
+
+3. **Liability for Driver Onboarding Practices**: Uber faces legal challenges regarding its methods for attracting and onboarding Drivers, including lawsuits related to unsolicited communications. Adverse outcomes from these lawsuits could lead to financial damages and operational changes.
+
+4. **Insurance Coverage Dependence**: Uber relies on a combination of third-party insurance and self-insurance. Changes in insurance terms or requirements for additional coverage could negatively impact the business. The cost of insurance is notably higher in the U.S. and Canada, and inadequate coverage could result in significant liabilities.
+
+Overall, these factors highlight the complexities and risks associated with Uber's business model and regulatory environment.
+The text discusses several risks and challenges faced by Uber Technologies, Inc. related to insurance, liability, pricing regulations, and intellectual property protection. Here are the key points:
+
+1. **Insurance and Liability Risks**:
+- Uber and its captive insurance subsidiary have reinsurance and indemnification arrangements that could lead to significant payouts exceeding insurance reserves, impacting financial condition.
+- The company may face claims related to traffic accidents or incidents involving Drivers, which may not be fully covered by insurance policies.
+- There are local laws and regulations regarding insurance coverage that could lead to legal actions or increased costs for Uber.
+
+2. **Pricing Regulations**:
+- Uber's revenue is influenced by pricing models for consumer fares and Driver earnings, which may face challenges or regulations in various jurisdictions.
+- Specific examples include caps on surge pricing in certain cities, which could affect operating costs and revenue.
+
+3. **Intellectual Property Protection**:
+- Uber's intellectual property is crucial for its competitive advantage, and inadequate protection could harm its brand and market position.
+- The company employs various legal measures to protect its intellectual property, but these may not always be effective.
+
+Overall, these factors could adversely affect Uber's business, financial condition, and operational results.
+The text discusses various risks related to Uber Technologies, Inc.'s intellectual property (IP) and financial reporting. Key points include:
+
+1. **Intellectual Property Risks**:
+- Uber faces challenges in protecting its IP from competitors who may copy or reverse-engineer its products.
+- There is a risk of losing competitive advantages if trade secrets are compromised.
+- Enforcement of IP rights can be costly and time-consuming, and there is no guarantee of success.
+- The company may face litigation over alleged IP infringement, which could divert resources and harm its brand.
+
+2. **Financial Reporting Risks**:
+- Changes in accounting principles could significantly affect reported financial results, particularly in revenue recognition.
+- The complexity of accounting for Uber's business model may lead to material changes in financial statements.
+
+3. **Investment Company Act**:
+- Uber believes it does not qualify as an "investment company" under the Investment Company Act, but if deemed so, it would face regulatory burdens that could adversely affect its operations and financial condition.
+
+Overall, these risks highlight the potential challenges Uber may encounter in maintaining its competitive edge and accurately reporting its financial performance.
+The document discusses the risks related to the ownership of Uber Technologies, Inc.'s common stock. It highlights that the market price of the stock has been volatile and may continue to fluctuate due to various factors, including:
+
+- Actual or anticipated changes in key performance indicators (MAPCs, Trips, Adjusted EBITDA, Gross Bookings, revenue).
+- Announcements or estimates regarding the number of Drivers and consumers on the platform.
+- Variations between actual results and expectations from management or analysts.
+- Changes in accounting principles or interpretations.
+- Actions and estimates from securities analysts.
+- Announcements of significant products, innovations, or partnerships.
+- Negative media coverage.
+- Changes in the performance and valuations of technology companies.
+- Stock market fluctuations influenced by broader economic trends.
+- Legal actions against the company.
+- Regulatory developments affecting operations.
+- Changes in the board of directors or management.
+- Safety incidents on the platform.
+- Public statements regarding the legality of product offerings.
+- External events such as war, terrorism, natural disasters, or public health crises.
+
+The document also notes that stock price fluctuations can occur independently of a company's performance and that past volatility has led to securities class action litigation against the company. Additionally, Delaware law and the company's governing documents may complicate mergers or proxy contests, potentially affecting stock prices. Overall, these factors could lead to significant declines in stock price, impacting investors' ability to sell shares at or above their purchase price.
+The document outlines several provisions in Uber Technologies, Inc.'s amended and restated certificate of incorporation and bylaws that could negatively impact the trading price of its common stock. Key points include:
+
+1. **Board Control**: The board of directors has the authority to fill vacancies, limiting stockholder influence.
+2. **Advance Notice Requirements**: These may reduce the number of stockholder proposals.
+3. **Special Meetings**: Limitations on convening special meetings could hinder governance changes.
+4. **Cumulative Voting**: The prohibition on cumulative voting restricts minority stockholders' ability to elect directors.
+5. **Preferred Stock Issuance**: The board can issue preferred stock without stockholder approval, potentially complicating acquisition attempts.
+
+Additionally, the document mentions that significant sales of common stock by existing stockholders could depress stock prices and that the company does not plan to pay cash dividends in the foreseeable future. It also states that disputes between stockholders and the company will be handled in Delaware courts, which may limit stockholders' options for legal recourse.
+The provided text discusses several important aspects related to Uber Technologies, Inc.'s legal and financial reporting obligations. Here are the key points:
+
+1. **Exclusive Forum Provision**: Uber's amended and restated certificate of incorporation designates federal district courts in the U.S. as the exclusive forum for disputes arising under the Securities Act. However, this is contingent on a final ruling in Delaware regarding its enforceability. Other jurisdictions may not uphold this provision, potentially leading to increased costs for Uber if disputes arise outside the designated forum.
+
+2. **Impact on Stockholders**: The exclusive forum provisions may limit stockholders' ability to choose a preferred judicial forum for disputes, which could discourage lawsuits against the company and its directors or officers.
+
+3. **Internal Controls Over Financial Reporting**: As a public company, Uber is required to maintain effective internal controls over financial reporting. Failure to do so could negatively impact investor confidence and the value of its common stock.
+
+4. **Sarbanes-Oxley Act Compliance**: Under Section 404 of the Sarbanes-Oxley Act, Uber must provide an annual report on the effectiveness of its internal controls, and its independent auditors must attest to this effectiveness. Any material weaknesses identified could hinder the company's ability to report its financial condition accurately.
+
+5. **Challenges of Growth**: As Uber expands, particularly in high-growth areas like Delivery and Freight, it may face challenges in maintaining consistent performance and timely implementation of new controls, increasing the risk of material weaknesses in internal controls.
+
+6. **Consequences of Weaknesses**: If material weaknesses are identified, it could lead to a loss of investor confidence, a decline in stock price, and potential sanctions or investigations by regulatory authorities.
+
+7. **Unregistered Sales of Equity Securities**: The report indicates that there are no unregistered sales of equity securities to disclose.
+
+8. **Exhibits**: The report references an Exhibit Index, which includes documents incorporated by reference or filed with the quarterly report.
+
+These points highlight the legal and regulatory challenges Uber faces as a public company, particularly concerning internal controls and the implications of its corporate governance structure.
+The document contains an exhibit index for Uber Technologies, Inc.'s quarterly report filed with the SEC. It lists various exhibits along with their descriptions, filing dates, and references. Key exhibits include:
+
+- **3.1**: Amended and Restated Certificate of Incorporation
+- **3.2**: Amended and Restated Bylaws
+- **10.1**: RSU Conversion and Deferral Program for Directors
+- **10.2**: Amendment to the Google Maps Master Agreement
+- **31.1**: Certification of the Principal Executive Officer
+- **31.2**: Certification of the Principal Financial Officer
+- **32.1**: Certifications pursuant to 18 U.S.C. Section 1350
+- **101.INS to 101.PRE**: Various XBRL documents
+
+Certain portions of exhibits have been omitted, and the certifications are deemed furnished, not filed.
+The document includes the signatures of key executives from Uber Technologies, Inc. as part of their quarterly report filed with the SEC. The signatures confirm the authenticity of the report and indicate that the individuals are duly authorized to represent the company.
+
+The signatories are:
+- Dara Khosrowshahi, Chief Executive Officer and Director (Principal Executive Officer)
+- Nelson Chai, Chief Financial Officer (Principal Financial Officer)
+
+Both signatures are dated May 5, 2022.
+The document is an exhibit detailing the RSU (Restricted Stock Unit) Conversion and Deferral Program for Directors of Uber Technologies, Inc. It was approved on November 1, 2021, and became effective on May 9, 2022.
+
+Key points include:
+
+1. **Purpose**: The program allows Directors to convert their compensation into RSU Awards and defer the settlement of these awards.
+
+2. **Equity Incentive Plan**: RSU Awards will be issued under the Equity Plan, subject to its terms, with shares drawn from the Equity Plan's reserve.
+
+3. **Effective Date**: The program is effective for compensation earned on or after the date of the 2022 annual stockholders' meeting.
+
+4. **Definitions**:
+- "Administrator" refers to the Compensation Committee or delegated persons.
+- "Affiliate" includes any parent, subsidiary, or entity under common control with the Company.
+- "Award Agreement" is the document outlining the terms of an RSU Award.
+- "Board" refers to the Board of Directors of Uber.
+- "Code" refers to the U.S. Internal Revenue Code.
+- "Company" refers to Uber Technologies, Inc. and its successors.
+
+This document outlines the framework for how Directors can manage their compensation through RSUs.
+The text provided defines several terms related to compensation and corporate transactions for Uber Technologies, Inc. Here are the key definitions:
+
+1. **Compensation**: Cash compensation earned by Directors for their services to the Board or a Board committee.
+
+2. **Converted RSU Award**: An RSU Award made under Section 4.
+
+3. **Conversion Date**: The date when Compensation would be payable to a Participant if there were no Deferral Election.
+
+4. **Corporate Transaction**: This includes several scenarios:
+- **Merger or Consolidation**: A transaction where the voting securities of the Company do not continue to represent at least 50% of the total voting power after the transaction.
+- **Beneficial Ownership**: When an Exchange Act Person acquires more than 50% of the voting power of the Company’s securities, excluding additional acquisitions by those already owning over 50%.
+- **Sale of Assets**: The sale or disposition of all or substantially all of the Company’s assets, except to the Company or its wholly owned subsidiaries.
+- **Change in Control**: Occurs when a majority of the Board members are replaced within a 12-month period by members not endorsed by the majority of the existing Board.
+
+5. **Deferral Election**: Defined in Section 5.1, though the specific definition is not provided in the text.
+
+These definitions are part of the regulatory framework governing compensation and corporate governance for the company.
+The text provided appears to be definitions from a legal or regulatory document related to Uber Technologies, Inc., specifically concerning terms used in their Equity Incentive Plan. Here are some key definitions:
+
+- **Deferral Election Form**: A form for Directors to make a Deferral Election.
+- **Deferred RSUs**: The portion of a Restricted Stock Unit (RSU) Award that is subject to a Deferral Election.
+- **Director**: A non-employee member of the Board based in the U.S.
+- **Disability**: A condition where a Participant is unable to engage in substantial gainful activity due to a physical or mental impairment expected to last at least 12 months.
+- **Effective Date**: The date defined in Section 1.3 of the document.
+- **Entity**: A corporation, partnership, limited liability company, or other organization.
+- **Equity Plan**: The Uber Technologies, Inc. 2019 Equity Incentive Plan, including any amendments or successor plans.
+- **Exchange Act**: Refers to the U.S. Securities Exchange Act of 1934 and its regulations.
+- **Exchange Act Person**: A definition that excludes certain entities and individuals from being classified as such under the Exchange Act.
+- **Non-Converted RSU Award**: An RSU Award made under the Director Compensation Policy that is not a Converted RSU Award.
+- **Parent**: A corporation in a chain of corporations ending with the Company.
+
+If you have specific questions about any of these terms or need further clarification, feel free to ask!
+The document outlines the definitions and eligibility criteria for the Uber Technologies, Inc. RSU Conversion and Deferral Program for Directors. Key points include:
+
+- **Participant**: A Director who opts into the Program by making a Deferral Election or an RSU Election.
+- **Program**: The RSU Conversion and Deferral Program for Directors, which may be amended over time.
+- **RSU Award**: A restricted stock unit award granted under the Equity Plan.
+- **Eligibility**: Directors are eligible to participate, and those who cease to be eligible will still be considered Participants for previously converted RSU Awards until fully distributed.
+- **RSU Election**: Directors can convert a percentage of their Compensation into RSU Awards by completing an RSU Election Form, which becomes irrevocable after the specified deadline.
+
+This section provides a framework for how Directors can manage their compensation through RSU Awards.
+The document outlines the procedures and regulations regarding Restricted Stock Unit (RSU) Elections and Deferral Elections for participants in the program. Here are the key points:
+
+1. **Timing of RSU Election**:
+- RSU Elections must be made by December 31 of the year prior to the calendar year in which the services are performed, or earlier as determined by the Administrator.
+- If an individual becomes eligible to participate during a calendar year, they can make an RSU Election within 30 days of eligibility.
+
+2. **Effect of RSU Election**:
+- Compensation subject to the RSU Election will be converted into RSU Awards based on the average daily closing price of the company's stock in the month prior to the conversion date.
+
+3. **Vesting and Issuance of RSU Award**:
+- RSU Awards will be fully vested and issued within 60 days following the conversion date, unless specified otherwise by the Administrator.
+
+4. **RSU Award Terms**:
+- RSU Awards are governed by the terms of the Equity Incentive Plan, which includes provisions for tax withholding, restrictions, and corporate events.
+
+5. **Election to Defer RSUs**:
+- Directors can elect to defer the issuance of a percentage of Shares from an RSU Award by submitting a Deferral Election Form.
+- Once made, a Deferral Election is irrevocable and applies only to Converted RSU Awards related to Compensation for the specified calendar year.
+
+This summary captures the essential details regarding RSU and Deferral Elections as outlined in the document.
+The text outlines the procedures and regulations regarding the deferral of Restricted Stock Unit (RSU) Awards for Directors within a specific program. Here are the key points:
+
+1. **Deferral Election Timing**:
+- For Converted RSU Awards, a Director must make a Deferral Election at the same time as the RSU Election for the corresponding Compensation.
+- For Non-Converted RSU Awards, the Deferral Election must generally be made by December 31 of the year prior to the award issuance. New participants have 30 days from their eligibility date to make this election.
+
+2. **Form of Issuance**:
+- Participants can choose to receive shares from Deferred RSUs either as a single payment or in three annual installments. If no choice is made, the default is a single payment.
+
+3. **Re-deferral Election**:
+- Participants may postpone the issuance of Deferred RSUs for at least five years, with the election taking effect 12 months after it is made. However, in cases of Corporate Transactions, Disability, or death, shares will be issued as per the original schedule.
+
+4. **Issuance Upon Termination of Service**:
+- Shares from Deferred RSUs will be issued within 90 days following a Participant's termination of service, unless specified otherwise by the Administrator.
+
+These provisions ensure that Directors have options regarding the timing and method of receiving their RSU Awards while adhering to regulatory requirements.
+The text provided outlines the terms and conditions related to the in-service distribution, annual installments, accelerated issuance, beneficiary designations, and vesting of shares for Deferred Restricted Stock Units (RSUs) under a compensation program. Here are the key points:
+
+1. **In-Service Distribution (Section 6.2)**: Participants can elect a distribution date for their Deferred RSUs, which must be after three years from the deferral election. If the participant's service ends before this date, shares will be issued around May 16 following termination.
+
+2. **Annual Installments (Section 6.3)**: After the initial share issuance, subsequent shares will be issued annually on the anniversary of the initial issuance. Shares will be divided by three, rounding down any fractions, with fractional shares accumulated for the final installment.
+
+3. **Accelerated Issuance (Section 6.4)**: In the event of a corporate transaction, disability, or death, all Deferred RSUs will be issued in a single payment within 90 days of the event.
+
+4. **Beneficiary Designation (Section 6.5)**: Participants can designate beneficiaries, which can be changed at any time before death. If no beneficiary is designated or if the designated beneficiary predeceases the participant, the participant's estate will be the beneficiary.
+
+5. **Vesting and Issuance of Shares (Section 6.6)**: Shares underlying RSUs will be fully vested and issued as soon as practicable after the issuance date, but no later than March 15 of the following calendar year, or December 31 in the case of death.
+
+These sections provide a framework for how Deferred RSUs are managed, including the timing of distributions and the rights of participants and their beneficiaries.
+The text provided outlines specific provisions related to a benefits program administered by Uber Technologies, Inc. Here are the key points:
+
+1. **No Right to Assets (7.1)**: Participation in the program does not grant participants any rights or liens against the company's assets. The benefits are unfunded, and participants are considered general unsecured creditors.
+
+2. **No Right to Transfer Interest (7.2)**: Benefits under the program cannot be transferred, sold, or assigned. However, an alternate payee may receive benefits under certain conditions defined by a domestic relations order, provided it does not grant them rights to the company's assets or payments beyond what the participant is entitled to.
+
+3. **No Service Rights (7.3)**: Participation in the program does not guarantee continued employment. The company retains the right to terminate any participant's service at any time and for any reason.
+
+4. **Administration of the Program (8.1)**: The program is administered by an Administrator who has the authority to adopt rules, determine requirements for elections, interpret program terms, and resolve questions or ambiguities.
+
+5. **Incapacity (8.2)**: If a participant is unable to manage their affairs due to illness or accident, payments may be made to a designated family member or party deemed appropriate by the Administrator, unless a legal guardian has been appointed.
+
+These sections emphasize the non-vested nature of benefits, the lack of transferability, and the administrative authority over the program.
+The text provided outlines several sections of a program related to compensation and benefits for participants, likely within a corporate context. Here are the key points summarized:
+
+1. **Amendment, Suspension, and Termination (Section 8.3)**: The Compensation Committee can amend, suspend, or terminate the program at any time. However, any changes that reduce benefits for existing participants after a Corporate Transaction require their written consent. Amendments for compliance with Section 409A of the Code can be made without reducing participant benefits.
+
+2. **Power to Delegate Authority (Section 8.4)**: The Administrator has the discretion to delegate its authority and responsibilities under the program to others.
+
+3. **Headings (Section 8.5)**: Headings in the document are for reference only and do not influence the interpretation of the program's provisions.
+
+4. **Severability (Section 8.6)**: If any part of the program is found to be void or unenforceable, the remaining provisions will still be effective. The void provisions may be limited or replaced to maintain the program's intended benefits.
+
+5. **Governing Law (Section 8.7)**: The program will be governed by California law, excluding any conflicting legal principles, unless federal law overrides.
+
+6. **Complete Statement of Program (Section 8.8)**: The program is a complete statement of its terms, and benefits are determined solely by its provisions. Other evidence will not be considered, except for terms from the Equity Plan and applicable Award Agreements regarding RSU Awards.
+
+7. **Compliance with Section 409A of the Code (Section 8.9)**: The program aims to comply with or be exempt from Section 409A of the Code. It specifies conditions for distributions, payments upon termination, and the treatment of installment payments, ensuring that participants cannot designate the year for distributions outside of the Code's provisions.
+
+This summary captures the essential elements of the sections provided. If you have specific questions or need further details, feel free to ask!
+It seems that the text you provided is a fragment from a legal or financial document, possibly related to tax implications under Section 409A of the Internal Revenue Code. If you have specific questions about this section or need further information regarding the quarterly report from Uber Technologies, Inc., please let me know!
+The document is an amendment to the Google Maps Master Agreement between Google LLC and Uber Technologies, Inc. It outlines changes to the Services Schedule related to the Google Maps Platform Rides and Delivery Solution Services. Key points include:
+
+1. **Effective Date**: The amendment is effective upon signing by Google.
+2. **Amendments**:
+- **Section 11.4(b)**: Specifies that upon termination or expiration of the Order Form, Uber must delete cached Google Maps content, with certain exceptions outlined in the agreement.
+- **Section 12**: Lists the sections that will survive the expiration or termination of the Services Schedule, including data use, intellectual property ownership, and content usage frameworks.
+- **Section 14**: Additional definitions related to the agreement are to be amended, though specific changes are not detailed in the provided text.
+
+This amendment is part of the ongoing contractual relationship between the two companies regarding the use of Google Maps services.
+The document appears to be an amendment to an agreement between Google and a customer, detailing changes to specific appendices related to a caching solution and content usage framework. It confirms that the original agreement remains in effect except for the modifications made by this amendment. The governing law and dispute resolution provisions of the original agreement also apply to this amendment. The document is signed by authorized representatives from both parties, indicating their agreement to the changes.
+
+If you have specific questions about the content or need further details, please let me know!
+It seems that you have provided a reference to an appendix related to a caching solution, but there is no specific question or context provided. Could you please clarify what information or assistance you need regarding the caching solution or any other aspect of the quarterly report?
+It seems that the content you provided is a reference to an appendix related to a content usage framework, but it does not contain specific information or questions. If you have any specific questions or need information about Uber Technologies, Inc.'s quarterly report or any other topic, please let me know!
+The document is a certification by Dara Khosrowshahi, the Chief Executive Officer of Uber Technologies, Inc., in accordance with the Sarbanes-Oxley Act of 2002. It certifies the accuracy and completeness of the company's Quarterly Report on Form 10-Q. Key points from the certification include:
+
+1. Review of the report and assurance that it does not contain any misleading statements.
+2. Confirmation that the financial statements fairly present the company's financial condition and results of operations.
+3. Responsibility for establishing and maintaining disclosure controls and internal control over financial reporting.
+4. Evaluation of the effectiveness of these controls and disclosure of any changes that may materially affect them.
+5. Disclosure of any significant deficiencies or fraud related to internal control over financial reporting.
+
+The certification is dated May 5, 2022, and is signed by Dara Khosrowshahi.
+The document is a certification by Nelson Chai, the Chief Financial Officer of Uber Technologies, Inc., in accordance with the Sarbanes-Oxley Act of 2002. It certifies the accuracy and completeness of the company's Quarterly Report on Form 10-Q. Key points include:
+
+1. Review of the report and assurance that it does not contain misleading statements.
+2. Confirmation that the financial statements fairly present the company's financial condition and results.
+3. Responsibility for establishing and maintaining disclosure controls and internal control over financial reporting.
+4. Evaluation of the effectiveness of these controls and disclosure of any changes that may materially affect them.
+5. Disclosure of any significant deficiencies or fraud related to internal control over financial reporting.
+
+The certification is dated May 5, 2022, and is signed by Nelson Chai.
+The document contains certifications from the Chief Executive Officer, Dara Khosrowshahi, and the Chief Financial Officer, Nelson Chai, of Uber Technologies Inc. These certifications are made pursuant to 18 U.S.C. Section 1350 and the Sarbanes-Oxley Act of 2002. Both executives affirm that the Quarterly Report on Form 10-Q for the period ended March 31, 2022, complies with the requirements of the Securities Exchange Act of 1934 and accurately presents the financial condition and results of operations of the company. The certifications are dated May 5, 2022.
+The document is a quarterly report (Form 10-Q) filed by Uber Technologies, Inc. with the SEC for the period ended March 31, 2022. It includes essential information such as the company's incorporation details, trading symbol (UBER), and confirmation of compliance with filing requirements. The report indicates that Uber is a large accelerated filer and confirms that it is not a shell company. As of May 2, 2022, there were 1,963,660,253 shares of common stock outstanding.
+The document is a quarterly report from Uber Technologies, Inc. filed with the SEC. It includes the following sections:
+
+1. **Special Note Regarding Forward-Looking Statements** - Page 2
+2. **PART I - FINANCIAL INFORMATION** - Page 4
+- Item 1: Financial Statements (unaudited)
+- Condensed Consolidated Balance Sheets as of December 31, 2021, and March 31, 2022 - Page 4
+- Condensed Consolidated Statements of Operations for the Three Months Ended March 31, 2021, and 2022 - Page 5
+- Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three Months Ended March 31, 2021, and 2022 - Page 6
+- Condensed Consolidated Statements of Redeemable Non-Controlling Interests and Equity for the Three Months Ended March 31, 2021, and 2022 - Page 7
+- Condensed Consolidated Statements of Cash Flows for the Three Months Ended March 31, 2021, and 2022 - Page 9
+- Notes to Condensed Consolidated Financial Statements - Page 11
+- Item 2: Management's Discussion and Analysis of Financial Condition and Results of Operations - Page 32
+- Item 3: Quantitative and Qualitative Disclosures About Market Risk - Page 48
+- Item 4: Controls and Procedures - Page 48
+
+3. **PART II - OTHER INFORMATION** - Page 49
+- Item 1: Legal Proceedings - Page 49
+- Item 1A: Risk Factors - Page 50
+- Item 2: Unregistered Sales of Equity Securities and Use of Proceeds - Page 86
+- Item 6: Exhibits - Page 86
+- Signatures - Page 88
+
+This report provides a comprehensive overview of Uber's financial performance and other relevant information for the specified quarter.
+The document contains a section titled "Special Note Regarding Forward-Looking Statements," which outlines various forward-looking statements made by Uber Technologies, Inc. These statements pertain to the company's future operations, financial performance, business strategy, and other relevant factors. Key points include:
+
+- The potential impacts of COVID-19 and other pandemics on the business.
+- The company's ability to defend against litigation and government proceedings.
+- Competition in the market and management of growth.
+- Expectations regarding financial performance, including revenue and profitability.
+- Anticipated investments in new products and capital expenditures.
+- The ability to recruit and retain skilled personnel.
+- Plans for international expansion and compliance with regulations.
+
+The document emphasizes that actual results may differ from these forward-looking statements and advises caution in relying on them as predictions of future events.
+The text discusses the nature of forward-looking statements made by Uber Technologies, Inc. in their Quarterly Report on Form 10-Q. It highlights that these statements are subject to various risks, uncertainties, and assumptions, which could lead to actual results differing materially from those projected. The company emphasizes that statements reflecting beliefs and opinions are based on information available at the time of the report and may not be exhaustive. Furthermore, the report clarifies that forward-looking statements are only valid as of their date and that Uber does not commit to updating them unless legally required. Investors are advised to be cautious and not to place undue reliance on these statements.
+**Uber Technologies, Inc. Condensed Consolidated Balance Sheets Summary:**
+
+**As of December 31, 2021:**
+- Total Assets: $38,774 million
+- Total Liabilities: $23,425 million
+- Total Equity: $15,145 million
+
+**As of March 31, 2022:**
+- Total Assets: $32,812 million
+- Total Liabilities: $22,994 million
+- Total Equity: $9,613 million
+
+**Key Changes:**
+- Total Assets decreased by $5,962 million.
+- Total Liabilities decreased by $431 million.
+- Total Equity decreased by $5,532 million.
+
+**Current Assets (Comparison):**
+- Cash and Cash Equivalents: Decreased from $4,295 million to $4,184 million.
+- Accounts Receivable: Increased from $2,439 million to $2,476 million.
+- Total Current Assets: Decreased from $8,819 million to $8,665 million.
+
+**Long-term Debt:**
+- Remained relatively stable, with a slight decrease from $9,276 million to $9,273 million.
+
+This summary provides a snapshot of Uber's financial position at the end of the specified periods.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Operations (Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021**
+- Revenue: $2,903 million
+- Total Costs and Expenses: $4,427 million
+- Loss from Operations: $(1,524) million
+- Interest Expense: $(115) million
+- Other Income (Expense), Net: $1,710 million
+- Income (Loss) Before Income Taxes: $71 million
+- Provision for Income Taxes: $185 million
+- Income (Loss) from Equity Method Investments: $(8) million
+- Net Loss: $(122) million
+- Net Loss Attributable to Uber Technologies, Inc.: $(108) million
+- Net Loss Per Share (Basic): $(0.06)
+- Weighted-Average Shares (Basic): 1,858,525
+
+- **2022**
+- Revenue: $6,854 million
+- Total Costs and Expenses: $7,336 million
+- Loss from Operations: $(482) million
+- Interest Expense: $(129) million
+- Other Income (Expense), Net: $(5,557) million
+- Income (Loss) Before Income Taxes: $(6,168) million
+- Provision for Income Taxes: $(232) million
+- Income (Loss) from Equity Method Investments: $18 million
+- Net Loss: $(5,918) million
+- Net Loss Attributable to Uber Technologies, Inc.: $(5,930) million
+- Net Loss Per Share (Basic): $(3.03)
+- Weighted-Average Shares (Basic): 1,953,989
+
+This summary provides a snapshot of Uber's financial performance for the specified quarters, highlighting revenue, expenses, losses, and per-share metrics.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Comprehensive Income (Loss)**
+
+**(In millions) (Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021:**
+- Net loss including non-controlling interests: $(122)
+- Other comprehensive income, net of tax:
+- Change in foreign currency translation adjustment: $33
+- Change in unrealized gain on investments in available-for-sale securities: $1,156
+- Other comprehensive income, net of tax: $1,189
+- Comprehensive income (loss) including non-controlling interests: $1,067
+- Less: comprehensive income (loss) attributable to non-controlling interests: $(14)
+- Comprehensive income (loss) attributable to Uber Technologies, Inc.: $1,081
+
+- **2022:**
+- Net loss including non-controlling interests: $(5,918)
+- Other comprehensive income, net of tax:
+- Change in foreign currency translation adjustment: $19
+- Change in unrealized gain on investments in available-for-sale securities: $0
+- Other comprehensive income, net of tax: $19
+- Comprehensive income (loss) including non-controlling interests: $(5,899)
+- Less: comprehensive income (loss) attributable to non-controlling interests: $12
+- Comprehensive income (loss) attributable to Uber Technologies, Inc.: $(5,911)
+
+**Note:** The accompanying notes are an integral part of these condensed consolidated financial statements.
+The provided text is a portion of the condensed consolidated statements of redeemable non-controlling interests and equity for Uber Technologies, Inc. as of March 31, 2021. It includes financial data such as balances, stock transactions, and adjustments related to equity and non-controlling interests.
+
+Key figures from the statement include:
+
+- Balance as of December 31, 2020:
+- Redeemable Non-Controlling Interests: $787 million
+- Common Stock: 1,849,794 shares
+- Additional Paid-In Capital: $35,931 million
+- Accumulated Other Comprehensive Income (Loss): $(535) million
+- Accumulated Deficit: $(23,130) million
+- Redeemable Non-Controlling Interests: $701 million
+- Total Equity: $12,967 million
+
+- Balance as of March 31, 2021:
+- Redeemable Non-Controlling Interests: $473 million
+- Common Stock: 1,867,369 shares
+- Additional Paid-In Capital: $36,182 million
+- Accumulated Other Comprehensive Income: $654 million
+- Accumulated Deficit: $(23,238) million
+- Total Equity: $13,598 million
+
+The statement also details various transactions affecting equity, such as stock options exercised, stock-based compensation, and adjustments for unrealized gains and losses.
+The document contains the condensed consolidated statements of redeemable non-controlling interests and equity for Uber Technologies, Inc. as of March 31, 2022. Here are the key details:
+
+- **Balance as of December 31, 2021**:
+- Redeemable Non-Controlling Interests: $204 million
+- Common Stock: 1,949,316 shares
+- Additional Paid-In Capital: $38,608 million
+- Other Comprehensive Income (Loss): $(524) million
+- Accumulated Deficit: $(23,626) million
+- Non-Controlling Interests: $687 million
+- Total Equity: $15,145 million
+
+- **Changes during the quarter**:
+- Exercise of stock options: 1,093 shares, $6 million increase in Additional Paid-In Capital
+- Stock-based compensation: $369 million increase in Additional Paid-In Capital
+- Issuance of common stock for RSUs: 9,569 shares, no impact on equity
+- Shares withheld for net share settlement: $(11) million decrease in Additional Paid-In Capital
+- Issuance of common stock for contingent consideration: 132 shares, $5 million increase in Additional Paid-In Capital
+- Foreign currency translation adjustment: $19 million increase in Other Comprehensive Income
+- Net loss: $(5,920) million (including $1 million from redeemable non-controlling interests)
+
+- **Balance as of March 31, 2022**:
+- Redeemable Non-Controlling Interests: $205 million
+- Common Stock: 1,959,794 shares
+- Additional Paid-In Capital: $38,977 million
+- Other Comprehensive Income (Loss): $(505) million
+- Accumulated Deficit: $(29,556) million
+- Non-Controlling Interests: $697 million
+- Total Equity: $9,613 million
+
+This summary provides an overview of the changes in equity and the financial position of Uber Technologies, Inc. for the specified quarter.
+**Uber Technologies, Inc. Condensed Consolidated Statements of Cash Flows (In millions, Unaudited)**
+
+**Three Months Ended March 31:**
+- **2021**:
+- Net loss including non-controlling interests: $(122)
+- Net cash provided by (used in) operating activities: $(611)
+- Net cash used in investing activities: $(250)
+- Net cash used in financing activities: $(226)
+- Effect of exchange rate changes: $(46)
+
+- **2022**:
+- Net loss including non-controlling interests: $(5,918)
+- Net cash provided by (used in) operating activities: $15
+- Net cash used in investing activities: $(135)
+- Net cash used in financing activities: $(113)
+- Effect of exchange rate changes: $20
+
+This summary provides a snapshot of Uber's cash flows from operating, investing, and financing activities for the specified quarters.
+The provided text includes financial information related to Uber Technologies, Inc.'s cash and cash equivalents, as well as supplemental disclosures regarding cash flow. Here are the key points:
+
+1. **Net Decrease in Cash and Cash Equivalents**:
+- Current period: $(1,133)
+- Previous period: $(213)
+
+2. **Cash and Cash Equivalents, and Restricted Cash**:
+- Beginning of period: $7,391 (current) and $7,805 (previous)
+- Reclassification from assets held for sale: $349 (current) and $0 (previous)
+- End of period: $6,607 (current) and $7,592 (previous)
+
+3. **Reconciliation to Condensed Consolidated Balance Sheets**:
+- Cash and cash equivalents: $4,836 (current) and $4,184 (previous)
+- Restricted cash and cash equivalents (current): $247 (current) and $543 (previous)
+- Restricted cash and cash equivalents (non-current): $1,524 (current) and $2,865 (previous)
+- Total: $6,607 (current) and $7,592 (previous)
+
+4. **Supplemental Disclosures of Cash Flow Information**:
+- Cash paid for interest (net of amount capitalized): $84 (current) and $135 (previous)
+- Cash paid for income taxes (net of refunds): $22 (current) and $41 (previous)
+- Non-cash investing and financing activities:
+- Finance lease obligations: $21 (current) and $46 (previous)
+- Right-of-use assets obtained in exchange for lease obligations: $45 (current) and $132 (previous)
+- Ownership interest received in exchange for divestiture: $1,018 (current) and $0 (previous)
+- Conversion of convertible notes to common stock: $158 (current) and $0 (previous)
+
+This summary captures the essential financial data regarding cash flow and equivalents for the specified periods.
+**Note 1 – Description of Business and Summary of Significant Accounting Policies**
+
+**Description of Business**
+Uber Technologies, Inc. (“Uber”) was incorporated in Delaware in July 2010 and is headquartered in San Francisco, California. Uber operates a technology platform that connects consumers (Riders) with independent ride service providers (Mobility Drivers) for ridesharing, and connects Riders and other consumers (Eaters) with restaurants and stores (Merchants) through delivery service providers (Couriers). Uber also connects consumers with public transportation networks and facilitates connections in the freight industry. The technology is utilized globally, primarily in the U.S., Canada, Latin America, Europe, the Middle East, Africa, and Asia (excluding China and Southeast Asia).
+
+**Basis of Presentation**
+The unaudited condensed consolidated financial statements are prepared in accordance with GAAP and SEC regulations for interim financial reporting. The balance sheet as of December 31, 2021, is derived from audited financial statements. Certain disclosures may be condensed or omitted, and results for interim periods may not indicate full-year results. Management believes the financial statements include all necessary adjustments for a fair presentation.
+
+**Basis of Consolidation**
+The financial statements include accounts of Uber Technologies, Inc. and entities consolidated under variable interest and voting models, with all intercompany balances and transactions eliminated.
+
+**Use of Estimates**
+Preparing the financial statements requires management to make estimates and assumptions affecting reported amounts. These estimates, based on historical experience and reasonable assumptions, include fair values of investments, useful lives of assets, impairment assessments, stock-based compensation, and tax reserves. The COVID-19 pandemic has introduced uncertainties that may affect these estimates in future periods.
+**1. What impact has COVID-19 had on Uber's business?**
+
+COVID-19 has adversely impacted Uber's business by reducing global demand for Mobility offerings while accelerating the growth of Delivery offerings. The pandemic has created uncertainty regarding its cumulative and ultimate impact on Uber's future operations, financial position, liquidity, and cash flows.
+
+**2. What accounting standard did Uber adopt in January 2022?**
+
+Uber adopted ASU 2021-10, “Government Assistance (Topic 832): Disclosures by Business Entities about Government Assistance,” on January 1, 2022. This standard requires disclosures about transactions with a government accounted for by applying a grant or contribution accounting model by analogy.
+
+**3. What is the effective date for the recently issued ASU 2021-08?**
+
+The ASU 2021-08, “Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers,” is effective for public companies for fiscal years and interim periods beginning after December 15, 2022.
+
+**4. How did Uber's total revenue change from Q1 2021 to Q1 2022?**
+
+Uber's total revenue increased from $2,903 million in Q1 2021 to $6,854 million in Q1 2022.
+
+**5. What were the revenue figures for Mobility and Delivery in Q1 2022?**
+
+In Q1 2022, Mobility revenue was $2,518 million, and Delivery revenue was $2,512 million.
+The document provides a detailed overview of Uber Technologies, Inc.'s financial performance for the first quarter of 2022, including revenue recognition policies for mobility, delivery, and freight services. Here are the key points:
+
+1. **Mobility Services Revenue**:
+- Uber recognizes revenue from end-users on a gross basis in markets where it is responsible for providing mobility services. Revenue is recognized when a trip is completed.
+- Payments to drivers are recorded as cost of revenue, excluding depreciation and amortization.
+
+2. **Delivery Revenue**:
+- Revenue is derived from merchants and couriers using the delivery platform. In certain markets, delivery fees charged to end-users are included in revenue.
+- For the three months ended March 31, 2021, and 2022, revenue from end-users was $88 million and $241 million, respectively. Cost of revenue for these transactions was $339 million and $740 million for the same periods.
+
+3. **Freight Revenue**:
+- This includes revenue from freight transportation services and transportation management following the acquisition of Tupelo Parent, Inc. (Transplace).
+
+4. **All Other Revenue**:
+- Prior to 2022, this primarily included collaboration revenue from the Advanced Technologies Group and revenue from New Mobility offerings.
+
+5. **Contract Balances**:
+- As of March 31, 2022, Uber had $155 million in contract liabilities. Revenue recognized from these contracts was not material for the three months ended March 31, 2021, and 2022.
+- Remaining performance obligations for contracts with an expected length greater than one year are expected to be recognized as $25 million within 12 months and $121 million beyond 12 months, totaling $146 million.
+
+6. **Investments**:
+- As of March 31, 2022, Uber's investments included non-marketable equity securities valued at $306 million and marketable equity securities with significant decreases in value for companies like Didi, Grab, and Aurora compared to December 31, 2021.
+- Total investments decreased from $11,806 million as of December 31, 2021, to $6,247 million as of March 31, 2022.
+
+This summary encapsulates the financial performance and key metrics from the quarterly report.
+The document provides a detailed overview of Uber Technologies, Inc.'s financial assets and liabilities measured at fair value on a recurring basis as of December 31, 2021, and March 31, 2022. It categorizes these assets and liabilities into three levels based on the fair value hierarchy:
+
+1. **Financial Assets**:
+- **Non-marketable equity securities**:
+- As of December 31, 2021: $32 million (Level 3)
+- As of March 31, 2022: $21 million (Level 3)
+- **Marketable equity securities**:
+- As of December 31, 2021: $11,359 million (Level 1)
+- As of March 31, 2022: $5,811 million (Level 1)
+- **Note receivable from a related party**:
+- As of December 31, 2021: $132 million (Level 3)
+- As of March 31, 2022: $130 million (Level 3)
+
+**Total Financial Assets**:
+- As of December 31, 2021: $11,523 million
+- As of March 31, 2022: $5,962 million
+
+2. **Financial Liabilities**:
+- **MLU B.V. Call Option**:
+- As of December 31, 2021: $193 million (Level 3)
+- As of March 31, 2022: $12 million (Level 3)
+
+**Total Financial Liabilities**:
+- As of December 31, 2021: $193 million
+- As of March 31, 2022: $12 million
+
+The document also discusses the valuation techniques used for Level 3 inputs, which include unobservable inputs and estimation techniques due to the lack of quoted market prices. It highlights the sensitivity of fair value estimates to changes in these inputs, particularly in relation to the investee's financing activities.
+
+Additionally, a reconciliation of Level 3 financial assets and liabilities as of March 31, 2022, shows changes in fair value, with non-marketable equity securities decreasing by $11 million, note receivables decreasing by $2 million, and the MLU B.V. Call Option decreasing by $181 million.
+The document provides detailed information about Uber Technologies, Inc.'s non-financial assets and equity method investments as of March 31, 2022. Here are the key points:
+
+1. **Non-Financial Assets**:
+- Goodwill, intangible assets, and property and equipment are adjusted to fair value when an impairment charge is recognized, primarily using Level 3 inputs.
+
+2. **Non-Marketable Equity Securities**:
+- These are investments in privately held companies without readily determinable fair values.
+- The carrying value is adjusted based on observable transactions or for impairment, recorded in other income (expense), net.
+- No material unrealized or realized gains or losses were recorded for these securities during the three months ended March 31, 2021, and 2022.
+- The total carrying value of non-marketable equity securities as of March 31, 2022, was $285 million, up from $283 million as of December 31, 2021.
+
+3. **Equity Method Investments**:
+- The carrying value of equity method investments decreased from $800 million as of December 31, 2021, to $624 million as of March 31, 2022.
+- The significant change was due to an impairment charge of $182 million for the investment in MLU B.V., attributed to economic projections related to the Russian economy amid geopolitical tensions.
+- The carrying value of MLU B.V. was $574 million as of March 31, 2022, down from $751 million as of December 31, 2021.
+
+4. **MLU B.V. Basis Difference**:
+- The carrying value includes a basis difference, adjusted for share in income or losses and amortization.
+- Currency translation adjustments due to the depreciation of the Ruble against the U.S. Dollar will be reflected in future financial statements.
+
+This summary encapsulates the financial adjustments and valuations related to Uber's non-financial and equity method investments as of the specified date.
+The table below summarizes the composition of the basis difference as of March 31, 2022 (in millions):
+
+- Equity method goodwill: $320
+- Intangible assets, net of accumulated amortization: $48
+- Deferred tax liabilities: $(13)
+- Cumulative currency translation adjustments: $(70)
+
+**Total Basis Difference:** $285 million
+
+**Amortization Details:**
+- The basis difference related to intangible assets is amortized over an estimated useful life of approximately 3.1 years using the straight-line method.
+- Equity method goodwill is not amortized.
+
+**MLU B.V. Call Option:**
+- On August 30, 2021, Uber granted Yandex an option to acquire its remaining equity interest in MLU B.V. for approximately $1.8 billion.
+- As of December 31, 2021, the fair value of the MLU B.V. Call Option was $193 million.
+- As of March 31, 2022, the fair value decreased to $12 million, reflecting a $181 million gain for the fair value change during the quarter.
+
+**Goodwill Changes:**
+The following table presents the changes in the carrying value of goodwill by reportable segment for the three months ended March 31, 2022 (in millions):
+
+| Segment   | Mobility | Delivery | Freight | Total Goodwill |
+|-----------|----------|----------|---------|-----------------|
+| Balance as of December 31, 2021 | $2,581   | $4,401   | $1,438  | $8,420          |
+| Acquisitions | $64      | —        | —       | $64             |
+| Measurement period adjustment | —        | —        | $5      | $5              |
+| Foreign currency translation adjustment | $(56)   | $2      | —       | $(54)           |
+| **Balance as of March 31, 2022** | **$2,589** | **$4,403** | **$1,443** | **$8,435**      |
+The report provides details on Uber Technologies, Inc.'s intangible assets as of December 31, 2021, and March 31, 2022. Here are the key points:
+
+### Intangible Assets Overview
+
+#### As of December 31, 2021:
+- **Total Gross Carrying Value**: $3,032 million
+- **Total Accumulated Amortization**: $(620) million
+- **Net Carrying Value**: $2,412 million
+
+#### Breakdown:
+- **Consumer, Merchant and other relationships**:
+- Gross: $1,868 million
+- Accumulated Amortization: $(294) million
+- Net: $1,574 million
+- Useful Life: 9 years
+- **Developed technology**:
+- Gross: $922 million
+- Accumulated Amortization: $(269) million
+- Net: $653 million
+- Useful Life: 5 years
+- **Trade names and trademarks**:
+- Gross: $222 million
+- Accumulated Amortization: $(47) million
+- Net: $175 million
+- Useful Life: 6 years
+- **Patents**:
+- Gross: $15 million
+- Accumulated Amortization: $(7) million
+- Net: $8 million
+- Useful Life: 7 years
+- **Other**:
+- Gross: $5 million
+- Accumulated Amortization: $(3) million
+- Net: $2 million
+- Useful Life: 0 years
+
+#### As of March 31, 2022:
+- **Total Gross Carrying Value**: $3,022 million
+- **Total Accumulated Amortization**: $(753) million
+- **Net Carrying Value**: $2,269 million
+
+#### Breakdown:
+- **Consumer, Merchant and other relationships**:
+- Gross: $1,856 million
+- Accumulated Amortization: $(362) million
+- Net: $1,494 million
+- Useful Life: 9 years
+- **Developed technology**:
+- Gross: $924 million
+- Accumulated Amortization: $(325) million
+- Net: $599 million
+- Useful Life: 5 years
+- **Trade names and trademarks**:
+- Gross: $222 million
+- Accumulated Amortization: $(55) million
+- Net: $167 million
+- Useful Life: 6 years
+- **Patents**:
+- Gross: $15 million
+- Accumulated Amortization: $(8) million
+- Net: $7 million
+- Useful Life: 6 years
+- **Other**:
+- Gross: $5 million
+- Accumulated Amortization: $(3) million
+- Net: $2 million
+- Useful Life: 0 years
+
+### Amortization Expense
+- **For the three months ended March 31, 2021**: $92 million
+- **For the three months ended March 31, 2022**: $144 million
+
+### Estimated Future Amortization Expense (as of March 31, 2022):
+- **Remainder of 2022**: $381 million
+- **2023**: $363 million
+- **2024**: $306 million
+- **2025**: $266 million
+- **2026**: $203 million
+- **Thereafter**: $748 million
+- **Total**: $2,267 million
+
+This summary encapsulates the key financial data regarding Uber's intangible assets and their amortization.
+**Note 6 – Long-Term Debt and Revolving Credit Arrangements**
+
+**Components of Debt (in millions, except for percentages):**
+
+| Debt Component                          | As of December 31, 2021 | As of March 31, 2022 | Effective Interest Rates | Maturities            |
+|-----------------------------------------|--------------------------|-----------------------|-------------------------|-----------------------|
+| 2025 Refinanced Term Loan               | $1,448                   | $1,444                | 3.8%                    | April 4, 2025         |
+| 2027 Refinanced Term Loan               | $1,090                   | $1,087                | 3.8%                    | February 25, 2027     |
+| 2025 Senior Note                        | $1,000                   | $1,000                | 7.7%                    | May 15, 2025          |
+| 2026 Senior Note                        | $1,500                   | $1,500                | 8.1%                    | November 1, 2026      |
+| 2027 Senior Note                        | $1,200                   | $1,200                | 7.7%                    | September 15, 2027    |
+| 2028 Senior Note                        | $500                     | $500                  | 7.0%                    | January 15, 2028      |
+| 2029 Senior Note                        | $1,500                   | $1,500                | 4.7%                    | August 15, 2029       |
+| 2025 Convertible Notes                  | $1,150                   | $1,150                | 0.2%                    | December 15, 2025     |
+| **Total Debt**                         | **$9,388**               | **$9,381**            |                         |                       |
+| Less: unamortized discount and issuance costs | $(85)                | $(81)                 |                         |                       |
+| Less: current portion of long-term debt | $(27)                   | $(27)                 |                         |                       |
+| **Total Long-Term Debt**               | **$9,276**               | **$9,273**            |                         |                       |
+
+**2016 and 2018 Senior Secured Term Loans Refinancing:**
+On February 25, 2021, Uber entered into a refinancing transaction borrowing $2.6 billion to repay all outstanding loans under the 2016 and 2018 Senior Secured Term Loan agreements. This included a $1.1 billion tranche maturing on February 25, 2027, and a $1.5 billion tranche maturing on April 4, 2025. The refinancing qualified as a debt modification.
+
+The 2025 and 2027 Refinanced Term Loans are guaranteed by certain material domestic restricted subsidiaries and contain covenants restricting debt incurrence and fundamental changes. As of March 31, 2022, Uber was in compliance with all covenants. The loans are secured by certain intellectual property and equity of material foreign subsidiaries.
+
+**Fair Values (as of March 31, 2022):**
+- 2025 Refinanced Term Loan: $1.4 billion
+- 2027 Refinanced Term Loan: $1.1 billion
+
+**2025 Convertible Notes:**
+In December 2020, Uber issued $1.15 billion of 0% convertible senior notes due December 15, 2025. Holders may convert their notes under specific conditions prior to maturity.
+As of March 31, 2022, the 2025 Convertible Notes are classified as long-term since none of the conditions for early conversion had been met. The initial conversion rate is 12.3701 shares per $1,000 principal amount, equating to a conversion price of approximately $80.84 per share. Upon conversion, Uber may pay in cash, shares, or a combination of both. The notes cannot be redeemed before December 20, 2023, and can be redeemed for cash if certain stock price conditions are met.
+
+The indenture for the 2025 Convertible Notes does not impose financial or operational restrictions. Prior to adopting ASU 2020-06, proceeds from the notes were split between equity and liability components, with a $243 million debt discount amortized over the term. After adopting ASU 2020-06 on January 1, 2021, the accounting treatment changed, resulting in a decrease in additional paid-in capital and an increase in the notes by the same amount.
+
+The fair value of the 2025 Convertible Notes was $1.0 billion as of March 31, 2022, based on Level 2 valuation inputs.
+
+Regarding the Senior Notes (2025-2029), they are guaranteed by certain subsidiaries and have customary covenants. As of March 31, 2022, the fair values of the Senior Notes were as follows (in millions):
+
+- 2025 Senior Note: $1,044
+- 2026 Senior Note: $1,595
+- 2027 Senior Note: $1,281
+- 2028 Senior Note: $516
+- 2029 Senior Note: $1,410
+
+Total fair value of Senior Notes: $5,846 million.
+The table presents the interest expense related to Uber's long-term debt for the three months ended March 31, 2021, and 2022:
+
+| Description                                           | Three Months Ended March 31, 2021 | Three Months Ended March 31, 2022 |
+|------------------------------------------------------|------------------------------------|------------------------------------|
+| Contractual interest coupon                           | $111 million                       | $133 million                       |
+| Amortization of debt discount and issuance costs      | $7 million                         | $4 million                         |
+| **Total interest expense from long-term debt**       | **$118 million**                   | **$137 million**                   |
+
+Regarding the Revolving Credit Arrangements, Uber has a credit agreement for $2.3 billion maturing on June 13, 2023, which was amended on April 4, 2022, to extend the maturity to April 4, 2027, and to change the interest rate basis from LIBOR to SOFR, among other modifications. As of March 31, 2022, there was no outstanding balance on the Revolving Credit Facility.
+
+For Letters of Credit, as of December 31, 2021, and March 31, 2022, Uber had outstanding letters of credit of $749 million and $741 million, respectively, with reductions to available credit under the Revolving Credit Facility of $247 million and $239 million, respectively.
+### Supplemental Financial Statement Information
+
+#### Prepaid Expenses and Other Current Assets
+- **As of December 31, 2021**:
+- Prepaid expenses: $459 million
+- Other receivables: $553 million
+- Other: $442 million
+- **Total**: $1,454 million
+
+- **As of March 31, 2022**:
+- Prepaid expenses: $355 million
+- Other receivables: $615 million
+- Other: $492 million
+- **Total**: $1,462 million
+
+#### Accrued and Other Current Liabilities
+- **As of December 31, 2021**:
+- Accrued legal, regulatory and non-income taxes: $2,187 million
+- Accrued Drivers and Merchants liability: $1,187 million
+- Income and other tax liabilities: $376 million
+- Commitment to issue unsecured convertible notes in connection with Careem acquisition: $238 million
+- Other: $2,549 million
+- **Total**: $6,537 million
+
+- **As of March 31, 2022**:
+- Accrued legal, regulatory and non-income taxes: $2,066 million
+- Accrued Drivers and Merchants liability: $1,222 million
+- Income and other tax liabilities: $393 million
+- Commitment to issue unsecured convertible notes in connection with Careem acquisition: $234 million
+- Other: $2,251 million
+- **Total**: $6,166 million
+
+#### Other Long-Term Liabilities
+- **As of December 31, 2021**:
+- Deferred tax liabilities: $365 million
+- Other: $570 million
+- **Total**: $935 million
+
+- **As of March 31, 2022**:
+- Deferred tax liabilities: $91 million
+- Other: $588 million
+- **Total**: $679 million
+
+#### Accumulated Other Comprehensive Income (Loss)
+- **Balance as of December 31, 2020**:
+- Foreign Currency Translation Adjustments: $(581) million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $46 million
+- **Total**: $(535) million
+
+- **Other comprehensive income (loss) before reclassifications**:
+- Foreign Currency Translation Adjustments: $33 million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $1,156 million
+- **Total**: $1,189 million
+
+- **Balance as of March 31, 2021**:
+- Foreign Currency Translation Adjustments: $(548) million
+- Unrealized Gains on Available-for-Sale Securities, Net of Tax: $1,202 million
+- **Total**: $654 million
+
+This summary provides a concise overview of the financial information related to prepaid expenses, accrued liabilities, long-term liabilities, and accumulated other comprehensive income for the specified periods.
+The provided text includes financial information related to Uber Technologies, Inc. for the three months ended March 31, 2022, and compares it to the same period in 2021. Here are the key points:
+
+1. **Unrealized Gains (Losses)**:
+- As of December 31, 2021, the balance was $(524) million.
+- Other comprehensive income (loss) before reclassifications for the first quarter of 2022 was $19 million.
+- The balance as of March 31, 2022, was $(505) million.
+
+2. **Other Income (Expense), Net**:
+- **Three Months Ended March 31, 2021**:
+- Interest income: $5 million
+- Foreign currency exchange losses: $(25) million
+- Gain on business divestiture: $1,684 million
+- Unrealized gain on debt and equity securities: $63 million
+- Other income (expense), net: $1,710 million
+- **Three Months Ended March 31, 2022**:
+- Interest income: $11 million
+- Foreign currency exchange gains: $10 million
+- Gain on business divestiture: $0 million
+- Unrealized loss on debt and equity securities: $(5,570) million
+- Impairment of equity method investment: $(182) million
+- Other income (expense), net: $(5,557) million
+
+3. **Significant Changes**:
+- The most notable change was the significant unrealized loss on debt and equity securities in 2022, primarily due to losses on investments in Grab, Aurora, Didi, and Zomato.
+- There was a substantial decrease in other income (expense), net from $1,710 million in 2021 to $(5,557) million in 2022, largely due to the absence of a gain on business divestiture and the unrealized losses.
+
+This summary captures the essential financial data and changes in performance for Uber Technologies, Inc. during the specified periods.
+**Note 8 – Stockholders' Equity**
+
+**Equity Compensation Plans**
+Uber maintains four equity compensation plans for issuing shares of common stock to officers, employees, directors, and consultants: the 2010 Stock Plan, the 2013 Equity Incentive Plan, the 2019 Equity Incentive Plan, and the 2019 Employee Stock Purchase Plan (ESPP). After the IPO in 2019, only the 2019 Plan and ESPP have been utilized for awards, with no further awards granted under the 2010 and 2013 Plans. These plans allow for various types of awards, including incentive stock options (ISOs), nonqualified stock options (NSOs), stock appreciation rights (SARs), restricted stock awards, restricted stock units (RSUs), and performance-based awards.
+
+**Stock Option and SAR Activity**
+For the three months ended March 31, 2022, the summary of stock option and SAR activity is as follows (in millions, except share amounts which are in thousands):
+
+- **As of December 31, 2021**:
+- SARs Outstanding: 157
+- Options Outstanding: 24,253
+- Weighted-Average Exercise Price: $11.84
+- Remaining Contractual Life: 4.35 years
+- Aggregate Intrinsic Value: $735 million
+
+- **Granted**:
+- SARs: 4
+- Options: 421
+- Exercise Price: $33.89
+
+- **Exercised**:
+- SARs: (3)
+- Options: (999)
+- Exercise Price: $5.20
+
+- **Canceled and forfeited**:
+- SARs: —
+- Options: (88)
+- Exercise Price: $14.17
+
+- **As of March 31, 2022**:
+- SARs Outstanding: 158
+- Options Outstanding: 23,587
+- Weighted-Average Exercise Price: $12.51
+- Remaining Contractual Life: 4.10 years
+- Aggregate Intrinsic Value: $558 million
+
+- **Vested and expected to vest as of March 31, 2022**:
+- SARs: 141
+- Options: 17,045
+- Weighted-Average Exercise Price: $8.31
+- Remaining Contractual Life: 3.36 years
+- Aggregate Intrinsic Value: $473 million
+
+- **Exercisable as of March 31, 2022**:
+- SARs: 141
+- Options: 17,045
+- Weighted-Average Exercise Price: $8.31
+- Remaining Contractual Life: 3.36 years
+- Aggregate Intrinsic Value: $473 million
+
+**RSU Activity**
+The RSU activity for the three months ended March 31, 2022, is summarized as follows (in thousands, except per share amounts):
+
+- **Unvested and outstanding as of December 31, 2021**: 71,461 shares at a weighted-average grant-date fair value of $41.91
+- **Granted**: 59,266 shares at a weighted-average grant-date fair value of $33.65
+- **Vested**: (9,699) shares at a weighted-average grant-date fair value of $39.24
+- **Canceled and forfeited**: (4,073) shares at a weighted-average grant-date fair value of $39.87
+- **Unvested and outstanding as of March 31, 2022**: 116,955 shares at a weighted-average grant-date fair value of $37.99
+
+**Stock-Based Compensation Expense**
+The stock-based compensation expense by function for the three months ended March 31 is as follows (in millions):
+
+- **2021**:
+- Operations and support: $28
+- Sales and marketing: $22
+- Research and development: $133
+- General and administrative: $98
+- **Total**: $281
+
+- **2022**:
+- Operations and support: $33
+- Sales and marketing: $22
+- Research and development: $196
+- General and administrative: $108
+- **Total**: $359
+
+As of March 31, 2022, there was $4.5 billion of unamortized compensation costs related to all unvested awards, expected to be recognized over a weighted-average period of approximately 2.91 years.
+The document provides a detailed overview of Uber Technologies, Inc.'s income tax expenses and net income (loss) per share for the three months ended March 31, 2021, and 2022.
+
+1. **Income Tax Expense**:
+- For the three months ended March 31, 2021, the income tax expense was $185 million, primarily due to current tax on foreign earnings and deferred U.S. tax impacts related to the sale of the ATG Business, offset by U.S. losses.
+- For the same period in 2022, there was an income tax benefit of $(232) million, mainly driven by deferred U.S. tax impacts related to investments in companies like Grab, Aurora, Didi, and Zomato, along with U.S. losses, offset by current tax on foreign earnings.
+
+2. **Unrecognized Tax Benefits**:
+- In the three months ended March 31, 2022, the gross unrecognized tax benefits increased by an immaterial amount, which would not affect the effective tax rate due to a valuation allowance against certain deferred tax assets.
+
+3. **Tax Jurisdictions**:
+- Uber is subject to taxation in the U.S. and various foreign jurisdictions, with tax years from 2004 to 2022 remaining open for examination.
+
+4. **Net Income (Loss) Per Share**:
+- Basic net loss per share is calculated by dividing the net loss by the weighted-average number of common shares outstanding. Diluted net loss per share includes the effect of potential dilutive common stock.
+
+This summary encapsulates the key financial aspects related to income taxes and net income (loss) per share as reported by Uber Technologies, Inc. for the specified periods.
+The table presents the computation of basic and diluted net loss per share attributable to common stockholders for Uber Technologies, Inc. for the three months ended March 31, 2021, and March 31, 2022.
+
+### Basic Net Loss Per Share:
+- **Numerator:**
+- Net loss including non-controlling interests:
+- 2021: $(122) million
+- 2022: $(5,918) million
+- Net income (loss) attributable to non-controlling interests, net of tax:
+- 2021: $(14) million
+- 2022: $12 million
+- **Net loss attributable to common stockholders:**
+- 2021: $(108) million
+- 2022: $(5,930) million
+
+- **Denominator:**
+- Basic weighted-average common stock outstanding:
+- 2021: 1,858,525 thousand shares
+- 2022: 1,953,989 thousand shares
+
+- **Basic net loss per share attributable to common stockholders:**
+- 2021: $(0.06)
+- 2022: $(3.03)
+
+### Diluted Net Loss Per Share:
+- **Numerator:**
+- Net loss attributable to common stockholders:
+- 2021: $(108) million
+- 2022: $(5,930) million
+- Net loss attributable to Freight Holding convertible common shares non-controlling interest, net of tax:
+- 2021: $0
+- 2022: $(13) million
+- **Diluted net loss attributable to common stockholders:**
+- 2021: $(108) million
+- 2022: $(5,943) million
+
+- **Denominator:**
+- Number of shares used in basic net loss per share computation:
+- 2021: 1,858,525 thousand shares
+- 2022: 1,953,989 thousand shares
+- Weighted-average effect of potentially dilutive securities:
+- Assumed redemption of Freight Holding convertible common shares, non-controlling interest:
+- 2021: $0
+- 2022: 3,742 thousand shares
+- **Diluted weighted-average common stock outstanding:**
+- 2021: 1,858,525 thousand shares
+- 2022: 1,957,731 thousand shares
+
+- **Diluted net loss per share attributable to common stockholders:**
+- 2021: $(0.06)
+- 2022: $(3.04)
+
+### Potentially Dilutive Outstanding Securities Excluded from Computation:
+As of March 31:
+- Freight Holdings contingently redeemable preferred stock:
+- 2021: 13,586 thousand
+- 2022: 12,377 thousand
+- Convertible notes:
+- 2021: 22,013 thousand
+- 2022: 18,503 thousand
+- RSUs:
+- 2021: 82,146 thousand
+- 2022: 116,955 thousand
+- Stock options:
+- 2021: 26,073 thousand
+- 2022: 23,587 thousand
+- Common stock subject to repurchase:
+- 2021: 28 thousand
+- 2022: 3,767 thousand
+- Shares committed under ESPP:
+- 2021: 2,084 thousand
+- 2022: 3,361 thousand
+- Warrants to purchase common stock:
+- 2021: 126 thousand
+- 2022: 73 thousand
+
+**Total potentially dilutive outstanding securities:**
+- 2021: 146,056 thousand
+- 2022: 178,623 thousand
+**Segment Information and Geographic Information**
+
+Uber Technologies, Inc. has identified three operating and reportable segments as of the first quarter of 2022:
+
+1. **Mobility**: This segment connects consumers with drivers for rides in various vehicles, including cars, auto rickshaws, motorbikes, minibuses, and taxis. It also encompasses activities related to Financial Partnerships and Transit offerings.
+
+2. **Delivery**: This segment allows consumers to discover local restaurants, order meals, and choose between pick-up or delivery. In some markets, it also includes grocery, alcohol, and convenience store deliveries, along with other goods.
+
+3. **Freight**: This segment connects carriers with shippers, providing upfront pricing and booking capabilities. It also includes transportation management and logistics services.
+
+**Segment Adjusted EBITDA** is the primary performance measure used, defined as revenue minus specific expenses (cost of revenue, operations and support, sales and marketing, general and administrative, and research and development expenses). It excludes non-cash items or those not reflective of ongoing operations.
+
+**Segment Adjusted EBITDA for the Three Months Ended March 31:**
+
+| Segment   | 2021 (in millions) | 2022 (in millions) |
+|-----------|---------------------|---------------------|
+| Mobility  | $298                | $618                |
+| Delivery  | $(200)              | $30                 |
+| Freight   | $(29)               | $2                  |
+| All Other | $(11)               | $—                  |
+| **Total** | **$58**             | **$650**            |
+
+**Reconciliation to Loss from Operations:**
+
+| Item                                                                 | 2021 (in millions) | 2022 (in millions) |
+|----------------------------------------------------------------------|---------------------|---------------------|
+| Corporate G&A and Platform R&D (1), (2)                             | $(417)              | $(482)              |
+| Depreciation and amortization                                        | $(212)              | $(254)              |
+| Stock-based compensation expense                                       | $(281)              | $(359)              |
+| Legal, tax, and regulatory reserve changes and settlements            | $(551)              | $—                  |
+| Goodwill and asset impairments/loss on sale of assets                | $(57)               | $(13)               |
+| Acquisition, financing and divestitures related expenses              | $(36)               | $(14)               |
+| Accelerated lease costs related to cease-use of ROU assets           | $(2)                | $—                  |
+| COVID-19 response initiatives                                         | $(26)               | $(1)                |
+| Loss on lease arrangements, net                                       | $—                  | $(7)                |
+| Restructuring and related charges                                     | $—                  | $(2)                |
+| **Loss from operations**                                             | **$(1,524)**        | **$(482)**          |
+
+(1) Excluding stock-based compensation expense.
+(2) Includes costs not directly attributable to reportable segments, with shared costs like finance, accounting, tax, human resources, IT, and legal included. The allocation methodology is subject to periodic evaluation and may change.
+**Geographic Information: Revenue by Geography (in millions)**
+
+| Geographic Area         | Three Months Ended March 31, 2021 | Three Months Ended March 31, 2022 |
+|------------------------|------------------------------------|------------------------------------|
+| United States          | $1,683                             | $4,197                             |
+| All other countries     | $1,220                             | $2,657                             |
+| **Total Revenue**      | **$2,903**                        | **$6,854**                        |
+
+**Note 12 – Commitments and Contingencies: Contingencies**
+
+- As of December 31, 2021, and March 31, 2022, Uber recorded aggregate liabilities of $2.2 billion and $2.1 billion, respectively, with $1.3 billion related to non-income tax matters.
+- Legal and regulatory matters include claims related to independent contractor misclassification, Fair Credit Reporting Act claims, and various other employment-related claims.
+- The outcome of these legal matters is unpredictable, and if resolved against Uber for amounts exceeding management's expectations, it could materially affect the company's financial condition.
+
+**Driver Classification: California Attorney General Lawsuit**
+
+- California Assembly Bill 5 (AB5) went into effect in January 2020, establishing criteria for classifying workers as employees.
+- A lawsuit was filed against Uber and Lyft alleging misclassification of drivers, seeking an injunction and monetary damages.
+- A preliminary injunction was issued, but stayed pending appeal. The California Supreme Court declined to review the case, and the lawsuit returned to trial court after appellate proceedings.
+- Proposition 22, passed in November 2020, allows drivers to maintain independent contractor status under California law.
+The document discusses various legal challenges faced by Uber Technologies, Inc. regarding the classification of drivers as independent contractors versus employees. Key points include:
+
+1. **California Lawsuit**: The preliminary injunction related to claims by the California Attorney General was dissolved, but the lawsuit continues. A petition to stay the matter is in place, and the case remains stayed as to discovery.
+
+2. **Proposition 22**: A challenge to Proposition 22's constitutionality was filed, with a ruling from the Alameda County Superior Court declaring it unconstitutional. Appeals have been filed by the State of California and an intervening organization.
+
+3. **Massachusetts Attorney General Lawsuit**: A lawsuit was filed alleging that drivers are employees entitled to protections under wage and labor laws. Uber's motion to dismiss was denied, and a summary judgment motion is pending.
+
+4. **Swiss Social Security Reclassification**: Swiss authorities have classified drivers as employees for social security purposes, which Uber is challenging. A ruling on an appeal is expected in 2023.
+
+5. **UK Employment Tribunal Case**: A ruling upheld that drivers using the app in 2016 were classified as workers. Uber has since adjusted its treatment of drivers in the UK to comply with this ruling, including back pay and pension enrollment.
+
+6. **Other Legal Matters**: Uber anticipates further claims and inquiries regarding driver classification in various jurisdictions.
+
+The document indicates that while Uber is actively defending itself in these matters, the outcomes remain uncertain, and potential losses cannot be estimated.
+The document discusses various legal and tax matters affecting Uber Technologies, Inc. It highlights the unpredictability of litigation outcomes and their potential impact on the company's financial condition. Key points include:
+
+1. **State Unemployment Taxes**: Uber is involved in an audit by the New Jersey Department of Labor regarding the classification of Drivers as independent contractors or employees, with ongoing discussions about assessments made from 2014 to 2018.
+
+2. **Google v. Levandowski & Ron**: This section details arbitration claims made by Google against former employees for breach of contract and fraud. It mentions a significant financial award against Levandowski and a settlement involving Uber's indemnification obligations.
+
+3. **Non-Income Tax Matters**: Uber is under audit by various tax authorities concerning non-income tax liabilities, particularly related to transactions with Drivers and employee benefits. A significant issue involves the classification of Uber as a transportation provider in the UK, which could lead to VAT implications.
+
+4. **Estimated Liabilities**: The company has recorded estimated liabilities for these contingencies, acknowledging the complexity and uncertainty surrounding these legal and tax matters.
+
+Overall, the document emphasizes the potential financial and operational impacts of ongoing legal disputes and tax audits on Uber's business.
+The document discusses various legal and regulatory matters affecting Uber Technologies, Inc., including government inquiries related to compliance with laws such as antitrust, labor, and data protection. It highlights the potential impact of these investigations on the company's business and financial condition.
+
+Additionally, it covers indemnification provisions in business arrangements, indicating that Uber may be obligated to indemnify third parties for losses related to their activities. The document also explains the concept of Variable Interest Entities (VIEs), detailing how Uber consolidates VIEs where it is the primary beneficiary and the financial implications of these entities.
+
+Key points include:
+- Consolidated VIEs: Total assets of $4.2 billion and liabilities of $1.2 billion as of March 31, 2022.
+- Unconsolidated VIEs: Assets recognized of $605 million as of March 31, 2022, representing maximum exposure to loss.
+- Specific investments in companies like Lime and Moove, indicating Uber's economic interests and risks associated with these entities.
+The document discusses Uber Technologies, Inc.'s financial dealings and interests related to its subsidiary Moove and the divestiture of its ATG Business to Aurora.
+
+1. **Moove Investment**: Uber has a 30% minority interest in Moove, which includes a term loan of $213 million due in February 2026 and a commercial partnership agreement. Moove is now considered a related party due to these agreements.
+
+2. **Freight Holding**: As of the specified dates, Uber owned 78% of Freight Holding's capital stock, with minority stockholders including holders of preferred stock and employees with equity awards.
+
+3. **Divestiture of ATG Business**: The sale of the ATG Business to Aurora was completed on January 19, 2021. Uber received common shares valued at $1.3 billion and invested $400 million in Aurora. The sale did not qualify as a discontinued operation, and the gain on the sale was recorded as $1,644 million after accounting for various factors.
+
+4. **Financial Summary of ATG Sale**:
+- Fair value of common shares received: $1,277 million
+- Derecognition of non-controlling interests: $1,057 million
+- Liability for future obligations: $(315) million
+- Net consideration received: $2,019 million
+- Carrying value of net assets transferred: $(375) million
+- Gain on sale: $1,644 million
+
+This summary encapsulates the key financial transactions and their implications for Uber's financial reporting.
+The document is a quarterly report from Uber Technologies, Inc. that includes a management discussion and analysis of the company's financial condition and results of operations. It emphasizes the importance of reading this analysis alongside the condensed consolidated financial statements and other financial information provided in the report. The discussion contains forward-looking statements, which may differ from actual results due to various factors.
+
+Key points from the overview include:
+
+- Uber operates a technology platform that connects consumers with ride services, delivery services, and public transportation, as well as shippers with carriers in the freight industry.
+- The company is facing legal challenges regarding the classification of drivers as independent contractors versus employees, particularly in California and the UK.
+- Proposition 22, passed in California, provides a framework for independent work but is subject to ongoing legal challenges.
+- Uber has incurred and anticipates incurring additional expenses to comply with Proposition 22, but does not expect these changes to materially impact its business.
+- In the UK, a Supreme Court ruling classified drivers as "workers," leading to changes in compensation and benefits for drivers in that region.
+
+The report highlights the ongoing legal landscape affecting Uber's operations and the potential financial implications of these developments.
+The document provides a quarterly report for Uber Technologies, Inc., detailing financial and operational highlights for the first quarter of 2022 compared to the same period in 2021. Key metrics include:
+
+- **Monthly Active Platform Consumers (MAPCs)**: Increased from 98 million in Q1 2021 to 115 million in Q1 2022, reflecting a 17% growth year-over-year, despite a 3% decline quarter-over-quarter.
+- **Trips**: Rose from 1,447 million to 1,713 million, an 18% increase.
+- **Gross Bookings**: Increased significantly from $19,536 million to $26,449 million, a 35% rise (39% in constant currency).
+- **Revenue**: Jumped from $2,903 million to $6,854 million, a 136% increase (141% in constant currency).
+- **Net Loss**: Increased from a loss of $108 million to a loss of $5,930 million.
+- **Mobility Adjusted EBITDA**: Improved from $298 million to $618 million, a 107% increase.
+- **Delivery Adjusted EBITDA**: Shifted from a loss of $200 million to a profit of $30 million.
+- **Adjusted EBITDA**: Moved from a loss of $359 million to a profit of $168 million.
+- **Net Cash from Operating Activities**: Improved from a negative $611 million to a positive $15 million.
+- **Free Cash Flow**: Improved from a negative $682 million to a negative $47 million, a 93% improvement.
+
+The report also discusses potential impacts of legal classifications of drivers in the UK, which could lead to significant additional expenses and affect driver supply.
+**Key Financial Highlights from Uber's Q1 2022 Report:**
+
+1. **Gross Bookings:**
+- Total Gross Bookings: $26.4 billion (39% increase on a constant currency basis year-over-year).
+- Mobility Gross Bookings: Grew 62% year-over-year, driven by increased trip volumes.
+- Delivery Gross Bookings: Grew 15% year-over-year, with a 3% increase in global basket sizes.
+
+2. **Revenue:**
+- Total Revenue: $6.9 billion (up 136% year-over-year).
+- Take Rate: 25.9%.
+- Revenue growth attributed to:
+- $1.5 billion increase from the Freight business (acquisition of Transplace).
+- $200 million favorable impact from a change in accounting for the UK Mobility business.
+- A $600 million accrual reduction in Q1 2021 related to historical claims in the UK.
+
+3. **Net Loss:**
+- Net loss attributable to Uber: $5.9 billion.
+- Includes a pre-tax unrealized loss on debt and equity securities of $5.6 billion, with significant losses from investments in Grab, Aurora, Didi, and Zomato.
+- Stock-based compensation expense: $359 million.
+
+4. **Adjusted EBITDA:**
+- Adjusted EBITDA: $168 million (up $527 million year-over-year).
+- Mobility Adjusted EBITDA profit: $618 million (107% improvement year-over-year).
+- Delivery Adjusted EBITDA profit: $30 million (up $230 million from a loss of $200 million in Q1 2021).
+
+5. **Cash Position:**
+- Unrestricted cash and cash equivalents: $4.2 billion.
+
+**COVID-19 Impact and Response:**
+- The pandemic has significantly affected market conditions and demand for Mobility rides.
+- Uber has implemented safety measures, suspended shared Mobility offerings in most markets, and expanded delivery services.
+- The company is focused on liquidity preservation and cash flow management amid ongoing uncertainties related to COVID-19.
+
+This summary encapsulates the financial performance and strategic responses of Uber Technologies, Inc. during the first quarter of 2022.
+The document outlines the components of Uber Technologies, Inc.'s results of operations, focusing on revenue generation, cost of revenue, and various expense categories. Here are the key points:
+
+1. **Revenue**:
+- Uber generates revenue primarily from fees paid by Drivers and Merchants for using its platform.
+- The company acts as an agent in most transactions, recognizing revenue net of Driver and Merchant earnings and incentives.
+- In certain markets, Uber is responsible for providing mobility services, recognizing revenue on a gross basis when a trip is completed.
+
+2. **Cost of Revenue (Exclusive of Depreciation and Amortization)**:
+- This includes insurance costs, credit card processing fees, data center expenses, and payments to Drivers and Couriers.
+- Costs are expected to fluctuate with changes in Trip volume.
+
+3. **Operations and Support**:
+- Expenses consist of compensation for employees supporting operations, customer support costs, and Driver background checks.
+- As Trip volume increases post-COVID-19, these expenses are expected to rise in absolute terms but decrease as a percentage of revenue.
+
+4. **Sales and Marketing**:
+- This includes compensation for sales and marketing staff, advertising costs, and promotional expenditures.
+- Expenses are anticipated to increase in absolute terms but may vary as a percentage of revenue due to marketing campaign timing.
+
+5. **Research and Development**:
+- Expenses consist of compensation for engineering and product development staff and ongoing product improvements.
+- These expenses are expected to increase as Uber invests in R&D, though there may be a decrease in investments related to its ATG and Other Technology Programs following the sale of its ATG Business.
+
+Overall, the report indicates a focus on growth and efficiency as Uber navigates the recovery from the impacts of COVID-19.
+The text provides an overview of various financial components related to Uber Technologies, Inc.'s general and administrative expenses, depreciation and amortization, interest expense, other income (expense), provision for income taxes, and equity method investments.
+
+1. **General and Administrative Expenses**: These expenses include compensation for management and administrative staff, legal settlements, and corporate costs. They are expected to rise in absolute terms but decrease as a percentage of revenue as the company improves efficiency.
+
+2. **Depreciation and Amortization**: This includes costs related to physical assets and intangible assets. As the business recovers from COVID-19, these expenses are anticipated to increase due to infrastructure expansion.
+
+3. **Interest Expense**: Primarily related to the company's outstanding debt.
+
+4. **Other Income (Expense), Net**: This section includes various financial items such as interest income, foreign currency exchange gains/losses, gains from business divestitures, and unrealized gains/losses on securities.
+
+5. **Provision for Income Taxes**: The company is subject to varying tax rates based on domestic and foreign income, which affects its effective tax rate.
+
+6. **Equity Method Investments**: This includes the income or loss from the Yandex.Taxi joint venture.
+
+If you have specific questions about any of these sections or need further details, feel free to ask!
+The provided text summarizes the condensed consolidated statements of operations for Uber Technologies, Inc. for the three months ended March 31, 2021, and March 31, 2022. Here are the key financial figures:
+
+### Financial Summary (in millions)
+- **Revenue:**
+- 2021: $2,903
+- 2022: $6,854
+
+- **Costs and Expenses:**
+- Cost of revenue (exclusive of depreciation and amortization):
+- 2021: $1,710
+- 2022: $4,026
+- Operations and support:
+- 2021: $423
+- 2022: $574
+- Sales and marketing:
+- 2021: $1,103
+- 2022: $1,263
+- Research and development:
+- 2021: $515
+- 2022: $587
+- General and administrative:
+- 2021: $464
+- 2022: $632
+- Depreciation and amortization:
+- 2021: $212
+- 2022: $254
+
+- **Total Costs and Expenses:**
+- 2021: $4,427
+- 2022: $7,336
+
+- **Loss from Operations:**
+- 2021: $(1,524)
+- 2022: $(482)
+
+- **Net Loss Attributable to Uber Technologies, Inc.:**
+- 2021: $(108)
+- 2022: $(5,930)
+
+### Percentage of Revenue
+- **Total Costs and Expenses as a Percentage of Revenue:**
+- 2021: 152%
+- 2022: 107%
+
+- **Net Loss Attributable to Uber Technologies, Inc. as a Percentage of Revenue:**
+- 2021: (4)%
+- 2022: (87)%
+
+This summary highlights the significant increase in revenue from 2021 to 2022, alongside a notable increase in costs and expenses, leading to a larger net loss in 2022 compared to 2021.
+### Summary of Financial Performance for Uber Technologies, Inc. (Three Months Ended March 31, 2022 vs. 2021)
+
+#### Revenue
+- **2021**: $2,903 million
+- **2022**: $6,854 million
+- **% Change**: 136%
+- **Key Drivers**:
+- Increase in Gross Bookings by 35% (39% on a constant currency basis).
+- Recovery in Mobility Trip volumes post-COVID-19.
+- $1.5 billion increase in Freight revenue due to the acquisition of Transplace.
+- $304 million increase in Delivery revenue from higher Courier payments and incentives.
+- $200 million increase in Mobility revenue from business model changes in the UK.
+
+#### Cost of Revenue (Exclusive of Depreciation and Amortization)
+- **2021**: $1,710 million
+- **2022**: $4,026 million
+- **% Change**: 135%
+- **Percentage of Revenue**: 59% (remained constant)
+- **Key Drivers**:
+- $1.4 billion increase in Freight carrier payments and incentives.
+- $355 million increase in Courier payments and incentives.
+- $313 million increase in insurance expenses due to increased miles driven.
+- $160 million increase in Driver payments and incentives from UK business model changes.
+
+#### Operations and Support
+- **2021**: $423 million
+- **2022**: $574 million
+- **% Change**: 36%
+- **Percentage of Revenue**: 15% (decreased to 8%)
+- **Key Drivers**:
+- $87 million increase in employee headcount costs.
+- $35 million increase in external contractor expenses.
+- $5 million increase in stock-based compensation.
+
+#### Sales and Marketing
+- **2021**: $1,103 million
+- **2022**: $1,263 million
+- **% Change**: 15%
+- **Percentage of Revenue**: 38% (decreased to 18%)
+- **Key Drivers**:
+- $72 million increase in consumer advertising expenses.
+- Increase in consumer discounts and rider-facing loyalty expenses, totaling $649 million compared to $585 million in 2021.
+
+This analysis highlights significant growth in revenue and costs, reflecting the company's recovery and expansion efforts in various segments.
+### Financial Overview for Uber Technologies, Inc. (Three Months Ended March 31)
+
+#### Research and Development
+- **2021**: $515 million
+- **2022**: $587 million
+- **% Change**: 14%
+- **Percentage of Revenue**:
+- 2021: 18%
+- 2022: 9%
+- **Key Drivers**: Increase of $72 million primarily due to a $63 million rise in stock-based compensation.
+
+#### General and Administrative
+- **2021**: $464 million
+- **2022**: $632 million
+- **% Change**: 36%
+- **Percentage of Revenue**:
+- 2021: 16%
+- 2022: 9%
+- **Key Drivers**: Increase of $168 million due to:
+- $54 million in employee headcount costs
+- $49 million in legal, tax, and regulatory reserves
+- $12 million in external contractor expenses
+- $10 million in stock-based compensation.
+
+#### Depreciation and Amortization
+- **2021**: $212 million
+- **2022**: $254 million
+- **% Change**: 20%
+- **Percentage of Revenue**:
+- 2021: 7%
+- 2022: 4%
+- **Key Drivers**: Increase of $42 million mainly from additional amortization related to Transplace, Drizly, and Postmates intangible assets.
+
+#### Interest Expense
+- **2021**: $(115) million
+- **2022**: $(129) million
+- **% Change**: 12%
+- **Percentage of Revenue**:
+- 2021: (4)%
+- 2022: (2%)
+- **Key Drivers**: Increase was immaterial.
+
+#### Other Income (Expense), Net
+- **2021**: $1,710 million
+- **2022**: $(5,557) million
+- **% Change**: Not meaningful
+- **Percentage of Revenue**:
+- 2021: 59%
+- 2022: (81)%
+- **Key Drivers**:
+- Interest income increased from $5 million to $11 million (120%).
+- Foreign currency exchange gains turned from losses of $(25) million to gains of $10 million.
+- Gain on business divestiture of $1,684 million in 2021, not present in 2022.
+- Unrealized loss on debt and equity securities increased significantly from $63 million gain to $(5,570) million loss.
+- Impairment of equity method investment of $(182) million in 2022.
+
+This summary provides a concise overview of Uber's financial performance for the specified quarter, highlighting significant changes and key drivers behind the financial metrics.
+The excerpt from Uber Technologies, Inc.'s quarterly report provides insights into various financial aspects for the three months ended March 31 for the years 2021 and 2022. Here are the key points:
+
+1. **Gain on Business Divestiture**: There was a significant decrease in gain due to a $1.6 billion gain recognized in Q1 2021 from the sale of the ATG Business to Aurora.
+
+2. **Unrealized Gain (Loss) on Debt and Equity Securities**: This decreased by $5.6 billion, primarily due to:
+- $1.9 billion unrealized loss on Grab investment
+- $1.7 billion unrealized loss on Aurora investments
+- $1.4 billion unrealized loss on Didi investment
+- $462 million unrealized loss on Zomato investment
+
+3. **Impairment of Equity Method Investment**: A $182 million impairment loss was recorded on the MLU B.V. equity method investment.
+
+4. **Revaluation of MLU B.V. Call Option**: There was a $181 million gain from the change in fair value of the call option granted to Yandex.
+
+5. **Provision for (Benefit from) Income Taxes**:
+- For Q1 2021: $185 million provision
+- For Q1 2022: $232 million benefit
+- Effective tax rate: 261% in 2021 and 4% in 2022
+- The income tax benefit increased by $417 million, mainly due to deferred U.S. tax impacts related to investments in Grab and Aurora.
+
+6. **Income (Loss) from Equity Method Investments**:
+- For Q1 2021: $(8) million
+- For Q1 2022: $18 million
+- The increase was described as immaterial.
+
+This summary highlights the financial performance and changes in various investment valuations and tax provisions for Uber during the specified quarters.
+**Segment Results of Operations Overview:**
+
+Uber operates through three main segments: Mobility, Delivery, and Freight. Below is a summary of the financial performance for the three months ended March 31 for the years 2021 and 2022.
+
+### Revenue (in millions)
+| Segment   | 2021 Revenue | 2022 Revenue | % Change |
+|-----------|--------------|--------------|----------|
+| Mobility  | $853         | $2,518       | 195%     |
+| Delivery  | $1,741       | $2,512       | 44%      |
+| Freight   | $301         | $1,824       | **       |
+| All Other | $8           | $0           | **       |
+| **Total Revenue** | **$2,903** | **$6,854** | **136%** |
+
+**Note:** The percentage change for Freight and All Other is not meaningful.
+
+### Segment Adjusted EBITDA (in millions)
+| Segment   | 2021 Adjusted EBITDA | 2022 Adjusted EBITDA | % Change |
+|-----------|----------------------|----------------------|----------|
+| Mobility  | $298                 | $618                 | 107%     |
+| Delivery  | $(200)               | $30                  | **       |
+| Freight   | $(29)                | $2                   | **       |
+| All Other | $(11)                | $0                   | **       |
+| Corporate G&A and Platform R&D | $(417) | $(482) | (16%)    |
+| **Adjusted EBITDA** | **$(359)** | **$168** | **       |
+
+**Note:** The percentage change for Delivery, Freight, and All Other is not meaningful.
+
+### Key Highlights:
+- **Mobility Segment:** Revenue increased by $1.7 billion (195%) primarily due to increased trip volumes as the business recovers from COVID-19 impacts. Adjusted EBITDA profit increased by $320 million (107%).
+- **Delivery Segment:** Revenue grew by 44%, with a notable turnaround in adjusted EBITDA from a loss in 2021 to a profit in 2022.
+- **Freight Segment:** Revenue saw a significant increase, but the adjusted EBITDA remained minimal.
+- **Corporate G&A and Platform R&D:** Costs increased by 16%, reflecting ongoing investments in shared services and technology infrastructure.
+
+This summary provides a concise overview of Uber's financial performance across its segments for the specified quarter.
+The report provides a detailed analysis of Uber Technologies, Inc.'s financial performance for the quarter ended March 31, 2022, compared to the same period in 2021. Here are the key highlights:
+
+1. **Mobility Segment**:
+- Adjusted EBITDA profit increased, mainly due to higher Mobility revenue.
+- There was a $281 million increase in insurance expenses and a $76 million rise in credit card processing costs.
+
+2. **Delivery Segment**:
+- Revenue increased by $771 million (44% growth).
+- Adjusted EBITDA grew by $230 million (115% growth).
+- The increase in revenue was driven by a 15% rise in Delivery Gross Bookings, attributed to more food delivery orders and larger basket sizes.
+- The Take Rate improved from 14.0% to 18.1%.
+- Adjusted EBITDA improvement was offset by a $387 million increase in cost of revenue and a $94 million rise in consumer promotions and employee costs.
+
+3. **Freight Segment**:
+- Revenue surged by $1.5 billion (506% growth).
+- Adjusted EBITDA increased by $31 million (107% growth).
+- The revenue growth was primarily due to the acquisition of Transplace and an increase in the number of shippers and carriers.
+- Adjusted EBITDA improvement was offset by $1.4 billion in shipper payments and incentives and an $88 million increase in employee costs.
+
+4. **Key Metrics**:
+- Monthly Active Platform Consumers (MAPCs) are used to assess platform adoption and transaction frequency.
+- The report includes a table of MAPCs over several quarters, showing growth in user engagement.
+
+5. **Non-GAAP Financial Measures**:
+- Adjusted EBITDA, revenue growth rates in constant currency, and free cash flow are highlighted as important non-GAAP measures, with further details provided in the report.
+
+This summary encapsulates the financial performance and operational metrics of Uber for the specified quarter, reflecting significant growth across its segments.
+The quarterly report provides detailed financial information for Uber Technologies, Inc. It includes metrics such as:
+
+1. **Trips (in millions)**:
+- Q2 2020: 1,641
+- Q3 2020: 1,769
+- Q4 2020: 1,713
+- Q1 2021: 1,443
+- Q2 2021: 1,447
+- Q3 2021: 1,511
+- Q4 2021: 1,840
+- Q1 2022: 737
+
+2. **Gross Bookings (in millions)**:
+- Q2 2020: $10,224
+- Q3 2020: $14,745
+- Q4 2020: $17,152
+- Q1 2021: $19,536
+- Q2 2021: $21,900
+- Q3 2021: $23,113
+- Q4 2021: $25,866
+- Q1 2022: $26,449
+
+3. **Revenue Breakdown (in millions)**:
+- **Mobility**:
+- Q2 2020: $3,046
+- Q3 2020: $5,905
+- Q4 2020: $6,789
+- Q1 2021: $6,773
+- Q2 2021: $8,640
+- Q3 2021: $9,883
+- Q4 2021: $11,340
+- Q1 2022: $10,723
+- **Delivery**:
+- Q2 2020: $6,961
+- Q3 2020: $8,550
+- Q4 2020: $10,050
+- Q1 2021: $12,461
+- Q2 2021: $12,912
+- Q3 2021: $12,828
+- Q4 2021: $13,444
+- Q1 2022: $13,903
+- **Freight**:
+- Q2 2020: $212
+- Q3 2020: $290
+- Q4 2020: $313
+- Q1 2021: $302
+- Q2 2021: $348
+- Q3 2021: $402
+- Q4 2021: $1,082
+- Q1 2022: $1,823
+
+4. **Adjusted EBITDA**:
+- Q1 2021: $(359) million
+- Q1 2022: $168 million
+- The improvement of $527 million was attributed to increases in Mobility, Delivery, and Freight Adjusted EBITDA, despite a rise in Corporate G&A and Platform R&D costs.
+
+This report highlights the growth in trips, gross bookings, and revenue across different segments, as well as a significant improvement in Adjusted EBITDA from the previous year.
+The document discusses Uber Technologies, Inc.'s use of non-GAAP financial measures, specifically Adjusted EBITDA, to evaluate its business performance. It explains that these measures provide additional insights into the company's financial health by excluding certain items that may not reflect ongoing operations.
+
+**Key Points:**
+
+1. **Non-GAAP Financial Measures**: Uber uses Adjusted EBITDA, revenue growth rates in constant currency, and free cash flow for internal decision-making and performance assessment.
+
+2. **Adjusted EBITDA Definition**: It is calculated by excluding various items from net income (loss), including:
+- Income (loss) from discontinued operations
+- Non-controlling interests
+- Income taxes
+- Equity method investments
+- Interest expense
+- Other income/expense
+- Depreciation and amortization
+- Stock-based compensation
+- Legal, tax, and regulatory reserves
+- Goodwill and asset impairments
+- Acquisition and restructuring expenses
+- COVID-19 related expenses
+
+3. **Purpose of Adjusted EBITDA**: It helps management and investors assess operating performance, make strategic decisions, and compare results across periods.
+
+4. **COVID-19 Response Initiatives**: The document outlines various initiatives taken to support drivers and communities affected by the pandemic, which are accounted for in the financial statements.
+
+5. **Limitations**: Adjusted EBITDA should not be viewed as a substitute for GAAP financial measures, as it excludes certain recurring non-cash charges and does not reflect all cash capital expenditure requirements.
+
+Overall, the document emphasizes the importance of these non-GAAP measures in providing a clearer picture of Uber's operational performance while also acknowledging their limitations.
+The document provides a reconciliation of Adjusted EBITDA to net loss attributable to Uber Technologies, Inc. for the three months ended March 31 for the years 2021 and 2022. Here are the key figures:
+
+- **Net loss attributable to Uber Technologies, Inc.**:
+- 2021: $(108) million
+- 2022: $(5,930) million
+
+- **Adjusted EBITDA**:
+- 2021: $(359) million
+- 2022: $168 million
+
+The reconciliation includes various adjustments such as income taxes, interest expense, stock-based compensation, and other items not indicative of ongoing operating performance. The document also mentions the use of constant currency to assess revenue performance excluding foreign currency fluctuations.
+The free cash flow for Uber Technologies, Inc. for the three months ended March 31 is as follows:
+
+- **2021**:
+- Net cash provided by (used in) operating activities: $(611) million
+- Purchases of property and equipment: $(71) million
+- **Free cash flow**: $(682) million
+
+- **2022**:
+- Net cash provided by (used in) operating activities: $15 million
+- Purchases of property and equipment: $(62) million
+- **Free cash flow**: $(47) million
+
+This table shows a significant improvement in free cash flow from 2021 to 2022.
+### Liquidity and Capital Resources Summary
+
+#### Three Months Ended March 31 (In millions)
+
+| Activity                        | 2021       | 2022       |
+|---------------------------------|------------|------------|
+| Net cash provided by (used in) operating activities | $(611)     | $15        |
+| Net cash used in investing activities | $(250)     | $(135)     |
+| Net cash used in financing activities | $(226)     | $(113)     |
+
+#### Operating Activities
+- **2022**: Net cash provided was $15 million, with a net loss of $5.9 billion adjusted for:
+- $5.6 billion in unrealized losses from equity securities
+- $359 million in stock-based compensation
+- $254 million in depreciation and amortization
+- $27 million decrease in cash consumed by working capital.
+
+- **2021**: Net cash used was $611 million, with a net loss of $122 million adjusted for:
+- $1.7 billion gain on business divestiture
+- $281 million in stock-based compensation
+- $412 million decrease in cash consumed by working capital.
+
+#### Investing Activities
+- **2022**: Net cash used was $135 million, primarily for:
+- $62 million in purchases of property and equipment
+- $59 million in business acquisitions.
+
+- **2021**: Net cash used was $250 million, primarily for:
+- $803 million in purchases of non-marketable equity securities
+- $336 million in purchases of marketable securities
+- $216 million in purchases of a note receivable, offset by $696 million from maturities and sales of marketable securities and $500 million from the sale of non-marketable equity securities.
+
+#### Financing Activities
+- **2022**: Net cash used was $113 million, primarily for:
+- $62 million of principal payments on finance leases.
+
+- **2021**: Net cash used was $226 million, primarily for:
+- $194 million of principal repayment on Careem Notes.
+
+#### Other Information
+- As of March 31, 2022, $2.2 billion of $4.2 billion in cash and cash equivalents was held by foreign subsidiaries.
+- The company believes its existing cash balance in the U.S. is sufficient for working capital needs.
+- Compliance with debt and line of credit covenants was maintained.
+- Anticipated cash requirements for the next 12 months are expected to be met through existing funding sources and available credit lines.
+- The company continues to monitor the impact of the COVID-19 pandemic on its financial position and liquidity.
+
+#### Purchase Commitments
+- No material changes outside the ordinary course of business to contractual obligations as of March 31, 2022.
+
+#### Critical Accounting Estimates
+- Financial statements are prepared in accordance with GAAP, requiring estimates and assumptions that may affect reported amounts. Actual results may differ from estimates, impacting future financial statements.
+The document provides a detailed overview of Uber Technologies, Inc.'s exposure to various market risks, including interest rate risk, investment risk, and foreign currency risk.
+
+1. **Interest Rate Risk**: Uber's exposure primarily relates to its floating rate loans (2025 and 2027 Refinanced Term Loan Facilities). A hypothetical 100 basis point change in interest rates would not materially affect financial results. However, a 100 basis point increase would decrease the fair value of fixed-rate notes by $289 million as of March 31, 2022.
+
+2. **Investment Risk**: Uber aims to preserve capital and meet liquidity needs without significantly increasing risk. As of March 31, 2022, cash and cash equivalents totaled $7.6 billion. The company does not engage in trading or speculative investments, and a 100 basis point change in interest rates would not materially affect financial results. The carrying value of investments was $6.9 billion, which includes equity method investments.
+
+3. **Foreign Currency Risk**: Uber operates globally, exposing it to fluctuations in foreign currency exchange rates. Revenue and expenses in foreign currencies can negatively impact financial results when expressed in U.S. dollars. The company has experienced fluctuations in net income due to transaction gains or losses from remeasurement of asset and liability balances in foreign currencies.
+
+4. **Controls and Procedures**: Uber maintains disclosure controls and procedures to ensure compliance with the Securities Exchange Act of 1934, ensuring that required information is accurately recorded and reported within specified timeframes.
+
+This summary encapsulates the key points regarding market risks and controls as outlined in the quarterly report.
+The document discusses the effectiveness of Uber's disclosure controls and internal control over financial reporting as evaluated by the management, including the Chief Executive Officer and Chief Financial Officer. They concluded that these controls are effective at a reasonable assurance level, although they acknowledge that no system can provide absolute assurance against errors or fraud.
+
+Additionally, the document outlines various legal proceedings involving Uber, including significant matters related to driver classification, state unemployment taxes, and ongoing class actions in Australia. The Australian class actions allege that Uber conspired to breach transport legislation, causing loss and damage to participants in the taxi and hire-car industries. Uber denies these allegations and plans to defend itself vigorously.
+
+For more detailed information on these legal proceedings, readers are directed to Note 12 – Commitments and Contingencies in the condensed consolidated financial statements for the quarter ended March 31, 2022.
+The document outlines various legal risks and uncertainties faced by Uber Technologies, Inc. It emphasizes that while the company believes the resolution of ongoing legal matters will not materially affect its financial position or liquidity, these issues could impact its operational results in specific accounting periods. The report also highlights several risk factors that could adversely affect the company's business, financial condition, and stock price, including:
+
+1. Ongoing impacts of the COVID-19 pandemic.
+2. Potential reclassification of Drivers as employees rather than independent contractors.
+3. Intense competition in the mobility, delivery, and logistics industries.
+4. The necessity to lower fares or service fees to remain competitive.
+5. Significant historical losses and increasing operating expenses.
+6. Challenges in attracting and retaining a critical mass of platform users.
+7. Risks to brand reputation and the impact of negative publicity.
+8. Historical workplace culture issues and the challenges in addressing them.
+9. The need to optimize organizational structure amid growth.
+10. Safety incidents involving platform users.
+11. Risks associated with substantial investments in new technologies and offerings.
+
+These factors could lead to a decline in the trading price of Uber's common stock and potentially result in losses for investors.
+The document outlines various risks that Uber Technologies, Inc. faces in its business operations. Key points include:
+
+1. **Economic and Regulatory Risks**: The company generates a significant portion of its Gross Bookings from large metropolitan areas, which can be adversely affected by economic, social, weather, and regulatory conditions, including the ongoing impacts of COVID-19.
+
+2. **Technology and Competition Risks**: There is a risk of failing to offer competitive autonomous vehicle technologies, which may not perform as expected or be perceived as safe compared to competitors.
+
+3. **Human Resource Risks**: Retaining and attracting high-quality personnel is crucial, and issues like attrition or poor succession planning could negatively impact the business.
+
+4. **Data Security Risks**: The company faces potential security breaches and cyberattacks that could harm its reputation and operational results.
+
+5. **Climate Change Risks**: Uber is subject to risks related to climate change and has made commitments that require significant resources, which may need to be adjusted based on unforeseen circumstances.
+
+6. **Third-Party Reliance**: The business relies on third parties for distribution and software, and any interference could adversely affect operations.
+
+7. **Capital Requirements**: Additional capital will be needed for growth, which may not be available on favorable terms.
+
+8. **Acquisition Risks**: The inability to identify and integrate suitable acquisitions could harm operating results.
+
+9. **Legal and Regulatory Risks**: The company faces numerous legal and regulatory challenges that could impact its business.
+
+10. **Intellectual Property Risks**: Protecting intellectual property is crucial, and any claims of misappropriation could lead to significant expenses.
+
+11. **Stock Price Volatility**: The market price of Uber's common stock has been volatile, and there is a risk that investors may not be able to resell shares at or above the purchase price.
+
+Overall, the document emphasizes the various internal and external challenges that could impact Uber's business performance and future prospects.
+The document discusses the impact of the COVID-19 pandemic on Uber Technologies, Inc., highlighting several key points:
+
+1. **Driver Supply Constraints**: The company is experiencing a mismatch between recovering consumer demand for mobility services and the availability of drivers. This situation is exacerbated by ongoing concerns related to the COVID-19 pandemic.
+
+2. **Financial Impact**: The pandemic has adversely affected Uber's near-term financial results and may have long-term implications. The company has had to take significant actions, including workforce reductions and changes to pricing models, to mitigate these impacts.
+
+3. **Uncertainty of Future Developments**: The extent of the pandemic's impact on Uber's business will depend on various uncertain factors, including the duration of the outbreak, vaccine efficacy, and potential changes in consumer behavior.
+
+4. **Legal Risks**: Uber faces legal challenges regarding the classification of drivers as independent contractors versus employees. Ongoing litigation and regulatory scrutiny could lead to significant costs and operational changes.
+
+5. **Proposition 22**: In California, Proposition 22 allows drivers to maintain their independent contractor status, but legal challenges to this law may continue, potentially affecting Uber's operations and financial condition.
+
+Overall, the document outlines the operational and financial risks Uber faces due to the pandemic and ongoing legal challenges regarding driver classification.
+The text discusses the challenges Uber faces regarding the classification of its Drivers, particularly in light of legal actions and judicial decisions in various jurisdictions. Key points include:
+
+1. **Legal Challenges**: Uber and Lyft are facing complaints regarding the misclassification of Drivers, which could lead to significant changes in their business model if they are required to treat Drivers as employees. This would result in increased expenses related to wages, benefits, and compliance with labor laws.
+
+2. **Judicial Decisions**: The UK Supreme Court ruled that Uber Drivers are workers, prompting Uber to change its classification of UK Drivers to "workers," ensuring they receive at least the National Living Wage and other benefits. Similar rulings have occurred in France, Switzerland, Spain, and the Netherlands.
+
+3. **Unionization Risks**: The potential reclassification of Drivers could lead to unionization, which may result in collective bargaining agreements that deviate from Uber's business model, adversely affecting its financial condition and operations.
+
+4. **Financial Statement Impact**: Changes in Driver classification could impact Uber's financial statements, including revenue and costs, as detailed in their accounting policies.
+
+5. **Competitive Landscape**: Uber operates in highly competitive mobility, delivery, and logistics markets with low barriers to entry and significant competition from established players and new entrants. The ability to compete effectively is crucial for Uber's financial prospects.
+
+Overall, the text highlights the legal, financial, and competitive challenges Uber faces in maintaining its business model while navigating regulatory and market pressures.
+The document discusses the competitive landscape faced by Uber Technologies, Inc. in its various offerings, including Mobility, Delivery, and Freight. It highlights the challenges posed by well-capitalized competitors, the potential for reduced revenue and user engagement, and the impact of regulatory restrictions on competition with minority-owned affiliates. The company acknowledges that to remain competitive, it may need to lower fares and service fees, as well as offer significant incentives to drivers and discounts to consumers, which could adversely affect its financial performance.
+The text discusses several challenges and risks faced by Uber Technologies, Inc. in its business operations. Key points include:
+
+1. **Impact of Discounts and Promotions**: The company's financial performance is negatively affected by discounts, promotions, and reductions in fares and service fees. Changes in pricing models and strategies may not attract consumers and drivers effectively.
+
+2. **Competitive Landscape**: Uber faces significant competition from well-capitalized rivals, some of which are backed by major investors like SoftBank. This competition may lead to lower prices and increased incentives from competitors, putting pressure on Uber to maintain or lower its fares and service fees.
+
+3. **Financial Losses**: Uber has incurred substantial losses since its inception, with reported operating losses of $4.9 billion in 2020 and $3.8 billion in 2021. As of March 31, 2022, the company had an accumulated deficit of $29.6 billion.
+
+4. **Future Profitability Challenges**: The company anticipates increased operating expenses as it invests in expanding its user base and offerings. There is uncertainty about achieving or maintaining profitability, especially in new markets.
+
+5. **Driver and Merchant Supply Constraints**: Uber's success relies on attracting and retaining a critical mass of drivers, consumers, merchants, shippers, and carriers. Supply constraints, exacerbated by the COVID-19 pandemic, could hinder the company's ability to provide services effectively.
+
+6. **Market Dynamics**: The company may struggle to maintain network scale and liquidity in various geographic markets, which is essential for attracting users to its platform. A lack of drivers or merchants could diminish the appeal of Uber's services.
+
+Overall, the text highlights the complexities and uncertainties in Uber's business environment, emphasizing the need for strategic management to navigate these challenges.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. regarding its platform users, including Drivers, consumers, merchants, shippers, and carriers. Key points include:
+
+1. **Concentration Risk**: The reliance on significant restaurant partners increases the risk of fluctuations in operating results. If users switch to competitors, it could reduce opportunities for Drivers and merchants, impacting revenue.
+
+2. **User Satisfaction**: Factors such as dissatisfaction with service quality, pricing, and support can lead to a decline in platform users. Negative publicity and public health concerns (e.g., COVID-19) can also affect user retention.
+
+3. **Driver and Merchant Dynamics**: The number of Drivers and merchants may fluctuate due to various reasons, including local laws, competition, and dissatisfaction with the platform. Efforts to reduce Driver incentives to improve financial performance may lead to increased dissatisfaction.
+
+4. **Trade-offs in User Satisfaction**: Changes that benefit one user group may negatively impact another, leading to potential dissatisfaction across the platform.
+
+5. **Safety and Compliance**: Measures to enhance safety and prevent fraud may damage relationships with users. Additionally, changes in Driver qualification and background-check requirements could increase costs and hinder onboarding.
+
+6. **Protests and Business Interruptions**: Driver dissatisfaction has historically led to protests, which can disrupt operations and further decrease the number of active users on the platform.
+
+7. **Background Check Challenges**: Reliance on a single background-check provider poses risks. Changes in regulations could complicate the onboarding process for Drivers, adversely affecting business growth.
+
+Overall, the document highlights the interconnectedness of user satisfaction, regulatory compliance, and operational efficiency in maintaining Uber's platform viability.
+The text discusses the importance of maintaining and enhancing Uber's brand and reputation, highlighting the challenges the company has faced due to negative media coverage and past cultural issues. It emphasizes that failure to improve its brand could lead to difficulties in attracting employees and users, increased regulatory scrutiny, and potential financial impacts. The report also mentions the company's efforts to rehabilitate its brand, the risks associated with third-party partnerships, and the historical workplace culture that has created operational challenges. Overall, it underscores the critical nature of brand reputation in Uber's business strategy and future prospects.
+The text discusses the challenges and risks faced by Uber Technologies, Inc. as it has grown significantly since its inception. Key points include:
+
+1. **Organizational Complexity**: The rapid expansion has led to a complex organizational structure that may hinder effective management and communication of key policies across different regions and functions.
+
+2. **Workforce Management**: Uber has experienced substantial growth in its workforce, increasing from 159 employees in 2012 to approximately 30,900 by March 2022. Managing this growth, including hiring, training, and retaining qualified employees, is crucial for the company's success.
+
+3. **Technology and Infrastructure**: The company must upgrade its technology and network infrastructure to support its growth. Failure to do so could lead to system disruptions and negatively impact user experience.
+
+4. **Safety and Liability Risks**: Uber faces risks related to the actions of platform users, which could result in safety incidents and harm the company's reputation. The effectiveness of background checks on Drivers is also a concern.
+
+5. **Financial and Operational Resources**: To manage growth and improve systems, Uber will need to commit substantial financial and operational resources. Inadequate management of these areas could adversely affect the company's business and financial performance.
+
+Overall, the text highlights the importance of effective management, technology upgrades, and safety measures in sustaining Uber's growth and maintaining its competitive position.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. related to the safety and conduct of its Drivers and Couriers. Key points include:
+
+1. **Driver Qualification and Background Checks**: The standards for Couriers are less extensive than for Mobility Drivers, leading to potential complaints and legal actions regarding Driver conduct.
+
+2. **Criminal Activity**: Incidents of criminal behavior by Drivers or individuals impersonating them can harm consumer perception of safety, negatively impacting Uber's brand and reputation.
+
+3. **Violent Crime**: High rates of violent crime in certain regions, particularly in Latin America, have led to increased reports of Drivers and consumers being victimized.
+
+4. **Liability Risks**: Uber may face significant liability claims related to accidents or incidents involving Drivers, consumers, or third parties, which could increase operating costs and affect business results.
+
+5. **Insurance Coverage**: Current insurance policies may not cover all potential claims, leading to financial exposure.
+
+6. **Investments in New Offerings**: Uber is investing in new technologies and services, such as grocery and alcohol delivery, which carry inherent risks and may not yield expected benefits.
+
+7. **Market Acceptance**: There is uncertainty regarding consumer demand for new initiatives, and competition from other products could render Uber's offerings obsolete.
+
+8. **Management Distraction**: New development efforts may distract management from core operations and divert resources from established products.
+
+Overall, the text highlights the complexities and risks associated with Uber's operations and expansion efforts.
+The text discusses the challenges and risks Uber Technologies, Inc. faces in its international operations. Key points include:
+
+1. **Dependence on International Markets**: As of March 31, 2022, Uber operated in approximately 72 countries, with international markets accounting for about 75% of all trips.
+
+2. **Limited Experience**: Uber has limited experience in many international jurisdictions, which may affect its ability to manage risks and successfully expand.
+
+3. **Operational and Compliance Challenges**: These include language barriers, cultural differences, and the need to localize operations, such as translating the app and adapting to local laws.
+
+4. **Regulatory Risks**: Uber faces stricter laws in some countries regarding competition, pricing, payment methods, and data privacy, which could impact its operations.
+
+5. **Competition**: Local competitors may have better market understanding and relationships, posing a challenge to Uber's growth.
+
+6. **Social Acceptance and Technological Compatibility**: Variations in brand acceptance and technology use can affect Uber's success in different markets.
+
+7. **Legal and Financial Risks**: These include uncertainties regarding liability, currency fluctuations, cash transaction preferences, and complex tax systems.
+
+8. **Political and Economic Instability**: Global events, such as wars and terrorist attacks, can disrupt operations and impact the economy.
+
+Overall, the text highlights the complexities and risks associated with Uber's international business strategy.
+The text discusses the risks associated with Uber Technologies, Inc.'s minority ownership in various companies, including Didi, Grab, Yandex.Taxi, Lime, Zomato, and Aurora. Key points include:
+
+1. **Limited Control**: Uber has limited influence over these minority-owned affiliates, which poses risks such as potential loss of value. Uber is not involved in the day-to-day management of Didi and Zomato and has limited control over the boards of other companies.
+
+2. **Market Competition**: These companies may expand their offerings and compete with Uber, potentially harming Uber's business and financial condition.
+
+3. **Valuation Risks**: The value of Uber's assets in these companies is subject to market fluctuations and could be adversely affected by weakened financial markets.
+
+4. **Operational Risks**: The companies have limited operating histories and may face unpredictable results. They also operate in regions with various risks, including economic sanctions and public health concerns.
+
+5. **Liquidity and Transfer Restrictions**: Uber faces contractual limitations on selling or transferring these assets, including a lock-up period for shares in Aurora. There may be no public market for many of these securities, affecting their realizable value.
+
+6. **Potential Tax Implications**: Selling or transferring these assets could result in significant tax liabilities.
+
+Overall, these factors could materially impact Uber's business, financial condition, and stock price.
+The text discusses the potential fluctuations in Uber Technologies, Inc.'s operating results and the factors that may affect its profitability. Key points include:
+
+1. **Fluctuations in Operating Results**: Uber may experience significant variations in its financial performance, which are not necessarily indicative of future results. These fluctuations can be influenced by external factors, including the COVID-19 pandemic.
+
+2. **Seasonal Trends**:
+- **Mobility**: Typically, higher revenue is generated in the fourth quarter due to holiday demand, while the third quarter may see lower revenue due to vacation patterns.
+- **Delivery**: Expected seasonal increases in revenue are anticipated in the first and fourth quarters, although historical growth has masked these trends.
+
+3. **Challenges in Forecasting**: The company acknowledges difficulties in accurately forecasting operating results due to the pandemic and fixed expenses that may not adjust quickly to revenue changes.
+
+4. **Growth Dependency**: Uber's growth is contingent on various factors, including:
+- Attracting and retaining users.
+- Competing effectively in the market.
+- Expanding operations in new and existing markets.
+- Maintaining technological advancements.
+- Navigating regulatory environments.
+
+5. **Profitability Concerns**: If growth slows more than expected, achieving profitability may become challenging, adversely affecting financial results and investor value.
+
+6. **Objectives for Growth**: Uber aims to grow supply and demand, enhance user activity, expand market presence, and improve brand perception, among other goals.
+
+Overall, the text highlights the complexities and uncertainties surrounding Uber's financial performance and growth strategies.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. regarding its financial performance and operational capabilities. Key points include:
+
+1. **Revenue Dependence**: A significant portion of Uber's Gross Bookings comes from large metropolitan areas and airport trips. Any negative impact on operations in these areas could adversely affect financial results.
+
+2. **Geographic Concentration**: In 2021, 23% of Mobility Gross Bookings were derived from five major metropolitan areas. Economic, social, and regulatory conditions in these areas can significantly influence Uber's business.
+
+3. **Impact of COVID-19**: The pandemic has altered travel behavior, leading to a decline in demand for ridesharing, especially for airport-related trips, which accounted for 11% of Mobility Gross Bookings in 2021.
+
+4. **Regulatory Challenges**: Uber faces regulatory hurdles, including licensing requirements for airport operations. Non-compliance or changes in regulations could disrupt operations and affect financial performance.
+
+5. **Competition and Market Penetration**: Uber experiences strong competition in urban areas and faces challenges in expanding into suburban and rural markets, where personal vehicle ownership is more convenient.
+
+6. **Investment in Autonomous Technologies**: Uber has invested in autonomous vehicle technologies, including a merger with Aurora. The success of these technologies is crucial for maintaining competitive advantage and financial performance.
+
+Overall, the document highlights the interconnectedness of Uber's operational strategies, market dynamics, and regulatory environment, emphasizing the potential risks to its financial health and growth prospects.
+The text discusses several risks and challenges faced by Uber Technologies, Inc. regarding the development and implementation of autonomous vehicle technologies, as well as the importance of retaining high-quality personnel. Here are the key points:
+
+1. **Competition in Autonomous Vehicles**: Uber faces competition from companies like Waymo, Cruise Automation, and others that are developing autonomous vehicle technologies. If these competitors launch their offerings before Uber, or if their technology is perceived as superior, it could negatively impact Uber's market position and financial performance.
+
+2. **Risks and Liabilities**: The introduction of autonomous vehicles carries significant risks, including potential collisions and regulatory scrutiny. Failures in technology could lead to liability issues and damage Uber's reputation.
+
+3. **Regulatory Challenges**: Federal and state regulations regarding autonomous vehicles are evolving. New regulations could delay or limit Uber's ability to offer these technologies, and non-compliance could result in fines or penalties.
+
+4. **Personnel Challenges**: Uber's success relies on attracting and retaining high-quality employees. Challenges related to workplace culture, negative publicity, and the shift to hybrid work models could lead to increased attrition and difficulties in recruitment.
+
+5. **Leadership Transitions**: Changes in leadership or management could disrupt business operations and increase turnover. The loss of key personnel or failure to manage transitions effectively could harm Uber's growth and operating results.
+
+6. **Equity Incentives**: To attract and retain key personnel, Uber uses equity incentives, but there is no guarantee that these measures will be sufficient to maintain a strong workforce.
+
+Overall, the text highlights the interconnectedness of technological advancements, regulatory environments, and human resources in shaping Uber's business landscape.
+The text discusses several risks that Uber Technologies, Inc. faces, including:
+
+1. **Attracting and Retaining Personnel**: The effectiveness of equity incentives may decline, impacting the ability to attract and retain high-quality management and operational staff, which could adversely affect the company's performance.
+
+2. **Economic Conditions**: Economic factors such as unemployment, consumer debt, and consumer confidence can influence discretionary spending. During economic downturns, consumers may opt for lower-cost alternatives, which could reduce demand for Uber's services and harm its financial results.
+
+3. **Cost Increases**: Inflation and rising costs (fuel, food, labor, etc.) can negatively impact drivers, merchants, and carriers, potentially leading to reduced service availability on the platform and decreased network liquidity.
+
+4. **Security and Privacy Breaches**: Uber collects sensitive personal data, making it a target for data security attacks. Breaches could lead to significant liabilities, revenue loss, and damage to the brand, as well as disruption of business operations.
+
+Overall, these factors highlight the vulnerabilities in Uber's business model and the potential impact of external economic conditions and internal security challenges on its operations and financial health.
+The text discusses the potential risks and liabilities Uber Technologies, Inc. faces related to data security breaches and the importance of successfully introducing new products and features to retain users. It highlights past incidents, such as the 2014 and 2016 data breaches, and mentions the need for ongoing investment in product development to differentiate from competitors. Additionally, it addresses the challenges in measuring operational metrics and the potential inaccuracies that could affect the company's reputation and business performance.
+The text discusses various risks and challenges faced by Uber Technologies, Inc. related to its payment systems, particularly the use of cash for transactions in certain jurisdictions. Key points include:
+
+1. **Multiple Accounts**: Uber acknowledges that some consumers may create multiple accounts despite prohibitions, which could affect data accuracy and long-term strategies.
+
+2. **Cash Payments**: In certain regions, Uber allows cash payments for rides and deliveries, which raises regulatory, operational, and safety concerns. Cash transactions accounted for approximately 7% of global Gross Bookings in 2021, with potential for increase.
+
+3. **Regulatory Compliance**: The use of cash can lead to significant fines and operational suspensions if regulations are not followed. There are also safety risks for drivers and riders associated with cash transactions.
+
+4. **Infrastructure Challenges**: Establishing systems to manage cash transactions is complex and may lead to difficulties in collecting service fees, impacting financial performance.
+
+5. **Credit Card Acceptance**: A significant portion (74%) of Gross Bookings is made via credit or debit cards. Loss of credit card acceptance privileges could severely limit Uber's business model.
+
+6. **Data Security Compliance**: Uber must comply with the Payment Card Industry Data Security Standard. Non-compliance could result in fines and operational restrictions.
+
+7. **Cybersecurity Threats**: The company faces risks from cyberattacks, which could harm its reputation and operational integrity.
+
+Overall, these factors highlight the complexities and risks associated with Uber's payment systems and the potential impact on its business operations and financial results.
+The text discusses the reliance of Uber Technologies, Inc. on information technology systems for its operations, highlighting the risks associated with cyberattacks, system failures, and software errors. It emphasizes the potential impact of these risks on the company's reputation, business operations, and financial results. Key points include:
+
+1. **Cybersecurity Risks**: Uber's systems are vulnerable to various cyber threats, including malware and phishing attacks. The company acknowledges that it may not be able to prevent sophisticated attacks and that breaches could harm its reputation and competitive position.
+
+2. **System Failures**: The complexity of Uber's platform means that undetected errors or bugs in the software could disrupt services. The company has experienced outages in the past and recognizes that such issues could lead to a loss of users and revenue.
+
+3. **AI Risks**: The growing use of artificial intelligence in Uber's offerings introduces additional risks, such as flawed algorithms and biased datasets, which could lead to legal liabilities and reputational damage.
+
+Overall, the text underscores the importance of maintaining robust cybersecurity measures and the challenges posed by the technical complexity of Uber's platform.
+The document discusses Uber Technologies, Inc.'s exposure to climate change risks and dependencies on third parties for its operations.
+
+1. **Climate Change Risks**: Uber faces both physical and transitional risks related to climate change, including market shifts towards electric vehicles (EVs) and the impact of extreme weather events. These risks could disrupt operations and increase costs. The company has made commitments to renewable energy and net-zero emissions but acknowledges that external factors may affect its ability to meet these goals.
+
+2. **Dependencies on Third Parties**: Uber's business relies on the performance of internet and mobile infrastructures, which are beyond its control. Disruptions in these services could affect the availability and speed of its platform, potentially driving users to competitors. Additionally, Uber depends on third-party marketplaces like the Apple App Store and Google Play for distribution, and any interference from these platforms could adversely impact its business.
+
+Overall, the document highlights the challenges Uber faces in managing climate-related risks and its reliance on external infrastructures and third-party services.
+The text discusses various risks that Uber Technologies, Inc. faces in relation to its reliance on third-party services and infrastructure. Key points include:
+
+1. **Advertising and User Tracking**: Uber's ability to effectively target advertisements may be hindered if iOS users do not grant permission for tracking, potentially increasing user acquisition costs.
+
+2. **Mapping Services**: Uber relies on Google Maps for critical mapping functions. The company does not control these services and may face challenges if access is restricted or if alternatives are not available.
+
+3. **Payment Processing**: Uber depends on third-party payment processors for transactions. If these services become unavailable or if fees increase, it could adversely affect Uber's operating costs and business operations.
+
+4. **System Failures**: Past system failures have led to payment delays for drivers, causing dissatisfaction and potential loss of trust in Uber's payment operations.
+
+5. **Third-Party Hosting**: Uber uses third-party cloud services and co-located data centers, which are vulnerable to various risks (e.g., natural disasters, cyberattacks). Interruptions in these services could impair Uber's ability to deliver its products and services.
+
+Overall, the text highlights the interconnectedness of Uber's operations with third-party services and the potential risks associated with these dependencies.
+The text discusses several risks associated with Uber Technologies, Inc.'s operations, particularly focusing on data center agreements, the use of third-party open source software, and financing challenges.
+
+1. **Data Center Agreements**: Uber may face delays in product delivery if it cannot renew agreements with data centers on reasonable terms, potentially harming revenue and user trust.
+
+2. **Open Source Software Risks**: The use of third-party open source software could lead to legal challenges regarding compliance with licensing terms, which may require the company to release proprietary code or incur significant costs to address non-compliance. Additionally, open source software may expose Uber to security risks and limit its ability to protect intellectual property.
+
+3. **Financing Needs**: Uber requires additional capital for growth, which may not be available on favorable terms. Issuing new equity could dilute existing shareholders, and existing debt agreements may impose restrictions that complicate obtaining further financing. As of March 31, 2022, Uber had significant outstanding debt, which could limit operational flexibility and necessitate additional borrowing for future investments, such as autonomous vehicles.
+The text discusses the financial risks and challenges faced by Uber Technologies, Inc. regarding its indebtedness and tax liabilities. Key points include:
+
+1. **Indebtedness Risks**:
+- A significant portion of cash flows may be used to pay interest and principal on debt, limiting funds for operations and growth.
+- Existing debt instruments impose restrictions on additional borrowing, mergers, asset sales, and dividend payments.
+- Future debt financing may come with additional covenants that could hinder capital-raising efforts.
+- Defaults on debt could lead to immediate repayment demands and restrict future financing options.
+
+2. **Interest Rate Risk**:
+- The company is exposed to interest rate fluctuations, which could impact financial stability.
+
+3. **Tax Liabilities**:
+- Tax laws are complex and subject to interpretation, leading to potential higher tax rates than currently paid.
+- Investigations into tax compliance could result in additional tax liabilities.
+- Certain jurisdictions require prepayment of contested taxes, impacting liquidity.
+- Ongoing audits by tax authorities could lead to adverse financial outcomes.
+
+4. **Tax Methodology Challenges**:
+- Tax authorities may challenge the company's valuation methodologies, potentially increasing the effective tax rate.
+- Future income taxes may be affected by earnings fluctuations and changes in tax laws.
+
+5. **Acquisition Risks**:
+- Acquiring businesses with different tax arrangements could lead to increased tax liabilities and affect financial results.
+
+Overall, the text highlights the potential financial strain from debt obligations and tax liabilities, which could hinder Uber's operational flexibility and growth strategy.
+The document discusses several key risks related to Uber Technologies, Inc.'s financial condition and operations, particularly concerning tax legislation, net operating loss carryforwards, currency exchange rates, and business acquisitions.
+
+1. **Tax Legislation Risks**: Changes in U.S. and global tax laws, particularly the Tax Cuts and Jobs Act, could adversely affect Uber's financial results. The elimination of the option to deduct research and development expenses may impact cash flows if not modified.
+
+2. **Net Operating Loss Carryforwards**: Uber has significant net operating loss carryforwards that could expire if not utilized. Changes in ownership could limit the ability to use these carryforwards, potentially increasing future tax liabilities.
+
+3. **Currency Exchange Rate Fluctuations**: As Uber operates in multiple currencies, fluctuations in exchange rates could materially affect financial results. The company may consider hedging strategies, but these come with risks and may not fully mitigate the impact of currency changes.
+
+4. **Acquisition Risks**: Uber's strategy includes acquiring other businesses, which carries risks related to the successful integration and performance of these acquisitions.
+
+Overall, these factors could significantly impact Uber's financial position, operating results, and cash flows.
+The text discusses the challenges and risks associated with Uber's acquisition strategy and joint ventures. Key points include:
+
+1. **Acquisition Challenges**: Uber faces intense competition for acquiring businesses and technologies, which may lead to difficulties in completing acquisitions on favorable terms or obtaining necessary regulatory approvals.
+
+2. **Management Diversion**: Negotiations and integrations of acquisitions can divert management's focus and incur significant costs.
+
+3. **Financial Risks**: Acquisitions may require substantial cash or debt financing, potentially restricting business operations and leading to dilution of stockholder equity.
+
+4. **Integration Risks**: Successfully integrating acquired businesses is fraught with challenges, including:
+- Disruption of ongoing operations.
+- User acceptance of new offerings.
+- Aligning internal controls and policies.
+- Retaining key employees and managing cultural differences.
+- Maintaining business relationships and brand identity.
+
+5. **Regulatory Risks**: Acquisitions may increase exposure to legal risks, such as violations of the U.S. Foreign Corrupt Practices Act (FCPA).
+
+6. **Performance Uncertainty**: There is no guarantee that acquired businesses will perform as expected, and failure to manage these acquisitions effectively could harm Uber's financial condition and operational results.
+
+Overall, the text emphasizes the complexities and potential downsides of Uber's growth strategy through acquisitions and joint ventures.
+The text discusses the legal and regulatory risks that Uber Technologies, Inc. faces in various jurisdictions regarding its ridesharing business model. Key points include:
+
+1. **Regulatory Restrictions**: Uber's operations have been blocked or limited in several markets, including Argentina, Germany, Italy, Japan, South Korea, and Spain, due to local laws and regulations.
+
+2. **Licenses and Permits**: Uber must obtain and comply with licenses or permits to operate in certain areas, and there is uncertainty about maintaining or renewing these licenses.
+
+3. **Lobbying by Competitors**: Traditional taxi and car service operators are lobbying for regulations that could impose additional requirements on Uber, affecting its business model.
+
+4. **Specific Regulatory Examples**:
+- In Barcelona, Uber suspended its services due to new regulations on minimum wait times.
+- New York City implemented minimum pay standards for drivers, adversely impacting Uber's financial performance.
+- Other cities, like San Francisco and Chicago, have enacted surcharges on ridesharing trips.
+
+5. **Legal Challenges**: Uber has faced legal challenges in various jurisdictions, such as Hong Kong and Colombia, which have affected its ability to operate and may lead to fines or penalties.
+
+6. **Future Risks**: The company is at risk of facing similar regulations in other jurisdictions, which could hinder its growth and operational capabilities.
+
+Overall, these legal and regulatory challenges pose significant risks to Uber's business model and financial performance.
+The text discusses various legal and regulatory challenges faced by Uber Technologies, Inc. It highlights the potential financial implications of fines and defense costs related to lawsuits, as well as the impact of negative press on user engagement. The company faces regulatory hurdles that may favor local competitors and impose restrictions on its operations, which could adversely affect revenue and growth.
+
+Key points include:
+
+1. **Regulatory Obstacles**: Uber encounters challenges from local governments and competitors, including delivery network fee caps and surge pricing limitations.
+
+2. **Legal Risks**: The company is involved in multiple litigations, including class action lawsuits, which could lead to significant financial liabilities.
+
+3. **Compliance Costs**: New laws and regulations may require substantial compliance costs, potentially dampening platform growth.
+
+4. **Environmental Regulations**: Initiatives aimed at reducing emissions may impact operations, prompting Uber to implement fees and transition to electric vehicles.
+
+5. **Brexit Impact**: The exit of the UK from the EU has implications for Uber's operations, as the UK accounted for a notable percentage of global Mobility Gross Bookings.
+
+6. **Ongoing Litigation**: Uber is contesting various legal challenges, which are costly and time-consuming, and adverse outcomes could harm its business operations.
+
+7. **E-bike and E-scooter Risks**: Although Uber divested certain assets, it still faces risks associated with dockless e-bikes and e-scooters available through its app.
+
+Overall, the document emphasizes the complex legal landscape and regulatory environment that Uber must navigate, which poses risks to its business model and financial performance.
+The text discusses various risks and regulatory challenges faced by Uber Technologies, Inc. regarding its dockless e-bikes and e-scooters, competition laws, and payment services. Key points include:
+
+1. **Injury Risks**: Users of dockless e-bikes and e-scooters may face higher injury risks in collisions compared to vehicle occupants due to less protective systems.
+
+2. **Quality Issues**: Any quality problems or defects in e-bikes or e-scooters could lead to negative publicity, regulatory actions, or lawsuits, especially if injuries occur.
+
+3. **Competition Laws**: Uber is under scrutiny from competition authorities in various jurisdictions, including the U.S. and EU, regarding pricing practices. Complaints about pricing strategies could lead to regulatory actions that may affect operations and financial results.
+
+4. **Government Regulation**: Uber's operations are subject to extensive regulations concerning payment and financial services. The company must obtain licenses in certain jurisdictions, and failure to do so could limit operations or lead to fines.
+
+5. **Strong Customer Authentication (SCA)**: New regulatory requirements in the EEA may complicate payment processes, potentially reducing user convenience and affecting transaction success rates, which could impact revenue.
+
+Overall, these factors could adversely affect Uber's business, financial condition, and operational results.
+The text discusses various legal and regulatory challenges faced by Uber Technologies, Inc. It highlights the potential adverse effects on the company's business, financial condition, and operating results due to:
+
+1. **Driver Payments**: The increase in the frequency of driver payments without corresponding consumer payments could negatively impact the business.
+
+2. **Evolving Regulations**: Changes in laws related to money transmission and online payments, particularly in Europe, have led to Uber Payments B.V. being subject to financial services regulations in the EEA. This includes compliance with anti-money laundering and terrorist financing laws.
+
+3. **Compliance Risks**: Non-compliance with financial laws could result in significant legal consequences, including lawsuits, penalties, and reputational harm.
+
+4. **Illegal Uses of Payment System**: The payment system is vulnerable to misuse, such as money laundering and fraud, necessitating substantial investment in compliance measures.
+
+5. **Government Investigations**: Uber is currently under investigation by various government agencies, including the DOJ and state AG offices, regarding business practices, data privacy incidents, and previous breaches. Past breaches have led to settlements and fines, which may continue to affect the company.
+
+6. **Potential Fines and Sanctions**: Ongoing inquiries could lead to additional fines, penalties, and changes in business practices, resulting in reputational damage and operational disruptions.
+
+Overall, the text emphasizes the importance of compliance with evolving regulations and the potential risks associated with legal inquiries and investigations.
+The text discusses the risks Uber Technologies, Inc. faces related to data privacy and security. Key points include:
+
+1. **Legal Risks**: Uber is exposed to potential claims and lawsuits due to past data breaches (2014 and 2016) and ongoing privacy incidents, which could lead to significant financial liabilities and operational restrictions.
+
+2. **Regulatory Compliance**: The company must comply with various privacy laws, including the GDPR in the EU and the CCPA in California, which impose strict requirements on data handling and can result in substantial fines for non-compliance.
+
+3. **Past Settlements**: Uber has entered into multiple settlements with regulatory authorities, including a consent decree with the FTC and fines from European authorities, which require enhanced data security practices.
+
+4. **Acquisition Liabilities**: Uber may inherit liabilities from companies it acquires, as seen with Careem and Drizly, which faced their own data security incidents.
+
+5. **Insurance Limitations**: Uber's insurance may not cover all potential claims, leaving the company vulnerable to significant financial exposure.
+
+6. **Evolving Regulations**: As Uber expands, it may encounter new or amended laws that increase compliance costs and operational burdens, impacting its business and financial condition.
+
+Overall, the text highlights the complex landscape of data privacy regulations and the potential consequences of non-compliance for Uber.
+The text discusses various legal and regulatory challenges that Uber Technologies, Inc. faces, particularly concerning data protection laws and litigation risks. Key points include:
+
+1. **Cross-Border Data Transfers**: Uber relies on mechanisms like the EU Standard Contract Clauses for transferring personal data outside the European Economic Area (EEA). Changes in regulations or legal rulings could hinder these transfers, impacting business operations.
+
+2. **Government Data Disclosure**: Uber may be required to disclose personal data to government agencies, which could lead to compliance issues and damage the company's reputation.
+
+3. **Legal Proceedings**: The company is involved in various legal matters, including driver classification, privacy issues, and employment practices. Adverse outcomes could result in significant costs and operational changes.
+
+4. **Arbitration Provisions**: Uber includes arbitration clauses in its terms of service to streamline dispute resolution. However, these provisions face scrutiny and could lead to increased litigation costs if found unenforceable.
+
+5. **Compliance Costs**: Adapting to evolving data protection laws may increase compliance costs and expose Uber to legal actions, which could disrupt business operations and financial results.
+
+Overall, the text highlights the complexities and potential risks associated with legal compliance and data management for Uber.
+The document discusses several risks and challenges faced by Uber Technologies, Inc. related to its operations in countries with high levels of corruption, compliance with anti-corruption laws, and the regulatory environment for Drivers. Key points include:
+
+1. **Corruption Risks**: Uber operates in regions known for corruption, which increases the risk of unauthorized payments by various parties, including Drivers and business partners. The company is subject to the Foreign Corrupt Practices Act (FCPA) and similar laws, and may face additional compliance requirements.
+
+2. **Driver Licensing Requirements**: Many jurisdictions are enforcing or proposing new licensing rules for Drivers, which could limit Uber's ability to scale its operations. Potential caps on the number of licensed Drivers or vehicles could adversely affect business growth.
+
+3. **Liability for Driver Onboarding Practices**: Uber faces legal challenges regarding its methods for attracting and onboarding Drivers, including lawsuits related to unsolicited communications. Adverse outcomes from these lawsuits could lead to financial damages and operational changes.
+
+4. **Insurance Coverage Dependence**: Uber relies on a combination of third-party insurance and self-insurance. Changes in insurance terms or requirements for additional coverage could negatively impact the business. The cost of insurance is notably higher in the U.S. and Canada, and inadequate coverage could result in significant liabilities.
+
+Overall, these factors highlight the complexities and risks associated with Uber's business model and regulatory environment.
+The text discusses several risks and challenges faced by Uber Technologies, Inc. related to insurance, liability, pricing regulations, and intellectual property protection. Here are the key points:
+
+1. **Insurance and Liability Risks**:
+- Uber and its captive insurance subsidiary have reinsurance and indemnification arrangements that could lead to significant payouts exceeding insurance reserves, impacting financial condition.
+- The company may face claims related to traffic accidents or incidents involving Drivers, which may not be fully covered by insurance policies.
+- There are local laws and regulations regarding insurance coverage that could lead to legal actions or increased costs for Uber.
+
+2. **Pricing Regulations**:
+- Uber's revenue is influenced by pricing models for consumer fares and Driver earnings, which may face challenges or regulations in various jurisdictions.
+- Specific examples include caps on surge pricing in certain cities, which could affect operating costs and revenue.
+
+3. **Intellectual Property Protection**:
+- Uber's intellectual property is crucial for its competitive advantage, and inadequate protection could harm its brand and market position.
+- The company employs various legal measures to protect its intellectual property, but these may not always be effective.
+
+Overall, these factors could adversely affect Uber's business, financial condition, and operational results.
+The text discusses various risks related to Uber Technologies, Inc.'s intellectual property (IP) and financial reporting. Key points include:
+
+1. **Intellectual Property Risks**:
+- Uber faces challenges in protecting its IP from competitors who may copy or reverse-engineer its products.
+- There is a risk of losing competitive advantages if trade secrets are compromised.
+- Enforcement of IP rights can be costly and time-consuming, and there is no guarantee of success.
+- The company may face litigation over alleged IP infringement, which could divert resources and harm its brand.
+
+2. **Financial Reporting Risks**:
+- Changes in accounting principles could significantly affect reported financial results, particularly in revenue recognition.
+- The complexity of accounting for Uber's business model may lead to material changes in financial statements.
+
+3. **Investment Company Act**:
+- Uber believes it does not qualify as an "investment company" under the Investment Company Act, but if deemed so, it would face regulatory burdens that could adversely affect its operations and financial condition.
+
+Overall, these risks highlight the potential challenges Uber may encounter in maintaining its competitive edge and accurately reporting its financial performance.
+The document discusses the risks related to the ownership of Uber Technologies, Inc.'s common stock. It highlights that the market price of the stock has been volatile and may continue to fluctuate due to various factors, including:
+
+- Actual or anticipated changes in key performance indicators (MAPCs, Trips, Adjusted EBITDA, Gross Bookings, revenue).
+- Announcements or estimates regarding the number of Drivers and consumers on the platform.
+- Variations between actual results and expectations from management or analysts.
+- Changes in accounting principles or interpretations.
+- Actions and estimates from securities analysts.
+- Announcements of significant products, innovations, or partnerships.
+- Negative media coverage.
+- Changes in the performance and valuations of technology companies.
+- Stock market fluctuations influenced by broader economic trends.
+- Legal actions against the company.
+- Regulatory developments affecting operations.
+- Changes in the board of directors or management.
+- Safety incidents on the platform.
+- Public statements regarding the legality of product offerings.
+- External events such as war, terrorism, natural disasters, or public health crises.
+
+The document also notes that stock price fluctuations can occur independently of a company's performance and that past volatility has led to securities class action litigation against the company. Additionally, Delaware law and the company's governing documents may complicate mergers or proxy contests, potentially affecting stock prices. Overall, these factors could lead to significant declines in stock price, impacting investors' ability to sell shares at or above their purchase price.
+The document outlines several provisions in Uber Technologies, Inc.'s amended and restated certificate of incorporation and bylaws that could negatively impact the trading price of its common stock. Key points include:
+
+1. **Board Control**: The board of directors has the authority to fill vacancies, limiting stockholder influence.
+2. **Advance Notice Requirements**: These may reduce the number of stockholder proposals.
+3. **Special Meetings**: Limitations on convening special meetings could hinder governance changes.
+4. **Cumulative Voting**: The prohibition on cumulative voting restricts minority stockholders' ability to elect directors.
+5. **Preferred Stock Issuance**: The board can issue preferred stock without stockholder approval, potentially complicating acquisition attempts.
+
+Additionally, the document mentions that significant sales of common stock by existing stockholders could depress stock prices and that the company does not plan to pay cash dividends in the foreseeable future. It also states that disputes between stockholders and the company will be handled in Delaware courts, which may limit stockholders' options for legal recourse.
+The provided text discusses several important aspects related to Uber Technologies, Inc.'s legal and financial reporting obligations. Here are the key points:
+
+1. **Exclusive Forum Provision**: Uber's amended and restated certificate of incorporation designates federal district courts in the U.S. as the exclusive forum for disputes arising under the Securities Act. However, this is contingent on a final ruling in Delaware regarding its enforceability. Other jurisdictions may not uphold this provision, potentially leading to increased costs for Uber if disputes arise outside the designated forum.
+
+2. **Impact on Stockholders**: The exclusive forum provisions may limit stockholders' ability to choose a preferred judicial forum for disputes, which could discourage lawsuits against the company and its directors or officers.
+
+3. **Internal Controls Over Financial Reporting**: As a public company, Uber is required to maintain effective internal controls over financial reporting. Failure to do so could negatively impact investor confidence and the value of its common stock.
+
+4. **Sarbanes-Oxley Act Compliance**: Under Section 404 of the Sarbanes-Oxley Act, Uber must provide an annual report on the effectiveness of its internal controls, and its independent auditors must attest to this effectiveness. Any material weaknesses identified could hinder the company's ability to report its financial condition accurately.
+
+5. **Challenges of Growth**: As Uber expands, particularly in high-growth areas like Delivery and Freight, it may face challenges in maintaining consistent performance and timely implementation of new controls, increasing the risk of material weaknesses in internal controls.
+
+6. **Consequences of Weaknesses**: If material weaknesses are identified, it could lead to a loss of investor confidence, a decline in stock price, and potential sanctions or investigations by regulatory authorities.
+
+7. **Unregistered Sales of Equity Securities**: The report indicates that there are no unregistered sales of equity securities to disclose.
+
+8. **Exhibits**: The report references an Exhibit Index, which includes documents incorporated by reference or filed with the quarterly report.
+
+These points highlight the legal and regulatory challenges Uber faces as a public company, particularly concerning internal controls and the implications of its corporate governance structure.
+The document contains an exhibit index for Uber Technologies, Inc.'s quarterly report filed with the SEC. It lists various exhibits along with their descriptions, filing dates, and references. Key exhibits include:
+
+- **3.1**: Amended and Restated Certificate of Incorporation
+- **3.2**: Amended and Restated Bylaws
+- **10.1**: RSU Conversion and Deferral Program for Directors
+- **10.2**: Amendment to the Google Maps Master Agreement
+- **31.1**: Certification of the Principal Executive Officer
+- **31.2**: Certification of the Principal Financial Officer
+- **32.1**: Certifications pursuant to 18 U.S.C. Section 1350
+- **101.INS to 101.PRE**: Various XBRL documents
+
+Certain portions of exhibits have been omitted, and the certifications are deemed furnished, not filed.
+The document includes the signatures of key executives from Uber Technologies, Inc. as part of their quarterly report filed with the SEC. The signatures confirm the authenticity of the report and indicate that the individuals are duly authorized to represent the company.
+
+The signatories are:
+- Dara Khosrowshahi, Chief Executive Officer and Director (Principal Executive Officer)
+- Nelson Chai, Chief Financial Officer (Principal Financial Officer)
+
+Both signatures are dated May 5, 2022.
+The document is an exhibit detailing the RSU (Restricted Stock Unit) Conversion and Deferral Program for Directors of Uber Technologies, Inc. It was approved on November 1, 2021, and became effective on May 9, 2022.
+
+Key points include:
+
+1. **Purpose**: The program allows Directors to convert their compensation into RSU Awards and defer the settlement of these awards.
+
+2. **Equity Incentive Plan**: RSU Awards will be issued under the Equity Plan, subject to its terms, with shares drawn from the Equity Plan's reserve.
+
+3. **Effective Date**: The program is effective for compensation earned on or after the date of the 2022 annual stockholders' meeting.
+
+4. **Definitions**:
+- "Administrator" refers to the Compensation Committee or delegated persons.
+- "Affiliate" includes any parent, subsidiary, or entity under common control with the Company.
+- "Award Agreement" is the document outlining the terms of an RSU Award.
+- "Board" refers to the Board of Directors of Uber.
+- "Code" refers to the U.S. Internal Revenue Code.
+- "Company" refers to Uber Technologies, Inc. and its successors.
+
+This document outlines the framework for how Directors can manage their compensation through RSUs.
+The text provided defines several terms related to compensation and corporate transactions for Uber Technologies, Inc. Here are the key definitions:
+
+1. **Compensation**: Cash compensation earned by Directors for their services to the Board or a Board committee.
+
+2. **Converted RSU Award**: An RSU Award made under Section 4.
+
+3. **Conversion Date**: The date when Compensation would be payable to a Participant if there were no Deferral Election.
+
+4. **Corporate Transaction**: This includes several scenarios:
+- **Merger or Consolidation**: A transaction where the voting securities of the Company do not continue to represent at least 50% of the total voting power after the transaction.
+- **Beneficial Ownership**: When an Exchange Act Person acquires more than 50% of the voting power of the Company’s securities, excluding additional acquisitions by those already owning over 50%.
+- **Sale of Assets**: The sale or disposition of all or substantially all of the Company’s assets, except to the Company or its wholly owned subsidiaries.
+- **Change in Control**: Occurs when a majority of the Board members are replaced within a 12-month period by members not endorsed by the majority of the existing Board.
+
+5. **Deferral Election**: Defined in Section 5.1, though the specific definition is not provided in the text.
+
+These definitions are part of the regulatory framework governing compensation and corporate governance for the company.
+The text provided appears to be definitions from a legal or regulatory document related to Uber Technologies, Inc., specifically concerning terms used in their Equity Incentive Plan. Here are some key definitions:
+
+- **Deferral Election Form**: A form for Directors to make a Deferral Election.
+- **Deferred RSUs**: The portion of a Restricted Stock Unit (RSU) Award that is subject to a Deferral Election.
+- **Director**: A non-employee member of the Board based in the U.S.
+- **Disability**: A condition where a Participant is unable to engage in substantial gainful activity due to a physical or mental impairment expected to last at least 12 months.
+- **Effective Date**: The date defined in Section 1.3 of the document.
+- **Entity**: A corporation, partnership, limited liability company, or other organization.
+- **Equity Plan**: The Uber Technologies, Inc. 2019 Equity Incentive Plan, including any amendments or successor plans.
+- **Exchange Act**: Refers to the U.S. Securities Exchange Act of 1934 and its regulations.
+- **Exchange Act Person**: A definition that excludes certain entities and individuals from being classified as such under the Exchange Act.
+- **Non-Converted RSU Award**: An RSU Award made under the Director Compensation Policy that is not a Converted RSU Award.
+- **Parent**: A corporation in a chain of corporations ending with the Company.
+
+If you have specific questions about any of these terms or need further clarification, feel free to ask!
+The document outlines the definitions and eligibility criteria for the Uber Technologies, Inc. RSU Conversion and Deferral Program for Directors. Key points include:
+
+- **Participant**: A Director who opts into the Program by making a Deferral Election or an RSU Election.
+- **Program**: The RSU Conversion and Deferral Program for Directors, which may be amended over time.
+- **RSU Award**: A restricted stock unit award granted under the Equity Plan.
+- **Eligibility**: Directors are eligible to participate, and those who cease to be eligible will still be considered Participants for previously converted RSU Awards until fully distributed.
+- **RSU Election**: Directors can convert a percentage of their Compensation into RSU Awards by completing an RSU Election Form, which becomes irrevocable after the specified deadline.
+
+This section provides a framework for how Directors can manage their compensation through RSU Awards.
+The document outlines the procedures and regulations regarding Restricted Stock Unit (RSU) Elections and Deferral Elections for participants in the program. Here are the key points:
+
+1. **Timing of RSU Election**:
+- RSU Elections must be made by December 31 of the year prior to the calendar year in which the services are performed, or earlier as determined by the Administrator.
+- If an individual becomes eligible to participate during a calendar year, they can make an RSU Election within 30 days of eligibility.
+
+2. **Effect of RSU Election**:
+- Compensation subject to the RSU Election will be converted into RSU Awards based on the average daily closing price of the company's stock in the month prior to the conversion date.
+
+3. **Vesting and Issuance of RSU Award**:
+- RSU Awards will be fully vested and issued within 60 days following the conversion date, unless specified otherwise by the Administrator.
+
+4. **RSU Award Terms**:
+- RSU Awards are governed by the terms of the Equity Incentive Plan, which includes provisions for tax withholding, restrictions, and corporate events.
+
+5. **Election to Defer RSUs**:
+- Directors can elect to defer the issuance of a percentage of Shares from an RSU Award by submitting a Deferral Election Form.
+- Once made, a Deferral Election is irrevocable and applies only to Converted RSU Awards related to Compensation for the specified calendar year.
+
+This summary captures the essential details regarding RSU and Deferral Elections as outlined in the document.
+The text outlines the procedures and regulations regarding the deferral of Restricted Stock Unit (RSU) Awards for Directors within a specific program. Here are the key points:
+
+1. **Deferral Election Timing**:
+- For Converted RSU Awards, a Director must make a Deferral Election at the same time as the RSU Election for the corresponding Compensation.
+- For Non-Converted RSU Awards, the Deferral Election must generally be made by December 31 of the year prior to the award issuance. New participants have 30 days from their eligibility date to make this election.
+
+2. **Form of Issuance**:
+- Participants can choose to receive shares from Deferred RSUs either as a single payment or in three annual installments. If no choice is made, the default is a single payment.
+
+3. **Re-deferral Election**:
+- Participants may postpone the issuance of Deferred RSUs for at least five years, with the election taking effect 12 months after it is made. However, in cases of Corporate Transactions, Disability, or death, shares will be issued as per the original schedule.
+
+4. **Issuance Upon Termination of Service**:
+- Shares from Deferred RSUs will be issued within 90 days following a Participant's termination of service, unless specified otherwise by the Administrator.
+
+These provisions ensure that Directors have options regarding the timing and method of receiving their RSU Awards while adhering to regulatory requirements.
+The text provided outlines the terms and conditions related to the in-service distribution, annual installments, accelerated issuance, beneficiary designations, and vesting of shares for Deferred Restricted Stock Units (RSUs) under a compensation program. Here are the key points:
+
+1. **In-Service Distribution (Section 6.2)**: Participants can elect a distribution date for their Deferred RSUs, which must be after three years from the deferral election. If the participant's service ends before this date, shares will be issued around May 16 following termination.
+
+2. **Annual Installments (Section 6.3)**: After the initial share issuance, subsequent shares will be issued annually on the anniversary of the initial issuance. Shares will be divided by three, rounding down any fractions, with fractional shares accumulated for the final installment.
+
+3. **Accelerated Issuance (Section 6.4)**: In the event of a corporate transaction, disability, or death, all Deferred RSUs will be issued in a single payment within 90 days of the event.
+
+4. **Beneficiary Designation (Section 6.5)**: Participants can designate beneficiaries, which can be changed at any time before death. If no beneficiary is designated or if the designated beneficiary predeceases the participant, the participant's estate will be the beneficiary.
+
+5. **Vesting and Issuance of Shares (Section 6.6)**: Shares underlying RSUs will be fully vested and issued as soon as practicable after the issuance date, but no later than March 15 of the following calendar year, or December 31 in the case of death.
+
+These sections provide a framework for how Deferred RSUs are managed, including the timing of distributions and the rights of participants and their beneficiaries.
+The text provided outlines specific provisions related to a benefits program administered by Uber Technologies, Inc. Here are the key points:
+
+1. **No Right to Assets (7.1)**: Participation in the program does not grant participants any rights or liens against the company's assets. The benefits are unfunded, and participants are considered general unsecured creditors.
+
+2. **No Right to Transfer Interest (7.2)**: Benefits under the program cannot be transferred, sold, or assigned. However, an alternate payee may receive benefits under certain conditions defined by a domestic relations order, provided it does not grant them rights to the company's assets or payments beyond what the participant is entitled to.
+
+3. **No Service Rights (7.3)**: Participation in the program does not guarantee continued employment. The company retains the right to terminate any participant's service at any time and for any reason.
+
+4. **Administration of the Program (8.1)**: The program is administered by an Administrator who has the authority to adopt rules, determine requirements for elections, interpret program terms, and resolve questions or ambiguities.
+
+5. **Incapacity (8.2)**: If a participant is unable to manage their affairs due to illness or accident, payments may be made to a designated family member or party deemed appropriate by the Administrator, unless a legal guardian has been appointed.
+
+These sections emphasize the non-vested nature of benefits, the lack of transferability, and the administrative authority over the program.
+The text provided outlines several sections of a program related to compensation and benefits for participants, likely within a corporate context. Here are the key points summarized:
+
+1. **Amendment, Suspension, and Termination (Section 8.3)**: The Compensation Committee can amend, suspend, or terminate the program at any time. However, any changes that reduce benefits for existing participants after a Corporate Transaction require their written consent. Amendments for compliance with Section 409A of the Code can be made without reducing participant benefits.
+
+2. **Power to Delegate Authority (Section 8.4)**: The Administrator has the discretion to delegate its authority and responsibilities under the program to others.
+
+3. **Headings (Section 8.5)**: Headings in the document are for reference only and do not influence the interpretation of the program's provisions.
+
+4. **Severability (Section 8.6)**: If any part of the program is found to be void or unenforceable, the remaining provisions will still be effective. The void provisions may be limited or replaced to maintain the program's intended benefits.
+
+5. **Governing Law (Section 8.7)**: The program will be governed by California law, excluding any conflicting legal principles, unless federal law overrides.
+
+6. **Complete Statement of Program (Section 8.8)**: The program is a complete statement of its terms, and benefits are determined solely by its provisions. Other evidence will not be considered, except for terms from the Equity Plan and applicable Award Agreements regarding RSU Awards.
+
+7. **Compliance with Section 409A of the Code (Section 8.9)**: The program aims to comply with or be exempt from Section 409A of the Code. It specifies conditions for distributions, payments upon termination, and the treatment of installment payments, ensuring that participants cannot designate the year for distributions outside of the Code's provisions.
+
+This summary captures the essential elements of the sections provided. If you have specific questions or need further details, feel free to ask!
+It seems that the text you provided is a fragment from a legal or financial document, possibly related to tax implications under Section 409A of the Internal Revenue Code. If you have specific questions about this section or need further information regarding the quarterly report from Uber Technologies, Inc., please let me know!
+The document is an amendment to the Google Maps Master Agreement between Google LLC and Uber Technologies, Inc. It outlines changes to the Services Schedule related to the Google Maps Platform Rides and Delivery Solution Services. Key points include:
+
+1. **Effective Date**: The amendment is effective upon signing by Google.
+2. **Amendments**:
+- **Section 11.4(b)**: Specifies that upon termination or expiration of the Order Form, Uber must delete cached Google Maps content, with certain exceptions outlined in the agreement.
+- **Section 12**: Lists the sections that will survive the expiration or termination of the Services Schedule, including data use, intellectual property ownership, and content usage frameworks.
+- **Section 14**: Additional definitions related to the agreement are to be amended, though specific changes are not detailed in the provided text.
+
+This amendment is part of the ongoing contractual relationship between the two companies regarding the use of Google Maps services.
+The document appears to be an amendment to an agreement between Google and a customer, detailing changes to specific appendices related to a caching solution and content usage framework. It confirms that the original agreement remains in effect except for the modifications made by this amendment. The governing law and dispute resolution provisions of the original agreement also apply to this amendment. The document is signed by authorized representatives from both parties, indicating their agreement to the changes.
+
+If you have specific questions about the content or need further details, please let me know!
+It seems that you have provided a reference to an appendix related to a caching solution, but there is no specific question or context provided. Could you please clarify what information or assistance you need regarding the caching solution or any other aspect of the quarterly report?
+It seems that the content you provided is a reference to an appendix related to a content usage framework, but it does not contain specific information or questions. If you have any specific questions or need information about Uber Technologies, Inc.'s quarterly report or any other topic, please let me know!
+The document is a certification by Dara Khosrowshahi, the Chief Executive Officer of Uber Technologies, Inc., in accordance with the Sarbanes-Oxley Act of 2002. It certifies the accuracy and completeness of the company's Quarterly Report on Form 10-Q. Key points from the certification include:
+
+1. Review of the report and assurance that it does not contain any misleading statements.
+2. Confirmation that the financial statements fairly present the company's financial condition and results of operations.
+3. Responsibility for establishing and maintaining disclosure controls and internal control over financial reporting.
+4. Evaluation of the effectiveness of these controls and disclosure of any changes that may materially affect them.
+5. Disclosure of any significant deficiencies or fraud related to internal control over financial reporting.
+
+The certification is dated May 5, 2022, and is signed by Dara Khosrowshahi.
+The document is a certification by Nelson Chai, the Chief Financial Officer of Uber Technologies, Inc., in accordance with the Sarbanes-Oxley Act of 2002. It certifies the accuracy and completeness of the company's Quarterly Report on Form 10-Q. Key points include:
+
+1. Review of the report and assurance that it does not contain misleading statements.
+2. Confirmation that the financial statements fairly present the company's financial condition and results.
+3. Responsibility for establishing and maintaining disclosure controls and internal control over financial reporting.
+4. Evaluation of the effectiveness of these controls and disclosure of any changes that may materially affect them.
+5. Disclosure of any significant deficiencies or fraud related to internal control over financial reporting.
+
+The certification is dated May 5, 2022, and is signed by Nelson Chai.
+The document contains certifications from the Chief Executive Officer, Dara Khosrowshahi, and the Chief Financial Officer, Nelson Chai, of Uber Technologies Inc. These certifications are made pursuant to 18 U.S.C. Section 1350 and the Sarbanes-Oxley Act of 2002. Both executives affirm that the Quarterly Report on Form 10-Q for the period ended March 31, 2022, complies with the requirements of the Securities Exchange Act of 1934 and accurately presents the financial condition and results of operations of the company. The certifications are dated May 5, 2022.
